@@ -1,7 +1,7 @@
 // Usage: node render.js <outDir>
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
-const S = __dirname; // expects ./assets/logo-refound-light.png as logo.png path below and ./fonts (see brand.md)
+const S = __dirname;
 const b64 = p => fs.readFileSync(path.join(S, p)).toString('base64');
 const font = (fam, file, w) => `@font-face{font-family:'${fam}';font-weight:${w};src:url(data:font/woff2;base64,${b64(file)}) format('woff2')}`;
 const FD = 'fonts/fontsource-funnel-display-5.3.0/files/funnel-display-latin-';
@@ -61,6 +61,44 @@ function timeline(lang) {
   <div class="foot"><p>${t.src}</p><img src="${LOGO}"></div></div>`;
 }
 
+function after(lang) {
+  const t = lang === 'fr' ? {
+    eyebrow: 'Canadian Tire · après l’achat', title: 'Le retour se termine vite. Les garanties, non.',
+    st: [['1', 'Retour', '14 à 90 jours', 'Remboursement ou échange, article non ouvert, avec reçu', 'var(--gold)'],
+         ['2', 'Garantie d’échange', 'Selon le produit', 'Échange en magasin. Ex. lampe de garage : 5 ans', '#5FD3AE'],
+         ['3', 'Garantie du fabricant', 'Selon la marque', 'Réparation ou remplacement d’un article défectueux', 'var(--green)']],
+    qc: '<b>Au Québec :</b> garantie légale en plus, et depuis le 5 octobre 2026, garantie de bon fonctionnement de 3 à 6 ans pour 14 catégories de biens.',
+    src: 'Sources : canadiantire.ca, Gouvernement du Québec · vérifié le 31 octobre 2026', proof: 'Gardez la preuve d’achat pour chaque étape'
+  } : {
+    eyebrow: 'Canadian Tire · after the purchase', title: 'Returns end fast. Warranties don’t.',
+    st: [['1', 'Return', '14 to 90 days', 'Refund or exchange, unopened item, with receipt', 'var(--gold)'],
+         ['2', 'Exchange warranty', 'Depends on product', 'In-store exchange. E.g. garage light: 5 years', '#5FD3AE'],
+         ['3', 'Manufacturer warranty', 'Depends on brand', 'Repair or replacement of a defective item', 'var(--green)']],
+    qc: '<b>In Quebec:</b> a legal warranty on top, and since October 5, 2026, a 3 to 6 year warranty of good working order on 14 categories of goods.',
+    src: 'Sources: canadiantire.ca, Government of Quebec · checked October 31, 2026', proof: 'Keep proof of purchase for every stage'
+  };
+  const cards = t.st.map(([n, a, b, c, col], i) => `
+    <div class="st"><div class="num h" style="background:${col}">${n}</div><div class="a h">${a}</div><div class="b" style="color:${col}">${b}</div><div class="c">${c}</div></div>
+    ${i < 2 ? '<div class="arr">→</div>' : ''}`).join('');
+  return `<style>${CSS}
+  .wrap{width:1200px;height:675px;padding:52px 64px 40px;display:flex;flex-direction:column}
+  .eyebrow{color:var(--green);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:18px}
+  h1{font-size:46px;line-height:1.1;margin-top:12px;font-weight:800}
+  .flow{display:flex;align-items:stretch;gap:14px;margin-top:36px}
+  .st{flex:1;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px 22px;display:flex;flex-direction:column;gap:8px}
+  .num{width:38px;height:38px;border-radius:50%;color:#0E1217;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px;margin-bottom:6px}
+  .a{font-size:26px;font-weight:800}.b{font-weight:700;font-size:21px}.c{color:var(--muted);font-size:17px;line-height:1.4}
+  .arr{display:flex;align-items:center;color:var(--muted);font-size:30px}
+  .proof{margin-top:16px;color:var(--fg);font-size:17px;font-weight:500}
+  .qc{margin-top:16px;border:1px dashed #3A414C;border-radius:12px;padding:16px 20px;color:var(--fg);font-size:18px;line-height:1.4}
+  .qc b{color:var(--gold)}
+  .foot{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:16px;margin-top:auto}
+  .foot p{color:var(--muted);font-size:15px}.foot img{height:22px}
+  </style><div class="wrap"><div class="eyebrow">${t.eyebrow}</div><h1 class="h">${t.title}</h1>
+  <div class="flow">${cards}</div><div class="proof">↳ ${t.proof}</div><div class="qc">${t.qc}</div>
+  <div class="foot"><p>${t.src}</p><img src="${LOGO}"></div></div>`;
+}
+
 function cover() {
   const lines = [['052-2124-0', 'LAMPE DEL GARAG', '1'], ['184-2003-4', 'HLT NEO WK 4LB', '1']];
   return `<style>${CSS}
@@ -94,7 +132,9 @@ function cover() {
 (async () => {
   const out = process.argv[2]; fs.mkdirSync(out, { recursive: true });
   const b = await chromium.launch();
-  const jobs = [['cover.png', cover(), 1200, 630], ['delais-retour-fr.png', timeline('fr'), 1200, 675], ['delais-retour-en.png', timeline('en'), 1200, 675]];
+  const only = process.argv[3];
+  let jobs = [['cover.png', cover(), 1200, 630], ['delais-retour-fr.png', timeline('fr'), 1200, 675], ['delais-retour-en.png', timeline('en'), 1200, 675], ['apres-retour-fr.png', after('fr'), 1200, 675], ['apres-retour-en.png', after('en'), 1200, 675]];
+  if (only) jobs = jobs.filter(j => j[0].startsWith(only));
   for (const [name, html, w, h] of jobs) {
     const p = await b.newPage({ viewport: { width: w, height: h } });
     await p.setContent(html); await p.evaluate(() => document.fonts.ready);

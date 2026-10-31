@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-canadian-tire",
   "enPath": "/en/blog/canadian-tire-return-policy",
   "datePublished": "2026-10-31T09:00:00-04:00",
-  "dateModified": "2026-10-31T09:00:00-04:00",
+  "dateModified": "2026-10-31T15:00:00-04:00",
   "lastFactCheck": "2026-10-31",
   "cover": {
     "src": "/images/blog/politique-retour-canadian-tire/cover.png",
@@ -14,26 +14,29 @@
   "assets": [
     "cover.png",
     "delais-retour-fr.png",
-    "delais-retour-en.png"
+    "delais-retour-en.png",
+    "apres-retour-fr.png",
+    "apres-retour-en.png"
   ],
   "fr": {
-    "metaTitle": "Politique de retour Canadian Tire : délais et reçu (2026) | ReFound",
-    "metaDescription": "Canadian Tire accepte la plupart des retours dans les 90 jours avec reçu, mais certains articles ont 30 ou 14 jours. Délais, exceptions et retour sans reçu.",
-    "keywords": "politique de retour Canadian Tire, retour Canadian Tire sans reçu, délai de retour Canadian Tire, échange Canadian Tire, carte de remboursement Canadian Tire, reçu Canadian Tire",
+    "metaTitle": "Politique de retour Canadian Tire : délais, reçu, garanties | ReFound",
+    "metaDescription": "90 jours pour la plupart des articles, 30 ou 14 pour d'autres. Et après le retour : garantie d'échange, garantie du fabricant et garantie légale au Québec.",
+    "keywords": "politique de retour Canadian Tire, retour Canadian Tire sans reçu, délai de retour Canadian Tire, échange Canadian Tire, carte de remboursement Canadian Tire, reçu Canadian Tire, garantie d'échange Canadian Tire, garantie du fabricant, garantie de bon fonctionnement Québec",
     "category": "Guide",
     "date": "31 octobre 2026",
-    "readingTime": "7 min de lecture",
+    "readingTime": "9 min de lecture",
     "breadcrumb": "Politique de retour Canadian Tire",
     "eyebrow": "Retours",
-    "h1": "Politique de retour Canadian Tire : délais, reçu et exceptions",
+    "h1": "Politique de retour Canadian Tire : délais, reçu et garanties",
     "card": {
-      "title": "Politique de retour Canadian Tire : délais, reçu et exceptions (2026)",
-      "subtitle": "90 jours pour la plupart des articles, 30 ou 14 jours pour certains, et ce qui se passe sans reçu."
+      "title": "Politique de retour Canadian Tire : délais, reçu et garanties (2026)",
+      "subtitle": "90, 30 ou 14 jours pour un retour, puis les garanties qui prennent le relais. Avec de vrais exemples de reçus."
     },
     "coverAlt": "Reçu de caisse avec les délais de retour de 14, 30 et 90 jours",
     "intro": [
       "Réponse courte : chez Canadian Tire, un article non ouvert, dans son emballage d'origine et accompagné du reçu peut être retourné dans les 90 jours suivant l'achat pour un remboursement ou un échange. Plusieurs catégories font exception : l'électronique a 30 jours, l'électronique pour l'auto a 14 jours, et certains articles ne sont ni remboursables ni échangeables.",
-      "Ce guide résume la politique publiée sur canadiantire.ca, vérifiée le 31 octobre 2026. La politique peut changer : en cas de doute, la page officielle et votre magasin ont le dernier mot."
+      "Ce que la plupart des guides oublient : la fin du délai de retour n'est pas la fin de vos recours. Plusieurs produits Canadian Tire ont une garantie d'échange de plusieurs années, la garantie du fabricant continue, et au Québec, la loi ajoute sa propre garantie. Le problème, c'est que votre reçu n'en dit rien. Ce guide montre comment s'y retrouver, avec de vrais exemples de reçus Canadian Tire.",
+      "Politique vérifiée sur canadiantire.ca le 31 octobre 2026. Elle peut changer : en cas de doute, la page officielle et votre magasin ont le dernier mot."
     ],
     "sections": [
       {
@@ -187,19 +190,108 @@
         ]
       },
       {
-        "heading": "Article ouvert ou défectueux : retour ou garantie?",
+        "heading": "Après le délai de retour : les garanties prennent le relais",
         "blocks": [
           {
             "type": "p",
-            "text": "Un article défectueux relève de la garantie du fabricant. Canadian Tire précise que la réclamation se fait auprès du fabricant ou de votre magasin local, selon les modalités affichées sur la page du produit."
+            "text": "Quand le délai de retour est passé, vous ne pouvez plus vous faire rembourser, mais un article défectueux peut encore être échangé, réparé ou remplacé. Chez Canadian Tire, trois niveaux de protection peuvent se succéder : le retour, la garantie d'échange en magasin sur certains produits, puis la garantie du fabricant. Un article défectueux relève de la garantie du fabricant, selon la politique de Canadian Tire."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-canadian-tire/apres-retour-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Trois étapes après un achat chez Canadian Tire : retour de 14 à 90 jours, garantie d'échange en magasin selon le produit, puis garantie du fabricant",
+            "caption": "Le retour se termine vite ; les garanties durent souvent bien plus longtemps. Durées selon le produit."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie d'échange Canadian Tire"
           },
           {
             "type": "p",
-            "text": "Pour certaines marques, la politique renvoie directement au fabricant une fois l'article ouvert, par exemple Apple pour les AirPods ou EGO pour ses outils. Dans ces cas, le reçu reste votre preuve d'achat pour faire valoir la garantie, souvent bien après la fin du délai de retour."
+            "text": "Certains produits vendus chez Canadian Tire ont une garantie d'échange : un article défectueux s'échange directement en magasin pendant une période indiquée sur la page du produit. Voici deux lignes d'un vrai reçu Canadian Tire numérisé dans le compte de démonstration ReFound :"
+          },
+          {
+            "type": "table",
+            "caption": "Ce que dit le reçu, et ce que ReFound a trouvé",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié par ReFound",
+              "Garantie trouvée"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "Échange 5 ans, dans tout magasin Canadian Tire"
+              ],
+              [
+                "184-2003-4 HLT NEO WK 4LB",
+                "WA:KE Athletic Neoprene Hexagonal Dumbbell",
+                "Échange 1 an"
+              ]
+            ]
           },
           {
             "type": "p",
-            "text": "Certains produits Canadian Tire ont aussi une garantie d'échange en magasin. Sur notre [page sur les reçus Canadian Tire](/marchands/recus-canadian-tire), un exemple montre une lampe de garage avec une garantie d'échange de 5 ans. Pour en profiter, il faut encore pouvoir présenter le reçu des années plus tard. Voyez aussi [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties)."
+            "text": "Rien sur le reçu n'indique qu'une lampe achetée aujourd'hui peut encore être échangée dans cinq ans. Le délai de retour de cette lampe se termine après 90 jours ; sa garantie d'échange dure vingt fois plus longtemps. Encore faut-il savoir qu'elle existe et retrouver le reçu le jour où la lampe cesse de fonctionner. Les détails de ces exemples sont sur notre [page sur les reçus Canadian Tire](/marchands/recus-canadian-tire)."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie du fabricant"
+          },
+          {
+            "type": "p",
+            "text": "La garantie du fabricant s'applique aux défauts, selon les conditions de chaque marque. Pour certains produits, Canadian Tire renvoie directement au fabricant une fois l'article ouvert, par exemple Apple pour les AirPods ou EGO pour ses outils. Dans tous les cas, on vous demandera une preuve d'achat avec la date. Voyez [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties)."
+          },
+          {
+            "type": "h3",
+            "text": "Au Québec : la garantie légale et la nouvelle garantie de bon fonctionnement"
+          },
+          {
+            "type": "p",
+            "text": "Au Québec, la Loi sur la protection du consommateur ajoute une garantie légale, gratuite et automatique : un bien doit servir à un usage normal pendant une durée raisonnable, et vous pouvez vous adresser au commerçant ou au fabricant."
+          },
+          {
+            "type": "p",
+            "text": "Depuis le **5 octobre 2026**, une garantie de bon fonctionnement s'applique aussi à 14 catégories de biens achetés neufs à partir de cette date. Le commerçant ou le fabricant doit les réparer gratuitement pendant une durée fixée, calculée à partir de la livraison :"
+          },
+          {
+            "type": "table",
+            "caption": "Garantie de bon fonctionnement au Québec (biens achetés neufs depuis le 5 octobre 2026)",
+            "headers": [
+              "Biens",
+              "Durée"
+            ],
+            "rows": [
+              [
+                "Cuisinière, réfrigérateur, congélateur, climatiseur, thermopompe",
+                "6 ans"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "5 ans"
+              ],
+              [
+                "Téléviseur",
+                "4 ans"
+              ],
+              [
+                "Ordinateur, console de jeu vidéo, téléphone cellulaire, tablette",
+                "3 ans"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Un téléviseur acheté neuf chez Canadian Tire au Québec se retourne donc dans les 30 jours, comme l'électronique, mais il a une garantie de bon fonctionnement de 4 ans. Pour vous en prévaloir, vous devrez prouver la date d'achat ou de livraison."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Le reçu ne dit pas quelle garantie vous avez",
+            "text": "Une ligne comme « LAMPE DEL GARAG » ne donne ni le modèle ni la garantie. ReFound identifie le produit derrière la ligne du reçu quand les données du marchand le permettent, et affiche la garantie du magasin ou du fabricant quand elle est disponible, avec sa date de fin. Avec ReFound Pro, un rappel arrive 30 jours avant l'expiration."
           }
         ]
       },
@@ -251,7 +343,7 @@
           },
           {
             "type": "p",
-            "text": "ReFound peut vous aider à garder ce reçu lisible et facile à retrouver. Numérisez-le dès l'achat : vous gardez une image claire, le code-barres du reçu quand il est détecté, et une date limite de retour estimée quand l'information est disponible. L'acceptation du retour reste toujours à la discrétion de Canadian Tire. En savoir plus sur l'[application pour les retours en magasin](/application-retours-magasin)."
+            "text": "Avec ReFound, le reçu numérisé garde une image lisible, le code-barres du reçu quand il est détecté, et une date limite de retour estimée selon la politique générale du marchand (90 jours chez Canadian Tire). Pour l'électronique ou l'électronique pour l'auto, fiez-vous plutôt au délai de 30 ou 14 jours ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite. L'acceptation du retour reste toujours à la discrétion de Canadian Tire. En savoir plus sur l'[application pour les retours en magasin](/application-retours-magasin)."
           }
         ]
       }
@@ -271,12 +363,16 @@
         "a": "Un article ouvert, endommagé ou impossible à revendre peut être refusé. S'il est défectueux, la garantie du fabricant s'applique."
       },
       {
+        "q": "Que faire si un article Canadian Tire brise après 90 jours?",
+        "a": "Vérifiez s'il a une garantie d'échange Canadian Tire (indiquée sur la page du produit), puis la garantie du fabricant. Au Québec, la garantie légale peut aussi s'appliquer. Dans tous les cas, gardez le reçu comme preuve d'achat."
+      },
+      {
         "q": "Une photo du reçu suffit-elle pour un retour chez Canadian Tire?",
         "a": "La politique officielle ne précise pas si une copie numérique est acceptée. Une image lisible peut aider à retrouver l'achat, mais la décision revient au magasin."
       }
     ],
-    "ctaTitle": "Gardez vos reçus Canadian Tire prêts pour un retour",
-    "ctaBody": "Numérisez le reçu dès l'achat pour l'avoir lisible et à portée de main quand vous retournez en magasin.",
+    "ctaTitle": "Gardez vos reçus Canadian Tire prêts pour un retour ou une garantie",
+    "ctaBody": "Numérisez le reçu dès l'achat : ReFound garde une copie lisible et affiche la garantie de vos articles quand elle est disponible.",
     "relatedTitle": "Pour aller plus loin",
     "related": [
       {
@@ -290,9 +386,9 @@
         "desc": "Retrouver le bon reçu au comptoir."
       },
       {
-        "label": "Retour en magasin avec son téléphone",
-        "href": "/blog/comment-faire-retour-magasin-avec-telephone",
-        "desc": "Le guide pas à pas."
+        "label": "Conserver ses reçus pour les garanties",
+        "href": "/blog/comment-conserver-recus-garanties",
+        "desc": "Combien de temps et comment."
       }
     ],
     "sourcesTitle": "Sources",
@@ -308,28 +404,41 @@
         "publisher": "Comité des mesures en matière de consommation (Gouvernement du Canada)",
         "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
         "accessed": "2026-10-31"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-10-31"
+      },
+      {
+        "label": "Avis sur la garantie légale et la garantie de bon fonctionnement",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://cdn.opc.gouv.qc.ca/media/documents/commercant/pratique-commerce/garantie/avis-garantie-legale_gbf.pdf",
+        "accessed": "2026-10-31"
       }
     ],
     "factCheckLabel": "Faits vérifiés le 31 octobre 2026"
   },
   "en": {
-    "metaTitle": "Canadian Tire Return Policy: Time Limits & Receipts (2026) | ReFound",
-    "metaDescription": "Canadian Tire takes most returns within 90 days with a receipt, but some items have 30 or 14 days. Time limits, exceptions and returns without a receipt.",
-    "keywords": "Canadian Tire return policy, Canadian Tire return without receipt, Canadian Tire return time limit, Canadian Tire exchange, Canadian Tire refund card, Canadian Tire receipt",
+    "metaTitle": "Canadian Tire Return Policy: Time Limits & Warranties | ReFound",
+    "metaDescription": "90 days for most items, 30 or 14 days for others. And after the return window: exchange warranties, manufacturer warranties and Quebec's legal warranty.",
+    "keywords": "Canadian Tire return policy, Canadian Tire return without receipt, Canadian Tire return time limit, Canadian Tire exchange, Canadian Tire refund card, Canadian Tire receipt, Canadian Tire exchange warranty, manufacturer warranty, Quebec legal warranty",
     "category": "Guide",
     "date": "October 31, 2026",
-    "readingTime": "7 min read",
+    "readingTime": "9 min read",
     "breadcrumb": "Canadian Tire return policy",
     "eyebrow": "Returns",
-    "h1": "Canadian Tire return policy: time limits, receipts and exceptions",
+    "h1": "Canadian Tire return policy: time limits, receipts and warranties",
     "card": {
-      "title": "Canadian Tire Return Policy: Time Limits, Receipts and Exceptions (2026)",
-      "subtitle": "90 days for most items, 30 or 14 days for some, and what happens without a receipt."
+      "title": "Canadian Tire Return Policy: Time Limits, Receipts and Warranties (2026)",
+      "subtitle": "90, 30 or 14 days to return, then the warranties that take over. With real receipt examples."
     },
     "coverAlt": "Store receipt showing 14, 30 and 90 day return windows",
     "intro": [
       "Short answer: at Canadian Tire, an unopened item in its original packaging, returned with the receipt within 90 days of purchase, qualifies for a refund or exchange. Several categories are exceptions: electronics have 30 days, auto electronics have 14 days, and some items can't be refunded or exchanged at all.",
-      "This guide summarizes the policy published on canadiantire.ca, checked on October 31, 2026. Policies change: when in doubt, the official page and your store have the final word."
+      "What most guides leave out: the end of the return window isn't the end of your options. Many Canadian Tire products carry a multi-year exchange warranty, the manufacturer's warranty keeps running, and in Quebec the law adds its own warranty. The catch is that your receipt says nothing about any of it. This guide shows how to sort it out, with real Canadian Tire receipt examples.",
+      "Policy checked on canadiantire.ca on October 31, 2026. Policies change: when in doubt, the official page and your store have the final word."
     ],
     "sections": [
       {
@@ -483,19 +592,108 @@
         ]
       },
       {
-        "heading": "Opened or defective item: return or warranty?",
+        "heading": "After the return window: warranties take over",
         "blocks": [
           {
             "type": "p",
-            "text": "A defective item falls under the manufacturer's warranty. Canadian Tire says claims go to the manufacturer or your local store, based on the terms shown on the product page."
+            "text": "Once the return window has passed, you can't get a refund, but a defective item can still be exchanged, repaired or replaced. At Canadian Tire, three layers of protection can follow one another: the return, an in-store exchange warranty on some products, then the manufacturer's warranty. Under Canadian Tire's policy, a defective item falls under the manufacturer's warranty."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-canadian-tire/apres-retour-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Three stages after a Canadian Tire purchase: a 14 to 90 day return, an in-store exchange warranty depending on the product, then the manufacturer's warranty",
+            "caption": "The return window closes fast; warranties often last much longer. Durations vary by product."
+          },
+          {
+            "type": "h3",
+            "text": "The Canadian Tire exchange warranty"
           },
           {
             "type": "p",
-            "text": "For some brands, the policy sends opened items straight to the manufacturer, such as Apple for AirPods or EGO for its tools. In those cases, the receipt is still your proof of purchase for the warranty, often long after the return window has closed."
+            "text": "Some products sold at Canadian Tire carry an exchange warranty: a defective item can be exchanged in store for a period shown on the product page. Here are two lines from a real Canadian Tire receipt scanned in the ReFound demo account:"
+          },
+          {
+            "type": "table",
+            "caption": "What the receipt says, and what ReFound found",
+            "headers": [
+              "Receipt line",
+              "Product identified by ReFound",
+              "Warranty found"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "5-year exchange at any Canadian Tire store"
+              ],
+              [
+                "184-2003-4 HLT NEO WK 4LB",
+                "WA:KE Athletic Neoprene Hexagonal Dumbbell",
+                "1-year exchange"
+              ]
+            ]
           },
           {
             "type": "p",
-            "text": "Some Canadian Tire products also carry an in-store exchange warranty. On our [Canadian Tire receipts page](/en/merchants/canadian-tire-receipts), one example shows a garage light with a 5-year exchange warranty. To use it, you still need the receipt years later. See also [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties)."
+            "text": "Nothing on the receipt tells you a light bought today can still be exchanged five years from now. Its return window closes after 90 days; its exchange warranty lasts twenty times longer. You still need to know it exists and find the receipt the day the light stops working. See the details of these examples on our [Canadian Tire receipts page](/en/merchants/canadian-tire-receipts)."
+          },
+          {
+            "type": "h3",
+            "text": "The manufacturer's warranty"
+          },
+          {
+            "type": "p",
+            "text": "The manufacturer's warranty covers defects, under each brand's terms. For some products, Canadian Tire sends opened items straight to the manufacturer, such as Apple for AirPods or EGO for its tools. Either way, you'll be asked for proof of purchase with the date. See [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties)."
+          },
+          {
+            "type": "h3",
+            "text": "In Quebec: the legal warranty and the new warranty of good working order"
+          },
+          {
+            "type": "p",
+            "text": "In Quebec, the Consumer Protection Act adds a free, automatic legal warranty: goods must be fit for normal use for a reasonable period, and you can go to the merchant or the manufacturer."
+          },
+          {
+            "type": "p",
+            "text": "Since **October 5, 2026**, a warranty of good working order also applies to 14 categories of goods bought new from that date. The merchant or manufacturer must repair them free of charge for a set period, counted from delivery:"
+          },
+          {
+            "type": "table",
+            "caption": "Quebec warranty of good working order (goods bought new since October 5, 2026)",
+            "headers": [
+              "Goods",
+              "Duration"
+            ],
+            "rows": [
+              [
+                "Stove, refrigerator, freezer, air conditioner, heat pump",
+                "6 years"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "5 years"
+              ],
+              [
+                "Television",
+                "4 years"
+              ],
+              [
+                "Computer, video game console, cell phone, tablet",
+                "3 years"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "So a TV bought new at Canadian Tire in Quebec can be returned within 30 days, like other electronics, but it has a 4-year warranty of good working order. To use it, you'll need to prove the purchase or delivery date."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Your receipt doesn't say which warranty you have",
+            "text": "A line like \"LAMPE DEL GARAG\" gives neither the model nor the warranty. ReFound identifies the product behind the receipt line when the merchant's data allows it, and shows the store or manufacturer warranty when it's available, with its end date. With ReFound Pro, a reminder arrives 30 days before it expires."
           }
         ]
       },
@@ -547,7 +745,7 @@
           },
           {
             "type": "p",
-            "text": "ReFound can help keep that receipt readable and easy to find. Scan it at purchase: you keep a clear image, the receipt barcode when it's detected, and an estimated return deadline when the information is available. Whether the return is accepted is always up to Canadian Tire. Learn more about the [returns app](/en/returns-app)."
+            "text": "With ReFound, the scanned receipt keeps a readable image, the receipt barcode when it's detected, and an estimated return deadline based on the merchant's general policy (90 days at Canadian Tire). For electronics or auto electronics, rely on the 30 or 14 day limits above instead. With ReFound Pro, a reminder arrives 3 days before the deadline. Whether the return is accepted is always up to Canadian Tire. Learn more about the [returns app](/en/returns-app)."
           }
         ]
       }
@@ -567,12 +765,16 @@
         "a": "Opened, damaged or non-resalable items may be refused. If the item is defective, the manufacturer's warranty applies."
       },
       {
+        "q": "What if a Canadian Tire item breaks after 90 days?",
+        "a": "Check whether it has a Canadian Tire exchange warranty (shown on the product page), then the manufacturer's warranty. In Quebec, the legal warranty may also apply. Either way, keep the receipt as proof of purchase."
+      },
+      {
         "q": "Is a photo of the receipt enough for a Canadian Tire return?",
         "a": "The official policy doesn't say whether a digital copy is accepted. A readable image can help find the purchase, but the decision is up to the store."
       }
     ],
-    "ctaTitle": "Keep your Canadian Tire receipts ready for returns",
-    "ctaBody": "Scan the receipt at purchase so it's readable and at hand when you go back to the store.",
+    "ctaTitle": "Keep your Canadian Tire receipts ready for a return or a warranty",
+    "ctaBody": "Scan the receipt at purchase: ReFound keeps a readable copy and shows your items' warranty when it's available.",
     "relatedTitle": "Go further",
     "related": [
       {
@@ -586,9 +788,9 @@
         "desc": "Find the right receipt at the counter."
       },
       {
-        "label": "Return items with your phone",
-        "href": "/en/blog/how-to-return-items-in-store-with-your-phone",
-        "desc": "The step-by-step guide."
+        "label": "Keep receipts for warranties",
+        "href": "/en/blog/how-to-keep-receipts-for-warranties",
+        "desc": "How long and how."
       }
     ],
     "sourcesTitle": "Sources",
@@ -603,6 +805,18 @@
         "label": "Remboursements et échanges (French only)",
         "publisher": "Consumer Measures Committee (Government of Canada)",
         "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-10-31"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt (French)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-10-31"
+      },
+      {
+        "label": "Avis sur la garantie légale et la garantie de bon fonctionnement (French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://cdn.opc.gouv.qc.ca/media/documents/commercant/pratique-commerce/garantie/avis-garantie-legale_gbf.pdf",
         "accessed": "2026-10-31"
       }
     ],
