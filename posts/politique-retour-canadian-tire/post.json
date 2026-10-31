@@ -1,0 +1,611 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-canadian-tire",
+  "frPath": "/blog/politique-retour-canadian-tire",
+  "enPath": "/en/blog/canadian-tire-return-policy",
+  "datePublished": "2026-10-31T09:00:00-04:00",
+  "dateModified": "2026-10-31T09:00:00-04:00",
+  "lastFactCheck": "2026-10-31",
+  "cover": {
+    "src": "/images/blog/politique-retour-canadian-tire/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delais-retour-fr.png",
+    "delais-retour-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour Canadian Tire : délais et reçu (2026) | ReFound",
+    "metaDescription": "Canadian Tire accepte la plupart des retours dans les 90 jours avec reçu, mais certains articles ont 30 ou 14 jours. Délais, exceptions et retour sans reçu.",
+    "keywords": "politique de retour Canadian Tire, retour Canadian Tire sans reçu, délai de retour Canadian Tire, échange Canadian Tire, carte de remboursement Canadian Tire, reçu Canadian Tire",
+    "category": "Guide",
+    "date": "31 octobre 2026",
+    "readingTime": "7 min de lecture",
+    "breadcrumb": "Politique de retour Canadian Tire",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour Canadian Tire : délais, reçu et exceptions",
+    "card": {
+      "title": "Politique de retour Canadian Tire : délais, reçu et exceptions (2026)",
+      "subtitle": "90 jours pour la plupart des articles, 30 ou 14 jours pour certains, et ce qui se passe sans reçu."
+    },
+    "coverAlt": "Reçu de caisse avec les délais de retour de 14, 30 et 90 jours",
+    "intro": [
+      "Réponse courte : chez Canadian Tire, un article non ouvert, dans son emballage d'origine et accompagné du reçu peut être retourné dans les 90 jours suivant l'achat pour un remboursement ou un échange. Plusieurs catégories font exception : l'électronique a 30 jours, l'électronique pour l'auto a 14 jours, et certains articles ne sont ni remboursables ni échangeables.",
+      "Ce guide résume la politique publiée sur canadiantire.ca, vérifiée le 31 octobre 2026. La politique peut changer : en cas de doute, la page officielle et votre magasin ont le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de Canadian Tire?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La règle générale de Canadian Tire est un délai de **90 jours** pour les articles non ouverts, dans leur emballage d'origine, retournés avec le reçu. Le remboursement se fait sur le mode de paiement d'origine, ou vous pouvez choisir un échange."
+          },
+          {
+            "type": "p",
+            "text": "Le retour peut se faire dans n'importe quel magasin Canadian Tire, sauf exceptions (voir plus bas). Quatre conditions reviennent dans la politique :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Le reçu d'achat, qui sert de preuve d'achat.",
+              "Un article non ouvert, dans son emballage d'origine. Un article ouvert, endommagé ou impossible à revendre peut être refusé.",
+              "Le respect du délai propre à la catégorie de l'article.",
+              "Une pièce d'identité valide avec photo, qui peut être exigée pour confirmer les renseignements du retour."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Délais de retour selon le type d'article",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai de 90 jours ne s'applique pas à tout le magasin. Voici les principales catégories avec un délai différent, selon la politique officielle."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-canadian-tire/delais-retour-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Ligne du temps des délais de retour Canadian Tire : 14 jours pour l'électronique auto, 30 jours pour l'électronique et les trottinettes électriques, 90 jours pour la plupart des articles",
+            "caption": "Délais de retour Canadian Tire les plus courants. Source : canadiantire.ca, vérifié le 31 octobre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Délais de retour par catégorie chez Canadian Tire",
+            "headers": [
+              "Catégorie",
+              "Délai",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "La plupart des articles",
+                "90 jours",
+                "Non ouvert, emballage d'origine, avec reçu"
+              ],
+              [
+                "Électronique (audio et vidéo, appareils photo, communications) et trottinettes électriques",
+                "30 jours",
+                "Selon la politique générale"
+              ],
+              [
+                "Électronique pour l'auto (caméras de recul, audio, GPS, démarreurs à distance)",
+                "14 jours",
+                "À partir de la date d'achat"
+              ],
+              [
+                "Déshumidificateurs et climatiseurs portatifs",
+                "30 jours",
+                "Selon la politique générale"
+              ],
+              [
+                "Moteurs hors-bord et équipement extérieur à essence",
+                "30 jours",
+                "Neuf, jamais utilisé, emballage d'origine"
+              ],
+              [
+                "AirPods, AirTag et Beats d'Apple",
+                "30 jours",
+                "Non ouvert"
+              ],
+              [
+                "Tentes",
+                "90 jours",
+                "Non ouverte ; tente ouverte avec pièce défectueuse ou manquante : remplacement dans les 7 jours"
+              ],
+              [
+                "Encre, supports, cartes mémoire, livres, DVD, CD, matelas",
+                "Délai général",
+                "Seulement si non ouvert"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Vérifiez le bas de votre reçu",
+            "text": "Canadian Tire indique que les décorations de Noël et d'Halloween peuvent être soumises à des restrictions de retour, précisées dans la partie inférieure du reçu. Un reçu lisible vous évite de deviner."
+          }
+        ]
+      },
+      {
+        "heading": "Peut-on faire un retour chez Canadian Tire sans reçu?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sans reçu, un retour chez Canadian Tire peut être refusé. La politique prévoit toutefois une **recherche de reçu** : le magasin peut retrouver un achat payé par carte de crédit ou de débit, dans les 90 jours suivant l'achat."
+          },
+          {
+            "type": "p",
+            "text": "La recherche de reçu vise les achats payés par carte. La page officielle ne décrit pas de solution équivalente pour un achat payé comptant, et elle ne précise pas les conditions d'un retour sans reçu au-delà de cette recherche. Si vous n'avez pas de reçu, apportez la carte utilisée pour l'achat et communiquez avec votre magasin avant de vous déplacer."
+          },
+          {
+            "type": "h3",
+            "text": "La carte de remboursement"
+          },
+          {
+            "type": "p",
+            "text": "Certains retours sont crédités sur une carte de remboursement Canadian Tire. Selon la politique, cette carte :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "s'utilise dans les magasins Canadian Tire, mais pas en ligne ni aux postes d'essence;",
+              "expire un an après sa date d'émission (sauf en Saskatchewan), et le solde restant n'est pas remis après l'expiration;",
+              "n'est pas échangeable contre de l'argent ou une carte-cadeau."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Quels articles ne sont ni remboursables ni échangeables?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Certains articles achetés chez Canadian Tire ne sont ni remboursables ni échangeables, peu importe le reçu. La liste officielle comprend notamment :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "les cartes-cadeaux;",
+              "la peinture et la teinture teintées, et les produits coupés ou modifiés;",
+              "les articles en liquidation, en vente finale ou vendus tels quels;",
+              "les armes à feu, les munitions et les feux d'artifice;",
+              "les sièges d'auto pour bébés et enfants, les sièges d'appoint et les systèmes de voyage;",
+              "les tire-lait;",
+              "les cartes à échanger et de collection, dont les cartes Pokémon."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "D'autres articles suivent une règle particulière : les vélos ne sont pas repris, mais une mise au point gratuite est offerte dans les 30 jours avec une preuve d'achat. Les chaînes à neige ne sont pas remboursées, mais des chaînes inutilisées peuvent être échangées contre une autre taille dans les 3 jours. Les végétaux vivants et certaines pièces automobiles commandées se retournent seulement au magasin d'origine."
+          }
+        ]
+      },
+      {
+        "heading": "Article ouvert ou défectueux : retour ou garantie?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un article défectueux relève de la garantie du fabricant. Canadian Tire précise que la réclamation se fait auprès du fabricant ou de votre magasin local, selon les modalités affichées sur la page du produit."
+          },
+          {
+            "type": "p",
+            "text": "Pour certaines marques, la politique renvoie directement au fabricant une fois l'article ouvert, par exemple Apple pour les AirPods ou EGO pour ses outils. Dans ces cas, le reçu reste votre preuve d'achat pour faire valoir la garantie, souvent bien après la fin du délai de retour."
+          },
+          {
+            "type": "p",
+            "text": "Certains produits Canadian Tire ont aussi une garantie d'échange en magasin. Sur notre [page sur les reçus Canadian Tire](/marchands/recus-canadian-tire), un exemple montre une lampe de garage avec une garantie d'échange de 5 ans. Pour en profiter, il faut encore pouvoir présenter le reçu des années plus tard. Voyez aussi [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties)."
+          }
+        ]
+      },
+      {
+        "heading": "Retour d'une commande en ligne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour un article commandé en ligne et arrivé endommagé ou défectueux, Canadian Tire recommande de le rapporter en magasin. Si ce n'est pas possible, appelez le 1-866-746-7287 (1-866-SHOP-CTR) avec votre numéro de commande et une description du problème."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Appelez avant d'expédier",
+            "text": "Si vous renvoyez un article sans avoir d'abord communiqué avec le service à la clientèle, les frais d'expédition du retour sont à votre charge, selon la politique."
+          }
+        ]
+      },
+      {
+        "heading": "Un magasin est-il obligé d'accepter un retour au Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non. Au Canada, les entreprises ne sont pas obligées d'accepter un article retourné, sauf s'il est défectueux. La plupart offrent quand même des remboursements ou des échanges, selon leur propre politique, rappelle le Comité des mesures en matière de consommation."
+          },
+          {
+            "type": "p",
+            "text": "C'est pour cette raison que la politique de Canadian Tire, et non une règle générale, détermine ce que vous pouvez obtenir. Le même organisme note qu'un reçu de vente est presque toujours nécessaire pour qu'un remboursement ou un échange soit accepté."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour chez Canadian Tire",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Retrouvez le reçu et vérifiez la date d'achat.",
+              "Repérez la catégorie de l'article et son délai : 90, 30 ou 14 jours.",
+              "Remettez l'article dans son emballage d'origine, si possible non ouvert.",
+              "Lisez le bas du reçu pour d'éventuelles restrictions, comme les décorations saisonnières.",
+              "Apportez la carte de paiement utilisée et une pièce d'identité avec photo.",
+              "Pour les végétaux vivants ou une pièce commandée, allez au magasin d'origine."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "L'étape la plus fragile est souvent la première : un reçu sur papier thermique peut pâlir avant la fin des 90 jours. Voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound peut vous aider à garder ce reçu lisible et facile à retrouver. Numérisez-le dès l'achat : vous gardez une image claire, le code-barres du reçu quand il est détecté, et une date limite de retour estimée quand l'information est disponible. L'acceptation du retour reste toujours à la discrétion de Canadian Tire. En savoir plus sur l'[application pour les retours en magasin](/application-retours-magasin)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de jours a-t-on pour retourner un article chez Canadian Tire?",
+        "a": "La plupart des articles non ouverts peuvent être retournés dans les 90 jours avec le reçu. L'électronique et les trottinettes électriques ont 30 jours, et l'électronique pour l'auto a 14 jours."
+      },
+      {
+        "q": "Canadian Tire accepte-t-il les retours sans reçu?",
+        "a": "Un retour sans reçu peut être refusé. Le magasin peut faire une recherche de reçu pour un achat payé par carte de crédit ou de débit dans les 90 jours."
+      },
+      {
+        "q": "Peut-on retourner un article ouvert chez Canadian Tire?",
+        "a": "Un article ouvert, endommagé ou impossible à revendre peut être refusé. S'il est défectueux, la garantie du fabricant s'applique."
+      },
+      {
+        "q": "Une photo du reçu suffit-elle pour un retour chez Canadian Tire?",
+        "a": "La politique officielle ne précise pas si une copie numérique est acceptée. Une image lisible peut aider à retrouver l'achat, mais la décision revient au magasin."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus Canadian Tire prêts pour un retour",
+    "ctaBody": "Numérisez le reçu dès l'achat pour l'avoir lisible et à portée de main quand vous retournez en magasin.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Reçus Canadian Tire",
+        "href": "/marchands/recus-canadian-tire",
+        "desc": "Comprendre les codes produits sur vos reçus."
+      },
+      {
+        "label": "Application pour les retours",
+        "href": "/application-retours-magasin",
+        "desc": "Retrouver le bon reçu au comptoir."
+      },
+      {
+        "label": "Retour en magasin avec son téléphone",
+        "href": "/blog/comment-faire-retour-magasin-avec-telephone",
+        "desc": "Le guide pas à pas."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Politique de retour et d'échange",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-10-31"
+      },
+      {
+        "label": "Remboursements et échanges",
+        "publisher": "Comité des mesures en matière de consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-10-31"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 31 octobre 2026"
+  },
+  "en": {
+    "metaTitle": "Canadian Tire Return Policy: Time Limits & Receipts (2026) | ReFound",
+    "metaDescription": "Canadian Tire takes most returns within 90 days with a receipt, but some items have 30 or 14 days. Time limits, exceptions and returns without a receipt.",
+    "keywords": "Canadian Tire return policy, Canadian Tire return without receipt, Canadian Tire return time limit, Canadian Tire exchange, Canadian Tire refund card, Canadian Tire receipt",
+    "category": "Guide",
+    "date": "October 31, 2026",
+    "readingTime": "7 min read",
+    "breadcrumb": "Canadian Tire return policy",
+    "eyebrow": "Returns",
+    "h1": "Canadian Tire return policy: time limits, receipts and exceptions",
+    "card": {
+      "title": "Canadian Tire Return Policy: Time Limits, Receipts and Exceptions (2026)",
+      "subtitle": "90 days for most items, 30 or 14 days for some, and what happens without a receipt."
+    },
+    "coverAlt": "Store receipt showing 14, 30 and 90 day return windows",
+    "intro": [
+      "Short answer: at Canadian Tire, an unopened item in its original packaging, returned with the receipt within 90 days of purchase, qualifies for a refund or exchange. Several categories are exceptions: electronics have 30 days, auto electronics have 14 days, and some items can't be refunded or exchanged at all.",
+      "This guide summarizes the policy published on canadiantire.ca, checked on October 31, 2026. Policies change: when in doubt, the official page and your store have the final word."
+    ],
+    "sections": [
+      {
+        "heading": "What is Canadian Tire's return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Canadian Tire's general rule is **90 days** for unopened items in their original packaging, returned with the receipt. The refund goes back to the original payment method, or you can choose an exchange."
+          },
+          {
+            "type": "p",
+            "text": "You can return items to any Canadian Tire store, with some exceptions (see below). Four conditions come up in the policy:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "The purchase receipt, as proof of purchase.",
+              "An unopened item in its original packaging. Opened, damaged or non-resalable items may be refused.",
+              "The return window for the item's category.",
+              "Valid photo ID, which may be required to confirm the return information."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Return time limits by product type",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The 90-day window doesn't cover the whole store. Here are the main categories with a different time limit, according to the official policy."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-canadian-tire/delais-retour-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Timeline of Canadian Tire return windows: 14 days for auto electronics, 30 days for electronics and e-scooters, 90 days for most items",
+            "caption": "Most common Canadian Tire return windows. Source: canadiantire.ca, checked October 31, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Canadian Tire return windows by category",
+            "headers": [
+              "Category",
+              "Time limit",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "Most items",
+                "90 days",
+                "Unopened, original packaging, with receipt"
+              ],
+              [
+                "Electronics (audio and video, cameras, communications) and e-scooters",
+                "30 days",
+                "Per the general policy"
+              ],
+              [
+                "Auto electronics (backup cameras, car audio, GPS, remote starters)",
+                "14 days",
+                "From the purchase date"
+              ],
+              [
+                "Dehumidifiers and portable air conditioners",
+                "30 days",
+                "Per the general policy"
+              ],
+              [
+                "Outboard motors and gas-powered outdoor equipment",
+                "30 days",
+                "New, unused, original packaging"
+              ],
+              [
+                "Apple AirPods, AirTags and Beats",
+                "30 days",
+                "Unopened"
+              ],
+              [
+                "Tents",
+                "90 days",
+                "Unopened; opened tent with defective or missing parts: replacement within 7 days"
+              ],
+              [
+                "Ink, media, memory cards, books, DVDs, CDs, mattresses",
+                "General limit",
+                "Only if unopened"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Check the bottom of your receipt",
+            "text": "Canadian Tire says Christmas and Halloween décor may be subject to return restrictions, listed on the bottom half of the receipt. A readable receipt means you don't have to guess."
+          }
+        ]
+      },
+      {
+        "heading": "Can you return something to Canadian Tire without a receipt?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Without a receipt, a Canadian Tire return may be refused. The policy does include a **receipt look-up**: the store can find a purchase paid by credit or debit card within 90 days of purchase."
+          },
+          {
+            "type": "p",
+            "text": "Receipt look-up covers card purchases. The official page doesn't describe an equivalent option for cash purchases, and it doesn't spell out no-receipt return terms beyond the look-up. If you don't have the receipt, bring the card you paid with and call your store before you go."
+          },
+          {
+            "type": "h3",
+            "text": "The Refund Card"
+          },
+          {
+            "type": "p",
+            "text": "Some returns are credited to a Canadian Tire Refund Card. According to the policy, this card:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "can be used in Canadian Tire stores, but not online or at gas bars;",
+              "expires one year after its issue date (except in Saskatchewan), and any remaining balance is not returned after it expires;",
+              "can't be redeemed for cash or gift cards."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Which items can't be refunded or exchanged?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Some items bought at Canadian Tire can't be refunded or exchanged, receipt or not. The official list includes:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "gift cards;",
+              "tinted paint and stain, and cut or modified products;",
+              "clearance, final sale and as-is merchandise;",
+              "firearms, ammunition and fireworks;",
+              "infant and child car seats, booster seats and travel systems;",
+              "breast pumps;",
+              "trading and collector cards, including Pokémon cards."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Other items follow their own rule: bikes can't be returned, but a free tune-up is offered within 30 days with proof of purchase. Tire chains aren't refunded, but unused chains can be exchanged for a different size within 3 days. Live goods and some special-order automotive parts can only be returned to the original store."
+          }
+        ]
+      },
+      {
+        "heading": "Opened or defective item: return or warranty?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A defective item falls under the manufacturer's warranty. Canadian Tire says claims go to the manufacturer or your local store, based on the terms shown on the product page."
+          },
+          {
+            "type": "p",
+            "text": "For some brands, the policy sends opened items straight to the manufacturer, such as Apple for AirPods or EGO for its tools. In those cases, the receipt is still your proof of purchase for the warranty, often long after the return window has closed."
+          },
+          {
+            "type": "p",
+            "text": "Some Canadian Tire products also carry an in-store exchange warranty. On our [Canadian Tire receipts page](/en/merchants/canadian-tire-receipts), one example shows a garage light with a 5-year exchange warranty. To use it, you still need the receipt years later. See also [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties)."
+          }
+        ]
+      },
+      {
+        "heading": "Returning an online order",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "If an item ordered online arrives damaged or defective, Canadian Tire recommends returning it to a store. If that isn't possible, call 1-866-746-7287 (1-866-SHOP-CTR) with your order number and a description of the problem."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Call before you ship",
+            "text": "If you ship an item back without contacting customer service first, you pay the return shipping, according to the policy."
+          }
+        ]
+      },
+      {
+        "heading": "Do stores have to accept returns in Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No. In Canada, businesses don't have to accept returned items unless they are defective. Most still offer refunds or exchanges under their own policy, according to the Consumer Measures Committee."
+          },
+          {
+            "type": "p",
+            "text": "That's why Canadian Tire's policy, not a general rule, decides what you can get. The same source notes that a sales receipt is almost always needed for a refund or exchange to be accepted."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare a Canadian Tire return",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Find the receipt and check the purchase date.",
+              "Identify the item's category and time limit: 90, 30 or 14 days.",
+              "Put the item back in its original packaging, unopened if possible.",
+              "Read the bottom of the receipt for restrictions, such as seasonal décor.",
+              "Bring the payment card you used and photo ID.",
+              "For live goods or a special-order part, go to the original store."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The weakest step is often the first one: a thermal paper receipt can fade before the 90 days are up. See [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound can help keep that receipt readable and easy to find. Scan it at purchase: you keep a clear image, the receipt barcode when it's detected, and an estimated return deadline when the information is available. Whether the return is accepted is always up to Canadian Tire. Learn more about the [returns app](/en/returns-app)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How many days do you have to return an item to Canadian Tire?",
+        "a": "Most unopened items can be returned within 90 days with the receipt. Electronics and e-scooters have 30 days, and auto electronics have 14 days."
+      },
+      {
+        "q": "Does Canadian Tire accept returns without a receipt?",
+        "a": "A return without a receipt may be refused. The store can do a receipt look-up for a purchase paid by credit or debit card within 90 days."
+      },
+      {
+        "q": "Can you return an opened item to Canadian Tire?",
+        "a": "Opened, damaged or non-resalable items may be refused. If the item is defective, the manufacturer's warranty applies."
+      },
+      {
+        "q": "Is a photo of the receipt enough for a Canadian Tire return?",
+        "a": "The official policy doesn't say whether a digital copy is accepted. A readable image can help find the purchase, but the decision is up to the store."
+      }
+    ],
+    "ctaTitle": "Keep your Canadian Tire receipts ready for returns",
+    "ctaBody": "Scan the receipt at purchase so it's readable and at hand when you go back to the store.",
+    "relatedTitle": "Go further",
+    "related": [
+      {
+        "label": "Canadian Tire receipts",
+        "href": "/en/merchants/canadian-tire-receipts",
+        "desc": "Understand the product codes on your receipts."
+      },
+      {
+        "label": "Returns app",
+        "href": "/en/returns-app",
+        "desc": "Find the right receipt at the counter."
+      },
+      {
+        "label": "Return items with your phone",
+        "href": "/en/blog/how-to-return-items-in-store-with-your-phone",
+        "desc": "The step-by-step guide."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Return & exchange policy",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-10-31"
+      },
+      {
+        "label": "Remboursements et échanges (French only)",
+        "publisher": "Consumer Measures Committee (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-10-31"
+      }
+    ],
+    "factCheckLabel": "Facts checked on October 31, 2026"
+  }
+}
