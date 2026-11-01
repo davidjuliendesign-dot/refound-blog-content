@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-home-depot",
+  "frPath": "/blog/politique-retour-home-depot",
+  "enPath": "/en/blog/home-depot-return-policy",
+  "datePublished": "2026-11-01T09:00:00-04:00",
+  "dateModified": "2026-11-01T09:00:00-04:00",
+  "lastFactCheck": "2026-11-01",
+  "cover": {
+    "src": "/images/blog/politique-retour-home-depot/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delais-retour-fr.png",
+    "delais-retour-en.png",
+    "retour-vs-garantie-fr.png",
+    "retour-vs-garantie-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour Home Depot : délais, reçu et garanties | ReFound",
+    "metaDescription": "90 jours pour la plupart des articles, 30 pour la télé ou l'ordi, aucun retour pour les électroménagers. Et au Québec, la garantie qui prend le relais.",
+    "keywords": "politique de retour Home Depot, retour Home Depot sans reçu, délai de retour Home Depot, retour électroménager Home Depot, carte de crédit Home Depot 365 jours, reçu Home Depot, garantie de bon fonctionnement Québec",
+    "category": "Guide",
+    "date": "1er novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour Home Depot",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour Home Depot : délais, reçu et garanties",
+    "card": {
+      "title": "Politique de retour Home Depot : délais, reçu et garanties (2026)",
+      "subtitle": "90, 30 ou 0 jour selon l'article, puis les garanties qui durent des années. Avec des dates calculées."
+    },
+    "coverAlt": "Reçu de caisse avec les délais de retour Home Depot de 30, 90 et 365 jours",
+    "intro": [
+      "Réponse courte : chez Home Depot Canada, la plupart des articles se retournent dans les 90 jours suivant l'achat, avec un reçu valide, inutilisés et dans un état comme neuf. Le délai passe à 365 jours pour un achat payé avec une carte de crédit Home Depot. Plusieurs catégories n'ont que 30 jours, dont les téléviseurs, les ordinateurs, les climatiseurs et les meubles, et les électroménagers ne peuvent pas être retournés.",
+      "Ce qu'on lit rarement ailleurs : les articles qui ont le délai de retour le plus court sont souvent ceux qui ont la garantie la plus longue. Au Québec, un réfrigérateur acheté neuf depuis le 5 octobre 2026 n'est pas retournable chez Home Depot, mais il a une garantie de bon fonctionnement de 6 ans. Ce guide met les deux côte à côte, avec des dates calculées pour un achat fait aujourd'hui."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de Home Depot?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La règle générale de Home Depot Canada est un délai de **90 jours** suivant l'achat, avec un reçu de vente valide. Elle vaut pour les achats en magasin et pour les achats en ligne, qui peuvent être rapportés dans n'importe quel magasin Home Depot au Canada."
+          },
+          {
+            "type": "p",
+            "text": "Trois conditions reviennent dans la politique officielle :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Un reçu de vente valide, qui sert de preuve d'achat.",
+              "Un article inutilisé, « dans un état comme neuf ».",
+              "Le respect du délai propre à la catégorie de l'article : 90, 30 jours, ou aucun retour."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La politique demande aussi de signaler tout dommage ou défaut d'un produit dans les 30 jours. Pour un électroménager livré, ce délai est de 48 heures après la livraison."
+          }
+        ]
+      },
+      {
+        "heading": "Délais de retour selon le type d'article",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai de 90 jours ne s'applique pas à tout le magasin. Voici les catégories qui ont un délai différent, selon la politique officielle de Home Depot Canada."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-home-depot/delais-retour-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Barres comparant les délais de retour Home Depot : électroménagers non retournables, 30 jours pour les téléviseurs, ordinateurs et équipement à essence, 90 jours pour la plupart des articles, 365 jours avec une carte de crédit Home Depot",
+            "caption": "Délais de retour Home Depot. Source : homedepot.ca, vérifié le 1er novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Délais de retour par catégorie chez Home Depot Canada",
+            "headers": [
+              "Catégorie",
+              "Délai",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "La plupart des articles (en magasin ou en ligne)",
+                "90 jours",
+                "Avec reçu, inutilisé, état comme neuf"
+              ],
+              [
+                "Achat payé avec une carte de crédit Home Depot",
+                "365 jours",
+                "Selon la politique de la carte"
+              ],
+              [
+                "Décorations de fêtes, climatiseurs, génératrices, meubles, téléviseurs, imprimantes, ordinateurs, équipement à essence",
+                "30 jours",
+                "Reçu obligatoire"
+              ],
+              [
+                "Équipement à batterie et à fil, y compris les souffleuses à neige",
+                "30 jours",
+                "Suivant la livraison ou l'achat en magasin"
+              ],
+              [
+                "Électroménagers",
+                "Aucun retour",
+                "Dommages à signaler dans les 48 heures suivant la livraison"
+              ],
+              [
+                "Parures de fenêtre sur mesure",
+                "Exception",
+                "Seulement si identifiées « Garantie de bonnes dimensions »"
+              ],
+              [
+                "Certaines commandes spéciales",
+                "Variable",
+                "Frais de remise en stock de 15 %"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Une souffleuse achetée en novembre",
+            "text": "L'équipement à batterie et à fil, y compris les souffleuses à neige, a 30 jours, pas 90. Une souffleuse achetée le 1er novembre 2026 doit donc être rapportée vers le 1er décembre, souvent avant même la première vraie bordée de neige. Essayez-la tôt."
+          }
+        ]
+      },
+      {
+        "heading": "Peut-on faire un retour chez Home Depot sans reçu?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Parfois, mais pas pour tout. Pour un retour sans reçu, Home Depot exige une pièce d'identité avec photo valide émise par le gouvernement, et le retour est assujetti à l'approbation d'un système de vérification. La même exigence s'applique aux achats payés avec un crédit de magasin."
+          },
+          {
+            "type": "p",
+            "text": "Pour les articles de la liste des 30 jours (téléviseurs, ordinateurs, climatiseurs, meubles, génératrices, équipement à essence, décorations de fêtes, imprimantes), la politique est nette : aucun remboursement, échange ou crédit de magasin sans reçu. Elle précise aussi qu'un article rapporté après 30 jours ou sans reçu peut être envoyé en réparation et traité comme la marchandise du client."
+          },
+          {
+            "type": "p",
+            "text": "La page officielle ne précise pas sous quelle forme un retour sans reçu est remboursé pour les autres articles. Si vous n'avez plus le reçu, appelez votre magasin avant de vous déplacer, et apportez la carte utilisée pour l'achat."
+          }
+        ]
+      },
+      {
+        "heading": "Quels articles ne sont pas remboursables chez Home Depot?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Certains articles ne peuvent pas être retournés chez Home Depot Canada, peu importe le reçu. La liste officielle comprend :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "les électroménagers;",
+              "les cartes-cadeaux, chèques-cadeaux et crédits de magasin;",
+              "les produits sur mesure et la peinture teintée sur mesure (sauf les parures de fenêtre « Garantie de bonnes dimensions »);",
+              "les génératrices de secours fixes, le papier peint, les spas et les remorques utilitaires;",
+              "les échantillons de revêtements de sol commandés en ligne;",
+              "les dons à la Fondation Home Depot Canada."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les achats faits sur homedepot.com ou auprès d'autres entreprises Home Depot peuvent être refusés au Canada, sauf si l'article est vendu ou tenu en stock par le magasin où vous le rapportez. Une tondeuse, un tracteur ou une souffleuse à essence déjà utilisés ne sont pas repris : ils seront réparés, si possible, selon la garantie du fabricant."
+          }
+        ]
+      },
+      {
+        "heading": "Après le délai de retour : les garanties qui prennent le relais",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Quand le délai de retour est passé, ou qu'il n'existe pas, un article défectueux peut encore être réparé ou remplacé grâce à une garantie. La garantie ne prolonge pas le délai de retour : c'est un autre recours, qui donne une réparation ou un remplacement, pas un remboursement."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie du fabricant"
+          },
+          {
+            "type": "p",
+            "text": "La plupart des produits vendus chez Home Depot ont une garantie du fabricant, dont la durée et les conditions varient selon la marque et le modèle. C'est la voie prévue par la politique de Home Depot pour l'équipement à essence déjà utilisé. Dans tous les cas, on vous demandera une preuve d'achat datée. Voyez [la différence entre garantie du magasin et garantie du manufacturier](/blog/garantie-magasin-vs-garantie-manufacturier)."
+          },
+          {
+            "type": "h3",
+            "text": "Au Québec : la garantie de bon fonctionnement depuis le 5 octobre 2026"
+          },
+          {
+            "type": "p",
+            "text": "Depuis le **5 octobre 2026**, une garantie légale de bon fonctionnement s'applique au Québec à 14 catégories de biens achetés ou loués neufs auprès d'un commerçant. Le commerçant ou le fabricant doit les réparer gratuitement pendant une durée fixée, calculée à partir de la livraison. Elle s'ajoute à la garantie légale existante, qui exige qu'un bien serve à un usage normal pendant une durée raisonnable."
+          },
+          {
+            "type": "p",
+            "text": "Or plusieurs de ces biens sont justement ceux que Home Depot reprend le moins longtemps. Voici le calcul pour un achat fait le 1er novembre 2026 et livré le jour même, au Québec :"
+          },
+          {
+            "type": "table",
+            "caption": "Achat du 1er novembre 2026 chez Home Depot, au Québec : retour et garantie de bon fonctionnement",
+            "headers": [
+              "Article",
+              "Retour chez Home Depot",
+              "Fin du retour (environ)",
+              "Garantie de bon fonctionnement",
+              "Fin de la garantie (environ)"
+            ],
+            "rows": [
+              [
+                "Réfrigérateur, cuisinière, congélateur",
+                "Aucun retour",
+                "—",
+                "6 ans",
+                "Novembre 2032"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "Aucun retour",
+                "—",
+                "5 ans",
+                "Novembre 2031"
+              ],
+              [
+                "Climatiseur",
+                "30 jours",
+                "1er décembre 2026",
+                "6 ans",
+                "Novembre 2032"
+              ],
+              [
+                "Téléviseur",
+                "30 jours",
+                "1er décembre 2026",
+                "4 ans",
+                "Novembre 2030"
+              ],
+              [
+                "Ordinateur portable ou de bureau",
+                "30 jours",
+                "1er décembre 2026",
+                "3 ans",
+                "Novembre 2029"
+              ]
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-home-depot/retour-vs-garantie-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle : le délai de retour Home Depot de 0 à 30 jours est une fine bande comparée à la garantie de bon fonctionnement de 3 à 6 ans pour le réfrigérateur, la laveuse, le climatiseur, le téléviseur et l'ordinateur",
+            "caption": "À l'échelle : quelques jours pour un retour, plusieurs années de garantie. Sources : homedepot.ca, Gouvernement du Québec, vérifié le 1er novembre 2026."
+          },
+          {
+            "type": "p",
+            "text": "Un climatiseur se retourne pendant 30 jours, mais sa garantie de bon fonctionnement dure environ 73 fois plus longtemps. Elle ne couvre pas l'entretien normal ni un bris causé par votre faute, et c'est vous qui choisissez de vous adresser au commerçant ou au fabricant. Pour vous en prévaloir dans cinq ans, vous devrez pouvoir montrer quand et où le bien a été acheté et livré : le reçu ou la facture de livraison reste la preuve la plus simple."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Électroménager livré : 48 heures pour signaler un dommage",
+            "text": "Home Depot ne reprend pas les électroménagers, et un dommage doit être signalé dans les 48 heures suivant la livraison. Inspectez l'appareil dès son arrivée. Après ce délai, c'est la garantie du fabricant et, au Québec, les garanties légales qui s'appliquent."
+          }
+        ]
+      },
+      {
+        "heading": "Retour d'une commande en ligne Home Depot",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un article commandé sur homedepot.ca peut être rapporté dans n'importe quel magasin Home Depot au Canada dans les 90 jours suivant l'achat, sous réserve des exceptions par catégorie. Certains produits admissibles peuvent aussi être retournés en ligne."
+          },
+          {
+            "type": "p",
+            "text": "Vous pouvez également appeler le service à la clientèle dans les 90 jours : Home Depot organise alors le ramassage de l'article et vous donne un numéro d'autorisation de retour (AR). Gardez ce numéro avec votre confirmation de commande."
+          }
+        ]
+      },
+      {
+        "heading": "Ce qu'un reçu Home Depot ne vous dit pas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu Home Depot prouve la date et le montant d'un achat, mais sa description est souvent trop abrégée pour savoir ce qu'on a acheté. Voici deux lignes d'un reçu Home Depot numérisé dans le compte de démonstration ReFound :"
+          },
+          {
+            "type": "table",
+            "caption": "Ce que dit le reçu, et ce que ReFound a identifié",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié par ReFound"
+            ],
+            "rows": [
+              [
+                "XL VT BOT <A>",
+                "Chewing-gum sans sucre à la menthe verte Wrigley's Excel Bottle (60 unités)"
+              ],
+              [
+                "1 4\" BLK <A> chithe",
+                "Chiffre de maison « 1 », noir, 4 pouces"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Sur une gomme à mâcher, l'enjeu est mince. Sur un climatiseur ou un outil, la même abréviation empêche de savoir quel modèle vous avez et quelle garantie s'y rattache. S'ajoute le papier thermique, qui peut pâlir bien avant la fin d'une garantie de plusieurs années. Les détails de ces exemples sont sur notre [page sur les reçus Home Depot](/marchands/recus-home-depot)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound garde une image lisible du reçu, identifie le produit derrière une ligne abrégée quand les données du marchand le permettent, et affiche la garantie du magasin ou du fabricant quand elle est disponible, avec sa date de fin. Il estime aussi une date limite de retour selon la politique générale du marchand : pour un téléviseur, un ordinateur ou une souffleuse, fiez-vous plutôt au délai de 30 jours ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. L'acceptation d'un retour reste toujours à la discrétion de Home Depot."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour chez Home Depot",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Retrouvez le reçu et vérifiez la date d'achat.",
+              "Repérez la catégorie de l'article : 90 jours, 30 jours, ou aucun retour.",
+              "Vérifiez que l'article est inutilisé et dans un état comme neuf.",
+              "Pour un article de 30 jours, assurez-vous d'avoir le reçu : il est obligatoire.",
+              "Si vous avez payé avec une carte de crédit Home Depot, vérifiez si le délai de 365 jours s'applique.",
+              "Sans reçu, apportez une pièce d'identité avec photo émise par le gouvernement.",
+              "Pour une commande en ligne, gardez le numéro de commande ou le numéro d'autorisation de retour."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si le reçu a pâli, voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire). Pour retrouver le bon reçu au comptoir, voyez l'[application pour les retours en magasin](/application-retours-magasin)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de jours a-t-on pour retourner un article chez Home Depot?",
+        "a": "La plupart des articles se retournent dans les 90 jours suivant l'achat, avec le reçu. Les téléviseurs, ordinateurs, climatiseurs, meubles, génératrices, l'équipement à essence et l'équipement à batterie ou à fil ont 30 jours. Avec une carte de crédit Home Depot, le délai est de 365 jours."
+      },
+      {
+        "q": "Home Depot accepte-t-il les retours sans reçu?",
+        "a": "Pour certains articles, avec une pièce d'identité avec photo émise par le gouvernement et l'approbation d'un système de vérification. Pour les articles de 30 jours, aucun remboursement, échange ou crédit n'est accordé sans reçu."
+      },
+      {
+        "q": "Peut-on retourner un électroménager chez Home Depot?",
+        "a": "Non. Les électroménagers ne peuvent pas être retournés. Un dommage doit être signalé dans les 48 heures suivant la livraison. Au Québec, un électroménager acheté neuf depuis le 5 octobre 2026 a une garantie de bon fonctionnement de 5 ou 6 ans selon l'appareil."
+      },
+      {
+        "q": "Peut-on retourner un achat en ligne Home Depot en magasin?",
+        "a": "Oui. Un achat fait sur homedepot.ca peut être rapporté dans n'importe quel magasin Home Depot au Canada dans les 90 jours, sous réserve des exceptions par catégorie."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus Home Depot pour le retour et pour la garantie",
+    "ctaBody": "Numérisez le reçu dès l'achat : ReFound garde une copie lisible, identifie le produit quand c'est possible et affiche sa garantie quand elle est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Reçus Home Depot",
+        "href": "/marchands/recus-home-depot",
+        "desc": "Décoder les descriptions abrégées."
+      },
+      {
+        "label": "Politique de retour Canadian Tire",
+        "href": "/blog/politique-retour-canadian-tire",
+        "desc": "Délais, reçu et garanties."
+      },
+      {
+        "label": "Application de garanties",
+        "href": "/application-garanties",
+        "desc": "Suivre ses garanties et preuves d'achat."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Politique de retour des marchandises",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+        "accessed": "2026-11-01"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-01"
+      },
+      {
+        "label": "La garantie de bon fonctionnement des électroménagers et appareils électroniques",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/la-garantie-de-bon-fonctionnement-des-electromenagers-et-appareils-electroniques/",
+        "accessed": "2026-11-01"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 1er novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Home Depot Return Policy: Time Limits, Receipts & Warranties | ReFound",
+    "metaDescription": "90 days for most items, 30 for TVs and computers, no returns on appliances. Plus the Quebec warranty that covers you long after the return window.",
+    "keywords": "Home Depot return policy, Home Depot return without receipt, Home Depot return window, Home Depot appliance return, Home Depot credit card 365 days, Home Depot receipt, warranty of good working order Quebec",
+    "category": "Guide",
+    "date": "November 1, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Home Depot return policy",
+    "eyebrow": "Returns",
+    "h1": "Home Depot return policy: time limits, receipts and warranties",
+    "card": {
+      "title": "Home Depot return policy: time limits, receipts and warranties (2026)",
+      "subtitle": "90, 30 or zero days depending on the item, then warranties that last for years. With dates worked out."
+    },
+    "coverAlt": "Store receipt showing Home Depot return windows of 30, 90 and 365 days",
+    "intro": [
+      "Short answer: at Home Depot Canada, most items can be returned within 90 days of purchase with a valid receipt, unused and in like-new condition. The window is 365 days for purchases made with a Home Depot credit card. Several categories only get 30 days, including TVs, computers, air conditioners and furniture, and major appliances cannot be returned at all.",
+      "What most summaries miss: the items with the shortest return window often have the longest warranty. In Quebec, a refrigerator bought new since October 5, 2026 cannot be returned at Home Depot, yet it has a 6-year warranty of good working order. This guide puts the two side by side, with dates worked out for a purchase made today."
+    ],
+    "sections": [
+      {
+        "heading": "What is the Home Depot return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Home Depot Canada's general rule is **90 days** from purchase with a valid sales receipt. It covers in-store purchases and online purchases, which can be returned to any Home Depot store in Canada."
+          },
+          {
+            "type": "p",
+            "text": "Three conditions appear in the official policy:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "A valid sales receipt, which serves as proof of purchase.",
+              "An unused item, in \"like-new condition\".",
+              "The time limit for the item's category: 90 days, 30 days, or no returns."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The policy also asks you to report any product damage or defect within 30 days. For a delivered major appliance, that window is 48 hours after delivery."
+          }
+        ]
+      },
+      {
+        "heading": "Return windows by type of item",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The 90-day window doesn't apply to the whole store. These are the categories with a different time limit, according to Home Depot Canada's official policy."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-home-depot/delais-retour-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Bars comparing Home Depot return windows: major appliances non-returnable, 30 days for TVs, computers and gas-powered equipment, 90 days for most items, 365 days with a Home Depot credit card",
+            "caption": "Home Depot return windows. Source: homedepot.ca, checked November 1, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Return windows by category at Home Depot Canada",
+            "headers": [
+              "Category",
+              "Window",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "Most items (in store or online)",
+                "90 days",
+                "With receipt, unused, like-new condition"
+              ],
+              [
+                "Purchase made with a Home Depot credit card",
+                "365 days",
+                "Per the card terms in the policy"
+              ],
+              [
+                "Holiday décor, air conditioners, generators, furniture, TVs, printers, computers, gas-powered equipment",
+                "30 days",
+                "Receipt required"
+              ],
+              [
+                "Battery and corded equipment, including snow blowers",
+                "30 days",
+                "From delivery or in-store purchase"
+              ],
+              [
+                "Major appliances",
+                "No returns",
+                "Damage must be reported within 48 hours of delivery"
+              ],
+              [
+                "Custom window coverings",
+                "Exception",
+                "Only if identified as \"Guaranteed to Fit\""
+              ],
+              [
+                "Some special orders",
+                "Varies",
+                "15% restocking fee"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "A snow blower bought in November",
+            "text": "Battery and corded equipment, snow blowers included, gets 30 days, not 90. A snow blower bought on November 1, 2026 has to go back by about December 1, often before the first real snowfall. Try it early."
+          }
+        ]
+      },
+      {
+        "heading": "Can you return something to Home Depot without a receipt?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sometimes, but not everything. For a return without a receipt, Home Depot requires acceptable government-issued photo ID, and the return is subject to verification system approval. The same applies to purchases paid with store credit."
+          },
+          {
+            "type": "p",
+            "text": "For items on the 30-day list (TVs, computers, air conditioners, furniture, generators, gas-powered equipment, holiday décor, printers), the policy is clear: no refunds, exchanges or store credit without a receipt. It also says an item returned after 30 days or without a receipt may be sent out for repair and treated as customer-owned merchandise."
+          },
+          {
+            "type": "p",
+            "text": "The official page doesn't say how a no-receipt return is refunded for other items. If you no longer have the receipt, call your store before you go, and bring the card you paid with."
+          }
+        ]
+      },
+      {
+        "heading": "What can't you return to Home Depot?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Some items cannot be returned to Home Depot Canada, receipt or not. The official list includes:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "major appliances;",
+              "gift cards, gift certificates and store credits;",
+              "custom-made products and custom-tinted paint (except \"Guaranteed to Fit\" window coverings);",
+              "standby generators, wallpaper, spas and hot tubs, and utility trailers;",
+              "online flooring samples;",
+              "donations to The Home Depot Canada Foundation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Purchases made at homedepot.com or other Home Depot companies may be refused in Canada unless the item is stocked or sold in the store where you return it. A used gas-powered lawn mower, tractor or snow blower isn't taken back: it will be repaired, if possible, under the manufacturer's warranty."
+          }
+        ]
+      },
+      {
+        "heading": "After the return window: the warranties that take over",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Once the return window is over, or if there never was one, a defective item can still be repaired or replaced under a warranty. A warranty doesn't extend the return window: it's a different remedy that gets you a repair or a replacement, not a refund."
+          },
+          {
+            "type": "h3",
+            "text": "The manufacturer's warranty"
+          },
+          {
+            "type": "p",
+            "text": "Most products sold at Home Depot carry a manufacturer's warranty whose length and terms depend on the brand and model. It's the route Home Depot's policy points to for used gas-powered equipment. Either way, you'll be asked for dated proof of purchase. See [the difference between a store guarantee and a manufacturer warranty](/en/blog/store-warranty-vs-manufacturer-warranty)."
+          },
+          {
+            "type": "h3",
+            "text": "In Quebec: the warranty of good working order since October 5, 2026"
+          },
+          {
+            "type": "p",
+            "text": "Since **October 5, 2026**, a legal warranty of good working order applies in Quebec to 14 categories of goods bought or leased new from a merchant. The merchant or the manufacturer must repair them free of charge for a set period, counted from delivery. It comes on top of the existing legal warranty, which requires goods to be fit for normal use for a reasonable length of time."
+          },
+          {
+            "type": "p",
+            "text": "Many of these goods are exactly the ones Home Depot takes back for the shortest time. Here is the math for a purchase made on November 1, 2026 and delivered the same day, in Quebec:"
+          },
+          {
+            "type": "table",
+            "caption": "Purchase on November 1, 2026 at Home Depot, in Quebec: return vs warranty of good working order",
+            "headers": [
+              "Item",
+              "Home Depot return",
+              "Return ends (about)",
+              "Warranty of good working order",
+              "Warranty ends (about)"
+            ],
+            "rows": [
+              [
+                "Refrigerator, stove, freezer",
+                "No returns",
+                "—",
+                "6 years",
+                "November 2032"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "No returns",
+                "—",
+                "5 years",
+                "November 2031"
+              ],
+              [
+                "Air conditioner",
+                "30 days",
+                "December 1, 2026",
+                "6 years",
+                "November 2032"
+              ],
+              [
+                "Television",
+                "30 days",
+                "December 1, 2026",
+                "4 years",
+                "November 2030"
+              ],
+              [
+                "Laptop or desktop computer",
+                "30 days",
+                "December 1, 2026",
+                "3 years",
+                "November 2029"
+              ]
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-home-depot/retour-vs-garantie-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "To-scale chart: the Home Depot return window of 0 to 30 days is a thin sliver next to the 3 to 6 year warranty of good working order for a refrigerator, washer, air conditioner, TV and computer",
+            "caption": "To scale: days to return, years of warranty. Sources: homedepot.ca, Government of Quebec, checked November 1, 2026."
+          },
+          {
+            "type": "p",
+            "text": "An air conditioner can be returned for 30 days, but its warranty of good working order lasts about 73 times longer. It doesn't cover normal maintenance or damage you caused, and you choose whether to go to the merchant or the manufacturer. To use it five years from now, you'll need to show when and where the item was bought and delivered: the receipt or the delivery invoice is the simplest proof."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Delivered appliance: 48 hours to report damage",
+            "text": "Home Depot doesn't take back major appliances, and damage must be reported within 48 hours of delivery. Inspect the appliance as soon as it arrives. After that, the manufacturer's warranty and, in Quebec, the legal warranties apply."
+          }
+        ]
+      },
+      {
+        "heading": "Returning a Home Depot online order",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "An item ordered on homedepot.ca can be returned to any Home Depot store in Canada within 90 days of purchase, subject to the category exceptions. Some eligible products can also be returned online."
+          },
+          {
+            "type": "p",
+            "text": "You can also call customer service within 90 days: Home Depot arranges for the item to be picked up and gives you a return authorization number (RA#). Keep that number with your order confirmation."
+          }
+        ]
+      },
+      {
+        "heading": "What a Home Depot receipt doesn't tell you",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A Home Depot receipt proves the date and amount of a purchase, but the description is often too abbreviated to tell what you bought. Here are two lines from a Home Depot receipt scanned in the ReFound demo account:"
+          },
+          {
+            "type": "table",
+            "caption": "What the receipt says, and what ReFound identified",
+            "headers": [
+              "Receipt line",
+              "Product identified by ReFound"
+            ],
+            "rows": [
+              [
+                "XL VT BOT <A>",
+                "Wrigley's Excel Bottle Spearmint Sugar Free Gum 60s"
+              ],
+              [
+                "1 4\" BLK <A> chithe",
+                "4-inch Black House Number 1 - 1pc"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "With chewing gum, not much is at stake. With an air conditioner or a power tool, the same kind of abbreviation leaves you unsure which model you own and which warranty applies. Add thermal paper, which can fade long before a multi-year warranty ends. Details on these examples are on our [Home Depot receipts page](/en/merchants/home-depot-receipts)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound keeps a readable image of the receipt, identifies the product behind an abbreviated line when the merchant's data allows, and shows the store or manufacturer warranty when it's available, with its end date. It also estimates a return deadline based on the merchant's general policy: for a TV, a computer or a snow blower, go by the 30-day window above instead. With ReFound Pro, a reminder arrives 3 days before the return deadline and 30 days before a warranty ends. Whether a return is accepted is always up to Home Depot."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare a return at Home Depot",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Find the receipt and check the purchase date.",
+              "Identify the item's category: 90 days, 30 days, or no returns.",
+              "Make sure the item is unused and in like-new condition.",
+              "For a 30-day item, make sure you have the receipt: it's required.",
+              "If you paid with a Home Depot credit card, check whether the 365-day window applies.",
+              "Without a receipt, bring government-issued photo ID.",
+              "For an online order, keep the order number or the return authorization number."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If the receipt has faded, see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do). To find the right receipt at the counter, see the [returns app](/en/returns-app)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How many days do you have to return something to Home Depot?",
+        "a": "Most items can be returned within 90 days of purchase with the receipt. TVs, computers, air conditioners, furniture, generators, gas-powered equipment and battery or corded equipment get 30 days. With a Home Depot credit card, the window is 365 days."
+      },
+      {
+        "q": "Does Home Depot accept returns without a receipt?",
+        "a": "For some items, with government-issued photo ID and verification system approval. For 30-day items, no refunds, exchanges or store credit are given without a receipt."
+      },
+      {
+        "q": "Can you return a major appliance to Home Depot?",
+        "a": "No. Major appliances are non-returnable, and damage must be reported within 48 hours of delivery. In Quebec, an appliance bought new since October 5, 2026 has a warranty of good working order of 5 or 6 years depending on the appliance."
+      },
+      {
+        "q": "Can you return a Home Depot online order in store?",
+        "a": "Yes. A purchase made on homedepot.ca can be returned to any Home Depot store in Canada within 90 days, subject to the category exceptions."
+      }
+    ],
+    "ctaTitle": "Keep your Home Depot receipts ready for the return and the warranty",
+    "ctaBody": "Scan the receipt right after you buy: ReFound keeps a readable copy, identifies the product when it can and shows its warranty when it's available.",
+    "relatedTitle": "Go further",
+    "related": [
+      {
+        "label": "Home Depot receipts",
+        "href": "/en/merchants/home-depot-receipts",
+        "desc": "Decode the abbreviated descriptions."
+      },
+      {
+        "label": "Canadian Tire return policy",
+        "href": "/en/blog/canadian-tire-return-policy",
+        "desc": "Time limits, receipts and warranties."
+      },
+      {
+        "label": "Warranty tracker app",
+        "href": "/en/warranty-tracker-app",
+        "desc": "Track warranties and proof of purchase."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Return policy",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/en/home/customer-support/return-policy.html",
+        "accessed": "2026-11-01"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt (French)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-01"
+      },
+      {
+        "label": "The warranty of good working order for appliances and electronic devices",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/en/capsules/the-warranty-of-good-working-order-for-appliances-and-electronic-devices/",
+        "accessed": "2026-11-01"
+      }
+    ],
+    "factCheckLabel": "Facts checked on November 1, 2026"
+  }
+}

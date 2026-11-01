@@ -34,3 +34,7 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 - Graphiques à l'échelle (barres et axes proportionnels).
 - Pas de fausse capture d'écran de l'app ReFound, pas de logo de marchand, pas de vrai reçu avec données personnelles.
 - Vérifier chaque image rendue avant de pousser (chevauchements, texte coupé).
+
+## Gabarits supplémentaires
+
+`render-home-depot.js` : `windows()` (délais de retour à l'échelle, avec une ligne « aucun retour ») et `vsWarranty()` (délai de retour vs garantie de bon fonctionnement, à l'échelle en années). Réutilisables pour d'autres marchands en changeant les données.
