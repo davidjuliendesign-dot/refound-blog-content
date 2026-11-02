@@ -1,0 +1,898 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-ikea",
+  "frPath": "/blog/politique-retour-ikea",
+  "enPath": "/en/blog/ikea-return-policy",
+  "datePublished": "2026-11-02T09:00:00-05:00",
+  "dateModified": "2026-11-02T09:00:00-05:00",
+  "lastFactCheck": "2026-11-02",
+  "cover": {
+    "src": "/images/blog/politique-retour-ikea/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delais-retour-fr.png",
+    "delais-retour-en.png",
+    "garanties-fr.png",
+    "garanties-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour IKEA : 365 jours, 90 jours et garanties | ReFound",
+    "metaDescription": "365 jours si la boîte est fermée, 90 jours si elle est ouverte, carte de remboursement sans reçu. Avec les dates calculées et les garanties IKEA.",
+    "keywords": [
+      "politique de retour IKEA",
+      "retour IKEA sans reçu",
+      "retour IKEA 365 jours",
+      "retour meuble IKEA assemblé",
+      "retour matelas IKEA",
+      "garantie IKEA",
+      "reçu IKEA"
+    ],
+    "category": "Guide",
+    "date": "2 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour IKEA",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour IKEA au Canada : délais, reçu et garanties",
+    "card": {
+      "title": "Politique de retour IKEA : 365 jours, 90 jours et garanties (2026)",
+      "subtitle": "Boîte fermée ou ouverte, avec ou sans reçu : ce qui change, avec des dates calculées."
+    },
+    "coverAlt": "Reçu IKEA avec trois lignes identiques VÅGSJÖN et le délai de retour de 365 jours",
+    "intro": [
+      "Chez IKEA Canada, un article neuf non ouvert se retourne dans les 365 jours avec une preuve d'achat, et un article ouvert, même assemblé, dans les 90 jours s'il est inutilisé et revendable. Sans preuve d'achat, IKEA rembourse sur une carte de remboursement, au prix de vente le plus bas de l'année précédente.",
+      "Le délai qui s'applique dépend donc d'une question simple : avez-vous ouvert la boîte? Ce guide reprend la politique officielle, calcule les dates pour un achat réel, puis montre ce qui reste une fois le retour impossible : des garanties IKEA de 6 à 25 ans selon le produit, et au Québec, la garantie de bon fonctionnement."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour d'IKEA au Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "IKEA Canada reprend un article neuf **non ouvert dans les 365 jours** et un article **ouvert dans les 90 jours**, avec la preuve d'achat. C'est quatre fois le délai général de 90 jours de [Canadian Tire](/blog/politique-retour-canadian-tire) ou de [Home Depot](/blog/politique-retour-home-depot), mais la politique est conditionnelle : l'état de l'article décide du délai et du mode de remboursement."
+          },
+          {
+            "type": "table",
+            "caption": "Politique de retour IKEA Canada (vérifiée le 2 novembre 2026)",
+            "headers": [
+              "Situation",
+              "Délai",
+              "Remboursement"
+            ],
+            "rows": [
+              [
+                "Article neuf non ouvert, avec preuve d'achat",
+                "365 jours",
+                "Remboursement intégral sur le mode de paiement d'origine"
+              ],
+              [
+                "Article ouvert ou assemblé, sans trace d'utilisation",
+                "90 jours",
+                "Mode de paiement d'origine"
+              ],
+              [
+                "Article testé, avec quelques traces d'utilisation",
+                "90 jours",
+                "Carte de remboursement IKEA"
+              ],
+              [
+                "Aliments IKEA, plantes vivantes, articles « Tel quel »",
+                "90 jours",
+                "Carte de remboursement IKEA"
+              ],
+              [
+                "Matelas IKEA neuf (programme d'essai)",
+                "90 jours, un seul échange ou retour",
+                "Avec preuve d'achat ; frais de livraison ou de ramassage applicables"
+              ],
+              [
+                "Sans preuve d'achat",
+                "Non précisé",
+                "Carte de remboursement, au prix de vente le plus bas de l'année précédente"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La politique précise que les tissus coupés, les comptoirs sur mesure et les articles très utilisés, sales, tachés, endommagés ou modifiés en sont exclus. Source : [politique d'échanges et de retours IKEA Canada](https://www.ikea.com/ca/fr/customer-service/returns-claims/return-policy/)."
+          }
+        ]
+      },
+      {
+        "heading": "Ouvert ou non ouvert : ce qui change vraiment",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ouvrir la boîte fait passer le délai de 365 à 90 jours. Après 90 jours, un article ouvert ne relève plus de la politique de retour, même s'il n'a jamais servi."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-ikea/delais-retour-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle des délais IKEA : 14 jours pour la protection contre le bris IKEA Family, 90 jours pour un article ouvert et pour l'essai de matelas, 365 jours pour un article neuf non ouvert",
+            "caption": "Délais de retour IKEA Canada, à l'échelle. Source : ikea.com/ca, vérifié le 2 novembre 2026."
+          },
+          {
+            "type": "p",
+            "text": "Un meuble assemblé reste retournable : IKEA reprend les articles ouverts dans les 90 jours, « même ceux assemblés », à condition qu'ils soient inutilisés et revendables. Le mode de remboursement dépend ensuite des traces d'utilisation :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Assemblé, sans preuve d'utilisation** : remboursé sur le mode de paiement d'origine.",
+              "**Testé et essayé, avec quelques traces d'utilisation** : remboursé sur une carte de remboursement IKEA.",
+              "**Très utilisé, sale, taché, endommagé ou modifié** : exclu de la politique de retour."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Le reçu ne dit pas si vous avez ouvert la boîte",
+            "text": "Le reçu indique la date d'achat, pas l'état de l'article. Pour une commode encore emballée, vous avez un an. Pour la même commode montée le lendemain, vous avez 90 jours. C'est à vous de savoir lequel des deux délais vous concerne."
+          }
+        ]
+      },
+      {
+        "heading": "Les dates calculées pour un achat du 2 novembre 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour un achat fait le 2 novembre 2026, le retour d'un article ouvert se termine autour du 31 janvier 2027, et celui d'un article non ouvert autour du 2 novembre 2027. Voici chaque échéance, calculée à partir des délais officiels."
+          },
+          {
+            "type": "table",
+            "caption": "Échéances pour un achat IKEA du 2 novembre 2026 (dates approximatives, à confirmer selon le décompte d'IKEA)",
+            "headers": [
+              "Situation",
+              "Délai officiel",
+              "Échéance (environ)"
+            ],
+            "rows": [
+              [
+                "Dommage pendant le transport ou l'assemblage (membres IKEA Family)",
+                "14 jours",
+                "16 novembre 2026"
+              ],
+              [
+                "Code QR de retour express, une fois le retour enregistré",
+                "Valide 14 jours",
+                "14 jours après l'enregistrement"
+              ],
+              [
+                "Article ouvert ou assemblé, inutilisé",
+                "90 jours",
+                "31 janvier 2027"
+              ],
+              [
+                "Aliments, plantes vivantes, « Tel quel »",
+                "90 jours",
+                "31 janvier 2027"
+              ],
+              [
+                "Matelas : échange ou retour",
+                "90 jours",
+                "31 janvier 2027"
+              ],
+              [
+                "Article neuf non ouvert",
+                "365 jours",
+                "2 novembre 2027"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le matelas a une contrainte de plus. IKEA conseille d'attendre au moins un mois pour que le corps s'habitue au matelas avant de l'échanger. Si vous suivez ce conseil, la fenêtre utile pour décider va donc d'environ début décembre 2026 au 31 janvier 2027 : à peu près deux mois, pas trois."
+          },
+          {
+            "type": "p",
+            "text": "Passé 365 jours, IKEA ne reprend plus l'article au titre de la politique de retour, mais il peut être admissible au programme Revendez-les IKEA, selon la page officielle."
+          }
+        ]
+      },
+      {
+        "heading": "Retour IKEA sans reçu : ce que vous perdez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sans preuve d'achat, IKEA rembourse sur une carte de remboursement IKEA, au prix de vente le plus bas de l'année précédente, plutôt que sur votre carte ou votre mode de paiement d'origine. La carte est valide dans tous les magasins IKEA et sur fr.IKEA.ca."
+          },
+          {
+            "type": "p",
+            "text": "Concrètement, perdre le reçu coûte deux choses. D'abord, l'argent reste chez IKEA sous forme de crédit. Ensuite, si l'article a été en solde à un moment dans l'année, c'est ce prix réduit qui sert de base, même si vous l'avez payé plein prix. Pour un canapé ou une cuisine, l'écart peut être important."
+          },
+          {
+            "type": "p",
+            "text": "La même règle s'applique à un article acheté dans un magasin IKEA à l'étranger, s'il fait partie de l'assortiment canadien : remboursement sur carte de remboursement, au prix le plus bas de l'année précédente."
+          },
+          {
+            "type": "p",
+            "text": "Un reçu de caisse imprimé sur papier thermique peut pâlir avant la fin des 365 jours. Si le vôtre devient difficile à lire, voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          }
+        ]
+      },
+      {
+        "heading": "Après le délai de retour : les garanties IKEA prennent le relais",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Quand le retour n'est plus possible, un article défectueux peut encore être réparé ou remplacé grâce à une garantie limitée IKEA, qui dure de 2 à 25 ans selon le produit. La garantie ne prolonge pas le délai de retour : elle couvre les défauts, pas un changement d'idée, et donne une réparation ou un remplacement, pas un remboursement."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-ikea/garanties-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle en années : retour d'un article non ouvert 1 an, garantie des électroménagers IKEA 6 ans, matelas, PAX et canapés 10 ans, cuisine SEKTION 25 ans",
+            "caption": "Le délai de retour comparé aux garanties IKEA, à l'échelle. Source : ikea.com/ca, vérifié le 2 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Durée des principales garanties limitées IKEA Canada",
+            "headers": [
+              "Produit",
+              "Garantie IKEA"
+            ],
+            "rows": [
+              [
+                "Système de cuisine SEKTION",
+                "25 ans (défauts de matériaux et de fabrication)"
+              ],
+              [
+                "Système de cuisine ENHET, robinets de cuisine",
+                "10 ans"
+              ],
+              [
+                "Électroménagers IKEA",
+                "6 ans, sauf TILLREDA : 2 ans"
+              ],
+              [
+                "Matelas et sommiers portant le logo IKEA",
+                "10 ans"
+              ],
+              [
+                "Armoires PAX et aménagements KOMPLEMENT portant le logo",
+                "10 ans"
+              ],
+              [
+                "Canapés, fauteuils et repose-pieds (cadres et coussins)",
+                "10 ans, et 25 ans dans certains cas"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Pour faire une réclamation, la brochure de garantie des meubles rembourrés est claire : « Le reçu d'achat original est requis comme preuve d'achat. » La page d'aide d'IKEA accepte aussi le reçu ou le numéro de commande, et indique que, sans reçu, IKEA tentera de vérifier l'achat. Voyez [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Deux points de départ selon la page",
+            "text": "La page des garanties d'IKEA indique que les conditions commencent le jour où vous recevez le produit, alors que la brochure et la page d'aide parlent de la date d'achat. Pour un meuble livré plusieurs jours après l'achat, gardez à la fois le reçu et la confirmation de livraison."
+          },
+          {
+            "type": "h3",
+            "text": "Au Québec : la garantie de bon fonctionnement s'ajoute"
+          },
+          {
+            "type": "p",
+            "text": "Depuis le **5 octobre 2026**, au Québec, certains biens achetés neufs auprès d'un commerçant ont une garantie légale de bon fonctionnement : réparation gratuite par le commerçant ou le fabricant, pendant une durée calculée à partir de la livraison. Elle s'ajoute à la garantie IKEA ; l'une ne remplace pas l'autre."
+          },
+          {
+            "type": "table",
+            "caption": "Électroménager acheté neuf chez IKEA au Québec : garantie IKEA et garantie de bon fonctionnement",
+            "headers": [
+              "Bien",
+              "Garantie IKEA",
+              "Garantie de bon fonctionnement (Québec)"
+            ],
+            "rows": [
+              [
+                "Réfrigérateur",
+                "6 ans",
+                "6 ans"
+              ],
+              [
+                "Lave-vaisselle",
+                "6 ans",
+                "5 ans"
+              ],
+              [
+                "Table de cuisson portative TILLREDA",
+                "2 ans",
+                "Hors de la liste"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les meubles, matelas et cuisines ne figurent pas dans la liste de la garantie de bon fonctionnement. Pour eux, c'est la garantie IKEA et la garantie légale générale du Québec qui s'appliquent : un bien doit servir à un usage normal pendant une durée raisonnable. Pour la différence entre ces protections, voyez [garantie du magasin ou du fabricant](/blog/garantie-magasin-vs-garantie-manufacturier)."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que le reçu IKEA ne vous dit pas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu IKEA prouve l'achat, mais il identifie mal le produit : la ligne imprimée donne le nom de la gamme et une description abrégée, sans la couleur ni souvent le format. Au moment d'un retour partiel, c'est un vrai problème."
+          },
+          {
+            "type": "p",
+            "text": "Sur notre reçu IKEA de démonstration, la même ligne est imprimée trois fois, à l'identique. Voici ce que ReFound a identifié derrière chacune :"
+          },
+          {
+            "type": "table",
+            "caption": "Reçu IKEA de démonstration : ligne imprimée et produit identifié par ReFound",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié par ReFound"
+            ],
+            "rows": [
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Débarbouillette, blanc, 12x12 po"
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Débarbouillette, beige clair, 12x12 po"
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Débarbouillette, gris foncé, 12x12 po"
+              ],
+              [
+                "AFTONSPARV dvt cvr+p",
+                "AFTONSPARV Housse de couette et 1 taie, espace/multicolore, 1 place"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si vous voulez retourner seulement la débarbouillette grise, le reçu ne permet pas de savoir laquelle des trois lignes la concerne. Pour un meuble offert en plusieurs finis, la question se pose de la même façon, et le jour d'une réclamation de garantie, il faut aussi nommer le bon modèle. Les détails de ces exemples sont sur notre [page sur les reçus IKEA](/marchands/recus-ikea)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Comment ReFound aide",
+            "text": "ReFound garde une copie lisible du reçu et associe chaque ligne à un produit nommé quand l'information est disponible, avec une photo et un lien vers la fiche du marchand. L'identification dépend du produit et des données disponibles : elle n'est pas garantie pour chaque article. Ces exemples proviennent d'un compte de démonstration et ne constituent pas une règle générale."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour chez IKEA",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez l'état de l'article : non ouvert (365 jours) ou ouvert, même assemblé (90 jours, s'il est inutilisé et revendable).",
+              "Retrouvez la preuve d'achat : reçu de caisse ou confirmation de commande. Sans elle, le remboursement se fait sur une carte de remboursement, au prix le plus bas de l'année précédente.",
+              "Si votre magasin l'offre, enregistrez le retour à l'avance : vous recevez un code QR par courriel ou texto, valide 14 jours, à présenter au comptoir des retours.",
+              "Vérifiez si votre magasin exige un rendez-vous : IKEA précise que certains emplacements en demandent un pour les retours.",
+              "Apportez la carte ou le mode de paiement utilisé à l'achat, puisque le remboursement y est versé quand l'article est admissible."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Dans ReFound, le reçu, le produit identifié, le code-barres du reçu quand il est détecté et le mode de paiement sont regroupés dans la vue de retour. ReFound affiche une date limite de retour estimée selon la politique générale du marchand, quand elle est connue ; il ne sait pas si vous avez ouvert la boîte, donc le délai de 90 jours reste à surveiller vous-même. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. Pour un achat fait par un proche, voyez [comment partager un reçu](/blog/partager-recu-conjoint-famille)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Peut-on retourner un meuble IKEA déjà assemblé?",
+        "a": "Oui, dans les 90 jours, s'il est inutilisé et revendable. Sans trace d'utilisation, il est remboursé sur le mode de paiement d'origine ; avec quelques traces d'utilisation, sur une carte de remboursement IKEA. Un article très utilisé, sale, endommagé ou modifié est exclu."
+      },
+      {
+        "q": "Peut-on faire un retour chez IKEA sans reçu?",
+        "a": "Oui, mais IKEA rembourse alors sur une carte de remboursement IKEA, au prix de vente le plus bas de l'année précédente, et non sur votre mode de paiement d'origine."
+      },
+      {
+        "q": "Peut-on retourner un article IKEA après 365 jours?",
+        "a": "Non, la politique de retour s'arrête à 365 jours pour un article non ouvert. L'article peut être admissible au programme Revendez-les IKEA, et s'il est défectueux, c'est la garantie IKEA qui s'applique, si elle couvre le produit."
+      },
+      {
+        "q": "Faut-il garder le reçu pour la garantie IKEA?",
+        "a": "Oui. La brochure de garantie des meubles rembourrés exige le reçu d'achat original comme preuve d'achat. La page d'aide d'IKEA accepte aussi le numéro de commande et indique que, sans reçu, IKEA tentera de vérifier l'achat."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus IKEA pour le retour et pour la garantie",
+    "ctaBody": "Numérisez le reçu le jour de l'achat : ReFound garde une copie lisible, identifie le produit derrière chaque ligne quand c'est possible et affiche sa garantie quand elle est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Reçus IKEA",
+        "href": "/marchands/recus-ikea",
+        "desc": "Trois lignes identiques, trois produits."
+      },
+      {
+        "label": "Application pour les retours",
+        "href": "/application-retours-magasin",
+        "desc": "Retrouver le bon reçu au comptoir."
+      },
+      {
+        "label": "Politique de retour Home Depot",
+        "href": "/blog/politique-retour-home-depot",
+        "desc": "Délais, reçu et garanties."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Politique d'échanges et de retours IKEA Canada",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/fr/customer-service/returns-claims/return-policy/",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Warranties (garanties limitées)",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/returns-claims/guarantee",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Garantie limitée des meubles rembourrés (PDF)",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/fr/files/pdf/f3/24/f324372c/seating-furniture-warranty-brochure-fr-fy26-l1.pdf",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Can I make a warranty claim?",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/knowledge/articles/f1dgfgb7-cb1b-4cfe-b76d-gb7c3e8fd98b.html",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-02"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 2 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "IKEA Return Policy in Canada: 365 Days, 90 Days & Warranties | ReFound",
+    "metaDescription": "365 days if the box is sealed, 90 days once opened, a refund card without a receipt. With calculated dates and IKEA's warranties.",
+    "keywords": [
+      "IKEA return policy",
+      "IKEA return policy Canada",
+      "IKEA return without receipt",
+      "IKEA 365 day return",
+      "return assembled IKEA furniture",
+      "IKEA mattress return",
+      "IKEA warranty",
+      "IKEA receipt"
+    ],
+    "category": "Guide",
+    "date": "November 2, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "IKEA return policy",
+    "eyebrow": "Returns",
+    "h1": "IKEA Return Policy in Canada: Time Limits, Receipts & Warranties",
+    "card": {
+      "title": "IKEA Return Policy: 365 Days, 90 Days & Warranties (2026)",
+      "subtitle": "Sealed or opened, with or without a receipt: what changes, with calculated dates."
+    },
+    "coverAlt": "IKEA receipt with three identical VÅGSJÖN lines and the 365-day return window",
+    "intro": [
+      "At IKEA Canada, a new, unopened product can be returned within 365 days with proof of purchase, and an opened product, even assembled, within 90 days if it is unused and re-saleable. Without proof of purchase, IKEA refunds on an IKEA refund card at the lowest selling price in the last year.",
+      "So the deadline that applies comes down to one question: did you open the box? This guide covers the official policy, calculates the dates for an actual purchase, then shows what's left once a return is no longer possible: IKEA warranties of 6 to 25 years depending on the product and, in Quebec, the warranty of good working order."
+    ],
+    "sections": [
+      {
+        "heading": "What is IKEA's return policy in Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "IKEA Canada takes back a new **unopened product within 365 days** and an **opened product within 90 days**, with proof of purchase. That's four times the general 90-day window at [Canadian Tire](/en/blog/canadian-tire-return-policy) or [Home Depot](/en/blog/home-depot-return-policy), but the policy is conditional: the item's condition decides both the deadline and how you get your money back."
+          },
+          {
+            "type": "table",
+            "caption": "IKEA Canada return policy (checked November 2, 2026)",
+            "headers": [
+              "Situation",
+              "Time limit",
+              "Refund"
+            ],
+            "rows": [
+              [
+                "New, unopened product, with proof of purchase",
+                "365 days",
+                "Full refund to original payment method"
+              ],
+              [
+                "Opened or assembled, no evidence of use",
+                "90 days",
+                "Original payment method"
+              ],
+              [
+                "Tested and tried, some traces of use",
+                "90 days",
+                "IKEA refund card"
+              ],
+              [
+                "IKEA food, live plants, As-is items",
+                "90 days",
+                "IKEA refund card"
+              ],
+              [
+                "New IKEA mattress (trial)",
+                "90 days, one exchange or return",
+                "With proof of purchase; delivery/pickup fees apply"
+              ],
+              [
+                "No proof of purchase",
+                "Not specified",
+                "Refund card, at the lowest selling price in the last year"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The policy excludes cut fabric, custom countertops and products that have been heavily used, dirty, stained, damaged or modified. Source: [IKEA Canada return policy](https://www.ikea.com/ca/en/customer-service/returns-claims/return-policy)."
+          }
+        ]
+      },
+      {
+        "heading": "Opened vs. unopened: what actually changes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Opening the box shrinks the window from 365 to 90 days. After 90 days, an opened product falls outside the return policy, even if it was never used."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-ikea/delais-retour-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Scaled chart of IKEA time limits: 14 days for IKEA Family breakage protection, 90 days for opened items and the mattress trial, 365 days for new unopened items",
+            "caption": "IKEA Canada return windows, to scale. Source: ikea.com/ca, checked November 2, 2026."
+          },
+          {
+            "type": "p",
+            "text": "Assembled furniture can still go back: IKEA takes back opened products within 90 days, \"even assembled ones,\" as long as they are unused and re-saleable. How you're refunded then depends on signs of use:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Assembled, no evidence of use**: refunded to the original payment method.",
+              "**Tested and tried, some traces of use**: refunded on an IKEA refund card.",
+              "**Heavily used, dirty, stained, damaged or modified**: excluded from the return policy."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "The receipt doesn't say whether you opened the box",
+            "text": "A receipt shows the purchase date, not the item's condition. A dresser still in its box gives you a year. The same dresser assembled the next day gives you 90 days. Knowing which deadline applies is up to you."
+          }
+        ]
+      },
+      {
+        "heading": "The dates, calculated for a November 2, 2026 purchase",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For a purchase made on November 2, 2026, the return window for an opened item ends around January 31, 2027, and for an unopened item around November 2, 2027. Here is each deadline, calculated from the official time limits."
+          },
+          {
+            "type": "table",
+            "caption": "Deadlines for an IKEA purchase on November 2, 2026 (approximate dates; IKEA's own count applies)",
+            "headers": [
+              "Situation",
+              "Official limit",
+              "Deadline (approx.)"
+            ],
+            "rows": [
+              [
+                "Damage during transport or assembly (IKEA Family members)",
+                "14 days",
+                "November 16, 2026"
+              ],
+              [
+                "Express return QR code, once the return is registered",
+                "Valid 14 days",
+                "14 days after registering"
+              ],
+              [
+                "Opened or assembled item, unused",
+                "90 days",
+                "January 31, 2027"
+              ],
+              [
+                "Food, live plants, As-is",
+                "90 days",
+                "January 31, 2027"
+              ],
+              [
+                "Mattress: exchange or return",
+                "90 days",
+                "January 31, 2027"
+              ],
+              [
+                "New, unopened item",
+                "365 days",
+                "November 2, 2027"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Mattresses come with one more constraint. IKEA recommends waiting at least a month for your body to get used to a mattress before exchanging it. If you follow that advice, your real decision window runs from about early December 2026 to January 31, 2027: roughly two months, not three."
+          },
+          {
+            "type": "p",
+            "text": "After 365 days, IKEA no longer takes the item back under the return policy, but it may be eligible for the IKEA Sell-back program, according to the official page."
+          }
+        ]
+      },
+      {
+        "heading": "Returning to IKEA without a receipt: what you lose",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Without proof of purchase, IKEA refunds on an IKEA refund card at the lowest selling price in the last year, instead of to your card or original payment method."
+          },
+          {
+            "type": "p",
+            "text": "In practice, losing the receipt costs you twice. First, your money stays at IKEA as store credit. Second, if the item went on sale at any point that year, the sale price is what you get back, even if you paid full price. On a sofa or a kitchen, the gap can be significant."
+          },
+          {
+            "type": "p",
+            "text": "The same rule applies to an item bought at an IKEA store abroad, if it is part of the Canadian range: refund card, at the lowest selling price in the last year."
+          },
+          {
+            "type": "p",
+            "text": "A receipt printed on thermal paper can fade well before 365 days are up. If yours is getting hard to read, see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          }
+        ]
+      },
+      {
+        "heading": "After the return window: IKEA's warranties take over",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Once a return is no longer possible, a defective product can still be repaired or replaced under an IKEA limited warranty, which lasts 2 to 25 years depending on the product. A warranty doesn't extend the return window: it covers defects, not a change of mind, and it gets you a repair or replacement, not a refund."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-ikea/garanties-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Chart to scale in years: return of an unopened item 1 year, IKEA home appliances 6 years, mattresses, PAX and sofas 10 years, SEKTION kitchen 25 years",
+            "caption": "The return window compared with IKEA warranties, to scale. Source: ikea.com/ca, checked November 2, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Main IKEA Canada limited warranties",
+            "headers": [
+              "Product",
+              "IKEA warranty"
+            ],
+            "rows": [
+              [
+                "SEKTION kitchen system",
+                "25 years (defects in material and workmanship)"
+              ],
+              [
+                "ENHET kitchen system, kitchen faucets",
+                "10 years"
+              ],
+              [
+                "IKEA home appliances",
+                "6 years, except TILLREDA: 2 years"
+              ],
+              [
+                "Mattresses and bed bases marked with the IKEA logo",
+                "10 years"
+              ],
+              [
+                "PAX wardrobes and KOMPLEMENT organizers marked with the logo",
+                "10 years"
+              ],
+              [
+                "Sofas, armchairs and footstools (frames and cushions)",
+                "10 years, or 25 years in some cases"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "To make a claim, the upholstered furniture warranty brochure is explicit: \"The original purchase receipt is required as proof of purchase.\" IKEA's help page also accepts a receipt or order number, and says that without a receipt IKEA will try to verify your purchase. See [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Two different start dates",
+            "text": "IKEA's warranties page says the terms start the day you receive your product, while the brochure and help page refer to the date of purchase. For furniture delivered days after you bought it, keep both the receipt and the delivery confirmation."
+          },
+          {
+            "type": "h3",
+            "text": "In Quebec: the warranty of good working order adds to it"
+          },
+          {
+            "type": "p",
+            "text": "Since **October 5, 2026**, certain goods bought new from a merchant in Quebec carry a legal warranty of good working order: free repair by the merchant or manufacturer for a set period counted from delivery. It adds to the IKEA warranty; one doesn't replace the other."
+          },
+          {
+            "type": "table",
+            "caption": "Appliance bought new at IKEA in Quebec: IKEA warranty and warranty of good working order",
+            "headers": [
+              "Item",
+              "IKEA warranty",
+              "Warranty of good working order (Quebec)"
+            ],
+            "rows": [
+              [
+                "Refrigerator",
+                "6 years",
+                "6 years"
+              ],
+              [
+                "Dishwasher",
+                "6 years",
+                "5 years"
+              ],
+              [
+                "TILLREDA portable cooktop",
+                "2 years",
+                "Not on the list"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Furniture, mattresses and kitchens aren't on the warranty of good working order list. For those, the IKEA warranty and Quebec's general legal warranty apply: goods must be fit for normal use for a reasonable time. For how these protections differ, see [store vs. manufacturer warranty](/en/blog/store-warranty-vs-manufacturer-warranty)."
+          }
+        ]
+      },
+      {
+        "heading": "What your IKEA receipt doesn't tell you",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "An IKEA receipt proves the purchase, but it barely identifies the product: the printed line gives the series name and an abbreviated description, without the colour and often without the size. When you return only part of a purchase, that's a real problem."
+          },
+          {
+            "type": "p",
+            "text": "On our demo IKEA receipt, the same line is printed three times, character for character. Here's what ReFound identified behind each one:"
+          },
+          {
+            "type": "table",
+            "caption": "Demo IKEA receipt: printed line and product identified by ReFound",
+            "headers": [
+              "Receipt line",
+              "Product identified by ReFound"
+            ],
+            "rows": [
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN washcloth, white, 12x12\""
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN washcloth, light beige, 12x12\""
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN washcloth, dark grey, 12x12\""
+              ],
+              [
+                "AFTONSPARV dvt cvr+p",
+                "AFTONSPARV duvet cover and 1 pillowcase, space/multicolour, twin"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If you want to return only the grey washcloth, the receipt can't tell you which of the three lines it is. The same question comes up with furniture sold in several finishes, and when you file a warranty claim you'll also need to name the right model. Full details of these examples are on our [IKEA receipts page](/en/merchants/ikea-receipts)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "How ReFound helps",
+            "text": "ReFound keeps a readable copy of the receipt and matches each line to a named product when the information is available, with a photo and a link to the merchant's product page. Identification depends on the product and available data, so it isn't guaranteed for every item. These examples come from a demo account and are not a general rule."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare an IKEA return",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Check the item's condition: unopened (365 days) or opened, even assembled (90 days, if unused and re-saleable).",
+              "Find your proof of purchase: store receipt or order confirmation. Without it, you're refunded on a refund card at the lowest selling price in the last year.",
+              "If your store offers it, register the return in advance: you'll get a QR code by email or text, valid 14 days, to show at the returns desk.",
+              "Check whether your store requires an appointment: IKEA notes that some locations do for returns.",
+              "Bring the card or payment method you used, since eligible refunds go back to it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In ReFound, the receipt, the identified product, the receipt barcode when it's detected and the payment method are grouped in the return view. ReFound shows an estimated return deadline based on the merchant's general policy, when it's known; it doesn't know whether you opened the box, so the 90-day limit is yours to watch. With ReFound Pro, you get a reminder 3 days before the return deadline and 30 days before a warranty ends. For something a family member bought, see [how to share a receipt](/en/blog/share-receipt-with-partner-family)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Can you return assembled IKEA furniture?",
+        "a": "Yes, within 90 days, if it is unused and re-saleable. With no evidence of use, it's refunded to the original payment method; with some traces of use, on an IKEA refund card. Heavily used, dirty, damaged or modified items are excluded."
+      },
+      {
+        "q": "Can you return something to IKEA without a receipt?",
+        "a": "Yes, but IKEA then refunds on an IKEA refund card at the lowest selling price in the last year, not to your original payment method."
+      },
+      {
+        "q": "Can you return an IKEA item after 365 days?",
+        "a": "No, the return policy ends at 365 days for an unopened item. The item may be eligible for the IKEA Sell-back program, and if it's defective, the IKEA warranty applies if it covers that product."
+      },
+      {
+        "q": "Do you need the receipt for an IKEA warranty claim?",
+        "a": "Yes. The upholstered furniture warranty brochure requires the original purchase receipt as proof of purchase. IKEA's help page also accepts an order number and says that without a receipt IKEA will try to verify the purchase."
+      }
+    ],
+    "ctaTitle": "Keep your IKEA receipts for returns and warranties",
+    "ctaBody": "Scan the receipt the day you buy: ReFound keeps a readable copy, identifies the product behind each line when possible, and shows its warranty when it's available.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "IKEA receipts",
+        "href": "/en/merchants/ikea-receipts",
+        "desc": "Three identical lines, three products."
+      },
+      {
+        "label": "Returns app",
+        "href": "/en/returns-app",
+        "desc": "Find the right receipt at the counter."
+      },
+      {
+        "label": "Home Depot return policy",
+        "href": "/en/blog/home-depot-return-policy",
+        "desc": "Time limits, receipts and warranties."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Return policy",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/returns-claims/return-policy",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Warranties",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/returns-claims/guarantee",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Upholstered furniture limited warranty (PDF)",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/files/pdf/b7/b5/b7b5be07/seating-furniture-warranty-brochure-en-fy26-l1.pdf",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Can I make a warranty claim?",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/knowledge/articles/f1dgfgb7-cb1b-4cfe-b76d-gb7c3e8fd98b.html",
+        "accessed": "2026-11-02"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt (in French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-02"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 2, 2026"
+  }
+}

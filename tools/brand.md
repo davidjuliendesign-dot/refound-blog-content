@@ -38,3 +38,5 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 ## Gabarits supplémentaires
 
 `render-home-depot.js` : `windows()` (délais de retour à l'échelle, avec une ligne « aucun retour ») et `vsWarranty()` (délai de retour vs garantie de bon fonctionnement, à l'échelle en années). Réutilisables pour d'autres marchands en changeant les données.
+
+`render-ikea.js` : `windows()` utilisé deux fois, en jours (délais de retour) et en années (retour vs garanties du marchand). Montre comment réutiliser le gabarit avec une autre unité.
