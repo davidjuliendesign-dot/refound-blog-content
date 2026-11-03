@@ -1,0 +1,871 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-rona",
+  "frPath": "/blog/politique-retour-rona",
+  "enPath": "/en/blog/rona-return-policy",
+  "datePublished": "2026-11-03T09:00:00-05:00",
+  "dateModified": "2026-11-03T09:00:00-05:00",
+  "lastFactCheck": "2026-11-03",
+  "cover": {
+    "src": "/images/blog/politique-retour-rona/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delais-retour-fr.png",
+    "delais-retour-en.png",
+    "retour-vs-garantie-fr.png",
+    "retour-vs-garantie-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour RONA : 90 jours, reçu et garanties | ReFound",
+    "metaDescription": "90 jours pour la plupart des articles, 30 pour les électroménagers, 1 an pour les vivaces. Sans reçu, crédit au plus bas prix. Puis les garanties au Québec.",
+    "keywords": "politique de retour RONA, retour RONA sans reçu, délai de retour RONA, retour électroménager RONA, retour plantes RONA, reçu RONA, garantie de bon fonctionnement Québec",
+    "category": "Guide",
+    "date": "3 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour RONA",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour RONA : délais, reçu et garanties",
+    "card": {
+      "title": "Politique de retour RONA : délais, reçu et garanties (2026)",
+      "subtitle": "90 jours, 30 pour les électroménagers, 1 an pour les vivaces. Puis les garanties qui durent des années."
+    },
+    "coverAlt": "Reçu RONA de démonstration avec la ligne THERMOSTAT INT/SMRTSENSOR PREM et un délai de retour de 90 jours",
+    "intro": [
+      "Réponse courte : chez RONA, la plupart des articles se retournent dans les 90 jours suivant l'achat, dans leur état et leur emballage d'origine, avec le reçu original. Les électroménagers n'ont que 30 jours et doivent être rapportés au magasin où ils ont été achetés. Les arbres, arbustes et vivaces peuvent être remplacés ou remboursés pendant un an, sur présentation du reçu.",
+      "Sans reçu, le retour est laissé à la discrétion de RONA et remboursé au plus bas prix du système, en crédit ou en carte-cadeau. Ce guide ajoute ce que la page officielle ne fait pas : les dates calculées pour un achat fait aujourd'hui, les garanties qui prennent le relais après le retour, et un vrai reçu RONA dont la ligne imprimée ne dit pas quel produit a été acheté."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de RONA?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La règle générale de RONA est un délai de **90 jours** suivant l'achat, pour tout produit sauf les électroménagers. La politique s'applique aux achats en magasin et en ligne."
+          },
+          {
+            "type": "p",
+            "text": "Trois conditions reviennent dans la politique officielle :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Le produit est rapporté dans son état et son emballage d'origine.",
+              "Le reçu de vente original accompagne le retour. Avec ce reçu, vous choisissez entre un remboursement, un échange ou un crédit, et le remboursement se fait par le mode de paiement d'origine.",
+              "Le produit ne fait pas partie des exceptions : électroménagers (30 jours), plantes vivaces (1 an) ou articles non repris."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La politique se termine par deux réserves : RONA inc. peut limiter ou refuser un retour, et la politique peut être modifiée en tout temps sans préavis. Vérifiez-la avant un retour important."
+          }
+        ]
+      },
+      {
+        "heading": "Délais de retour selon le type d'article",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai de 90 jours ne vaut pas pour tout le magasin. Voici les délais par catégorie selon la politique officielle de RONA, avec la date limite pour un achat fait le 3 novembre 2026."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-rona/delais-retour-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Barres à l'échelle des délais de retour RONA : aucun retour pour la peinture teintée et les produits coupés sur mesure, 30 jours pour les électroménagers, 90 jours pour la plupart des articles, 1 an pour les arbres, arbustes et vivaces",
+            "caption": "Délais de retour RONA. Source : rona.ca, vérifié le 3 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Délais de retour RONA et dates limites pour un achat du 3 novembre 2026",
+            "headers": [
+              "Catégorie",
+              "Délai",
+              "Date limite (achat du 3 nov. 2026)",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "La plupart des articles (en magasin ou en ligne)",
+                "90 jours",
+                "1er février 2027",
+                "État et emballage d'origine, reçu original"
+              ],
+              [
+                "Électroménagers",
+                "30 jours",
+                "3 décembre 2026",
+                "Reçu original, magasin d'achat, état d'origine sans dommage ni égratignure"
+              ],
+              [
+                "Arbres, arbustes et vivaces",
+                "1 an",
+                "3 novembre 2027",
+                "Remplacement ou remboursement, reçu exigé"
+              ],
+              [
+                "Autres plantes",
+                "90 jours",
+                "1er février 2027",
+                "Politique générale"
+              ],
+              [
+                "Peinture ou teinture teintée, produits coupés ou personnalisés, commandes spéciales",
+                "Aucun retour",
+                "—",
+                "Exclus par la politique"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Une vivace plantée cet automne",
+            "text": "Un arbre, un arbuste ou une vivace acheté chez RONA peut être remplacé ou remboursé pendant un an, mais seulement avec le reçu. On découvre souvent au printemps qu'une plante n'a pas survécu à l'hiver : c'est six mois après l'achat, quand le reçu papier est déjà pâli ou perdu."
+          }
+        ]
+      },
+      {
+        "heading": "Peut-on faire un retour chez RONA sans reçu?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Parfois, mais ce n'est pas un droit. Selon la politique de RONA, un article rapporté sans le reçu de vente original, ou sans son emballage d'origine, peut être accepté à la discrétion de RONA inc."
+          },
+          {
+            "type": "p",
+            "text": "Si le retour est accepté, vous recevez le **plus bas prix du système**, sous forme de crédit de magasin ou de carte-cadeau. Concrètement, un article payé 129 $ qui a été soldé à 89 $ pendant la période peut n'être crédité qu'à 89 $, et l'argent ne revient pas sur votre carte."
+          },
+          {
+            "type": "p",
+            "text": "Pour les électroménagers et pour les plantes vivaces, la politique exige le reçu : sans lui, ces deux exceptions ne s'appliquent pas. Si vous n'avez plus le reçu papier, une copie numérique lisible, avec la date, le magasin et le montant, est votre meilleure chance de garder le remboursement complet. Le magasin reste libre de l'accepter."
+          }
+        ]
+      },
+      {
+        "heading": "Quels articles ne sont pas repris chez RONA?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Certains articles ne peuvent pas être retournés chez RONA, reçu ou non. La politique officielle exclut :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "la peinture et la teinture teintées;",
+              "les produits coupés sur mesure, modifiés ou personnalisés de quelque façon;",
+              "les commandes spéciales;",
+              "certains produits pour des raisons d'hygiène (sièges de toilette, masques, gants, etc.);",
+              "l'équipement motorisé usagé, dont les tondeuses, les coupe-bordures et les souffleuses à neige;",
+              "les cartes-cadeaux, chèques-cadeaux et crédits de magasin, qui ne peuvent pas être échangés contre de l'argent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Un magasin peut aussi refuser un article acheté sous une autre bannière de RONA inc. s'il ne le tient pas dans son assortiment régulier. Rapportez de préférence l'article dans un magasin de la même bannière que celui où vous l'avez acheté."
+          }
+        ]
+      },
+      {
+        "heading": "Électroménagers RONA : 30 jours, 48 heures et 25 %",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un électroménager acheté chez RONA se retourne ou s'échange dans les **30 jours** suivant l'achat, pour une raison autre qu'un défaut ou un dommage. Il doit être rapporté au magasin où il a été acheté, avec le reçu original, dans son état d'origine, sans dommage ni égratignure."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**48 heures** pour signaler un dommage ou un défaut : après la livraison pour un appareil livré, après l'achat pour un appareil emporté.",
+              "**25 %** du prix d'achat en frais de remise en stock pour un appareil livré puis retourné pour un remboursement, et pour l'annulation d'une commande spéciale avant la livraison.",
+              "Un échange d'appareil livré entraîne plutôt des frais de livraison et de ramassage."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Le calcul des 25 %",
+            "text": "Pour un réfrigérateur de 1 800 $ livré puis retourné pour un remboursement dans les 30 jours, les frais de remise en stock représentent 450 $. Si l'appareil est défectueux, ce n'est pas la politique de retour qui s'applique : RONA peut envoyer un technicien, et la garantie légale ou celle du fabricant prend le relais."
+          }
+        ]
+      },
+      {
+        "heading": "Après le délai de retour : les garanties prennent le relais",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Quand le délai de retour est passé, un produit défectueux peut encore être réparé ou remplacé grâce à une garantie. La politique de RONA le dit elle-même : les produits endommagés ou défectueux relèvent de la garantie légale ou de celle du fabricant, selon le cas. La garantie ne prolonge pas le délai de retour : c'est un autre recours."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie du fabricant"
+          },
+          {
+            "type": "p",
+            "text": "La plupart des outils, appareils et produits vendus chez RONA ont une garantie du fabricant, dont la durée et les conditions varient selon la marque et le modèle. Elle demande presque toujours une preuve d'achat datée. Voyez [la différence entre garantie du magasin et garantie du manufacturier](/blog/garantie-magasin-vs-garantie-manufacturier)."
+          },
+          {
+            "type": "h3",
+            "text": "Au Québec : la garantie légale"
+          },
+          {
+            "type": "p",
+            "text": "Au Québec, la garantie légale s'applique automatiquement et gratuitement aux outils et matériaux, même si le commerçant ou le fabricant affirme vendre l'article sans garantie. Le bien doit servir à l'usage prévu pendant une durée raisonnable, selon le prix payé, le contrat et les conditions d'utilisation. L'Office de la protection du consommateur précise qu'un commerçant ne peut pas vous obliger à traiter avec le fabricant."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie de bon fonctionnement depuis le 5 octobre 2026"
+          },
+          {
+            "type": "p",
+            "text": "Depuis le **5 octobre 2026**, une garantie de bon fonctionnement s'applique au Québec à plusieurs électroménagers et appareils électroniques achetés ou loués neufs auprès d'un commerçant. Le bien doit être réparé gratuitement pendant une durée de 3 à 6 ans, calculée à partir de la livraison. Vous pouvez vous adresser au commerçant ou au fabricant, à votre choix. L'entretien régulier et les dommages causés par votre faute ne sont pas couverts."
+          },
+          {
+            "type": "p",
+            "text": "Chez RONA, ce sont justement les électroménagers, ceux qui ont le délai de retour le plus court, qui ont la garantie la plus longue. Voici le calcul pour un achat fait le 3 novembre 2026 et livré le jour même, au Québec :"
+          },
+          {
+            "type": "table",
+            "caption": "Achat du 3 novembre 2026 chez RONA, au Québec : retour et garanties",
+            "headers": [
+              "Article",
+              "Retour chez RONA",
+              "Fin du retour",
+              "Garantie qui prend le relais",
+              "Fin de la garantie (environ)"
+            ],
+            "rows": [
+              [
+                "Réfrigérateur, cuisinière, congélateur",
+                "30 jours",
+                "3 décembre 2026",
+                "Bon fonctionnement : 6 ans",
+                "Novembre 2032"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "30 jours",
+                "3 décembre 2026",
+                "Bon fonctionnement : 5 ans",
+                "Novembre 2031"
+              ],
+              [
+                "Thermostat intelligent Ecobee (exemple de notre reçu démo)",
+                "90 jours",
+                "1er février 2027",
+                "Fabricant : 3 ans (garantie limitée)",
+                "Novembre 2029"
+              ],
+              [
+                "Vivace ou arbuste",
+                "1 an",
+                "3 novembre 2027",
+                "—",
+                "—"
+              ]
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-rona/retour-vs-garantie-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle : le délai de retour RONA de 30 ou 90 jours est une fine bande comparée à la garantie de bon fonctionnement de 5 à 6 ans pour les électroménagers et à la garantie du fabricant de 3 ans du thermostat Ecobee",
+            "caption": "À l'échelle : des jours pour un retour, des années de garantie. Sources : rona.ca, Gouvernement du Québec, compte démo ReFound, vérifié le 3 novembre 2026."
+          },
+          {
+            "type": "p",
+            "text": "Un réfrigérateur se retourne pendant 30 jours, mais sa garantie de bon fonctionnement dure environ 73 fois plus longtemps. Le thermostat intelligent, lui, ne figure pas dans la liste des biens visés : après 90 jours, il dépend de la garantie du fabricant et de la garantie légale. Dans tous les cas, l'Office de la protection du consommateur recommande de garder un document qui prouve la date de livraison : facture, courriel de confirmation, bon de livraison ou reçu."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que le reçu RONA ne vous dit pas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu RONA prouve la date, le magasin et le montant d'un achat, mais pas toujours le produit exact ni sa garantie. Voici une ligne d'un reçu RONA numérisé dans le compte de démonstration ReFound :"
+          },
+          {
+            "type": "table",
+            "caption": "Ce que dit le reçu, et ce que ReFound a identifié",
+            "headers": [
+              "Ligne imprimée",
+              "Produit identifié par ReFound",
+              "Garantie affichée"
+            ],
+            "rows": [
+              [
+                "THERMOSTAT INT/SMRTSENSOR PREM",
+                "Ecobee Smart Premium Black Wi-Fi Compatible Thermostat and Room Sensor",
+                "Garantie limitée du fabricant de 3 ans"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La ligne dit « thermostat », mais ni la marque, ni le modèle, ni la durée de la garantie. Or c'est exactement ce qu'on vous demandera dans deux ans, quand l'appareil cessera de fonctionner. Le papier thermique, lui, aura pâli : voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound garde la ligne imprimée telle quelle et y associe, quand l'information est disponible, le produit nommé, sa photo, un lien vers sa fiche et la garantie correspondante. C'est un exemple de démonstration : l'identification dépend du produit et des données disponibles. Voyez d'autres exemples sur notre page [Reçus RONA](/marchands/recus-rona)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Ce que ReFound fait, et ne fait pas",
+            "text": "ReFound estime la date limite de retour selon la politique générale de RONA (90 jours). Il ne connaît pas les exceptions par catégorie : pour un électroménager (30 jours) ou une vivace (1 an), fiez-vous au tableau ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. ReFound ne décide jamais si un retour est accepté : c'est RONA qui applique sa politique."
+          }
+        ]
+      },
+      {
+        "heading": "Retour d'une commande en ligne RONA",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un article commandé sur rona.ca se retourne de trois façons, selon la politique officielle (sauf les électroménagers, qui ont leur propre section) :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "en ligne, depuis la page Retours et commandes de votre compte;",
+              "en magasin, au magasin où vous avez ramassé la commande, avec le reçu de vente;",
+              "par téléphone, au service à la clientèle : 1 866 283-2239 (sans frais), du lundi au dimanche, de 8 h 30 à 19 h (HE)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Pour une commande en ligne, le courriel de confirmation et le reçu de ramassage sont vos preuves d'achat. Gardez-les ensemble."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour chez RONA",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez le délai de la catégorie : 90 jours, 30 jours pour un électroménager, 1 an pour un arbre, un arbuste ou une vivace.",
+              "Assurez-vous que l'article n'est pas exclu : peinture teintée, coupe sur mesure, commande spéciale, équipement motorisé usagé.",
+              "Remettez l'article dans son état et son emballage d'origine.",
+              "Apportez le reçu original et la carte utilisée pour l'achat : le remboursement se fait par le mode de paiement d'origine.",
+              "Pour un électroménager, retournez au magasin où il a été acheté, et signalez tout dommage dans les 48 heures.",
+              "Si l'article est défectueux et que le délai est passé, demandez une réparation sous garantie, avec la preuve d'achat datée."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Pour retrouver le bon reçu au comptoir, la vue de retour de ReFound montre l'article, le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original. Voyez [l'application pour les retours en magasin](/application-retours-magasin)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de jours pour retourner un article chez RONA?",
+        "a": "90 jours suivant l'achat pour la plupart des articles, dans leur état et leur emballage d'origine, avec le reçu original. Les électroménagers ont 30 jours, et les arbres, arbustes et vivaces peuvent être remplacés ou remboursés pendant un an avec le reçu."
+      },
+      {
+        "q": "RONA rembourse-t-il sans reçu?",
+        "a": "Pas en argent. Un retour sans reçu original est accepté à la discrétion de RONA inc. et, s'il l'est, remboursé au plus bas prix du système en crédit de magasin ou en carte-cadeau."
+      },
+      {
+        "q": "Peut-on retourner un électroménager chez RONA?",
+        "a": "Oui, dans les 30 jours suivant l'achat, au magasin d'achat, avec le reçu original et dans son état d'origine. Un appareil livré retourné pour un remboursement est assujetti à des frais de remise en stock de 25 % du prix d'achat."
+      },
+      {
+        "q": "Que faire si un produit RONA brise après le délai de retour?",
+        "a": "Faites appel à la garantie du fabricant ou à la garantie légale. Au Québec, plusieurs électroménagers achetés neufs depuis le 5 octobre 2026 ont aussi une garantie de bon fonctionnement de 3 à 6 ans. Gardez la preuve d'achat et de livraison."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus RONA pour le retour et pour la garantie",
+    "ctaBody": "Numérisez le reçu le jour de l'achat : ReFound garde une copie lisible, identifie le produit quand c'est possible et affiche sa garantie quand elle est disponible.",
+    "relatedTitle": "À lire aussi",
+    "related": [
+      {
+        "label": "Reçus RONA",
+        "href": "/marchands/recus-rona",
+        "desc": "Identifier un achat et sa garantie."
+      },
+      {
+        "label": "Politique de retour Home Depot",
+        "href": "/blog/politique-retour-home-depot",
+        "desc": "Délais, reçu et garanties."
+      },
+      {
+        "label": "Reçus de rénovation",
+        "href": "/reno-recus-retours",
+        "desc": "Retours faciles après les travaux."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Politique de retour (Returns and Refunds)",
+        "publisher": "RONA inc.",
+        "url": "https://rona.ca/en/returns-and-refunds",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Retours et remboursements d'électroménagers",
+        "publisher": "RONA inc.",
+        "url": "https://rona.ca/en/returns-and-refunds-appliances",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "La garantie de bon fonctionnement des électroménagers et appareils électroniques",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/la-garantie-de-bon-fonctionnement-des-electromenagers-et-appareils-electroniques/",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Garanties prévues par la loi : quincaillerie, outils et matériaux",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/housing-renovation/hardware/warrantie/legal-warranties",
+        "accessed": "2026-11-03"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 3 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "RONA Return Policy: 90 Days, Receipts & Warranties | ReFound",
+    "metaDescription": "90 days for most items, 30 for appliances, 1 year for perennials. No receipt means store credit at the lowest price. Then the warranties, in Quebec too.",
+    "keywords": "RONA return policy, RONA return without receipt, RONA return time limit, RONA appliance return, RONA plant return, RONA receipt, Quebec warranty of good working order",
+    "category": "Guide",
+    "date": "November 3, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "RONA return policy",
+    "eyebrow": "Returns",
+    "h1": "RONA Return Policy: Time Limits, Receipts and Warranties",
+    "card": {
+      "title": "RONA Return Policy: Time Limits, Receipts and Warranties (2026)",
+      "subtitle": "90 days, 30 for appliances, 1 year for perennials. Then the warranties that last for years."
+    },
+    "coverAlt": "Demo RONA receipt showing the line THERMOSTAT INT/SMRTSENSOR PREM and a 90-day return window",
+    "intro": [
+      "Short answer: at RONA, most items can be returned within 90 days of purchase, in their original condition and packaging, with the original receipt. Appliances get only 30 days and must go back to the store where they were bought. Trees, shrubs and perennials can be replaced or refunded for one year, with the receipt.",
+      "Without a receipt, the return is at RONA's discretion and refunded at the lowest system price, as store credit or a gift card. This guide adds what the official page doesn't: dates calculated for a purchase made today, the warranties that take over after the return window, and a real RONA receipt whose printed line doesn't say which product was bought."
+    ],
+    "sections": [
+      {
+        "heading": "What is RONA's return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "RONA's general rule is a **90-day** window after purchase for any product other than appliances. It covers both in-store and online purchases."
+          },
+          {
+            "type": "p",
+            "text": "Three conditions come up in the official policy:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "The product comes back in its original condition and packaging.",
+              "The original sales receipt comes with it. With that receipt you can choose a refund, an exchange or store credit, and the refund goes back to the original method of payment.",
+              "The product is not one of the exceptions: appliances (30 days), perennials (1 year) or items that can't be returned."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The policy ends with two caveats: RONA Inc. may limit or refuse a return, and the policy may be modified at any time without notice. Check it before a large return."
+          }
+        ]
+      },
+      {
+        "heading": "Return windows by type of item",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The 90-day window doesn't apply to the whole store. Here are the windows by category under RONA's official policy, with the deadline for a purchase made on November 3, 2026."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-rona/delais-retour-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Bars to scale showing RONA return windows: no returns for tinted paint and cut-to-length products, 30 days for appliances, 90 days for most items, 1 year for trees, shrubs and perennials",
+            "caption": "RONA return windows. Source: rona.ca, checked November 3, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "RONA return windows and deadlines for a purchase made on November 3, 2026",
+            "headers": [
+              "Category",
+              "Window",
+              "Deadline (bought Nov. 3, 2026)",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "Most items (in store or online)",
+                "90 days",
+                "February 1, 2027",
+                "Original condition and packaging, original receipt"
+              ],
+              [
+                "Appliances",
+                "30 days",
+                "December 3, 2026",
+                "Original receipt, store of purchase, original condition with no damage or scratches"
+              ],
+              [
+                "Trees, shrubs and perennials",
+                "1 year",
+                "November 3, 2027",
+                "Replacement or refund, receipt required"
+              ],
+              [
+                "Other plants",
+                "90 days",
+                "February 1, 2027",
+                "General policy"
+              ],
+              [
+                "Tinted paint or stain, cut-to-length or customized products, special orders",
+                "No returns",
+                "—",
+                "Excluded by the policy"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "A perennial planted this fall",
+            "text": "A tree, shrub or perennial bought at RONA can be replaced or refunded for one year, but only with the receipt. You usually find out in spring that a plant didn't survive the winter: six months after the purchase, when the paper receipt has already faded or gone missing."
+          }
+        ]
+      },
+      {
+        "heading": "Can you return something to RONA without a receipt?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sometimes, but it isn't a right. Under RONA's policy, an item returned without the original sales receipt, or without its original packaging, may be accepted at RONA Inc.'s discretion."
+          },
+          {
+            "type": "p",
+            "text": "If the return is accepted, you get the **lowest system price**, as store credit or a gift card. In practice, an item you paid $129 for that went on sale for $89 during that period may be credited at only $89, and the money doesn't go back on your card."
+          },
+          {
+            "type": "p",
+            "text": "For appliances and for perennials, the policy requires the receipt: without it, those two exceptions don't apply. If you no longer have the paper receipt, a readable digital copy showing the date, store and amount is your best chance of keeping the full refund. The store is still free to accept it or not."
+          }
+        ]
+      },
+      {
+        "heading": "Which items can't be returned to RONA?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Some items can't be returned to RONA, receipt or not. The official policy excludes:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "tinted paint and stain;",
+              "products that have been cut to length, modified or customized in any way;",
+              "special orders;",
+              "certain products for hygiene reasons (toilet seats, masks, gloves, etc.);",
+              "used power equipment, including lawnmowers, trimmers and snowblowers;",
+              "gift cards, gift certificates and store credit, which can't be exchanged for cash."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A store may also refuse an item bought at another RONA Inc. banner if it doesn't carry it in its regular selection. Whenever possible, return the item to a store of the same banner you bought it from."
+          }
+        ]
+      },
+      {
+        "heading": "RONA appliances: 30 days, 48 hours and 25%",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "An appliance bought at RONA can be returned or exchanged within **30 days** of purchase for a reason other than a defect or damage. It has to go back to the store where it was bought, with the original receipt, in its original condition, without any damage or scratches."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**48 hours** to report damage or a defect: after delivery for a delivered appliance, after purchase for one you took home yourself.",
+              "**25%** of the purchase price as a restocking fee for a delivered appliance returned for a refund, and for cancelling a special order before delivery.",
+              "Exchanging a delivered appliance comes with delivery and pick-up fees instead."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "What 25% means",
+            "text": "For an $1,800 refrigerator delivered and then returned for a refund within 30 days, the restocking fee comes to $450. If the appliance is defective, the return policy isn't what applies: RONA may send a technician, and the legal or manufacturer's warranty takes over."
+          }
+        ]
+      },
+      {
+        "heading": "After the return window: warranties take over",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Once the return window has passed, a defective product can still be repaired or replaced under a warranty. RONA's policy says so itself: damaged or defective products are subject to the legal or manufacturer's warranty, as applicable. A warranty doesn't extend the return window; it is a different remedy."
+          },
+          {
+            "type": "h3",
+            "text": "The manufacturer warranty"
+          },
+          {
+            "type": "p",
+            "text": "Most tools, appliances and products sold at RONA carry a manufacturer warranty whose length and terms vary by brand and model. It almost always asks for dated proof of purchase. See [the difference between a store warranty and a manufacturer warranty](/en/blog/store-warranty-vs-manufacturer-warranty)."
+          },
+          {
+            "type": "h3",
+            "text": "In Quebec: the legal warranty"
+          },
+          {
+            "type": "p",
+            "text": "In Quebec, the legal warranty applies automatically and at no charge to tools and materials, even if the merchant or manufacturer claims to sell the item with no warranty. The item must serve its intended purpose for a reasonable time, given the price paid, the contract and the conditions of use. The Office de la protection du consommateur adds that a merchant may not require you to deal with the manufacturer."
+          },
+          {
+            "type": "h3",
+            "text": "The warranty of good working order since October 5, 2026"
+          },
+          {
+            "type": "p",
+            "text": "Since **October 5, 2026**, a warranty of good working order applies in Quebec to many appliances and electronic devices bought or leased new from a merchant. The item must be repaired free of charge for 3 to 6 years, counted from delivery. You can go to the merchant or the manufacturer, your choice. Regular maintenance and damage you cause are not covered."
+          },
+          {
+            "type": "p",
+            "text": "At RONA, the appliances, which have the shortest return window, are exactly the items with the longest warranty. Here is the calculation for a purchase made on November 3, 2026 and delivered the same day, in Quebec:"
+          },
+          {
+            "type": "table",
+            "caption": "Bought at RONA on November 3, 2026, in Quebec: returns and warranties",
+            "headers": [
+              "Item",
+              "RONA return",
+              "Return ends",
+              "Warranty that takes over",
+              "Warranty ends (approx.)"
+            ],
+            "rows": [
+              [
+                "Refrigerator, stove, freezer",
+                "30 days",
+                "December 3, 2026",
+                "Good working order: 6 years",
+                "November 2032"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "30 days",
+                "December 3, 2026",
+                "Good working order: 5 years",
+                "November 2031"
+              ],
+              [
+                "Ecobee smart thermostat (from our demo receipt)",
+                "90 days",
+                "February 1, 2027",
+                "Manufacturer: 3 years (limited warranty)",
+                "November 2029"
+              ],
+              [
+                "Perennial or shrub",
+                "1 year",
+                "November 3, 2027",
+                "—",
+                "—"
+              ]
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-rona/retour-vs-garantie-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Chart to scale: RONA's 30- or 90-day return window is a thin strip compared with the 5- to 6-year warranty of good working order for appliances and the 3-year manufacturer warranty on the Ecobee thermostat",
+            "caption": "To scale: days to return, years of warranty. Sources: rona.ca, Government of Quebec, ReFound demo account, checked November 3, 2026."
+          },
+          {
+            "type": "p",
+            "text": "A refrigerator can be returned for 30 days, but its warranty of good working order lasts about 73 times longer. The smart thermostat isn't on the list of covered goods: after 90 days, it relies on the manufacturer warranty and the legal warranty. Either way, Quebec's consumer protection office recommends keeping a document that proves the delivery date: an invoice, a confirmation email, a delivery slip or a receipt."
+          }
+        ]
+      },
+      {
+        "heading": "What a RONA receipt doesn't tell you",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A RONA receipt proves the date, store and amount of a purchase, but not always the exact product or its warranty. Here is one line from a RONA receipt scanned in the ReFound demo account:"
+          },
+          {
+            "type": "table",
+            "caption": "What the receipt says, and what ReFound identified",
+            "headers": [
+              "Printed line",
+              "Product identified by ReFound",
+              "Warranty shown"
+            ],
+            "rows": [
+              [
+                "THERMOSTAT INT/SMRTSENSOR PREM",
+                "Ecobee Smart Premium Black Wi-Fi Compatible Thermostat and Room Sensor",
+                "3-year limited manufacturer warranty"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The line says \"thermostat\", but not the brand, the model or how long the warranty lasts. That is exactly what you'll be asked in two years, when the device stops working. By then the thermal paper will have faded: see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound keeps the printed line as is and attaches, when the information is available, the named product, its photo, a link to its product page and the matching warranty. This is a demo example: identification depends on the product and the data available. See more examples on our [RONA receipts](/en/merchants/rona-receipts) page."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "What ReFound does, and doesn't do",
+            "text": "ReFound estimates the return deadline from RONA's general policy (90 days). It doesn't know the category exceptions: for an appliance (30 days) or a perennial (1 year), go by the table above. With ReFound Pro, a reminder arrives 3 days before the return deadline and 30 days before a warranty ends. ReFound never decides whether a return is accepted: RONA applies its own policy."
+          }
+        ]
+      },
+      {
+        "heading": "Returning a RONA online order",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "An item ordered on rona.ca can be returned three ways under the official policy (except appliances, which have their own section):"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "online, from the Returns and Orders page of your account;",
+              "in store, at the store where you picked up the order, with your sales receipt;",
+              "by phone, through customer service: 1-866-283-2239 (toll-free), Monday to Sunday, 8:30 a.m. to 7 p.m. (ET)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "For an online order, the confirmation email and the pickup receipt are your proof of purchase. Keep them together."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare a return at RONA",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Check the window for the category: 90 days, 30 days for an appliance, 1 year for a tree, shrub or perennial.",
+              "Make sure the item isn't excluded: tinted paint, cut to length, special order, used power equipment.",
+              "Put the item back in its original condition and packaging.",
+              "Bring the original receipt and the card you paid with: the refund goes back to the original method of payment.",
+              "For an appliance, go back to the store where it was bought, and report any damage within 48 hours.",
+              "If the item is defective and the window has passed, ask for a warranty repair, with dated proof of purchase."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "To find the right receipt at the counter, ReFound's return view shows the item, the receipt barcode when it's detected, the payment method and the photo of the original receipt. See [the in-store returns app](/en/returns-app)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How many days do you have to return an item to RONA?",
+        "a": "90 days after purchase for most items, in their original condition and packaging, with the original receipt. Appliances get 30 days, and trees, shrubs and perennials can be replaced or refunded for one year with the receipt."
+      },
+      {
+        "q": "Does RONA give refunds without a receipt?",
+        "a": "Not in cash. A return without the original receipt is accepted at RONA Inc.'s discretion and, if it is, refunded at the lowest system price as store credit or a gift card."
+      },
+      {
+        "q": "Can you return an appliance to RONA?",
+        "a": "Yes, within 30 days of purchase, at the store where it was bought, with the original receipt and in its original condition. A delivered appliance returned for a refund carries a restocking fee of 25% of the purchase price."
+      },
+      {
+        "q": "What if a RONA product breaks after the return window?",
+        "a": "Use the manufacturer warranty or the legal warranty. In Quebec, many appliances bought new since October 5, 2026 also have a warranty of good working order of 3 to 6 years. Keep your proof of purchase and delivery."
+      }
+    ],
+    "ctaTitle": "Keep your RONA receipts for returns and warranties",
+    "ctaBody": "Scan the receipt the day you buy: ReFound keeps a readable copy, identifies the product when it can and shows its warranty when it's available.",
+    "relatedTitle": "Read next",
+    "related": [
+      {
+        "label": "RONA receipts",
+        "href": "/en/merchants/rona-receipts",
+        "desc": "Identifying a purchase and its warranty."
+      },
+      {
+        "label": "Home Depot return policy",
+        "href": "/en/blog/home-depot-return-policy",
+        "desc": "Time limits, receipts and warranties."
+      },
+      {
+        "label": "Home reno receipts",
+        "href": "/en/home-reno-receipts-returns",
+        "desc": "Easy returns after the job."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Returns and Refunds",
+        "publisher": "RONA Inc.",
+        "url": "https://rona.ca/en/returns-and-refunds",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Returns and Refunds: Appliances",
+        "publisher": "RONA Inc.",
+        "url": "https://rona.ca/en/returns-and-refunds-appliances",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt (French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite (French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "La garantie de bon fonctionnement des électroménagers et appareils électroniques (French)",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/la-garantie-de-bon-fonctionnement-des-electromenagers-et-appareils-electroniques/",
+        "accessed": "2026-11-03"
+      },
+      {
+        "label": "Warranties Provided for by Law: Hardware, tools and construction materials",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/housing-renovation/hardware/warrantie/legal-warranties",
+        "accessed": "2026-11-03"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 3, 2026"
+  }
+}
