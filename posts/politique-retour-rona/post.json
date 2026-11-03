@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-rona",
   "enPath": "/en/blog/rona-return-policy",
   "datePublished": "2026-11-03T09:00:00-05:00",
-  "dateModified": "2026-11-03T09:00:00-05:00",
+  "dateModified": "2026-11-04T07:30:00-05:00",
   "lastFactCheck": "2026-11-03",
   "cover": {
     "src": "/images/blog/politique-retour-rona/cover.png",
@@ -35,7 +35,7 @@
     "coverAlt": "Reçu RONA de démonstration avec la ligne THERMOSTAT INT/SMRTSENSOR PREM et un délai de retour de 90 jours",
     "intro": [
       "Réponse courte : chez RONA, la plupart des articles se retournent dans les 90 jours suivant l'achat, dans leur état et leur emballage d'origine, avec le reçu original. Les électroménagers n'ont que 30 jours et doivent être rapportés au magasin où ils ont été achetés. Les arbres, arbustes et vivaces peuvent être remplacés ou remboursés pendant un an, sur présentation du reçu.",
-      "Sans reçu, le retour est laissé à la discrétion de RONA et remboursé au plus bas prix du système, en crédit ou en carte-cadeau. Ce guide ajoute ce que la page officielle ne fait pas : les dates calculées pour un achat fait aujourd'hui, les garanties qui prennent le relais après le retour, et un vrai reçu RONA dont la ligne imprimée ne dit pas quel produit a été acheté."
+      "Sans reçu, le retour est laissé à la discrétion de RONA et remboursé au plus bas prix du système, en crédit ou en carte-cadeau. Ce guide ajoute ce que la page officielle ne fait pas : les dates calculées pour un achat fait le 5 octobre 2026, jour où la garantie de bon fonctionnement est entrée en vigueur au Québec, les garanties qui prennent le relais après le retour, et un vrai reçu RONA dont la ligne imprimée ne dit pas quel produit a été acheté."
     ],
     "sections": [
       {
@@ -68,7 +68,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "Le délai de 90 jours ne vaut pas pour tout le magasin. Voici les délais par catégorie selon la politique officielle de RONA, avec la date limite pour un achat fait le 3 novembre 2026."
+            "text": "Le délai de 90 jours ne vaut pas pour tout le magasin. Voici les délais par catégorie selon la politique officielle de RONA, avec la date limite pour un achat fait le 5 octobre 2026, jour d'entrée en vigueur de la garantie de bon fonctionnement au Québec."
           },
           {
             "type": "figure",
@@ -80,36 +80,36 @@
           },
           {
             "type": "table",
-            "caption": "Délais de retour RONA et dates limites pour un achat du 3 novembre 2026",
+            "caption": "Délais de retour RONA et dates limites pour un achat du 5 octobre 2026",
             "headers": [
               "Catégorie",
               "Délai",
-              "Date limite (achat du 3 nov. 2026)",
+              "Date limite (achat du 5 oct. 2026)",
               "Condition"
             ],
             "rows": [
               [
                 "La plupart des articles (en magasin ou en ligne)",
                 "90 jours",
-                "1er février 2027",
+                "3 janvier 2027",
                 "État et emballage d'origine, reçu original"
               ],
               [
                 "Électroménagers",
                 "30 jours",
-                "3 décembre 2026",
+                "4 novembre 2026",
                 "Reçu original, magasin d'achat, état d'origine sans dommage ni égratignure"
               ],
               [
                 "Arbres, arbustes et vivaces",
                 "1 an",
-                "3 novembre 2027",
+                "5 octobre 2027",
                 "Remplacement ou remboursement, reçu exigé"
               ],
               [
                 "Autres plantes",
                 "90 jours",
-                "1er février 2027",
+                "3 janvier 2027",
                 "Politique générale"
               ],
               [
@@ -225,11 +225,11 @@
           },
           {
             "type": "p",
-            "text": "Chez RONA, ce sont justement les électroménagers, ceux qui ont le délai de retour le plus court, qui ont la garantie la plus longue. Voici le calcul pour un achat fait le 3 novembre 2026 et livré le jour même, au Québec :"
+            "text": "Chez RONA, ce sont justement les électroménagers, ceux qui ont le délai de retour le plus court, qui ont la garantie la plus longue. Voici le calcul pour un achat fait le 5 octobre 2026, premier jour de cette garantie, et livré le jour même, au Québec :"
           },
           {
             "type": "table",
-            "caption": "Achat du 3 novembre 2026 chez RONA, au Québec : retour et garanties",
+            "caption": "Achat du 5 octobre 2026 chez RONA, au Québec : retour et garanties",
             "headers": [
               "Article",
               "Retour chez RONA",
@@ -241,28 +241,28 @@
               [
                 "Réfrigérateur, cuisinière, congélateur",
                 "30 jours",
-                "3 décembre 2026",
+                "4 novembre 2026",
                 "Bon fonctionnement : 6 ans",
-                "Novembre 2032"
+                "Octobre 2032"
               ],
               [
                 "Laveuse, sécheuse, lave-vaisselle",
                 "30 jours",
-                "3 décembre 2026",
+                "4 novembre 2026",
                 "Bon fonctionnement : 5 ans",
-                "Novembre 2031"
+                "Octobre 2031"
               ],
               [
                 "Thermostat intelligent Ecobee (exemple de notre reçu démo)",
                 "90 jours",
-                "1er février 2027",
+                "3 janvier 2027",
                 "Fabricant : 3 ans (garantie limitée)",
-                "Novembre 2029"
+                "Octobre 2029"
               ],
               [
                 "Vivace ou arbuste",
                 "1 an",
-                "3 novembre 2027",
+                "5 octobre 2027",
                 "—",
                 "—"
               ]
@@ -311,13 +311,13 @@
           },
           {
             "type": "p",
-            "text": "ReFound garde la ligne imprimée telle quelle et y associe, quand l'information est disponible, le produit nommé, sa photo, un lien vers sa fiche et la garantie correspondante. C'est un exemple de démonstration : l'identification dépend du produit et des données disponibles. Voyez d'autres exemples sur notre page [Reçus RONA](/marchands/recus-rona)."
+            "text": "ReFound garde la ligne imprimée telle quelle et y associe, quand l'information est disponible, le produit nommé, sa photo et un lien vers sa fiche sur rona.ca. La garantie du fabricant de 3 ans de cet exemple vient de cette fiche : quand rona.ca l'indique, ReFound la récupère. C'est un exemple de démonstration : l'identification dépend du produit et des données disponibles. Voyez d'autres exemples sur notre page [Reçus RONA](/marchands/recus-rona)."
           },
           {
             "type": "callout",
             "tone": "info",
             "title": "Ce que ReFound fait, et ne fait pas",
-            "text": "ReFound estime la date limite de retour selon la politique générale de RONA (90 jours). Il ne connaît pas les exceptions par catégorie : pour un électroménager (30 jours) ou une vivace (1 an), fiez-vous au tableau ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. ReFound ne décide jamais si un retour est accepté : c'est RONA qui applique sa politique."
+            "text": "Quand la fiche du produit sur rona.ca indique une garantie du fabricant, ReFound la récupère et l'affiche avec sa date de fin, calculée à partir de la date d'achat du reçu. ReFound estime aussi la date limite de retour selon la politique générale de RONA (90 jours) : il ne connaît pas les exceptions par catégorie, donc pour un électroménager (30 jours) ou une vivace (1 an), fiez-vous au tableau ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. ReFound ne décide jamais si un retour est accepté : c'est RONA qui applique sa politique."
           }
         ]
       },
@@ -460,7 +460,7 @@
     "coverAlt": "Demo RONA receipt showing the line THERMOSTAT INT/SMRTSENSOR PREM and a 90-day return window",
     "intro": [
       "Short answer: at RONA, most items can be returned within 90 days of purchase, in their original condition and packaging, with the original receipt. Appliances get only 30 days and must go back to the store where they were bought. Trees, shrubs and perennials can be replaced or refunded for one year, with the receipt.",
-      "Without a receipt, the return is at RONA's discretion and refunded at the lowest system price, as store credit or a gift card. This guide adds what the official page doesn't: dates calculated for a purchase made today, the warranties that take over after the return window, and a real RONA receipt whose printed line doesn't say which product was bought."
+      "Without a receipt, the return is at RONA's discretion and refunded at the lowest system price, as store credit or a gift card. This guide adds what the official page doesn't: dates calculated for a purchase made on October 5, 2026, the day Quebec's warranty of good working order took effect, the warranties that take over after the return window, and a real RONA receipt whose printed line doesn't say which product was bought."
     ],
     "sections": [
       {
@@ -493,7 +493,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "The 90-day window doesn't apply to the whole store. Here are the windows by category under RONA's official policy, with the deadline for a purchase made on November 3, 2026."
+            "text": "The 90-day window doesn't apply to the whole store. Here are the windows by category under RONA's official policy, with the deadline for a purchase made on October 5, 2026, the day Quebec's warranty of good working order took effect."
           },
           {
             "type": "figure",
@@ -505,36 +505,36 @@
           },
           {
             "type": "table",
-            "caption": "RONA return windows and deadlines for a purchase made on November 3, 2026",
+            "caption": "RONA return windows and deadlines for a purchase made on October 5, 2026",
             "headers": [
               "Category",
               "Window",
-              "Deadline (bought Nov. 3, 2026)",
+              "Deadline (bought Oct. 5, 2026)",
               "Condition"
             ],
             "rows": [
               [
                 "Most items (in store or online)",
                 "90 days",
-                "February 1, 2027",
+                "January 3, 2027",
                 "Original condition and packaging, original receipt"
               ],
               [
                 "Appliances",
                 "30 days",
-                "December 3, 2026",
+                "November 4, 2026",
                 "Original receipt, store of purchase, original condition with no damage or scratches"
               ],
               [
                 "Trees, shrubs and perennials",
                 "1 year",
-                "November 3, 2027",
+                "October 5, 2027",
                 "Replacement or refund, receipt required"
               ],
               [
                 "Other plants",
                 "90 days",
-                "February 1, 2027",
+                "January 3, 2027",
                 "General policy"
               ],
               [
@@ -650,11 +650,11 @@
           },
           {
             "type": "p",
-            "text": "At RONA, the appliances, which have the shortest return window, are exactly the items with the longest warranty. Here is the calculation for a purchase made on November 3, 2026 and delivered the same day, in Quebec:"
+            "text": "At RONA, the appliances, which have the shortest return window, are exactly the items with the longest warranty. Here is the calculation for a purchase made on October 5, 2026 and delivered the same day, in Quebec:"
           },
           {
             "type": "table",
-            "caption": "Bought at RONA on November 3, 2026, in Quebec: returns and warranties",
+            "caption": "Bought at RONA on October 5, 2026, in Quebec: returns and warranties",
             "headers": [
               "Item",
               "RONA return",
@@ -666,28 +666,28 @@
               [
                 "Refrigerator, stove, freezer",
                 "30 days",
-                "December 3, 2026",
+                "November 4, 2026",
                 "Good working order: 6 years",
-                "November 2032"
+                "October 2032"
               ],
               [
                 "Washer, dryer, dishwasher",
                 "30 days",
-                "December 3, 2026",
+                "November 4, 2026",
                 "Good working order: 5 years",
-                "November 2031"
+                "October 2031"
               ],
               [
                 "Ecobee smart thermostat (from our demo receipt)",
                 "90 days",
-                "February 1, 2027",
+                "January 3, 2027",
                 "Manufacturer: 3 years (limited warranty)",
-                "November 2029"
+                "October 2029"
               ],
               [
                 "Perennial or shrub",
                 "1 year",
-                "November 3, 2027",
+                "October 5, 2027",
                 "—",
                 "—"
               ]
@@ -736,13 +736,13 @@
           },
           {
             "type": "p",
-            "text": "ReFound keeps the printed line as is and attaches, when the information is available, the named product, its photo, a link to its product page and the matching warranty. This is a demo example: identification depends on the product and the data available. See more examples on our [RONA receipts](/en/merchants/rona-receipts) page."
+            "text": "ReFound keeps the printed line as is and attaches, when the information is available, the named product, its photo and a link to its product page on rona.ca. The 3-year manufacturer warranty in this example comes from that page: when rona.ca lists it, ReFound picks it up. This is a demo example: identification depends on the product and the data available. See more examples on our [RONA receipts](/en/merchants/rona-receipts) page."
           },
           {
             "type": "callout",
             "tone": "info",
             "title": "What ReFound does, and doesn't do",
-            "text": "ReFound estimates the return deadline from RONA's general policy (90 days). It doesn't know the category exceptions: for an appliance (30 days) or a perennial (1 year), go by the table above. With ReFound Pro, a reminder arrives 3 days before the return deadline and 30 days before a warranty ends. ReFound never decides whether a return is accepted: RONA applies its own policy."
+            "text": "When the product page on rona.ca lists a manufacturer warranty, ReFound picks it up and shows it with its end date, calculated from the purchase date on the receipt. ReFound also estimates the return deadline from RONA's general policy (90 days): it doesn't know the category exceptions, so for an appliance (30 days) or a perennial (1 year), go by the table above. With ReFound Pro, a reminder arrives 3 days before the return deadline and 30 days before a warranty ends. ReFound never decides whether a return is accepted: RONA applies its own policy."
           }
         ]
       },
