@@ -1,0 +1,897 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-walmart",
+  "frPath": "/blog/politique-retour-walmart",
+  "enPath": "/en/blog/walmart-return-policy",
+  "datePublished": "2026-11-04T09:00:00-05:00",
+  "dateModified": "2026-11-04T09:00:00-05:00",
+  "lastFactCheck": "2026-11-04",
+  "cover": {
+    "src": "/images/blog/politique-retour-walmart/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "retours-fetes-fr.png",
+    "retours-fetes-en.png",
+    "retour-vs-garantie-fr.png",
+    "retour-vs-garantie-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour Walmart Canada : délais, Fêtes 2026 | ReFound",
+    "metaDescription": "90 jours avec preuve d'achat, 30 pour l'électronique, 14 pour les cellulaires à contrat. Retours des Fêtes jusqu'au 24 janvier 2027, puis les garanties.",
+    "keywords": "politique de retour Walmart, retour Walmart Canada, délai de retour Walmart, retour Walmart électronique, retours des Fêtes Walmart 2026, retour Walmart sans reçu, Marché électronique Walmart, garantie de bon fonctionnement Québec",
+    "category": "Guide",
+    "date": "4 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour Walmart",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour Walmart Canada : délais, Fêtes 2026 et garanties",
+    "card": {
+      "title": "Politique de retour Walmart Canada : délais, Fêtes 2026 et garanties",
+      "subtitle": "90, 30 ou 14 jours, la prolongation des Fêtes jusqu'au 24 janvier 2027, et ce qui reste après."
+    },
+    "coverAlt": "Reçu stylisé avec des délais de retour de 14, 30 et 90 jours et la date du 24 janvier 2027",
+    "intro": [
+      "Réponse courte : chez Walmart Canada, presque tout article acheté avec une preuve d'achat valide peut être retourné ou remplacé dans les **90 jours**. L'électronique grand public (téléviseurs, ordinateurs, consoles, cellulaires déverrouillés, écouteurs…) et l'optique ont **30 jours**, et les cellulaires à contrat postpayé, **14 jours**.",
+      "Pour les Fêtes 2026, Walmart prolonge le délai des articles non ouverts achetés du 1er novembre au 25 décembre qui ont un délai de 30 jours : ils peuvent être retournés jusqu'au **24 janvier 2027**. Ce guide calcule, date par date, ce que ça change vraiment, et montre ce qui protège encore un téléviseur ou une console une fois le délai de retour passé.",
+      "Politique vérifiée sur walmart.ca le 4 novembre 2026. Elle peut changer : en cas de doute, la page officielle et votre magasin ont le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de Walmart Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La règle générale de Walmart Canada est un délai de **90 jours** : avec une preuve d'achat valide, presque tout ce que vous achetez chez Walmart, en magasin ou sur Walmart.ca, peut être retourné ou remplacé dans ce délai, sauf les exceptions de la politique."
+          },
+          {
+            "type": "p",
+            "text": "Le point de départ du délai dépend de l'endroit où vous avez acheté :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**En magasin** : le délai commence à la date d'achat.",
+              "**En ligne** : le délai commence à la date de réception de votre commande.",
+              "**Échange** : un article qui n'est pas admissible à un retour n'est pas admissible à un remplacement non plus. Le remplacement suit les mêmes délais que le retour."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le remboursement est fait sur le mode de paiement d'origine. Pour un retour en magasin payé par carte de débit, si vous n'avez pas la carte avec vous, le remboursement est versé sur une carte-cadeau Walmart, selon la page sur les délais de remboursement."
+          }
+        ]
+      },
+      {
+        "heading": "Délais de retour selon le type d'article",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai de 90 jours ne s'applique pas à l'électronique. Voici les délais de la politique standard de Walmart Canada :"
+          },
+          {
+            "type": "table",
+            "caption": "Délais de retour chez Walmart Canada (politique standard)",
+            "headers": [
+              "Catégorie",
+              "Délai",
+              "Exemples tirés de la politique"
+            ],
+            "rows": [
+              [
+                "Presque tous les articles",
+                "90 jours",
+                "Avec une preuve d'achat valide"
+              ],
+              [
+                "Électronique grand public",
+                "30 jours",
+                "Téléviseurs, ordinateurs portatifs, tablettes, consoles, jeux vidéo, téléphones déverrouillés et prépayés, appareils photo, écrans, imprimantes et encre, écouteurs, drones, technologies portables, lecteurs électroniques, logiciels, films et musique"
+              ],
+              [
+                "Optique",
+                "30 jours",
+                "Lentilles cornéennes, lunettes"
+              ],
+              [
+                "Téléphones postpayés à contrat",
+                "14 jours",
+                "Selon la politique standard"
+              ],
+              [
+                "Commandes préparées par Walmart à l'extérieur du Canada",
+                "30 jours",
+                "Pas de retour en magasin ; retour à lancer sur Walmart.ca ou dans l'application"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Gros articles achetés en ligne",
+            "text": "Un article acheté sur Walmart.ca qui mesure plus de 1 m sur 1,2 m (40 po sur 48 po) ou pèse plus de 45 kg (100 lb), comme un matelas grand format ou un gros électroménager, ne peut pas être rapporté en magasin. Il faut organiser une collecte de retour."
+          }
+        ]
+      },
+      {
+        "heading": "Retours des Fêtes 2026 : jusqu'au 24 janvier 2027",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Les articles non ouverts achetés du 1er novembre au 25 décembre 2026 qui ont normalement un délai de 30 jours peuvent être retournés jusqu'au **24 janvier 2027**, avec une preuve d'achat. La prolongation vise les articles vendus par Walmart et ceux des vendeurs du Marché électronique expédiés par Walmart."
+          },
+          {
+            "type": "p",
+            "text": "Trois exclusions sont prévues : les articles vendus **et** expédiés par un vendeur du Marché électronique, les appareils sans fil à contrat postpayé, et les articles en vente finale."
+          },
+          {
+            "type": "h3",
+            "text": "Ce que la prolongation change, date par date"
+          },
+          {
+            "type": "p",
+            "text": "La prolongation ne donne pas le même avantage à tout le monde. Plus l'achat est fait tôt, plus le gain est grand. Nous avons calculé les dates limites pour des achats typiques de la saison (date d'achat en magasin + nombre de jours du délai) :"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-walmart/retours-fetes-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Calendrier des délais de retour Walmart pour des achats des Fêtes 2026 : un téléviseur acheté le 1er novembre passe d'un retour au 1er décembre au 24 janvier ; une tablette achetée le 24 décembre gagne un seul jour ; un jouet garde son délai de 90 jours ; un cellulaire à contrat reste à 14 jours",
+            "caption": "Délais calculés par ReFound à partir de la politique de walmart.ca, vérifiée le 4 novembre 2026. Articles non ouverts, achetés en magasin."
+          },
+          {
+            "type": "table",
+            "caption": "Dates limites de retour calculées pour des achats chez Walmart à l'automne 2026",
+            "headers": [
+              "Achat",
+              "Délai normal",
+              "Avec la prolongation des Fêtes",
+              "Gain"
+            ],
+            "rows": [
+              [
+                "Téléviseur, 1er novembre",
+                "1er décembre 2026",
+                "24 janvier 2027",
+                "54 jours"
+              ],
+              [
+                "Console, 27 novembre",
+                "27 décembre 2026",
+                "24 janvier 2027",
+                "28 jours"
+              ],
+              [
+                "Écouteurs, 15 décembre",
+                "14 janvier 2027",
+                "24 janvier 2027",
+                "10 jours"
+              ],
+              [
+                "Tablette, 24 décembre",
+                "23 janvier 2027",
+                "24 janvier 2027",
+                "1 jour"
+              ],
+              [
+                "Jouet (90 jours), 15 décembre",
+                "15 mars 2027",
+                "Non applicable",
+                "Le délai normal est déjà plus long"
+              ],
+              [
+                "Cellulaire à contrat postpayé, 27 novembre",
+                "11 décembre 2026",
+                "Exclu",
+                "Aucun"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deux conclusions pratiques. D'abord, un cadeau électronique acheté tôt en novembre profite le plus de la prolongation ; un achat de dernière minute n'y gagne presque rien. Ensuite, la prolongation exige un article **non ouvert** : une console déballée le 25 décembre ne bénéficie pas de cette règle."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Comment nous avons compté",
+            "text": "Nous avons ajouté le nombre de jours du délai à la date d'achat. La politique ne précise pas si le jour de l'achat compte. Pour un retour à la dernière journée, prévoyez une marge et confirmez avec votre magasin."
+          }
+        ]
+      },
+      {
+        "heading": "Peut-on faire un retour chez Walmart sans reçu?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La politique standard de Walmart Canada exige une **preuve d'achat valide** pour un retour ou un remplacement. Les pages officielles que nous avons consultées ne décrivent pas de procédure de retour sans reçu en magasin ; ne comptez pas sur une exception."
+          },
+          {
+            "type": "p",
+            "text": "Pour un achat en ligne, la preuve d'achat existe déjà dans votre compte : si vous êtes connecté, le délai de retour s'affiche au-dessus de chaque article dans l'historique d'achats. Si vous avez commandé sans compte, la date limite figure dans le courriel de reçu officiel envoyé à l'expédition."
+          },
+          {
+            "type": "p",
+            "text": "Pour un achat en magasin, c'est le reçu papier qui fait foi. C'est aussi le document le plus fragile : un reçu thermique rangé dans une poche de manteau peut pâlir avant la fin des 90 jours. Voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Pour un cadeau",
+            "text": "Au Canada, un reçu de vente est presque toujours nécessaire pour obtenir un remboursement ou un échange, et le Bureau de la consommation recommande de conserver les reçus de cadeaux. Si la personne qui a reçu le cadeau doit faire le retour, c'est elle qui aura besoin de la preuve d'achat : voyez [comment partager un reçu avec un proche](/blog/partager-recu-conjoint-famille)."
+          }
+        ]
+      },
+      {
+        "heading": "Articles achetés auprès d'un vendeur du Marché électronique",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sur Walmart.ca, un article vendu et expédié par un vendeur tiers du Marché électronique suit une autre politique. La plupart de ces vendeurs offrent un délai minimal de **30 jours** à compter de la livraison, et certains articles n'ont que **14 jours**, dont les ordinateurs portatifs, les tablettes, les consoles, les moniteurs, les imprimantes et la technologie prêt-à-porter."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Un article de plus de 250 $ vendu par un vendeur du Marché électronique ne peut pas être rapporté en magasin : il se retourne directement au vendeur.",
+              "En magasin, l'article doit être accompagné de tous les emballages et du matériel d'origine.",
+              "La preuve d'achat valide est le numéro de commande."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Avant d'acheter un ordinateur portatif sur Walmart.ca, regardez donc qui le vend : vendu par Walmart, il a 30 jours ; vendu et expédié par un vendeur du Marché électronique, il peut n'en avoir que 14, sans prolongation des Fêtes."
+          }
+        ]
+      },
+      {
+        "heading": "Quels articles ne sont pas retournables chez Walmart?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Certains articles ne peuvent pas être retournés chez Walmart Canada, même avec un reçu. La liste officielle comprend notamment :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "l'alcool, les cartes prépayées pour cellulaires et les cartes-cadeaux (Walmart et tiers);",
+              "les téléchargements numériques, y compris les livres électroniques et les logiciels téléchargés;",
+              "les cartes de collection, de jeu et à échanger, et les magazines;",
+              "les médicaments d'ordonnance et les produits pour diabétiques (glucomètres, bandelettes, lancettes);",
+              "certains équipements médicaux d'hygiène, les produits de planification familiale et les articles de bien-être sexuel;",
+              "les feux d'artifice et les produits contenant des composants inflammables (carburant, huile à moteur, peintures, nettoyants)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Après le délai de retour : ce qui protège encore votre achat",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Quand le délai de retour est passé, la politique de Walmart ne prévoit plus de remboursement, mais un article défectueux n'est pas forcément perdu. La garantie du fabricant continue selon ses propres conditions et, au Québec, la loi ajoute deux garanties. Ce sont d'autres recours (réparation, remplacement), pas un remboursement : ils ne prolongent pas le délai de retour."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie de bon fonctionnement au Québec"
+          },
+          {
+            "type": "p",
+            "text": "Depuis le **5 octobre 2026**, une garantie de bon fonctionnement s'applique à 14 catégories de biens achetés neufs auprès d'un commerçant à partir de cette date. Pendant une durée fixée, calculée à partir de la livraison, le commerçant ou le fabricant doit réparer gratuitement le bien qui cesse de fonctionner. Plusieurs de ces biens sont justement dans la catégorie électronique de Walmart, à 30 jours de retour :"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-walmart/retour-vs-garantie-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Comparaison à l'échelle entre le délai de retour Walmart de 30 jours et la garantie de bon fonctionnement du Québec : 4 ans pour un téléviseur, 3 ans pour un ordinateur portable, une console, une tablette et un cellulaire",
+            "caption": "Le délai de retour de 30 jours est une mince bande à côté de la garantie de bon fonctionnement. Sources : walmart.ca et Gouvernement du Québec, vérifié le 4 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Téléviseur acheté chez Walmart au Québec le 27 novembre 2026 (exemple calculé)",
+            "headers": [
+              "Recours",
+              "Jusqu'à",
+              "Ce qu'il permet"
+            ],
+            "rows": [
+              [
+                "Retour normal (électronique, 30 jours)",
+                "27 décembre 2026",
+                "Remboursement ou remplacement, selon la politique"
+              ],
+              [
+                "Retour avec la prolongation des Fêtes (non ouvert)",
+                "24 janvier 2027",
+                "Remboursement ou remplacement, selon la politique"
+              ],
+              [
+                "Garantie de bon fonctionnement (4 ans)",
+                "Vers le 27 novembre 2030, à partir de la livraison",
+                "Réparation gratuite par le commerçant ou le fabricant"
+              ],
+              [
+                "Garantie légale",
+                "Durée raisonnable selon le bien",
+                "Un bien doit servir à un usage normal pendant une durée raisonnable"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les durées de la garantie de bon fonctionnement sont de 6 ans pour une cuisinière, un réfrigérateur, un congélateur, un climatiseur ou une thermopompe ; 5 ans pour une laveuse, une sécheuse ou un lave-vaisselle ; 4 ans pour un téléviseur ; 3 ans pour un ordinateur portable ou de bureau, une console de jeu vidéo, un téléphone cellulaire ou une tablette."
+          },
+          {
+            "type": "h3",
+            "text": "Le problème : votre reçu devra durer quatre ans"
+          },
+          {
+            "type": "p",
+            "text": "Pour se prévaloir d'une garantie, il faut pouvoir montrer quand et où le bien a été acheté. Un téléviseur acheté pendant les Fêtes 2026 est couvert jusqu'en 2030, mais le reçu thermique imprimé à la caisse n'a pas été conçu pour durer aussi longtemps, et il n'indique nulle part qu'une garantie de quatre ans existe. Pour la démarche, voyez [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties) et la différence entre [garantie du magasin et garantie du fabricant](/blog/garantie-magasin-vs-garantie-manufacturier)."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour chez Walmart",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Retrouvez la preuve d'achat : reçu papier pour un achat en magasin, historique d'achats ou courriel de reçu pour une commande en ligne.",
+              "Repérez le délai de l'article : 90 jours, 30 jours pour l'électronique et l'optique, 14 jours pour un cellulaire à contrat.",
+              "Pour un achat du 1er novembre au 25 décembre, vérifiez si la prolongation au 24 janvier 2027 s'applique : article non ouvert, délai normal de 30 jours.",
+              "Vérifiez qui a vendu l'article sur Walmart.ca : Walmart ou un vendeur du Marché électronique.",
+              "Apportez la carte de paiement utilisée, surtout si vous avez payé par débit.",
+              "Pour un gros article acheté en ligne, organisez une collecte au lieu de vous déplacer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Avec ReFound, le reçu numérisé garde une image lisible, le code-barres du reçu quand il est détecté et le mode de paiement. ReFound affiche aussi une date limite de retour estimée, calculée selon la politique **générale** du marchand : elle ne tient compte ni du délai de 30 jours de l'électronique ni de la prolongation des Fêtes. Pour un téléviseur ou une console, fiez-vous aux dates ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite estimée. L'acceptation du retour reste toujours à la discrétion de Walmart. En savoir plus sur l'[application pour les retours en magasin](/application-retours-magasin)."
+          }
+        ]
+      },
+      {
+        "heading": "Un magasin est-il obligé d'accepter un retour au Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non. Au Canada, les entreprises ne sont pas obligées d'accepter un article retourné, sauf s'il est défectueux, rappelle le Bureau de la consommation du gouvernement du Canada. La politique de Walmart, et non une règle générale, détermine donc ce que vous pouvez obtenir pour un article qui fonctionne bien mais ne vous convient pas."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de jours a-t-on pour retourner un article chez Walmart Canada?",
+        "a": "La plupart des articles peuvent être retournés ou remplacés dans les 90 jours avec une preuve d'achat valide. L'électronique grand public et l'optique ont 30 jours, et les cellulaires à contrat postpayé, 14 jours."
+      },
+      {
+        "q": "Jusqu'à quand peut-on retourner un cadeau acheté chez Walmart pour les Fêtes 2026?",
+        "a": "Un article non ouvert acheté du 1er novembre au 25 décembre 2026 qui a un délai de 30 jours peut être retourné jusqu'au 24 janvier 2027. Les articles à 90 jours gardent leur délai normal, qui est plus long."
+      },
+      {
+        "q": "Walmart accepte-t-il les retours sans reçu?",
+        "a": "La politique standard exige une preuve d'achat valide. Pour un achat en ligne, l'historique d'achats ou le courriel de reçu sert de preuve. Les pages officielles ne décrivent pas de retour sans reçu en magasin."
+      },
+      {
+        "q": "Que faire si un téléviseur acheté chez Walmart brise après 30 jours?",
+        "a": "Consultez la garantie du fabricant. Au Québec, un téléviseur acheté neuf depuis le 5 octobre 2026 a une garantie de bon fonctionnement de 4 ans à partir de la livraison : le commerçant ou le fabricant doit le réparer gratuitement. Gardez le reçu comme preuve d'achat."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus Walmart lisibles jusqu'à la fin de la garantie",
+    "ctaBody": "Numérisez le reçu dès l'achat : ReFound garde une copie lisible pour le retour, puis pour la garantie, et affiche la garantie de vos articles quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Politique de retour Canadian Tire",
+        "href": "/blog/politique-retour-canadian-tire",
+        "desc": "Délais, reçu et garanties d'échange."
+      },
+      {
+        "label": "Partager un reçu avec un proche",
+        "href": "/blog/partager-recu-conjoint-famille",
+        "desc": "Utile pour retourner un cadeau."
+      },
+      {
+        "label": "Application de garanties",
+        "href": "/application-garanties",
+        "desc": "Garder la preuve d'achat pour les années de garantie."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Politique de retour standard de Walmart Canada",
+        "publisher": "Walmart Canada",
+        "url": "https://walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Holiday Return Policy (page consultée en anglais)",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/holiday-return-policy/ec288f81bac241389fd290e4c76fb6e3",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Politique de retour du Marché électronique",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/fr/help/article/politique-de-retour-du-marche-electronique/6d9705b4b87e4afa9c747337a55ffe8b",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Refund timelines (en anglais)",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/refund-timelines/b52035f3456047b0a9bbd27108bdeac8",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Frequently asked questions (en anglais)",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/frequently-asked-questions/f8640a528dfc4f9c9db2322dcdcb1e1d",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Remboursements et échanges",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Avis sur la garantie légale et la garantie de bon fonctionnement",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://cdn.opc.gouv.qc.ca/media/documents/commercant/pratique-commerce/garantie/avis-garantie-legale_gbf.pdf",
+        "accessed": "2026-11-04"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 4 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Walmart Canada Return Policy: Time Limits & 2026 Holidays | ReFound",
+    "metaDescription": "90 days with proof of purchase, 30 for electronics, 14 for contract phones. Holiday returns until January 24, 2027, then the warranties that remain.",
+    "keywords": "Walmart return policy Canada, Walmart Canada returns, Walmart return time limit, Walmart electronics return, Walmart holiday return policy 2026, Walmart return without receipt, Walmart Marketplace returns, Quebec warranty of good working order",
+    "category": "Guide",
+    "date": "November 4, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Walmart return policy",
+    "eyebrow": "Returns",
+    "h1": "Walmart Canada Return Policy: Time Limits, 2026 Holidays and Warranties",
+    "card": {
+      "title": "Walmart Canada Return Policy: Time Limits, 2026 Holidays and Warranties",
+      "subtitle": "90, 30 or 14 days, the holiday extension to January 24, 2027, and what's left after that."
+    },
+    "coverAlt": "Stylized receipt showing 14, 30 and 90-day return windows and the date January 24, 2027",
+    "intro": [
+      "Short answer: at Walmart Canada, almost anything bought with a valid proof of purchase can be returned or exchanged within **90 days**. Consumer electronics (TVs, laptops, consoles, unlocked phones, headphones…) and optical items have **30 days**, and contract post-paid phones have **14 days**.",
+      "For the 2026 holidays, Walmart extends the window for unopened items bought from November 1 to December 25 that have a 30-day window: they can be returned until **January 24, 2027**. This guide works out, date by date, what that really changes, and shows what still protects a TV or a console once the return window has closed.",
+      "Policy checked on walmart.ca on November 4, 2026. It can change: when in doubt, the official page and your store have the final say."
+    ],
+    "sections": [
+      {
+        "heading": "What is Walmart Canada's return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Walmart Canada's general rule is a **90-day** window: with a valid proof of purchase, almost anything you buy from Walmart, in store or on Walmart.ca, can be returned or exchanged within that time, except for the exceptions listed in the policy."
+          },
+          {
+            "type": "p",
+            "text": "When the clock starts depends on where you bought the item:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**In store**: the return window begins on the purchase date.",
+              "**Online**: the return window begins on the date your order arrives.",
+              "**Exchanges**: an item that isn't eligible for a return isn't eligible for an exchange either. Exchanges follow the same windows as returns."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Refunds go back to the original payment method. For an in-store return paid by debit, if you don't have the card with you, the refund is issued on a Walmart gift card, according to Walmart's refund timelines page."
+          }
+        ]
+      },
+      {
+        "heading": "Return windows by type of item",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The 90-day window doesn't apply to electronics. Here are the windows in Walmart Canada's standard return policy:"
+          },
+          {
+            "type": "table",
+            "caption": "Return windows at Walmart Canada (standard policy)",
+            "headers": [
+              "Category",
+              "Window",
+              "Examples from the policy"
+            ],
+            "rows": [
+              [
+                "Almost all items",
+                "90 days",
+                "With a valid proof of purchase"
+              ],
+              [
+                "Consumer electronics",
+                "30 days",
+                "TVs, laptops, computers, tablets, video game consoles, video games, unlocked and prepaid phones, cameras, monitors, printers, headphones, drones with GPS, wearables, e-readers, software, movies and music"
+              ],
+              [
+                "Optical",
+                "30 days",
+                "Contact lenses, glasses"
+              ],
+              [
+                "Contract post-paid phones",
+                "14 days",
+                "Under the standard policy"
+              ],
+              [
+                "Orders fulfilled by Walmart from outside Canada",
+                "30 days",
+                "No store returns; start the return on Walmart.ca or in the app"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Large items bought online",
+            "text": "An item bought on Walmart.ca that measures more than 40\" x 48\" or weighs more than 100 lbs, such as a full-size mattress or a large appliance, can't be returned in store. You need to schedule a return pickup."
+          }
+        ]
+      },
+      {
+        "heading": "2026 holiday returns: until January 24, 2027",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Unopened items bought from November 1 to December 25, 2026 that normally have a 30-day return window can be returned until **January 24, 2027**, with proof of purchase. The extension covers items sold by Walmart and Marketplace items fulfilled by Walmart."
+          },
+          {
+            "type": "p",
+            "text": "There are three exclusions: items sold **and** shipped by Marketplace sellers, contract post-paid wireless devices, and final sale items."
+          },
+          {
+            "type": "h3",
+            "text": "What the extension changes, date by date"
+          },
+          {
+            "type": "p",
+            "text": "The extension doesn't help everyone equally. The earlier you buy, the more you gain. We worked out the deadlines for typical holiday purchases (in-store purchase date plus the number of days in the window):"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-walmart/retours-fetes-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Calendar of Walmart return deadlines for 2026 holiday purchases: a TV bought November 1 moves from a December 1 deadline to January 24; a tablet bought December 24 gains only one day; a toy keeps its 90-day window; a contract phone stays at 14 days",
+            "caption": "Deadlines calculated by ReFound from the walmart.ca policy, checked November 4, 2026. Unopened items bought in store."
+          },
+          {
+            "type": "table",
+            "caption": "Calculated return deadlines for Walmart purchases in fall 2026",
+            "headers": [
+              "Purchase",
+              "Regular deadline",
+              "With the holiday extension",
+              "Gain"
+            ],
+            "rows": [
+              [
+                "TV, November 1",
+                "December 1, 2026",
+                "January 24, 2027",
+                "54 days"
+              ],
+              [
+                "Game console, November 27",
+                "December 27, 2026",
+                "January 24, 2027",
+                "28 days"
+              ],
+              [
+                "Headphones, December 15",
+                "January 14, 2027",
+                "January 24, 2027",
+                "10 days"
+              ],
+              [
+                "Tablet, December 24",
+                "January 23, 2027",
+                "January 24, 2027",
+                "1 day"
+              ],
+              [
+                "Toy (90 days), December 15",
+                "March 15, 2027",
+                "Not applicable",
+                "The regular window is already longer"
+              ],
+              [
+                "Contract post-paid phone, November 27",
+                "December 11, 2026",
+                "Excluded",
+                "None"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Two practical takeaways. First, an electronics gift bought early in November gets the most out of the extension; a last-minute purchase gains almost nothing. Second, the extension requires an **unopened** item: a console unwrapped on December 25 doesn't qualify under this rule."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "How we counted",
+            "text": "We added the number of days in the window to the purchase date. The policy doesn't say whether the purchase day counts. If you're returning on the last day, leave some margin and check with your store."
+          }
+        ]
+      },
+      {
+        "heading": "Can you return something to Walmart without a receipt?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Walmart Canada's standard policy requires a **valid proof of purchase** for a return or exchange. The official pages we reviewed don't describe a no-receipt return process in store, so don't count on an exception."
+          },
+          {
+            "type": "p",
+            "text": "For an online purchase, the proof of purchase is already in your account: when you're signed in, the return window appears above each item in your purchase history. If you checked out as a guest, the deadline is in the official receipt email sent when your order ships."
+          },
+          {
+            "type": "p",
+            "text": "For an in-store purchase, the paper receipt is the proof. It's also the most fragile document: a thermal receipt left in a coat pocket can fade before the 90 days are up. See [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "For a gift",
+            "text": "In Canada, a sales receipt is almost always needed to get a refund or exchange, and the Office of Consumer Affairs recommends keeping gift receipts. If the person who received the gift is the one making the return, they're the one who needs the proof of purchase: see [how to share a receipt with family](/en/blog/share-receipt-with-partner-family)."
+          }
+        ]
+      },
+      {
+        "heading": "Items bought from a Walmart Marketplace seller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "On Walmart.ca, an item sold and shipped by a third-party Marketplace seller follows a different policy. Most Marketplace sellers offer a minimum **30-day** window from the delivery date, and some items have only **14 days**, including computers and laptops, tablets and e-readers, video game consoles, monitors, printers and wearable tech."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "A Marketplace item with a retail price above $250 can't be returned in store; it goes back directly to the seller.",
+              "In store, the item must include all original packaging and materials.",
+              "The valid proof of purchase is the order number."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "So before buying a laptop on Walmart.ca, check who's selling it: sold by Walmart, it has 30 days; sold and shipped by a Marketplace seller, it may have only 14, with no holiday extension."
+          }
+        ]
+      },
+      {
+        "heading": "Which items can't be returned to Walmart?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Some items can't be returned to Walmart Canada, even with a receipt. The official list includes:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "alcohol, prepaid phone cards and gift cards (Walmart and third-party);",
+              "digital downloads, including e-books and downloaded software;",
+              "trading, gaming and collectible cards, and magazines;",
+              "prescription medication and diabetic products (glucometers, test strips, lancets);",
+              "certain hygienic medical equipment, family planning products and sexual wellness items;",
+              "fireworks and products with flammable components (fuel, motor oil, paints, cleaners)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "After the return window: what still protects your purchase",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Once the return window has closed, Walmart's policy no longer offers a refund, but a defective item isn't necessarily a loss. The manufacturer's warranty still applies under its own terms, and in Quebec the law adds two warranties. These are different remedies (repair, replacement), not a refund: they don't extend the return window."
+          },
+          {
+            "type": "h3",
+            "text": "Quebec's warranty of good working order"
+          },
+          {
+            "type": "p",
+            "text": "Since **October 5, 2026**, a warranty of good working order applies to 14 categories of goods bought new from a merchant on or after that date. For a set period, counted from delivery, the merchant or the manufacturer must repair the item for free if it stops working. Several of these goods fall right into Walmart's 30-day electronics category:"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-walmart/retour-vs-garantie-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "To-scale comparison of Walmart's 30-day return window and Quebec's warranty of good working order: 4 years for a TV, 3 years for a laptop, a console, a tablet and a phone",
+            "caption": "The 30-day return window is a thin strip next to the warranty of good working order. Sources: walmart.ca and Government of Quebec, checked November 4, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "TV bought at Walmart in Quebec on November 27, 2026 (worked example)",
+            "headers": [
+              "Remedy",
+              "Until",
+              "What it gives you"
+            ],
+            "rows": [
+              [
+                "Regular return (electronics, 30 days)",
+                "December 27, 2026",
+                "Refund or exchange, under the policy"
+              ],
+              [
+                "Return with the holiday extension (unopened)",
+                "January 24, 2027",
+                "Refund or exchange, under the policy"
+              ],
+              [
+                "Warranty of good working order (4 years)",
+                "Around November 27, 2030, counted from delivery",
+                "Free repair by the merchant or manufacturer"
+              ],
+              [
+                "Legal warranty",
+                "A reasonable time, depending on the item",
+                "Goods must be fit for normal use for a reasonable time"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The warranty of good working order lasts 6 years for a stove, refrigerator, freezer, air conditioner or heat pump; 5 years for a washer, dryer or dishwasher; 4 years for a TV; and 3 years for a laptop or desktop computer, video game console, cell phone or tablet."
+          },
+          {
+            "type": "h3",
+            "text": "The catch: your receipt has to last four years"
+          },
+          {
+            "type": "p",
+            "text": "To use a warranty, you have to be able to show when and where the item was bought. A TV bought during the 2026 holidays is covered until 2030, but the thermal receipt printed at the checkout wasn't made to last that long, and nothing on it says a four-year warranty exists. For the details, see [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties) and the difference between a [store guarantee and a manufacturer warranty](/en/blog/store-warranty-vs-manufacturer-warranty)."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare a Walmart return",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Find your proof of purchase: the paper receipt for an in-store purchase, your purchase history or receipt email for an online order.",
+              "Check the item's window: 90 days, 30 days for electronics and optical, 14 days for a contract phone.",
+              "For a purchase between November 1 and December 25, check whether the January 24, 2027 extension applies: unopened item, regular 30-day window.",
+              "Check who sold the item on Walmart.ca: Walmart or a Marketplace seller.",
+              "Bring the card you paid with, especially if you paid by debit.",
+              "For a large item bought online, schedule a pickup instead of going to the store."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "With ReFound, the scanned receipt keeps a readable image, the receipt barcode when it's detected, and the payment method. ReFound also shows an estimated return deadline based on the merchant's **general** policy: it doesn't account for the 30-day electronics window or the holiday extension. For a TV or a console, go by the dates above. With ReFound Pro, a reminder arrives 3 days before the estimated deadline. Whether a return is accepted is always up to Walmart. Learn more about the [in-store returns app](/en/returns-app)."
+          }
+        ]
+      },
+      {
+        "heading": "Does a store have to accept returns in Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No. In Canada, businesses aren't required to accept returned items unless they're defective, the Government of Canada's Office of Consumer Affairs notes. So Walmart's policy, not a general rule, decides what you can get for an item that works fine but isn't right for you."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How many days do you have to return an item to Walmart Canada?",
+        "a": "Most items can be returned or exchanged within 90 days with a valid proof of purchase. Consumer electronics and optical items have 30 days, and contract post-paid phones have 14 days."
+      },
+      {
+        "q": "Until when can you return a Walmart holiday gift in 2026?",
+        "a": "An unopened item bought between November 1 and December 25, 2026 that has a 30-day window can be returned until January 24, 2027. Items with a 90-day window keep their regular, longer window."
+      },
+      {
+        "q": "Does Walmart accept returns without a receipt?",
+        "a": "The standard policy requires a valid proof of purchase. For online orders, your purchase history or receipt email serves as proof. The official pages don't describe a no-receipt return in store."
+      },
+      {
+        "q": "What if a TV bought at Walmart breaks after 30 days?",
+        "a": "Check the manufacturer's warranty. In Quebec, a TV bought new since October 5, 2026 has a 4-year warranty of good working order counted from delivery: the merchant or manufacturer must repair it for free. Keep the receipt as proof of purchase."
+      }
+    ],
+    "ctaTitle": "Keep your Walmart receipts readable for as long as the warranty lasts",
+    "ctaBody": "Scan the receipt the day you buy: ReFound keeps a readable copy for the return, then for the warranty, and shows your items' warranty when the information is available.",
+    "relatedTitle": "Read next",
+    "related": [
+      {
+        "label": "Canadian Tire return policy",
+        "href": "/en/blog/canadian-tire-return-policy",
+        "desc": "Time limits, receipts and exchange warranties."
+      },
+      {
+        "label": "Share a receipt with family",
+        "href": "/en/blog/share-receipt-with-partner-family",
+        "desc": "Handy for returning a gift."
+      },
+      {
+        "label": "Warranty tracker app",
+        "href": "/en/warranty-tracker-app",
+        "desc": "Keep proof of purchase for the whole warranty."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Walmart Canada Standard Return Policy",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/walmart-canada-standard-return-policy/6657a60d5a3f4e6cbd1409330b680562",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Holiday Return Policy",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/holiday-return-policy/ec288f81bac241389fd290e4c76fb6e3",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Walmart Canada Marketplace Return Policy",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/walmart-canada-marketplace-return-policy/e194e8a2cdab4ac19766fdaa0fd7b396",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Refund timelines",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/refund-timelines/b52035f3456047b0a9bbd27108bdeac8",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Frequently asked questions",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/frequently-asked-questions/f8640a528dfc4f9c9db2322dcdcb1e1d",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Refund and exchange",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/business-practices-and-consumer-concerns/refund-and-exchange",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt (French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-04"
+      },
+      {
+        "label": "The warranty of good working order for appliances and electronic devices",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/en/capsules/the-warranty-of-good-working-order-for-appliances-and-electronic-devices/",
+        "accessed": "2026-11-04"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 4, 2026"
+  }
+}

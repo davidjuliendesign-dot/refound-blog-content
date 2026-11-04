@@ -42,3 +42,5 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 `render-ikea.js` : `windows()` utilisé deux fois, en jours (délais de retour) et en années (retour vs garanties du marchand). Montre comment réutiliser le gabarit avec une autre unité.
 
 `render-rona.js` : `windows()` en jours (avec une ligne « 1 an ») et `vsWarranty()` avec une couleur par ligne (5e élément) et une 3e légende `lw2`, pour mêler garantie de bon fonctionnement et garantie du fabricant.
+
+`render-walmart.js` : `calendar()` (délais sur un axe de vraies dates, barre normale dorée + prolongation émeraude, ligne pointillée sur une date repère ; ex. retours des Fêtes) et `vsWarranty()`. Réutilisable pour toute politique de retour des Fêtes en changeant les dates.
