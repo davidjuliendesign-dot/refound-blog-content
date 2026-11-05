@@ -1,0 +1,821 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-costco",
+  "frPath": "/blog/politique-retour-costco",
+  "enPath": "/en/blog/costco-return-policy",
+  "datePublished": "2026-11-05T09:00:00-05:00",
+  "dateModified": "2026-11-05T09:00:00-05:00",
+  "lastFactCheck": "2026-11-05",
+  "cover": {
+    "src": "/images/blog/politique-retour-costco/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delais-appareils-fr.png",
+    "delais-appareils-en.png",
+    "protections-televiseur-fr.png",
+    "protections-televiseur-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour Costco Canada : 90 jours, garanties | ReFound",
+    "metaDescription": "Costco rembourse presque tout, sauf l'électronique et les électroménagers après 90 jours. La 2e année de garantie, la loi du Québec et le reçu à garder.",
+    "keywords": "politique de retour Costco, retour Costco Canada, délai de retour Costco électronique, retour téléviseur Costco, garantie Costco 2 ans, Costco Concierge, garantie de satisfaction Costco, garantie de bon fonctionnement Québec",
+    "category": "Guide",
+    "date": "5 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour Costco",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour Costco Canada : 90 jours pour l'électronique, et ensuite?",
+    "card": {
+      "title": "Politique de retour Costco Canada : 90 jours pour l'électronique, et ensuite?",
+      "subtitle": "La garantie de satisfaction, l'exception de 90 jours, la 2e année de garantie et ce que la loi du Québec ajoute."
+    },
+    "coverAlt": "Reçu stylisé avec un délai de retour de 90 jours, une 2e année de garantie et une garantie de bon fonctionnement de 4 ans",
+    "intro": [
+      "Réponse courte : Costco Canada garantit votre satisfaction sur chaque produit vendu et rembourse le prix d'achat, sauf exceptions. La principale exception : les téléviseurs, gros électroménagers, projecteurs, ordinateurs, appareils photo, drones, caméscopes, lecteurs de musique numérique, tablettes, montres intelligentes et téléphones cellulaires doivent être retournés **dans les 90 jours suivant la date d'achat**.",
+      "Après ces 90 jours, un appareil défectueux n'est pas forcément perdu : Costco prolonge à 2 ans certaines garanties du fabricant et, au Québec, la nouvelle garantie de bon fonctionnement couvre un téléviseur pendant 4 ans. Ce guide met ces protections sur une même ligne du temps, date par date, et explique pourquoi c'est le reçu, avec son numéro d'article, qui vous permettra de les utiliser."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de Costco Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Costco Canada n'a pas de délai de retour général : ses conditions d'adhésion garantissent votre satisfaction sur chaque produit vendu et prévoient le remboursement du prix d'achat, avec une liste d'exceptions. Les conditions d'achat de costco.ca ne donnent pas non plus de délai général."
+          },
+          {
+            "type": "p",
+            "text": "Les exceptions sont précises. Voici ce que disent les conditions d'adhésion de Costco, vérifiées le 5 novembre 2026 :"
+          },
+          {
+            "type": "table",
+            "caption": "Garantie de satisfaction Costco et ses exceptions (conditions d'adhésion, version du 1er août 2026)",
+            "headers": [
+              "Produit",
+              "Règle",
+              "Détail"
+            ],
+            "rows": [
+              [
+                "La plupart des produits",
+                "Remboursement du prix d'achat",
+                "Garantie de satisfaction, sans délai général indiqué"
+              ],
+              [
+                "Téléviseurs, gros électroménagers, projecteurs, ordinateurs, appareils photo, drones, caméscopes, lecteurs de musique numérique, tablettes, montres intelligentes",
+                "90 jours",
+                "À partir de la date d'achat ; Costco peut ajouter d'autres produits électroniques à la liste"
+              ],
+              [
+                "Téléphones cellulaires",
+                "90 jours",
+                "Les modalités varient selon le contrat de service du fournisseur"
+              ],
+              [
+                "Bijoux avec un diamant de 1,00 carat ou plus",
+                "Remboursement après vérification",
+                "Documents d'origine exigés (certificat IGI ou GIA) ; vérification de 2 à 5 jours ouvrables"
+              ],
+              [
+                "Pneus et piles",
+                "Garantie limitée propre au produit",
+                "Produits à durée de vie limitée"
+              ],
+              [
+                "Installation sur mesure",
+                "Non retournable",
+                "Sauf réparation ou remplacement sous garantie"
+              ],
+              [
+                "Lingots et barres d'or ou d'argent",
+                "Non retournables, non remboursables",
+                "—"
+              ],
+              [
+                "Cartes-cadeaux, billets, certificats électroniques",
+                "Non remboursables",
+                "—"
+              ],
+              [
+                "Cigarettes et alcool",
+                "Pas de retour",
+                "Là où la loi l'interdit"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Costco précise aussi qu'il peut restreindre sa politique de retour pour d'autres produits, et que ces restrictions sont alors indiquées au point de vente. Pour un achat sur costco.ca, vérifiez donc la page du produit avant de commander."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "L'adhésion aussi est remboursable",
+            "text": "Selon ses conditions, Costco annule et rembourse les frais d'adhésion en tout temps si vous n'êtes pas satisfait."
+          }
+        ]
+      },
+      {
+        "heading": "90 jours pour l'électronique : comment se compare Costco?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour un téléviseur ou un ordinateur, 90 jours chez Costco, c'est trois fois plus que chez Walmart ou Home Depot, qui accordent 30 jours. Pour un gros électroménager, l'écart est encore plus grand : Home Depot n'accepte pas de retour du tout."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-costco/delais-appareils-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Comparaison à l'échelle des délais de retour d'appareils : électroménager chez Home Depot, aucun retour ; téléviseur chez Home Depot et Walmart, 30 jours ; téléviseur chez Costco, 90 jours",
+            "caption": "Délais tirés des politiques officielles de costco.ca, walmart.ca et homedepot.ca, vérifiées le 5 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Délai de retour d'un appareil acheté en magasin, selon le marchand (politiques vérifiées le 5 novembre 2026)",
+            "headers": [
+              "Appareil",
+              "Costco",
+              "Walmart",
+              "Home Depot"
+            ],
+            "rows": [
+              [
+                "Téléviseur",
+                "90 jours",
+                "30 jours",
+                "30 jours"
+              ],
+              [
+                "Ordinateur portable",
+                "90 jours",
+                "30 jours",
+                "30 jours"
+              ],
+              [
+                "Gros électroménager",
+                "90 jours",
+                "Article volumineux acheté en ligne : collecte de retour à organiser",
+                "Aucun retour ; dommages à signaler dans les 48 heures suivant la livraison"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Concrètement, pour un téléviseur acheté le vendredi 27 novembre 2026, la date limite tombe le **25 février 2027** chez Costco, contre le 27 décembre 2026 chez Walmart et Home Depot (date d'achat + nombre de jours du délai). Walmart prolonge toutefois jusqu'au 24 janvier 2027 le délai de certains articles non ouverts achetés pendant les Fêtes : voyez notre [guide de la politique de retour Walmart](/blog/politique-retour-walmart)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Comment nous avons compté",
+            "text": "Nous avons ajouté 90 jours à la date d'achat. Les conditions de Costco disent « dans les 90 jours suivant la date d'achat » sans préciser si le jour de l'achat compte. Pour un retour la dernière journée, prévoyez une marge."
+          }
+        ]
+      },
+      {
+        "heading": "Après 90 jours : quatre protections, quatre dates différentes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Quand les 90 jours sont passés, Costco ne rembourse plus un téléviseur ou un ordinateur, mais un appareil défectueux peut encore être réparé ou remplacé. Trois autres protections prennent le relais, et chacune a sa propre date de fin. Ce sont d'autres recours, pas un remboursement : aucune ne prolonge le délai de retour."
+          },
+          {
+            "type": "h3",
+            "text": "Exemple calculé : un téléviseur acheté au Québec le 27 novembre 2026"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-costco/protections-televiseur-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Ligne du temps à l'échelle pour un téléviseur acheté chez Costco au Québec le 27 novembre 2026 : retour jusqu'au 25 février 2027, garantie du fabricant d'un an en exemple, 2e année Costco jusqu'au 27 novembre 2028, garantie de bon fonctionnement jusqu'au 27 novembre 2030",
+            "caption": "Exemple calculé par ReFound, en supposant une garantie du fabricant d'un an et une livraison le jour de l'achat. Sources : costco.ca et Gouvernement du Québec, vérifié le 5 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Téléviseur acheté chez Costco au Québec le 27 novembre 2026 (exemple calculé)",
+            "headers": [
+              "Protection",
+              "Jusqu'au",
+              "Ce qu'elle permet",
+              "Qui s'en occupe"
+            ],
+            "rows": [
+              [
+                "Retour Costco (électronique, 90 jours)",
+                "25 février 2027",
+                "Remboursement du prix d'achat",
+                "Costco"
+              ],
+              [
+                "Garantie du fabricant (exemple : 1 an)",
+                "27 novembre 2027",
+                "Selon les conditions de la marque",
+                "Le fabricant"
+              ],
+              [
+                "2e année de garantie Costco",
+                "27 novembre 2028",
+                "Prolongation de la garantie du fabricant à 2 ans à partir de l'achat ; peut varier au Québec",
+                "Service technique et de garantie Costco"
+              ],
+              [
+                "Garantie de bon fonctionnement (téléviseur, 4 ans)",
+                "27 novembre 2030, à partir de la livraison",
+                "Réparation gratuite",
+                "Le commerçant ou le fabricant"
+              ]
+            ]
+          },
+          {
+            "type": "h3",
+            "text": "La 2e année de garantie Costco"
+          },
+          {
+            "type": "p",
+            "text": "Costco prolonge la garantie du fabricant des téléviseurs, projecteurs, gros électroménagers et ordinateurs (tablettes exclues) à **2 ans à partir de la date d'achat**, si la garantie du fabricant est de moins de 2 ans. La page précise que cette prolongation peut varier au Québec et renvoie à la garantie du fabricant pour les conditions exactes. Le service passe par le numéro sans frais de Costco, 1-866-231-9731, qui offre aussi un soutien technique gratuit aux membres."
+          },
+          {
+            "type": "h3",
+            "text": "Au Québec : la garantie de bon fonctionnement et la garantie légale"
+          },
+          {
+            "type": "p",
+            "text": "Depuis le **5 octobre 2026**, une garantie de bon fonctionnement s'applique aux biens de 14 catégories achetés ou loués neufs auprès d'un commerçant à partir de cette date. Le consommateur peut demander une réparation gratuite au commerçant ou au fabricant pendant une durée calculée à partir de la date de livraison : 6 ans pour une cuisinière, un réfrigérateur, un congélateur, un climatiseur ou une thermopompe ; 5 ans pour une laveuse, une sécheuse ou un lave-vaisselle ; 4 ans pour un téléviseur ; 3 ans pour un ordinateur portable ou de bureau, une console de jeu vidéo, un téléphone cellulaire ou une tablette."
+          },
+          {
+            "type": "p",
+            "text": "La garantie légale s'ajoute : selon l'Office de la protection du consommateur, un appareil doit servir à un usage normal pendant une durée raisonnable, qui dépend notamment du prix payé, du contrat et des conditions d'utilisation. Vous pouvez faire la démarche auprès du commerçant, du fabricant, ou des deux, et le commerçant ne peut pas exiger que vous fassiez affaire avec le fabricant."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "La mention « Québec seulement » de Costco",
+            "text": "Les conditions de Costco contiennent un avis, en vertu de l'article 39.2 de la Loi sur la protection du consommateur, selon lequel Costco ne garantit pas la disponibilité des pièces de rechange, des services de réparation ni de l'information nécessaire à l'entretien ou à la réparation des biens. Cet avis porte sur les pièces et la réparation ; il ne mentionne pas les garanties légales. En cas de doute sur votre situation, l'Office de la protection du consommateur est la référence."
+          },
+          {
+            "type": "p",
+            "text": "Pour comprendre la différence entre ces recours, voyez notre article sur la [garantie de satisfaction du magasin et la garantie du manufacturier](/blog/garantie-magasin-vs-garantie-manufacturier)."
+          }
+        ]
+      },
+      {
+        "heading": "Le problème : votre reçu Costco devra durer quatre ans",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour utiliser une garantie Costco, il faut des informations qui se trouvent sur le reçu. La page des services de concierge demande d'avoir sous la main, au moment de l'appel :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "votre nom et votre numéro de membre Costco;",
+              "le **numéro d'article Costco, imprimé sur votre reçu**;",
+              "la description et le numéro de modèle;",
+              "le numéro de série;",
+              "la date d'achat."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Dans l'exemple du téléviseur, ce reçu sert pendant quatre ans. Or un reçu de caisse thermique n'est pas conçu pour durer aussi longtemps, et il n'indique nulle part que l'appareil a une 2e année de garantie Costco ou une garantie de bon fonctionnement de 4 ans. Une ligne de reçu est généralement abrégée et ne donne pas toujours le numéro de modèle complet. Le numéro de série, lui, n'est que sur l'appareil ou sa boîte : photographiez-le dès le déballage."
+          },
+          {
+            "type": "p",
+            "text": "Si votre reçu commence à pâlir, voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire) et [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties)."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour ou une réclamation chez Costco",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez si l'article fait partie de la liste à 90 jours : téléviseur, gros électroménager, projecteur, ordinateur, appareil photo, drone, caméscope, lecteur de musique, tablette, montre intelligente ou cellulaire.",
+              "Si oui, comptez 90 jours à partir de la date d'achat imprimée sur le reçu. Sinon, la garantie de satisfaction s'applique, sauf exceptions (diamants, pneus et piles, lingots, cartes-cadeaux, etc.).",
+              "Apportez le reçu et votre carte de membre. Costco demande déjà de présenter le reçu à la sortie de l'entrepôt, et le service de garantie vous demandera votre numéro de membre.",
+              "Rapportez l'article dans un entrepôt Costco. Selon les conditions de costco.ca, un achat en ligne peut aussi être rapporté dans un entrepôt, ou retourné en passant par le service à la clientèle en ligne.",
+              "Après 90 jours, pour un appareil défectueux, appelez le service de concierge (1-866-231-9731) avec le numéro d'article du reçu, le modèle, le numéro de série et la date d'achat.",
+              "Au Québec, gardez en tête la garantie de bon fonctionnement : elle se compte à partir de la livraison, pas de l'achat."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Avec ReFound, le reçu Costco numérisé garde une image lisible, avec la date d'achat et les lignes d'articles, le code-barres du reçu quand il est détecté et le mode de paiement. ReFound identifie le produit derrière une ligne abrégée quand les données du marchand le permettent, et affiche sa garantie quand l'information est disponible. La date limite de retour estimée par ReFound suit la politique **générale** du marchand, pas les exceptions par catégorie : pour un téléviseur ou un ordinateur, fiez-vous au délai de 90 jours de l'électronique. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour estimée et 30 jours avant la fin d'une garantie. L'acceptation d'un retour ou d'une réclamation reste toujours à la discrétion de Costco ou du fabricant. En savoir plus sur l'[application de garanties](/application-garanties)."
+          }
+        ]
+      },
+      {
+        "heading": "Un magasin est-il obligé d'accepter un retour au Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non. Au Canada, les entreprises ne sont pas obligées d'accepter le retour d'un article acheté, sauf s'il est défectueux, rappelle le Bureau de la consommation du gouvernement du Canada. La garantie de satisfaction de Costco est donc une politique de l'entreprise, plus généreuse que l'obligation légale, et Costco précise qu'il peut la restreindre pour d'autres produits."
+          },
+          {
+            "type": "p",
+            "text": "Pour un cadeau, le Bureau de la consommation recommande de garder le reçu-cadeau, car les commerçants ne peuvent souvent pas rembourser sans reçu. Si quelqu'un d'autre fera le retour, voyez [comment partager un reçu avec un proche](/blog/partager-recu-conjoint-famille)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de temps a-t-on pour retourner un article chez Costco Canada?",
+        "a": "La plupart des produits sont couverts par la garantie de satisfaction de Costco, sans délai général indiqué dans ses conditions. Les téléviseurs, gros électroménagers, projecteurs, ordinateurs, appareils photo, drones, caméscopes, lecteurs de musique numérique, tablettes, montres intelligentes et cellulaires doivent être retournés dans les 90 jours suivant la date d'achat."
+      },
+      {
+        "q": "Peut-on retourner un téléviseur chez Costco après 90 jours?",
+        "a": "Non, pas pour un remboursement selon les conditions de Costco. Un téléviseur défectueux peut toutefois être couvert par la garantie du fabricant, la 2e année de garantie Costco si la garantie du fabricant est de moins de 2 ans et, au Québec, la garantie de bon fonctionnement de 4 ans à partir de la livraison."
+      },
+      {
+        "q": "Qu'est-ce que la 2e année de garantie Costco?",
+        "a": "Costco prolonge la garantie du fabricant des téléviseurs, projecteurs, gros électroménagers et ordinateurs (sauf tablettes) à 2 ans à partir de la date d'achat, si la garantie du fabricant est de moins de 2 ans. La page indique que cela peut varier au Québec."
+      },
+      {
+        "q": "Quels articles ne peuvent pas être retournés chez Costco?",
+        "a": "Selon ses conditions : les lingots et barres d'or et d'argent, les cartes-cadeaux, billets et certificats électroniques, les installations sur mesure (sauf réparation sous garantie), et les cigarettes et l'alcool là où la loi l'interdit. Les pneus et piles ont une garantie limitée propre au produit."
+      },
+      {
+        "q": "Faut-il garder le reçu Costco?",
+        "a": "Oui. Le service de garantie de Costco demande le numéro d'article imprimé sur le reçu et la date d'achat, et une garantie de bon fonctionnement peut durer jusqu'à 6 ans au Québec. Numérisez le reçu tant qu'il est lisible."
+      }
+    ],
+    "ctaTitle": "Gardez votre reçu Costco lisible jusqu'à la fin de la garantie",
+    "ctaBody": "Numérisez le reçu dès l'achat : ReFound garde la date, les articles et une image lisible du reçu pour le retour, puis pour la garantie, et affiche la garantie de vos articles quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Politique de retour Walmart",
+        "href": "/blog/politique-retour-walmart",
+        "desc": "30 jours pour l'électronique et la prolongation des Fêtes."
+      },
+      {
+        "label": "Politique de retour Home Depot",
+        "href": "/blog/politique-retour-home-depot",
+        "desc": "Téléviseurs, électroménagers et garanties."
+      },
+      {
+        "label": "Comment conserver ses reçus pour les garanties",
+        "href": "/blog/comment-conserver-recus-garanties",
+        "desc": "Garder la preuve d'achat pendant des années."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Conditions et règlements d'adhésion (garantie sur la marchandise, électronique, exceptions, Québec seulement ; page consultée en anglais)",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/membership-conditions-regulations.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Services de concierge : soutien technique et garantie de 2e année (page consultée en anglais)",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/concierge.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Purchase Terms (achats sur costco.ca)",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/purchase-terms.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Politique de retour standard de Walmart Canada",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Politique de retour des marchandises",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Garanties prévues par la loi (électroménagers)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/bien-consommation/electromenager/garantie/garanties-legales",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Remboursements et échanges",
+        "publisher": "Bureau de la consommation, gouvernement du Canada",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 5 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Costco Canada Return Policy: 90 Days, Warranties | ReFound",
+    "metaDescription": "Costco refunds almost anything, but electronics and major appliances have 90 days. The 2nd year warranty, Quebec law and the receipt you need to keep.",
+    "keywords": "Costco return policy, Costco Canada returns, Costco electronics return policy, return TV Costco, Costco 2 year warranty, Costco Concierge, Costco satisfaction guarantee, Quebec warranty of good working order",
+    "category": "Guide",
+    "date": "November 5, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Costco return policy",
+    "eyebrow": "Returns",
+    "h1": "Costco Canada Return Policy: 90 Days for Electronics, Then What?",
+    "card": {
+      "title": "Costco Canada Return Policy: 90 Days for Electronics, Then What?",
+      "subtitle": "The satisfaction guarantee, the 90-day exception, the 2nd year warranty and what Quebec law adds."
+    },
+    "coverAlt": "Stylized receipt showing a 90-day return window, a 2nd year warranty and a 4-year warranty of good working order",
+    "intro": [
+      "Short answer: Costco Canada guarantees your satisfaction on every product it sells and refunds the purchase price, with exceptions. The main exception: televisions, major appliances, projectors, computers, cameras, drones, camcorders, digital music players, tablets, smart watches and cell phones must be returned **within 90 days from the date of purchase**.",
+      "After those 90 days, a defective device isn't necessarily a lost cause: Costco extends some manufacturer warranties to 2 years and, in Quebec, the new warranty of good working order covers a TV for 4 years. This guide puts these protections on one timeline, date by date, and explains why the receipt, with its item number, is what lets you use them."
+    ],
+    "sections": [
+      {
+        "heading": "What is Costco Canada's return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Costco Canada has no general return window: its membership conditions guarantee your satisfaction on every product it sells and provide a refund of the purchase price, with a list of exceptions. The costco.ca purchase terms don't give a general window either."
+          },
+          {
+            "type": "p",
+            "text": "The exceptions are specific. Here is what Costco's membership conditions say, checked on November 5, 2026:"
+          },
+          {
+            "type": "table",
+            "caption": "Costco satisfaction guarantee and its exceptions (membership conditions, August 1, 2026 version)",
+            "headers": [
+              "Product",
+              "Rule",
+              "Details"
+            ],
+            "rows": [
+              [
+                "Most products",
+                "Refund of the purchase price",
+                "Satisfaction guarantee, no general time limit stated"
+              ],
+              [
+                "Televisions, major appliances, projectors, computers, cameras, drones, camcorders, digital music players, tablets, smart watches",
+                "90 days",
+                "From the date of purchase; Costco may add other electronic products to the list"
+              ],
+              [
+                "Cell phones",
+                "90 days",
+                "Return details vary by carrier service contract"
+              ],
+              [
+                "Jewellery with a diamond of 1.00 carat or more",
+                "Refund after verification",
+                "Original paperwork required (IGI or GIA certificate); verification takes 2 to 5 business days"
+              ],
+              [
+                "Tires and batteries",
+                "Product-specific limited warranty",
+                "Products with a limited useful life"
+              ],
+              [
+                "Custom installation",
+                "Not returnable",
+                "Except warranty repair or replacement"
+              ],
+              [
+                "Gold and silver bars and bullion",
+                "Not returnable or refundable",
+                "—"
+              ],
+              [
+                "Gift cards, tickets, e-certificates",
+                "Not refundable",
+                "—"
+              ],
+              [
+                "Cigarettes and alcohol",
+                "No returns",
+                "Where prohibited by law"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Costco also says it may restrict its return policy for other products, with those restrictions shown at the point of purchase. For a costco.ca order, check the product page before you buy."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "The membership is refundable too",
+            "text": "Under its conditions, Costco will cancel and refund your membership fee at any time if you are dissatisfied."
+          }
+        ]
+      },
+      {
+        "heading": "90 days for electronics: how does Costco compare?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For a TV or a computer, Costco's 90 days is three times what Walmart and Home Depot give, at 30 days. For a major appliance the gap is even wider: Home Depot doesn't accept appliance returns at all."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-costco/delais-appareils-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "To-scale comparison of device return windows: appliance at Home Depot, no returns; TV at Home Depot and Walmart, 30 days; TV at Costco, 90 days",
+            "caption": "Time limits from the official policies on costco.ca, walmart.ca and homedepot.ca, checked November 5, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Return window for a device bought in store, by retailer (policies checked November 5, 2026)",
+            "headers": [
+              "Device",
+              "Costco",
+              "Walmart",
+              "Home Depot"
+            ],
+            "rows": [
+              [
+                "TV",
+                "90 days",
+                "30 days",
+                "30 days"
+              ],
+              [
+                "Laptop",
+                "90 days",
+                "30 days",
+                "30 days"
+              ],
+              [
+                "Major appliance",
+                "90 days",
+                "Oversized item bought online: return pickup must be arranged",
+                "No returns; damage must be reported within 48 hours of delivery"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In practice, for a TV bought on Friday, November 27, 2026, the deadline is **February 25, 2027** at Costco, versus December 27, 2026 at Walmart and Home Depot (purchase date + number of days). Walmart does extend some unopened holiday purchases to January 24, 2027: see our [Walmart return policy guide](/en/blog/walmart-return-policy)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "How we counted",
+            "text": "We added 90 days to the purchase date. Costco's conditions say \"within 90 days from the date of purchase\" without saying whether the purchase day counts. If you're returning on the last day, leave yourself some margin."
+          }
+        ]
+      },
+      {
+        "heading": "After 90 days: four protections, four different dates",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Once the 90 days are up, Costco no longer refunds a TV or a computer, but a defective device can still be repaired or replaced. Three other protections take over, each with its own end date. They are different remedies, not a refund: none of them extends the return window."
+          },
+          {
+            "type": "h3",
+            "text": "Worked example: a TV bought in Quebec on November 27, 2026"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-costco/protections-televiseur-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "To-scale timeline for a TV bought at Costco in Quebec on November 27, 2026: return until February 25, 2027, 1-year manufacturer warranty as an example, Costco 2nd year until November 27, 2028, warranty of good working order until November 27, 2030",
+            "caption": "Calculated by ReFound, assuming a 1-year manufacturer warranty and delivery on the purchase date. Sources: costco.ca and Government of Quebec, checked November 5, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "TV bought at Costco in Quebec on November 27, 2026 (worked example)",
+            "headers": [
+              "Protection",
+              "Until",
+              "What it gives you",
+              "Who handles it"
+            ],
+            "rows": [
+              [
+                "Costco return (electronics, 90 days)",
+                "February 25, 2027",
+                "Refund of the purchase price",
+                "Costco"
+              ],
+              [
+                "Manufacturer warranty (example: 1 year)",
+                "November 27, 2027",
+                "Per the brand's terms",
+                "The manufacturer"
+              ],
+              [
+                "Costco 2nd year warranty",
+                "November 27, 2028",
+                "Manufacturer warranty extended to 2 years from purchase; \"may vary in Quebec\"",
+                "Costco Technical & Warranty Service"
+              ],
+              [
+                "Warranty of good working order (TV, 4 years)",
+                "November 27, 2030, from delivery",
+                "Free repair",
+                "The merchant or the manufacturer"
+              ]
+            ]
+          },
+          {
+            "type": "h3",
+            "text": "Costco's 2nd year warranty"
+          },
+          {
+            "type": "p",
+            "text": "Costco extends the manufacturer's warranty on televisions, projectors, major appliances and computers (excluding tablets) **to 2 years from the date of purchase** if the manufacturer's warranty is less than 2 years. The page notes that this \"may vary in Quebec\" and refers you to the manufacturer's warranty for specific coverage terms. Service goes through Costco's toll-free line, 1-866-231-9731, which also offers free technical support to members."
+          },
+          {
+            "type": "h3",
+            "text": "In Quebec: the warranty of good working order and the legal warranty"
+          },
+          {
+            "type": "p",
+            "text": "Since **October 5, 2026**, a warranty of good working order applies to 14 categories of goods bought or leased new from a merchant on or after that date. Consumers can ask the merchant or the manufacturer for a free repair for a period counted from the delivery date: 6 years for a stove, refrigerator, freezer, air conditioner or heat pump; 5 years for a washer, dryer or dishwasher; 4 years for a TV; 3 years for a laptop or desktop computer, video game console, cell phone or tablet."
+          },
+          {
+            "type": "p",
+            "text": "The legal warranty comes on top: according to the Office de la protection du consommateur, an appliance must serve for normal use for a reasonable period of time, which depends on factors such as the price paid, the contract and the conditions of use. You can deal with the merchant, the manufacturer, or both, and a merchant may not require that you deal with the manufacturer."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Costco's \"Quebec only\" notice",
+            "text": "Costco's conditions include a notice, under section 39.2 of Quebec's Consumer Protection Act, that Costco does not guarantee the availability of replacement parts, repair services or information needed to maintain or repair goods. That notice is about parts and repairs; it doesn't mention the legal warranties. If you're unsure how they apply to your purchase, the Office de la protection du consommateur is the authority."
+          },
+          {
+            "type": "p",
+            "text": "For the difference between these remedies, see our article on [store satisfaction guarantees vs manufacturer warranties](/en/blog/store-warranty-vs-manufacturer-warranty)."
+          }
+        ]
+      },
+      {
+        "heading": "The problem: your Costco receipt has to last four years",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "To use a Costco warranty, you need information that's on the receipt. Costco's Concierge page asks you to have this ready when you call:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "your name and Costco membership number;",
+              "the **Costco item number, printed on your receipt**;",
+              "the item description and model number;",
+              "the serial number;",
+              "the purchase date."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In the TV example, that receipt is needed for four years. A thermal till receipt isn't built to last that long, and nothing on it says the device has a Costco 2nd year warranty or a 4-year warranty of good working order. A receipt line is usually abbreviated and doesn't always show the full model number. The serial number is only on the device or its box: take a photo of it when you unpack."
+          },
+          {
+            "type": "p",
+            "text": "If your receipt is starting to fade, see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do) and [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties)."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare a return or a warranty claim at Costco",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Check whether the item is on the 90-day list: TV, major appliance, projector, computer, camera, drone, camcorder, music player, tablet, smart watch or cell phone.",
+              "If it is, count 90 days from the purchase date printed on the receipt. If not, the satisfaction guarantee applies, with exceptions (diamonds, tires and batteries, bullion, gift cards, etc.).",
+              "Bring the receipt and your membership card. Costco already asks you to show your receipt at the warehouse exit, and its warranty service will ask for your membership number.",
+              "Take the item to a Costco warehouse. Under costco.ca's terms, an online purchase can also be returned to a warehouse, or returned through online customer service.",
+              "After 90 days, for a defective device, call Concierge (1-866-231-9731) with the item number from the receipt, the model, the serial number and the purchase date.",
+              "In Quebec, remember the warranty of good working order: it runs from delivery, not from purchase."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "With ReFound, your scanned Costco receipt keeps a readable image, with the purchase date and item lines, the receipt barcode when it's detected, and the payment method. ReFound identifies the product behind an abbreviated line when the retailer's data allows it, and shows its warranty when the information is available. ReFound's estimated return deadline follows the retailer's **general** policy, not category exceptions: for a TV or a computer, go by the 90-day electronics window. With ReFound Pro, a reminder arrives 3 days before the estimated return deadline and 30 days before a warranty ends. Whether a return or claim is accepted is always up to Costco or the manufacturer. Learn more about the [warranty tracker app](/en/warranty-tracker-app)."
+          }
+        ]
+      },
+      {
+        "heading": "Do stores have to accept returns in Canada?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No. In Canada, businesses are not obligated to accept the return of purchased items unless they are defective, the Government of Canada's Office of Consumer Affairs notes. Costco's satisfaction guarantee is a company policy, more generous than the legal requirement, and Costco says it may restrict it for other products."
+          },
+          {
+            "type": "p",
+            "text": "For gifts, the Office of Consumer Affairs recommends keeping the gift receipt, since merchants often can't offer a refund without one. If someone else will make the return, see [how to share a receipt with family](/en/blog/share-receipt-with-partner-family)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How long do you have to return an item to Costco Canada?",
+        "a": "Most products are covered by Costco's satisfaction guarantee, with no general time limit stated in its conditions. Televisions, major appliances, projectors, computers, cameras, drones, camcorders, digital music players, tablets, smart watches and cell phones must be returned within 90 days from the date of purchase."
+      },
+      {
+        "q": "Can you return a TV to Costco after 90 days?",
+        "a": "Not for a refund, under Costco's conditions. A defective TV may still be covered by the manufacturer's warranty, Costco's 2nd year warranty if the manufacturer's is under 2 years and, in Quebec, the 4-year warranty of good working order counted from delivery."
+      },
+      {
+        "q": "What is Costco's 2nd year warranty?",
+        "a": "Costco extends the manufacturer's warranty on televisions, projectors, major appliances and computers (excluding tablets) to 2 years from the date of purchase if the manufacturer's warranty is less than 2 years. The page says this may vary in Quebec."
+      },
+      {
+        "q": "What can't be returned to Costco?",
+        "a": "Under its conditions: gold and silver bars and bullion, gift cards, tickets and e-certificates, custom installations (except warranty repair), and cigarettes and alcohol where prohibited by law. Tires and batteries have product-specific limited warranties."
+      },
+      {
+        "q": "Should you keep your Costco receipt?",
+        "a": "Yes. Costco's warranty service asks for the item number printed on the receipt and the purchase date, and a warranty of good working order can last up to 6 years in Quebec. Scan the receipt while it's still readable."
+      }
+    ],
+    "ctaTitle": "Keep your Costco receipt readable until the warranty ends",
+    "ctaBody": "Scan the receipt when you buy: ReFound keeps the date, the items and a readable image of the receipt for the return, then for the warranty, and shows your items' warranty when the information is available.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "Walmart return policy",
+        "href": "/en/blog/walmart-return-policy",
+        "desc": "30 days for electronics and the holiday extension."
+      },
+      {
+        "label": "Home Depot return policy",
+        "href": "/en/blog/home-depot-return-policy",
+        "desc": "TVs, appliances and warranties."
+      },
+      {
+        "label": "How to keep receipts for warranties",
+        "href": "/en/blog/how-to-keep-receipts-for-warranties",
+        "desc": "Keeping proof of purchase for years."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Membership Conditions & Regulations (merchandise guarantee, electronics, exceptions, Quebec only)",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/membership-conditions-regulations.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Concierge Services: technical support and 2nd year warranty",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/concierge.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Purchase Terms (costco.ca orders)",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/purchase-terms.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Walmart Canada standard return policy",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/return-policy/6657a60d5a3f4e6cbd1409330b680562",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Return Policy",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/en/home/customer-support/return-policy.html",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt (in French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Warranties provided for by law (appliances)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/goods/appliance/warranty/legal-warranties",
+        "accessed": "2026-11-05"
+      },
+      {
+        "label": "Refund and exchange",
+        "publisher": "Office of Consumer Affairs, Government of Canada",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/business-practices-and-consumer-concerns/refund-and-exchange",
+        "accessed": "2026-11-05"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 5, 2026"
+  }
+}
