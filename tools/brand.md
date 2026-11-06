@@ -46,3 +46,5 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 `render-walmart.js` : `calendar()` (délais sur un axe de vraies dates, barre normale dorée + prolongation émeraude, ligne pointillée sur une date repère ; ex. retours des Fêtes) et `vsWarranty()`. Réutilisable pour toute politique de retour des Fêtes en changeant les dates.
 
 `render-costco.js` : `windows()` pour comparer un même délai entre marchands (ex. téléviseur chez Costco, Walmart, Home Depot) et `layers()` (couches de protection d'un même achat sur une ligne du temps en années : retour, fabricant, prolongation du marchand, garantie de bon fonctionnement, avec la date de fin à droite de chaque barre).
+
+`render-garantie-bon-fonctionnement.js` : `layers()` (copie corrigée : l'étiquette d'une barre longue reste à l'intérieur de la barre) pour les dates de fin d'une garantie à l'échelle, et `twoDates()` (gros plan sur quelques semaines avec deux jalons datés et la preuve de chaque date, puis ligne du temps complète à l'échelle avec une fin « fantôme » en pointillé). Réutilisable pour toute garantie qui part d'une autre date que l'achat.

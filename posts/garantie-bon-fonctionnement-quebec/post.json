@@ -1,0 +1,917 @@
+{
+  "schemaVersion": 1,
+  "slug": "garantie-bon-fonctionnement-quebec",
+  "frPath": "/blog/garantie-bon-fonctionnement-quebec",
+  "enPath": "/en/blog/quebec-warranty-of-good-working-order",
+  "datePublished": "2026-11-06T09:00:00-05:00",
+  "dateModified": "2026-11-06T09:00:00-05:00",
+  "lastFactCheck": "2026-11-06",
+  "cover": {
+    "src": "/images/blog/garantie-bon-fonctionnement-quebec/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "dates-fin-fr.png",
+    "dates-fin-en.png",
+    "deux-dates-fr.png",
+    "deux-dates-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Garantie de bon fonctionnement au Québec : durées et preuves | ReFound",
+    "metaDescription": "De 3 à 6 ans de réparation gratuite pour 14 appareils achetés neufs depuis le 5 octobre 2026. Durées, dates de fin calculées et les deux preuves à garder.",
+    "keywords": "garantie de bon fonctionnement, garantie de bon fonctionnement Québec, garantie légale Québec, garantie électroménager Québec, garantie 6 ans réfrigérateur, garantie 3 ans cellulaire, Loi sur la protection du consommateur garantie, preuve de livraison garantie",
+    "category": "Guide",
+    "date": "6 novembre 2026",
+    "readingTime": "9 min de lecture",
+    "breadcrumb": "Garantie de bon fonctionnement",
+    "eyebrow": "Garanties",
+    "h1": "Garantie de bon fonctionnement au Québec : durées, dates de fin et preuves à garder",
+    "card": {
+      "title": "Garantie de bon fonctionnement au Québec : durées, dates de fin et preuves à garder",
+      "subtitle": "3 à 6 ans de réparation gratuite pour 14 appareils, calculés à partir de la livraison : les dates et les documents qui comptent."
+    },
+    "coverAlt": "Ligne du temps stylisée de 2026 à 2032 avec quatre durées de garantie : 3, 4, 5 et 6 ans",
+    "intro": [
+      "Réponse courte : au Québec, 14 électroménagers et appareils électroniques achetés ou loués **neufs** auprès d'un commerçant à compter du **5 octobre 2026** ont une garantie de bon fonctionnement gratuite de **3 à 6 ans**, calculée à partir de la **livraison**. Si l'appareil cesse de bien fonctionner pendant cette période, le commerçant ou le fabricant doit le réparer gratuitement : pièces, main-d'œuvre et frais raisonnables de transport compris.",
+      "Ce guide donne les durées officielles, calcule les dates de fin pour un achat du Vendredi fou 2026, compare cette garantie aux délais de retour de quatre grands marchands et explique pourquoi il faut pouvoir prouver **deux dates** : celle de l'achat et celle de la livraison.",
+      "Faits vérifiés auprès de l'Office de la protection du consommateur et du gouvernement du Québec le 6 novembre 2026. Ce guide donne de l'information générale, pas un avis juridique."
+    ],
+    "sections": [
+      {
+        "heading": "Qu'est-ce que la garantie de bon fonctionnement?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La garantie de bon fonctionnement est une garantie légale, automatique et gratuite, prévue par la Loi sur la protection du consommateur du Québec. Elle oblige le commerçant ou le fabricant à réparer gratuitement certains électroménagers et appareils électroniques qui cessent de bien fonctionner pendant une durée fixée par règlement."
+          },
+          {
+            "type": "p",
+            "text": "Vous n'avez rien à acheter ni à enregistrer. Pour obtenir la réparation, il suffit de démontrer que le bien a cessé de bien fonctionner, selon l'Office de la protection du consommateur (OPC). Un commerçant ou un fabricant ne peut pas vous faire renoncer à cette garantie."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Elle s'ajoute aux autres garanties.** La garantie de durée raisonnable, prévue par la loi depuis près de 50 ans, continue de s'appliquer pendant et après la garantie de bon fonctionnement.",
+              "**Elle suit l'appareil.** Elle est transférable d'un consommateur à un autre : un cellulaire acheté neuf le 10 octobre 2026 et revendu le 15 novembre 2027 reste couvert pour son nouveau propriétaire, selon l'exemple d'Éducaloi.",
+              "**Elle ne remplace pas le délai de retour.** C'est un droit à la réparation, pas un droit au remboursement parce que l'article ne vous convient plus."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Quels appareils sont couverts, et pendant combien de temps?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Quatorze biens sont couverts, avec quatre durées différentes. Ils doivent avoir été achetés ou loués à l'état neuf auprès d'un commerçant à compter du 5 octobre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Durées de la garantie de bon fonctionnement (OPC, vérifié le 6 novembre 2026)",
+            "headers": [
+              "Durée",
+              "Biens couverts"
+            ],
+            "rows": [
+              [
+                "6 ans",
+                "Cuisinière, réfrigérateur, congélateur, climatiseur, thermopompe"
+              ],
+              [
+                "5 ans",
+                "Laveuse, sécheuse, lave-vaisselle"
+              ],
+              [
+                "4 ans",
+                "Téléviseur"
+              ],
+              [
+                "3 ans",
+                "Ordinateur portable, ordinateur de bureau, console de jeu vidéo, téléphone cellulaire, tablette électronique"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deux situations sont exclues : les dommages résultant d'un usage abusif, et l'entretien normal de l'appareil avec le remplacement des pièces qui en découle. L'OPC donne deux exemples : la cuve d'une laveuse endommagée par des objets qui n'auraient pas dû s'y trouver, et le filtre d'une thermopompe remplacé lors d'un entretien normal."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Achat en ligne hors Québec",
+            "text": "Un commerçant en ligne situé à l'extérieur du Québec qui vend à un consommateur québécois doit aussi respecter la garantie de bon fonctionnement, précise l'OPC dans sa page destinée aux commerçants."
+          }
+        ]
+      },
+      {
+        "heading": "Jusqu'à quand êtes-vous couvert? Les dates pour un achat du Vendredi fou 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour un appareil acheté et emporté le jour même, la garantie de bon fonctionnement court jusqu'en 2029, 2030, 2031 ou 2032 selon la catégorie. Nous avons calculé les dates de fin pour un achat fait le vendredi 27 novembre 2026, le Vendredi fou :"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-bon-fonctionnement-quebec/dates-fin-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle : pour un achat du 27 novembre 2026 livré le même jour, le délai de retour de 30 jours finit le 27 décembre 2026, alors que la garantie de bon fonctionnement finit le 27 novembre 2029 pour un cellulaire, 2030 pour un téléviseur, 2031 pour une laveuse et 2032 pour un réfrigérateur",
+            "caption": "Dates calculées par ReFound à partir des durées publiées par l'OPC, vérifiées le 6 novembre 2026. Livraison le jour de l'achat."
+          },
+          {
+            "type": "table",
+            "caption": "Fin de la garantie de bon fonctionnement pour un achat du 27 novembre 2026 livré le même jour (exemple calculé)",
+            "headers": [
+              "Appareil",
+              "Durée",
+              "Couvert jusque vers le"
+            ],
+            "rows": [
+              [
+                "Cellulaire, tablette, ordinateur, console",
+                "3 ans",
+                "27 novembre 2029"
+              ],
+              [
+                "Téléviseur",
+                "4 ans",
+                "27 novembre 2030"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "5 ans",
+                "27 novembre 2031"
+              ],
+              [
+                "Cuisinière, réfrigérateur, congélateur, climatiseur, thermopompe",
+                "6 ans",
+                "27 novembre 2032"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Autrement dit, un réfrigérateur acheté pendant les soldes de 2026 doit pouvoir être relié à sa preuve d'achat jusqu'à la fin de 2032. C'est six ans de plus que la plupart des reçus ne survivent dans un tiroir."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Comment nous avons compté",
+            "text": "Nous avons ajouté la durée en années à la date de livraison. Le règlement fixe la durée, mais nous n'avons pas trouvé de règle officielle sur le décompte au jour près : en cas de bris tout près de la date de fin, faites la démarche sans attendre."
+          }
+        ]
+      },
+      {
+        "heading": "Deux dates à prouver : l'achat et la livraison",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La garantie de bon fonctionnement repose sur deux dates distinctes. La **date d'achat** détermine si l'appareil est couvert (acheté le 5 octobre 2026 ou après). La **date de livraison** détermine jusqu'à quand il l'est, puisque la durée se calcule à partir de la livraison."
+          },
+          {
+            "type": "p",
+            "text": "Pour un cellulaire emporté à la caisse, les deux dates sont identiques. Pour un réfrigérateur ou une laveuse livrés à domicile, elles peuvent être séparées de plusieurs semaines. Prenons un exemple calculé :"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-bon-fonctionnement-quebec/deux-dates-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Ligne du temps d'un réfrigérateur acheté le 27 novembre 2026 et livré le 15 décembre 2026 : le reçu prouve l'achat, le bon de livraison prouve le début de la garantie, qui court jusque vers le 15 décembre 2032",
+            "caption": "Exemple calculé par ReFound. La date de livraison est hypothétique. Durées : OPC, vérifié le 6 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Réfrigérateur acheté le 27 novembre 2026, livré le 15 décembre 2026 (exemple calculé)",
+            "headers": [
+              "Date",
+              "Ce qu'elle détermine",
+              "Document qui la prouve"
+            ],
+            "rows": [
+              [
+                "27 novembre 2026 (achat)",
+                "L'appareil est couvert : acheté après le 5 octobre 2026",
+                "Reçu ou facture"
+              ],
+              [
+                "15 décembre 2026 (livraison)",
+                "Le début des 6 ans",
+                "Courriel de confirmation de livraison ou d'expédition, bon de livraison"
+              ],
+              [
+                "Vers le 15 décembre 2032",
+                "La fin de la garantie de bon fonctionnement",
+                "Calculée à partir de la livraison"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si vous ne gardiez que le reçu, vous perdriez ici 18 jours de couverture sur papier : le reçu laisse croire que la garantie finit le 27 novembre 2032. Le gouvernement du Québec suggère justement de conserver tout document qui montre la date de livraison : facture, courriel de confirmation de livraison ou d'expédition, bon de livraison ou reçu."
+          },
+          {
+            "type": "h3",
+            "text": "Ce que le reçu ne vous dit pas"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Il ne mentionne pas la garantie.** Rien sur un reçu de caisse n'indique qu'un téléviseur est couvert 4 ans ; la durée doit être affichée près du prix en magasin, pas sur le reçu.",
+              "**Il ne nomme pas toujours l'appareil.** Une ligne abrégée comme un code d'article et quelques lettres ne prouve pas facilement qu'il s'agit d'un « ordinateur portable » plutôt que d'un accessoire.",
+              "**Il ne donne pas la date de livraison.** Pour un gros électroménager, ce document est à part, souvent dans une boîte de courriels ou sur le comptoir le jour de l'installation.",
+              "**Il pâlit.** Le papier thermique de la plupart des reçus n'est pas fait pour rester lisible six ans. Voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Délai de retour ou garantie de bon fonctionnement : lequel utiliser?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai de retour sert à rendre un article qui ne vous convient pas, selon la politique du magasin ; la garantie de bon fonctionnement sert à faire réparer un appareil qui ne fonctionne plus, selon la loi. Le premier dure quelques semaines, la seconde plusieurs années, et la garantie ne prolonge pas le délai de retour."
+          },
+          {
+            "type": "p",
+            "text": "Voici les délais de retour en magasin de quatre grands marchands pour des appareils couverts, vérifiés sur leurs pages officielles le 6 novembre 2026 :"
+          },
+          {
+            "type": "table",
+            "caption": "Délai de retour d'un appareil couvert, selon le marchand, comparé à la garantie de bon fonctionnement (politiques vérifiées le 6 novembre 2026)",
+            "headers": [
+              "Appareil (garantie)",
+              "Walmart",
+              "Costco",
+              "Home Depot",
+              "Canadian Tire"
+            ],
+            "rows": [
+              [
+                "Téléviseur (4 ans)",
+                "30 jours",
+                "90 jours",
+                "30 jours",
+                "30 jours (électronique)"
+              ],
+              [
+                "Ordinateur portable (3 ans)",
+                "30 jours",
+                "90 jours",
+                "30 jours",
+                "30 jours (électronique)"
+              ],
+              [
+                "Climatiseur (6 ans)",
+                "Non précisé",
+                "Non précisé",
+                "30 jours",
+                "30 jours (portatif)"
+              ],
+              [
+                "Réfrigérateur, laveuse (6 et 5 ans)",
+                "Règle générale de 90 jours ; gros article acheté en ligne : livraison de retour à prévoir",
+                "90 jours (gros électroménagers)",
+                "Aucun retour ; dommages à signaler dans les 48 heures suivant la livraison",
+                "Non précisé"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deux constats ressortent. D'abord, même le délai le plus généreux du tableau (90 jours) représente environ 4 % d'une garantie de bon fonctionnement de 6 ans. Ensuite, pour un électroménager acheté chez Home Depot, il n'y a pas de retour possible : une fois la livraison acceptée, la garantie de bon fonctionnement et la garantie du fabricant deviennent les principaux recours en cas de panne."
+          },
+          {
+            "type": "p",
+            "text": "Les politiques détaillées sont dans nos guides : [Walmart](/blog/politique-retour-walmart), [Costco](/blog/politique-retour-costco), [Home Depot](/blog/politique-retour-home-depot) et [Canadian Tire](/blog/politique-retour-canadian-tire)."
+          }
+        ]
+      },
+      {
+        "heading": "Comment faire réparer un appareil sous garantie de bon fonctionnement",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Adressez-vous au commerçant, au fabricant ou aux deux : c'est vous qui choisissez, et aucun des deux ne peut vous renvoyer vers l'autre. La loi ne prévoit pas de formulaire ; voici une démarche pratique :"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez que l'appareil fait partie des 14 biens couverts et qu'il a été acheté neuf à compter du 5 octobre 2026.",
+              "Rassemblez la preuve d'achat (reçu ou facture) et la preuve de la date de livraison.",
+              "Décrivez le problème : il suffit de démontrer que l'appareil a cessé de bien fonctionner.",
+              "Demandez la réparation au commerçant ou au fabricant, par écrit si possible, en gardant une copie.",
+              "Si on refuse d'appliquer la garantie, l'OPC indique que vous pourriez envoyer une mise en demeure et porter plainte à l'Office."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Selon la page de l'OPC destinée aux commerçants, la réparation doit être faite dans un **délai raisonnable** (aucun nombre de jours n'est fixé). Elle est gratuite, pièces, main-d'œuvre et frais raisonnables de transport compris. Le commerçant ou le fabricant peut remplacer l'appareil au lieu de le réparer, et la garantie est prolongée pendant que l'appareil est entre ses mains pour la réparation. En revanche, vous ne pouvez pas réparer l'appareil vous-même puis envoyer la facture."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Acheté avant le 5 octobre 2026?",
+            "text": "La garantie de bon fonctionnement ne s'applique pas. La garantie de durée raisonnable, elle, continue de protéger les biens plus anciens : un bien doit pouvoir servir à un usage normal pendant une durée raisonnable, et le commerçant ou le fabricant peut devoir le réparer, le remplacer ou le rembourser. Sa durée n'est toutefois pas chiffrée : selon l'OPC, c'est une question de faits et de bon sens."
+          }
+        ]
+      },
+      {
+        "heading": "Garantie prolongée : ce que le vendeur doit vous dire avant",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Avant de vous offrir une garantie supplémentaire (souvent appelée garantie prolongée) sur un appareil couvert, le commerçant doit vous remettre un document qui indique que l'appareil est couvert par la garantie de bon fonctionnement, que celle-ci est gratuite et que d'autres garanties gratuites existent. Depuis le 5 octobre 2026, ce commerçant doit utiliser le nouvel avis écrit sur les garanties légales publié par l'OPC."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**En magasin :** la durée de la garantie de bon fonctionnement doit être affichée de manière évidente près du prix annoncé.",
+              "**Chez le fabricant :** la durée doit être indiquée en ligne, de manière évidente et intelligible.",
+              "**Avant de payer :** comparez la durée et la couverture de la garantie offerte avec les 3 à 6 ans déjà gratuits. Une garantie payante peut couvrir autre chose (accident, bris d'écran, service à domicile) : lisez ce qu'elle ajoute vraiment."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Ce que ReFound fait, et ne fait pas, pour ces garanties",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound garde la preuve d'achat lisible et aide à savoir quel appareil se cache derrière une ligne de reçu ; il ne calcule pas la garantie de bon fonctionnement et ne connaît pas votre date de livraison."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Le reçu reste lisible.** Le reçu numérisé conserve l'image originale, la date d'achat et le marchand : ce qui prouve que l'appareil a été acheté après le 5 octobre 2026.",
+              "**Le produit est nommé.** Quand l'information est disponible, ReFound associe la ligne abrégée au vrai nom du produit, avec une image et un lien vers la fiche du marchand.",
+              "**La garantie du magasin ou du fabricant est affichée.** Quand l'information est disponible, ReFound indique sa durée et sa date de fin. Avec ReFound Pro, un rappel arrive 30 jours avant l'expiration de ces garanties.",
+              "**Ce que ReFound ne fait pas :** il n'affiche pas la garantie de bon fonctionnement, ne connaît pas la date de livraison et ne décide jamais si une réparation sera acceptée. Gardez le courriel ou le bon de livraison, et utilisez le tableau ci-dessus pour la durée."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Pour la méthode complète, voyez [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties) et la différence entre [garantie du magasin et garantie du fabricant](/blog/garantie-magasin-vs-garantie-manufacturier). En savoir plus sur l'[application de garanties](/application-garanties)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Quelle est la durée de la garantie de bon fonctionnement au Québec?",
+        "a": "6 ans pour une cuisinière, un réfrigérateur, un congélateur, un climatiseur ou une thermopompe ; 5 ans pour une laveuse, une sécheuse ou un lave-vaisselle ; 4 ans pour un téléviseur ; 3 ans pour un ordinateur portable ou de bureau, une console de jeu vidéo, un cellulaire ou une tablette."
+      },
+      {
+        "q": "La garantie de bon fonctionnement commence-t-elle à la date d'achat?",
+        "a": "Non. Sa durée se calcule à partir de la livraison du bien. La date d'achat sert à vérifier que l'appareil a été acheté neuf à compter du 5 octobre 2026. Gardez les deux preuves."
+      },
+      {
+        "q": "Faut-il garder le reçu pour la garantie de bon fonctionnement?",
+        "a": "C'est fortement conseillé. Le gouvernement du Québec suggère de conserver tout document qui montre la date de livraison, comme la facture, le courriel de confirmation de livraison, le bon de livraison ou le reçu."
+      },
+      {
+        "q": "Un appareil acheté avant le 5 octobre 2026 est-il couvert?",
+        "a": "Pas par la garantie de bon fonctionnement. Les autres garanties légales, dont la garantie de durée raisonnable, et la garantie du fabricant peuvent quand même s'appliquer."
+      },
+      {
+        "q": "Peut-on obtenir un remboursement avec la garantie de bon fonctionnement?",
+        "a": "Elle prévoit une réparation gratuite ; le commerçant ou le fabricant peut aussi remplacer l'appareil. Le remboursement d'un article qui ne convient pas relève de la politique de retour du magasin, dans son délai."
+      }
+    ],
+    "ctaTitle": "Gardez la preuve d'achat aussi longtemps que la garantie",
+    "ctaBody": "Numérisez le reçu de votre appareil le jour de l'achat : ReFound en garde une copie lisible, nomme le produit et affiche sa garantie du magasin ou du fabricant quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Conserver ses reçus pour les garanties",
+        "href": "/blog/comment-conserver-recus-garanties",
+        "desc": "La méthode pour retrouver la preuve des années plus tard."
+      },
+      {
+        "label": "Politique de retour Costco",
+        "href": "/blog/politique-retour-costco",
+        "desc": "90 jours pour l'électronique, puis les garanties."
+      },
+      {
+        "label": "Application de garanties",
+        "href": "/application-garanties",
+        "desc": "Garder la preuve d'achat pour toute la durée de la garantie."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Garantie de bon fonctionnement sur certains électroménagers et appareils électroniques",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Garantie de bon fonctionnement : outils pour les commerçants",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/commercant/pratique-commerce/garanties/outils-garantie-bon-fonctionnement",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt (15 septembre 2026)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite (13 octobre 2026)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "La garantie de bon fonctionnement des électroménagers et appareils électroniques",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/la-garantie-de-bon-fonctionnement-des-electromenagers-et-appareils-electroniques/",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Legal warranties (page consultée en anglais)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/goods/appliance/warranty/legal-warranties",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Politique de retour",
+        "publisher": "Walmart Canada",
+        "url": "https://walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Conditions et règlements d'adhésion (page consultée en anglais)",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/membership-conditions-regulations.html?langId=-25",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Politique de retour des marchandises",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Retours",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 6 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Quebec Warranty of Good Working Order: Terms & Proof | ReFound",
+    "metaDescription": "3 to 6 years of free repairs for 14 devices bought new since October 5, 2026. Terms, calculated end dates and the two proofs to keep.",
+    "keywords": "warranty of good working order, Quebec warranty of good working order, Quebec legal warranty, Quebec appliance warranty, 6-year fridge warranty Quebec, 3-year cell phone warranty Quebec, Consumer Protection Act warranty, proof of delivery warranty",
+    "category": "Guide",
+    "date": "November 6, 2026",
+    "readingTime": "9 min read",
+    "breadcrumb": "Warranty of good working order",
+    "eyebrow": "Warranties",
+    "h1": "Quebec's Warranty of Good Working Order: Terms, End Dates and the Proof to Keep",
+    "card": {
+      "title": "Quebec's Warranty of Good Working Order: Terms, End Dates and the Proof to Keep",
+      "subtitle": "3 to 6 years of free repairs for 14 devices, counted from delivery: the dates and documents that matter."
+    },
+    "coverAlt": "Stylized timeline from 2026 to 2032 with four warranty terms: 3, 4, 5 and 6 years",
+    "intro": [
+      "Short answer: in Quebec, 14 household appliances and electronic devices bought or leased **new** from a merchant as of **October 5, 2026** have a free warranty of good working order lasting **3 to 6 years**, counted from **delivery**. If the device stops working properly during that time, the merchant or the manufacturer must repair it for free, including parts, labour and reasonable transportation or shipping costs.",
+      "This guide lists the official terms, calculates the end dates for a Black Friday 2026 purchase, compares the warranty with the return windows of four major retailers, and explains why you need to prove **two dates**: the purchase date and the delivery date.",
+      "Facts checked with Quebec's Office de la protection du consommateur and the Government of Quebec on November 6, 2026. This guide is general information, not legal advice."
+    ],
+    "sections": [
+      {
+        "heading": "What is the warranty of good working order?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The warranty of good working order is an automatic, free legal warranty under Quebec's Consumer Protection Act. It requires the merchant or the manufacturer to repair certain appliances and electronic devices for free if they stop working properly during a period set by regulation."
+          },
+          {
+            "type": "p",
+            "text": "There is nothing to buy or register. To get the repair, you only have to show that the device stopped working properly, according to the Office de la protection du consommateur (OPC). A merchant or manufacturer can't make you give up this warranty."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**It adds to the other warranties.** The reasonable-durability warranty, part of the law for almost 50 years, still applies during and after the warranty of good working order.",
+              "**It follows the device.** It can be transferred from one consumer to another: in Éducaloi's example, a phone bought new on October 10, 2026 and resold on November 15, 2027 stays covered for its new owner.",
+              "**It doesn't replace the return window.** It's a right to a repair, not a right to a refund because you changed your mind."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Which devices are covered, and for how long?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Fourteen goods are covered, with four different terms. They must have been bought or leased new from a merchant as of October 5, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Warranty of good working order terms (OPC, checked November 6, 2026)",
+            "headers": [
+              "Term",
+              "Covered goods"
+            ],
+            "rows": [
+              [
+                "6 years",
+                "Stove, refrigerator, freezer, air conditioner, heat pump"
+              ],
+              [
+                "5 years",
+                "Washer, dryer, dishwasher"
+              ],
+              [
+                "4 years",
+                "Television"
+              ],
+              [
+                "3 years",
+                "Laptop, desktop computer, video game console, cell phone, tablet"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Two situations are excluded: damage caused by abusive use, and normal maintenance of the device along with the parts replaced as a result. The OPC gives two examples: a washer drum damaged by objects that shouldn't have been in it, and a heat pump filter replaced during normal maintenance."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Buying online from outside Quebec",
+            "text": "An online merchant located outside Quebec that sells to a Quebec consumer must also honour the warranty of good working order, the OPC states on its page for merchants."
+          }
+        ]
+      },
+      {
+        "heading": "How long are you covered? The dates for a Black Friday 2026 purchase",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For a device bought and taken home the same day, the warranty of good working order runs until 2029, 2030, 2031 or 2032, depending on the category. We calculated the end dates for a purchase made on Friday, November 27, 2026, Black Friday:"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-bon-fonctionnement-quebec/dates-fin-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "To-scale chart: for a purchase on November 27, 2026 delivered the same day, a 30-day return window ends December 27, 2026, while the warranty of good working order ends November 27, 2029 for a cell phone, 2030 for a TV, 2031 for a washer and 2032 for a refrigerator",
+            "caption": "Dates calculated by ReFound from the terms published by the OPC, checked November 6, 2026. Delivered on the purchase date."
+          },
+          {
+            "type": "table",
+            "caption": "End of the warranty of good working order for a purchase on November 27, 2026, delivered the same day (worked example)",
+            "headers": [
+              "Device",
+              "Term",
+              "Covered until about"
+            ],
+            "rows": [
+              [
+                "Cell phone, tablet, computer, console",
+                "3 years",
+                "November 27, 2029"
+              ],
+              [
+                "Television",
+                "4 years",
+                "November 27, 2030"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "5 years",
+                "November 27, 2031"
+              ],
+              [
+                "Stove, refrigerator, freezer, air conditioner, heat pump",
+                "6 years",
+                "November 27, 2032"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In other words, a refrigerator bought during the 2026 sales has to be matched to its proof of purchase until the end of 2032. That's six years longer than most receipts survive in a drawer."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "How we counted",
+            "text": "We added the term in years to the delivery date. The regulation sets the term, but we found no official rule on counting to the exact day: if a device fails close to the end date, make your claim right away."
+          }
+        ]
+      },
+      {
+        "heading": "Two dates to prove: purchase and delivery",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The warranty of good working order relies on two separate dates. The **purchase date** decides whether the device is covered (bought on or after October 5, 2026). The **delivery date** decides how long it's covered, since the term is counted from delivery."
+          },
+          {
+            "type": "p",
+            "text": "For a phone you carry out of the store, both dates are the same. For a refrigerator or washer delivered to your home, they can be weeks apart. Here's a worked example:"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-bon-fonctionnement-quebec/deux-dates-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Timeline of a refrigerator bought on November 27, 2026 and delivered on December 15, 2026: the receipt proves the purchase, the delivery slip proves when the warranty starts, which runs until about December 15, 2032",
+            "caption": "Worked example by ReFound. The delivery date is hypothetical. Terms: OPC, checked November 6, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Refrigerator bought November 27, 2026, delivered December 15, 2026 (worked example)",
+            "headers": [
+              "Date",
+              "What it decides",
+              "Document that proves it"
+            ],
+            "rows": [
+              [
+                "November 27, 2026 (purchase)",
+                "The device is covered: bought after October 5, 2026",
+                "Receipt or invoice"
+              ],
+              [
+                "December 15, 2026 (delivery)",
+                "The start of the 6 years",
+                "Delivery or shipping confirmation email, delivery slip"
+              ],
+              [
+                "About December 15, 2032",
+                "The end of the warranty of good working order",
+                "Calculated from delivery"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If you only kept the receipt, you'd lose 18 days of coverage on paper here: the receipt suggests the warranty ends November 27, 2032. The Government of Quebec suggests keeping any document that shows the delivery date: an invoice, a delivery or shipping confirmation email, a delivery slip or a receipt."
+          },
+          {
+            "type": "h3",
+            "text": "What the receipt doesn't tell you"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**It doesn't mention the warranty.** Nothing on a till receipt says a TV is covered for 4 years; the term has to be displayed near the price in store, not on the receipt.",
+              "**It doesn't always name the device.** An abbreviated line with an item code and a few letters doesn't easily prove it's a “laptop” rather than an accessory.",
+              "**It doesn't show the delivery date.** For a major appliance, that's a separate document, often in your inbox or left on the counter on installation day.",
+              "**It fades.** The thermal paper most receipts are printed on isn't made to stay readable for six years. See [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Return window or warranty of good working order: which one applies?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The return window lets you bring back an item that doesn't suit you, under the store's policy; the warranty of good working order gets a device that stopped working repaired, under the law. The first lasts a few weeks, the second several years, and the warranty doesn't extend the return window."
+          },
+          {
+            "type": "p",
+            "text": "Here are the in-store return windows of four major retailers for covered devices, checked on their official pages on November 6, 2026:"
+          },
+          {
+            "type": "table",
+            "caption": "Return window for a covered device by retailer, compared with the warranty of good working order (policies checked November 6, 2026)",
+            "headers": [
+              "Device (warranty)",
+              "Walmart",
+              "Costco",
+              "Home Depot",
+              "Canadian Tire"
+            ],
+            "rows": [
+              [
+                "Television (4 years)",
+                "30 days",
+                "90 days",
+                "30 days",
+                "30 days (electronics)"
+              ],
+              [
+                "Laptop (3 years)",
+                "30 days",
+                "90 days",
+                "30 days",
+                "30 days (electronics)"
+              ],
+              [
+                "Air conditioner (6 years)",
+                "Not specified",
+                "Not specified",
+                "30 days",
+                "30 days (portable)"
+              ],
+              [
+                "Refrigerator, washer (6 and 5 years)",
+                "General 90-day rule; large item bought online: return pickup required",
+                "90 days (major appliances)",
+                "No returns; damage must be reported within 48 hours of delivery",
+                "Not specified"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Two takeaways. First, even the most generous window in the table (90 days) is about 4% of a 6-year warranty of good working order. Second, an appliance bought at Home Depot can't be returned: once you accept delivery, the warranty of good working order and the manufacturer's warranty become your main options if it breaks down."
+          },
+          {
+            "type": "p",
+            "text": "Full policies are in our guides: [Walmart](/en/blog/walmart-return-policy), [Costco](/en/blog/costco-return-policy), [Home Depot](/en/blog/home-depot-return-policy) and [Canadian Tire](/en/blog/canadian-tire-return-policy)."
+          }
+        ]
+      },
+      {
+        "heading": "How to get a device repaired under the warranty of good working order",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Contact the merchant, the manufacturer or both: you choose, and neither can send you to the other. The law doesn't set a form; here's a practical approach:"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Check that the device is one of the 14 covered goods and that it was bought new on or after October 5, 2026.",
+              "Gather the proof of purchase (receipt or invoice) and the proof of the delivery date.",
+              "Describe the problem: you only have to show that the device stopped working properly.",
+              "Ask the merchant or manufacturer for the repair, in writing if possible, and keep a copy.",
+              "If they refuse to apply the warranty, the OPC says you could send a formal demand letter and file a complaint with the Office."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "According to the OPC's page for merchants, the repair must be done within a **reasonable time** (no number of days is set). It's free, including parts, labour and reasonable transportation or shipping costs. The merchant or manufacturer can replace the device instead of repairing it, and the warranty is extended while the device is in their hands for repair. However, you can't repair the device yourself and send them the bill."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Bought before October 5, 2026?",
+            "text": "The warranty of good working order doesn't apply. The reasonable-durability warranty still protects older goods: a product must be usable for normal purposes for a reasonable time, and the merchant or manufacturer may have to repair, replace or refund it. Its length isn't set in numbers, though: according to the OPC, it's a question of facts and common sense."
+          }
+        ]
+      },
+      {
+        "heading": "Extended warranties: what the seller must tell you first",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Before offering you an additional warranty (often called an extended warranty) on a covered device, the merchant must give you a document stating that the device is covered by the warranty of good working order, that it's free, and that other free warranties exist. Since October 5, 2026, that merchant must use the new written notice on legal warranties published by the OPC."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**In store:** the term of the warranty of good working order must be displayed prominently near the advertised price.",
+              "**From the manufacturer:** the term must be disclosed online, clearly and understandably.",
+              "**Before you pay:** compare the length and coverage of the warranty on offer with the 3 to 6 years you already get for free. A paid plan may cover other things (accidents, cracked screens, in-home service): read what it actually adds."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What ReFound does, and doesn't do, for these warranties",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound keeps your proof of purchase readable and helps you tell which device is behind a receipt line; it doesn't calculate the warranty of good working order and doesn't know your delivery date."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The receipt stays readable.** The scanned receipt keeps the original image, the purchase date and the merchant: what proves the device was bought after October 5, 2026.",
+              "**The product gets a name.** When the information is available, ReFound matches the abbreviated line to the real product name, with an image and a link to the merchant's product page.",
+              "**The store or manufacturer warranty is shown.** When the information is available, ReFound shows its length and end date. With ReFound Pro, a reminder arrives 30 days before those warranties expire.",
+              "**What ReFound doesn't do:** it doesn't show the warranty of good working order, doesn't know the delivery date and never decides whether a repair will be accepted. Keep the delivery email or slip, and use the table above for the term."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "For the full method, see [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties) and the difference between a [store warranty and a manufacturer warranty](/en/blog/store-warranty-vs-manufacturer-warranty). Learn more about the [warranty tracker app](/en/warranty-tracker-app)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How long is the warranty of good working order in Quebec?",
+        "a": "6 years for a stove, refrigerator, freezer, air conditioner or heat pump; 5 years for a washer, dryer or dishwasher; 4 years for a television; 3 years for a laptop or desktop computer, video game console, cell phone or tablet."
+      },
+      {
+        "q": "Does the warranty of good working order start on the purchase date?",
+        "a": "No. Its term is counted from delivery. The purchase date shows that the device was bought new on or after October 5, 2026. Keep both proofs."
+      },
+      {
+        "q": "Do I need to keep the receipt for the warranty of good working order?",
+        "a": "It's strongly recommended. The Government of Quebec suggests keeping any document that shows the delivery date, such as the invoice, the delivery confirmation email, the delivery slip or the receipt."
+      },
+      {
+        "q": "Is a device bought before October 5, 2026 covered?",
+        "a": "Not by the warranty of good working order. Other legal warranties, including the reasonable-durability warranty, and the manufacturer's warranty may still apply."
+      },
+      {
+        "q": "Can I get a refund under the warranty of good working order?",
+        "a": "It provides a free repair; the merchant or manufacturer may also replace the device. A refund for an item that doesn't suit you falls under the store's return policy, within its time limit."
+      }
+    ],
+    "ctaTitle": "Keep the proof of purchase for as long as the warranty lasts",
+    "ctaBody": "Scan your device's receipt the day you buy it: ReFound keeps a readable copy, names the product and shows its store or manufacturer warranty when the information is available.",
+    "relatedTitle": "Read next",
+    "related": [
+      {
+        "label": "Keeping receipts for warranties",
+        "href": "/en/blog/how-to-keep-receipts-for-warranties",
+        "desc": "How to find the proof years later."
+      },
+      {
+        "label": "Costco return policy",
+        "href": "/en/blog/costco-return-policy",
+        "desc": "90 days for electronics, then the warranties."
+      },
+      {
+        "label": "Warranty tracker app",
+        "href": "/en/warranty-tracker-app",
+        "desc": "Keep proof of purchase for the whole warranty."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Garantie de bon fonctionnement sur certains électroménagers et appareils électroniques (in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Garantie de bon fonctionnement: tools for merchants (in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/commercant/pratique-commerce/garanties/outils-garantie-bon-fonctionnement",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Nouvelle garantie de bon fonctionnement en vigueur bientôt, September 15, 2026 (in French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-garantie-de-bon-fonctionnement-en-vigueur-bientot-72462",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Des appareils qui marchent, October 13, 2026 (in French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "The warranty of good working order for appliances and electronic devices",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/en/capsules/the-warranty-of-good-working-order-for-appliances-and-electronic-devices/",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Legal warranties",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/goods/appliance/warranty/legal-warranties",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Return policy (in French)",
+        "publisher": "Walmart Canada",
+        "url": "https://walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Membership conditions and regulations",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/membership-conditions-regulations.html?langId=-25",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Return policy (in French)",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+        "accessed": "2026-11-06"
+      },
+      {
+        "label": "Returns (in French)",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-11-06"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 6, 2026"
+  }
+}
