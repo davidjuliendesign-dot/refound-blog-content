@@ -1,0 +1,767 @@
+{
+  "schemaVersion": 1,
+  "slug": "retour-sans-recu",
+  "frPath": "/blog/retour-sans-recu",
+  "enPath": "/en/blog/return-without-receipt",
+  "datePublished": "2026-11-07T09:00:00-05:00",
+  "dateModified": "2026-11-07T09:00:00-05:00",
+  "lastFactCheck": "2026-11-07",
+  "cover": {
+    "src": "/images/blog/retour-sans-recu/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "recherche-vs-garantie-fr.png",
+    "recherche-vs-garantie-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Retour sans reçu : Canadian Tire, Home Depot, IKEA, Walmart | ReFound",
+    "metaDescription": "Sans reçu, certains magasins retrouvent un achat payé par carte pendant 90 jours. Ce qu'acceptent 4 grands magasins, et pourquoi la garantie exige la preuve.",
+    "keywords": "retour sans reçu, retour sans facture, recherche de reçu, retour Canadian Tire sans reçu, retour Home Depot sans reçu, retour IKEA sans reçu, retour Walmart sans reçu, reçu perdu, preuve d'achat, garantie sans reçu",
+    "category": "Guide",
+    "date": "7 novembre 2026",
+    "readingTime": "9 min de lecture",
+    "breadcrumb": "Retour sans reçu",
+    "eyebrow": "Retours",
+    "h1": "Retour sans reçu : ce que permettent Canadian Tire, Home Depot, IKEA et Walmart",
+    "card": {
+      "title": "Retour sans reçu : ce que permettent Canadian Tire, Home Depot, IKEA et Walmart",
+      "subtitle": "La recherche par carte, la carte de remboursement, la pièce d'identité. Et pourquoi la garantie, elle, dure plus longtemps que la recherche."
+    },
+    "coverAlt": "Un reçu manquant dessiné en pointillé à côté d'une carte de paiement",
+    "intro": [
+      "Réponse courte : au Canada, un magasin n'est pas obligé d'accepter un retour sans reçu, sauf si l'article est défectueux. Plusieurs grands magasins offrent quand même une solution de rechange : Canadian Tire et Home Depot peuvent retrouver un achat payé par carte (crédit ou débit, et chèque chez Home Depot) dans les 90 jours ; IKEA peut retrouver le reçu avec la date, le magasin, le montant exact et les 4 derniers chiffres de la carte, sinon rembourse le prix le plus bas de la dernière année sur une carte de remboursement. Walmart demande une preuve d'achat valide et ne décrit pas de retour sans reçu.",
+      "Ce que ce guide ajoute : la comparaison des solutions de rechange de chaque magasin, côte à côte, et un problème dont on parle peu. La recherche par carte couvre environ 90 jours, alors que la garantie d'un article peut durer 3, 4 ou 5 ans. Passé ce délai, sans reçu, le magasin n'a plus de moyen documenté de retrouver votre achat.",
+      "Politiques vérifiées sur les sites officiels le 7 novembre 2026. Elles peuvent changer : la page officielle et votre magasin ont le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Un magasin est-il obligé d'accepter un retour sans reçu?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non. Au Canada, les entreprises n'ont pas l'obligation légale d'accepter un article retourné, à moins qu'il soit défectueux, rappelle le Bureau de la consommation du gouvernement du Canada. Le même organisme précise qu'un reçu de vente est presque toujours nécessaire pour obtenir un remboursement ou un échange."
+          },
+          {
+            "type": "p",
+            "text": "Un retour sans reçu dépend donc entièrement de la politique du magasin. Certains prévoient une recherche de reçu, d'autres un crédit au plus bas prix, d'autres rien du tout. C'est pour cette raison qu'il vaut la peine de savoir, avant de vous déplacer, ce que votre magasin prévoit."
+          }
+        ]
+      },
+      {
+        "heading": "Retour sans reçu : la comparaison de quatre grands magasins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Les quatre magasins comparés ici exigent tous un reçu ou une preuve d'achat en règle générale. Ce qui change, c'est ce qu'ils acceptent quand vous ne l'avez plus. Voici ce que disent leurs pages officielles, le 7 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Retour sans reçu : ce que prévoient les politiques officielles (vérifié le 7 novembre 2026)",
+            "headers": [
+              "Magasin",
+              "Sans reçu, en principe",
+              "Ce qui peut remplacer le reçu",
+              "Ce que vous pouvez obtenir"
+            ],
+            "rows": [
+              [
+                "Canadian Tire",
+                "Le retour, l'échange ou la garantie « pourraient ne pas être acceptés »",
+                "Recherche de reçu : achats par carte de crédit ou de débit, dans les 90 jours suivant l'achat. Pièce d'identité avec photo possible",
+                "Selon la recherche. Certains retours sont crédités sur une carte de remboursement"
+              ],
+              [
+                "Home Depot",
+                "Pièce d'identité avec photo émise par le gouvernement exigée, et approbation d'un système de vérification",
+                "Recherche de reçu : achats payés par crédit, débit ou chèque au cours des 90 derniers jours",
+                "Aucun remboursement, échange ni crédit sans reçu pour les articles à 30 jours (téléviseurs, ordinateurs, meubles, etc.)"
+              ],
+              [
+                "IKEA",
+                "Reçu ou preuve d'achat requis pour être remboursé sur le mode de paiement d'origine",
+                "Historique d'achats du compte IKEA Family, ou recherche avec la date, le magasin, le montant exact et les 4 derniers chiffres de la carte",
+                "Sans aucun de ces détails : le prix de vente le plus bas de la dernière année, sur une carte de remboursement IKEA"
+              ],
+              [
+                "Walmart",
+                "Une preuve d'achat valide est demandée",
+                "Les pages officielles consultées ne décrivent pas de recherche de reçu",
+                "Les pages officielles consultées ne décrivent pas de retour sans reçu"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Toutes les règles de chaque magasin sont dans nos guides : [Canadian Tire](/blog/politique-retour-canadian-tire), [Home Depot](/blog/politique-retour-home-depot), [IKEA](/blog/politique-retour-ikea) et [Walmart](/blog/politique-retour-walmart)."
+          },
+          {
+            "type": "p",
+            "text": "Les pages officielles de [RONA](/blog/politique-retour-rona) et de [Costco](/blog/politique-retour-costco) consultées le même jour ne décrivent pas de procédure de retour sans reçu. Chez Costco, la carte de membre est balayée à la caisse et le reçu est vérifié à la sortie, mais les conditions d'adhésion ne disent pas si cela remplace le reçu pour un retour. Dans les deux cas, informez-vous auprès du magasin avant de vous déplacer."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Un retour sans reçu coûte souvent quelque chose",
+            "text": "Même quand il est accepté, un retour sans reçu donne rarement le même résultat qu'un retour avec reçu. Chez IKEA, c'est le prix le plus bas de la dernière année, et non le prix payé, qui est remboursé, sur une carte de remboursement. Chez Canadian Tire, la carte de remboursement expire un an après son émission (sauf en Saskatchewan), le solde restant n'est pas remboursé après l'expiration, et elle ne sert pas pour les achats en ligne."
+          }
+        ]
+      },
+      {
+        "heading": "La carte de paiement, votre reçu de secours (pendant 90 jours)",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sans reçu, la meilleure piste est souvent la carte avec laquelle vous avez payé. Chez Canadian Tire, la recherche de reçu permet au magasin de vérifier les achats par carte de crédit ou de débit dans les 90 jours suivant l'achat. Chez Home Depot, les reçus des achats payés par crédit, débit ou chèque au cours des 90 derniers jours peuvent être retrouvés dans le système."
+          },
+          {
+            "type": "p",
+            "text": "Trois limites découlent directement de ces politiques :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Un achat payé comptant** n'entre pas dans les recherches décrites par Canadian Tire et Home Depot, qui visent les paiements par carte (et par chèque chez Home Depot).",
+              "**Après 90 jours**, ni Canadian Tire ni Home Depot ne décrivent de recherche de reçu. Chez Home Depot, le délai de retour peut pourtant atteindre 365 jours pour un achat fait avec la carte de crédit à la consommation Home Depot.",
+              "**Un paiement par portefeuille numérique** (téléphone ou montre) peut afficher 4 derniers chiffres différents de ceux de la carte physique, prévient IKEA. Vérifiez lesquels figurent dans votre application bancaire avant de demander une recherche."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Pour que la recherche fonctionne, apportez la carte utilisée pour l'achat, une pièce d'identité avec photo, et notez la date approximative, le magasin et le montant. Ce sont les renseignements qu'IKEA demande pour retrouver un reçu."
+          }
+        ]
+      },
+      {
+        "heading": "Après le délai de retour : sans reçu, la garantie devient difficile aussi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le reçu ne sert pas seulement au retour. Il sert aussi aux garanties, qui durent souvent des années, bien après la fin de toute recherche de reçu. Canadian Tire l'écrit dans sa politique : les retours, les échanges **ou les garanties** sur un article sans reçu pourraient ne pas être acceptés."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-sans-recu/recherche-vs-garantie-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle : la recherche de reçu de Canadian Tire et de Home Depot couvre 90 jours, alors que la garantie de bon fonctionnement dure 3 ans pour un ordinateur portable et 4 ans pour un téléviseur au Québec, et que la garantie d'échange d'une lampe de garage NOMA dure 5 ans",
+            "caption": "La recherche par carte couvre 90 jours ; les garanties peuvent durer jusqu'à vingt fois plus longtemps. Sources : canadiantire.ca, homedepot.ca, Office de la protection du consommateur, vérifié le 7 novembre 2026."
+          },
+          {
+            "type": "h3",
+            "text": "Un exemple réel : la lampe de garage qui a une garantie de 5 ans"
+          },
+          {
+            "type": "p",
+            "text": "Voici deux lignes d'un vrai reçu Canadian Tire numérisé dans le compte de démonstration ReFound. Ni l'une ni l'autre ne mentionne de garantie :"
+          },
+          {
+            "type": "table",
+            "caption": "Ce que dit le reçu, et ce que ReFound a trouvé (reçu de démonstration)",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié par ReFound",
+              "Garantie trouvée",
+              "Recherche de reçu possible"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "Échange 5 ans, dans tout magasin Canadian Tire",
+                "90 jours, si payé par carte"
+              ],
+              [
+                "184-2003-4 HLT NEO WK 4LB",
+                "WA:KE Athletic Neoprene Hexagonal Dumbbell",
+                "Échange 1 an",
+                "90 jours, si payé par carte"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si la lampe cesse de fonctionner dans sa troisième année, la garantie d'échange court toujours, mais la recherche de reçu décrite par Canadian Tire est terminée depuis longtemps. Sans le reçu, l'échange peut être refusé. Les détails de ces exemples sont sur notre [page sur les reçus Canadian Tire](/marchands/recus-canadian-tire)."
+          },
+          {
+            "type": "h3",
+            "text": "Au Québec : la garantie de bon fonctionnement"
+          },
+          {
+            "type": "p",
+            "text": "Depuis le 5 octobre 2026, certains biens achetés neufs au Québec ont une garantie de bon fonctionnement : 4 ans pour un téléviseur, 3 ans pour un ordinateur portable ou de bureau, une console de jeu vidéo, un cellulaire ou une tablette, 5 ans pour une laveuse, une sécheuse ou un lave-vaisselle, et 6 ans pour une cuisinière, un réfrigérateur, un congélateur, un climatiseur ou une thermopompe. La durée se calcule à partir de la livraison."
+          },
+          {
+            "type": "p",
+            "text": "Pour faire valoir une garantie, l'Office de la protection du consommateur rappelle que vous devrez prouver les faits pertinents, et conseille de conserver les documents liés à l'achat. Le gouvernement du Québec recommande de garder les factures et certificats de garantie d'un appareil électrique, électroménager ou audio, ou d'un bien coûteux, pendant toute la période où vous possédez le bien. Voyez notre guide sur la [garantie de bon fonctionnement](/blog/garantie-bon-fonctionnement-quebec)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Chez Home Depot, après 30 jours ou sans reçu",
+            "text": "La politique de Home Depot précise qu'un article rapporté après 30 jours ou sans reçu peut être envoyé en réparation comme marchandise appartenant au client. Ce n'est ni un remboursement ni un échange : l'article vous revient réparé, selon les conditions applicables."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que le reçu ne règle pas, même quand vous l'avez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Avoir gardé le reçu ne suffit pas toujours. Trois problèmes reviennent souvent :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Le papier thermique pâlit.** L'Office de la protection du consommateur recommande de numériser ou de photocopier les documents imprimés sur papier thermique, parce que l'impression peut devenir illisible, et de conserver tout de même l'original. Voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire).",
+              "**La ligne du reçu est abrégée.** « LAMPE DEL GARAG » ne donne ni la marque ni le modèle. Trois ans plus tard, il faut deviner quelle ligne correspond à l'article brisé.",
+              "**Le reçu ne mentionne pas la garantie.** Rien sur le reçu de démonstration ci-dessus n'indique une garantie d'échange de 5 ans."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Vous avez perdu le reçu : que faire, dans l'ordre",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Cherchez une copie : courriel de confirmation pour un achat en ligne, historique d'achats d'un programme de fidélité (IKEA Family, par exemple), photo dans votre téléphone.",
+              "Retrouvez la transaction dans votre relevé bancaire ou de carte de crédit : date, magasin et montant exact.",
+              "Vérifiez si vous êtes encore dans la fenêtre de recherche de reçu : 90 jours chez Canadian Tire et Home Depot pour un achat payé par carte.",
+              "Apportez l'article, la carte utilisée pour l'achat et une pièce d'identité avec photo.",
+              "Demandez une recherche de reçu au comptoir du service à la clientèle avant de demander le retour.",
+              "Si rien ne fonctionne, demandez ce que le magasin peut offrir (carte de remboursement, crédit au plus bas prix) et décidez si cela vous convient.",
+              "Pour un article défectueux, demandez aussi les options de garantie : celle du magasin, celle du fabricant et, au Québec, la garantie légale."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Un relevé bancaire montre qu'une somme a été payée à un magasin, mais pas quel article a été acheté. Les politiques consultées ne disent pas qu'il remplace le reçu pour un retour ; voyez-le comme un moyen de faciliter la recherche."
+          }
+        ]
+      },
+      {
+        "heading": "Comment ReFound aide à ne plus dépendre du papier",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound ne change pas les règles des magasins et ne garantit pas qu'un retour sera accepté. L'application vous aide surtout à ne pas vous retrouver sans reçu :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Une image lisible du reçu**, prise le jour de l'achat, avant que le papier thermique pâlisse. Gardez quand même l'original, comme le recommande l'Office de la protection du consommateur.",
+              "**La date, le marchand, le total et le mode de paiement** extraits du reçu : les renseignements qu'on vous demande pour une recherche de reçu.",
+              "**Le produit derrière la ligne abrégée**, et sa garantie du magasin ou du fabricant avec une date de fin, quand l'information est disponible.",
+              "**Une vue de retour** qui regroupe l'article, le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original.",
+              "**Une date limite de retour estimée** selon la politique générale du marchand (par exemple 90 jours chez Canadian Tire). Elle ne tient pas compte des délais par catégorie, comme les 30 jours de l'électronique : vérifiez ceux de l'article.",
+              "**La recherche par photo** : montrez l'article à la caméra pour retrouver son reçu (3 recherches gratuites, illimitées avec ReFound Pro)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Avec ReFound Pro (4,99 $ par mois ou 39,99 $ par année), un rappel arrive 3 jours avant la date limite de retour et 30 jours avant l'expiration d'une garantie. ReFound est offert sur iPhone et Android ; la numérisation est gratuite et illimitée."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Peut-on retourner un article sans reçu chez Canadian Tire?",
+        "a": "Peut-être. Selon la politique, un retour sans reçu pourrait ne pas être accepté, mais le magasin offre une recherche de reçu pour les achats payés par carte de crédit ou de débit dans les 90 jours suivant l'achat. Une pièce d'identité avec photo peut être exigée."
+      },
+      {
+        "q": "Home Depot accepte-t-il les retours sans reçu?",
+        "a": "Seulement avec une pièce d'identité avec photo émise par le gouvernement, et sous réserve de l'approbation d'un système de vérification. Pour les articles à 30 jours, comme les téléviseurs, les ordinateurs ou les meubles, aucun remboursement, échange ni crédit n'est accordé sans reçu. Home Depot peut retrouver les reçus des achats payés par crédit, débit ou chèque au cours des 90 derniers jours."
+      },
+      {
+        "q": "Que rembourse IKEA sans reçu?",
+        "a": "IKEA tente d'abord de retrouver l'achat avec votre compte IKEA Family ou avec la date, le magasin, le montant exact et les 4 derniers chiffres de la carte. Sans aucun de ces détails, IKEA rembourse le prix de vente le plus bas du produit au cours de la dernière année, sur une carte de remboursement IKEA."
+      },
+      {
+        "q": "Une photo du reçu est-elle acceptée pour un retour?",
+        "a": "Les politiques consultées ne le précisent pas pour une photo prise par le client. Une photo lisible aide à retrouver la date, le magasin, le montant et le numéro de transaction, mais gardez l'original : c'est aussi ce que recommande l'Office de la protection du consommateur pour les reçus sur papier thermique."
+      }
+    ],
+    "ctaTitle": "Ne vous retrouvez plus sans reçu",
+    "ctaBody": "Numérisez le reçu le jour de l'achat : ReFound garde une copie lisible avec la date, le magasin, le total et le mode de paiement, et affiche la garantie de vos articles quand elle est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Politique de retour Canadian Tire",
+        "href": "/blog/politique-retour-canadian-tire",
+        "desc": "Délais par catégorie, carte de remboursement et garanties."
+      },
+      {
+        "label": "Reçu effacé : quoi faire",
+        "href": "/blog/recu-efface-quoi-faire",
+        "desc": "Quand le papier thermique a pâli."
+      },
+      {
+        "label": "Application pour les retours",
+        "href": "/application-retours-magasin",
+        "desc": "Retrouver le bon reçu au comptoir."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Retour (politique de retour et d'échange)",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/service-a-la-clientele/retour.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Returns (recherche de reçu dans les 90 jours ; page consultée en anglais)",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Politique de retour des marchandises",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Puis-je retourner un article sans reçu?",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/fr/customer-service/knowledge/articles/fd1993ed-564g-40b3-86c4-d5e538b76f6d.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Ai-je besoin d'un reçu pour les retours, et comment les remboursements sont-ils effectués?",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/fr/customer-service/knowledge/articles/705fe3b4-2g9c-4e65-8994-308d1cb86d28.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Politique d'échanges et de retours IKEA Canada",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/fr/customer-service/returns-claims/return-policy/",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Politique de retour standard de Walmart Canada",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Conditions et règlements d'adhésion",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/f/-/membership-conditions-regulations",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Returns and Refunds (page consultée en anglais)",
+        "publisher": "RONA inc.",
+        "url": "https://www.rona.ca/en/returns-and-refunds",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Remboursement et échange",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Garantie de bon fonctionnement sur certains électroménagers et appareils électroniques",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Conserver les documents pertinents (garanties)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/conseil-bien/conserver-documents-pertinents/",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Durée de conservation des documents",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/finances-impots-et-taxes/conseils-de-consommation/achat-de-biens-et-de-services/duree-de-conservation-des-documents",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 7 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Returns Without a Receipt: Canadian Tire, Home Depot, IKEA, Walmart",
+    "metaDescription": "Without a receipt, some stores can find a card purchase for 90 days. What 4 major Canadian retailers accept, and why warranties need proof of purchase too.",
+    "keywords": "return without receipt, no receipt return Canada, receipt look-up, Canadian Tire return without receipt, Home Depot return without receipt, IKEA return without receipt, Walmart return without receipt, lost receipt, proof of purchase, warranty without receipt",
+    "category": "Guide",
+    "date": "November 7, 2026",
+    "readingTime": "9 min read",
+    "breadcrumb": "Returns without a receipt",
+    "eyebrow": "Returns",
+    "h1": "Returns without a receipt: what Canadian Tire, Home Depot, IKEA and Walmart allow",
+    "card": {
+      "title": "Returns without a receipt: what Canadian Tire, Home Depot, IKEA and Walmart allow",
+      "subtitle": "Card look-ups, refund cards, photo ID. And why the warranty lasts much longer than the look-up."
+    },
+    "coverAlt": "A missing receipt drawn as a dashed outline next to a payment card",
+    "intro": [
+      "Short answer: in Canada, a store doesn't have to accept a return without a receipt unless the item is defective. Several major retailers still offer a fallback: Canadian Tire and Home Depot can look up a purchase paid by card (credit or debit, plus cheque at Home Depot) within 90 days; IKEA can find the receipt with the date, store, exact amount and last 4 digits of the card, and otherwise refunds the lowest selling price of the last year on a refund card. Walmart asks for valid proof of purchase and doesn't describe a no-receipt return.",
+      "What this guide adds: each store's fallback options side by side, and a problem few people mention. Card look-ups cover about 90 days, while an item's warranty can last 3, 4 or 5 years. After that, without a receipt, the store has no documented way to find your purchase.",
+      "Policies checked on the official websites on November 7, 2026. They can change: the official page and your store have the final say."
+    ],
+    "sections": [
+      {
+        "heading": "Does a store have to accept a return without a receipt?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No. In Canada, businesses have no legal obligation to accept returned items unless they are defective, according to the Government of Canada's Office of Consumer Affairs. The same office notes that a sales receipt is almost always needed for a refund or exchange."
+          },
+          {
+            "type": "p",
+            "text": "So a return without a receipt depends entirely on the store's policy. Some offer a receipt look-up, some a credit at the lowest price, some nothing at all. That's why it pays to know what your store allows before you go."
+          }
+        ]
+      },
+      {
+        "heading": "Returns without a receipt: four major retailers compared",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "All four stores compared here generally require a receipt or proof of purchase. What differs is what they accept when you no longer have it. Here's what their official pages said on November 7, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Returns without a receipt: what the official policies say (checked November 7, 2026)",
+            "headers": [
+              "Store",
+              "Without a receipt, in principle",
+              "What can replace the receipt",
+              "What you can get"
+            ],
+            "rows": [
+              [
+                "Canadian Tire",
+                "Returns, exchanges or warranties “may not be accepted”",
+                "Receipt look-up: credit or debit card purchases within 90 days of purchase. Photo ID may be required",
+                "Depends on the look-up. Some returns are credited to a refund card"
+              ],
+              [
+                "Home Depot",
+                "Government-issued photo ID required, subject to verification system approval",
+                "Receipt look-up: purchases made with credit, debit or cheque within the last 90 days",
+                "No refunds, exchanges or store credit without a receipt for 30-day items (TVs, computers, furniture, etc.)"
+              ],
+              [
+                "IKEA",
+                "Receipt or proof of purchase required for a refund to the original payment method",
+                "IKEA Family purchase history, or a look-up with the date, store, exact amount and last 4 digits of the card",
+                "With none of these details: the lowest selling price of the last year, on an IKEA refund card"
+              ],
+              [
+                "Walmart",
+                "Valid proof of purchase is required",
+                "The official pages we checked don't describe a receipt look-up",
+                "The official pages we checked don't describe a no-receipt return"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Each store's full rules are in our guides: [Canadian Tire](/en/blog/canadian-tire-return-policy), [Home Depot](/en/blog/home-depot-return-policy), [IKEA](/en/blog/ikea-return-policy) and [Walmart](/en/blog/walmart-return-policy)."
+          },
+          {
+            "type": "p",
+            "text": "The official [RONA](/en/blog/rona-return-policy) and [Costco](/en/blog/costco-return-policy) pages checked the same day don't describe a no-receipt return process. At Costco, your membership card is scanned at checkout and your receipt is checked at the exit, but the membership conditions don't say whether that replaces the receipt for a return. In both cases, ask the store before you go."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "A no-receipt return often costs you something",
+            "text": "Even when it's accepted, a no-receipt return rarely gives the same result as a return with a receipt. At IKEA, you're refunded the lowest price of the last year, not what you paid, on a refund card. At Canadian Tire, refund cards expire one year after issue (except in Saskatchewan), any remaining balance isn't refunded after expiry, and they can't be used online."
+          }
+        ]
+      },
+      {
+        "heading": "Your payment card is your backup receipt (for 90 days)",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Without a receipt, your best lead is often the card you paid with. At Canadian Tire, the receipt look-up lets the store verify credit or debit card purchases within 90 days of purchase. At Home Depot, receipts for purchases made with credit, debit or cheque within the last 90 days may be located in the system."
+          },
+          {
+            "type": "p",
+            "text": "Three limits follow directly from these policies:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**A cash purchase** isn't covered by the look-ups Canadian Tire and Home Depot describe, which apply to card payments (and cheques at Home Depot).",
+              "**After 90 days**, neither Canadian Tire nor Home Depot describes a receipt look-up. Yet at Home Depot, the return window can reach 365 days for purchases made with a Home Depot Consumer Credit Card.",
+              "**A digital wallet payment** (phone or watch) may show different last four digits from the physical card, IKEA warns. Check which digits appear in your banking app before asking for a look-up."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "For the look-up to work, bring the card used for the purchase and photo ID, and note the approximate date, store and amount. That's the information IKEA asks for to find a receipt."
+          }
+        ]
+      },
+      {
+        "heading": "After the return window: without a receipt, warranties get harder too",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A receipt isn't just for returns. It's also for warranties, which often last years, long after any receipt look-up ends. Canadian Tire says so in its policy: returns, exchanges **or warranties** on an item without a receipt may not be accepted."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-sans-recu/recherche-vs-garantie-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Chart to scale: Canadian Tire and Home Depot receipt look-ups cover 90 days, while Quebec's warranty of good working order lasts 3 years for a laptop and 4 years for a TV, and a NOMA garage light's exchange warranty lasts 5 years",
+            "caption": "Card look-ups cover 90 days; warranties can last up to twenty times longer. Sources: canadiantire.ca, homedepot.ca, Office de la protection du consommateur, checked November 7, 2026."
+          },
+          {
+            "type": "h3",
+            "text": "A real example: the garage light with a 5-year warranty"
+          },
+          {
+            "type": "p",
+            "text": "Here are two lines from a real Canadian Tire receipt scanned in the ReFound demo account. Neither mentions a warranty:"
+          },
+          {
+            "type": "table",
+            "caption": "What the receipt says, and what ReFound found (demo receipt)",
+            "headers": [
+              "Receipt line",
+              "Product identified by ReFound",
+              "Warranty found",
+              "Receipt look-up available"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "5-year exchange, at any Canadian Tire store",
+                "90 days, if paid by card"
+              ],
+              [
+                "184-2003-4 HLT NEO WK 4LB",
+                "WA:KE Athletic Neoprene Hexagonal Dumbbell",
+                "1-year exchange",
+                "90 days, if paid by card"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If the light stops working in its third year, the exchange warranty still applies, but the receipt look-up Canadian Tire describes ended long ago. Without the receipt, the exchange may be refused. The details of these examples are on our [Canadian Tire receipts page](/en/merchants/canadian-tire-receipts)."
+          },
+          {
+            "type": "h3",
+            "text": "In Quebec: the warranty of good working order"
+          },
+          {
+            "type": "p",
+            "text": "Since October 5, 2026, certain goods bought new in Quebec have a warranty of good working order: 4 years for a TV; 3 years for a laptop or desktop computer, a video game console, a cell phone or a tablet; 5 years for a washer, dryer or dishwasher; and 6 years for a stove, refrigerator, freezer, air conditioner or heat pump. The period runs from delivery."
+          },
+          {
+            "type": "p",
+            "text": "To enforce a warranty, Quebec's Office de la protection du consommateur notes that you'll need to prove the relevant facts, and advises keeping documents related to the purchase. The Government of Quebec recommends keeping invoices and warranty certificates for an electrical, household or audio appliance, or any expensive item, for as long as you own it. See our guide to the [warranty of good working order](/en/blog/quebec-warranty-of-good-working-order)."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "At Home Depot, after 30 days or without a receipt",
+            "text": "Home Depot's policy says items returned after 30 days from purchase or without a receipt may be sent out for repair as customer-owned merchandise. That's not a refund or an exchange: the item comes back to you repaired, under the applicable terms."
+          }
+        ]
+      },
+      {
+        "heading": "What a receipt doesn't solve, even when you have it",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Keeping the receipt isn't always enough. Three problems come up often:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Thermal paper fades.** Quebec's Office de la protection du consommateur recommends scanning or photocopying documents printed on thermal paper, because the print can become unreadable, and keeping the original anyway. See [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do).",
+              "**The receipt line is abbreviated.** “LAMPE DEL GARAG” gives neither the brand nor the model. Three years later, you have to guess which line matches the broken item.",
+              "**The receipt doesn't mention the warranty.** Nothing on the demo receipt above points to a 5-year exchange warranty."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "You lost the receipt: what to do, in order",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Look for a copy: confirmation email for an online order, purchase history in a loyalty program (IKEA Family, for example), a photo on your phone.",
+              "Find the transaction on your bank or credit card statement: date, store and exact amount.",
+              "Check whether you're still within the look-up window: 90 days at Canadian Tire and Home Depot for card purchases.",
+              "Bring the item, the card used for the purchase and photo ID.",
+              "Ask for a receipt look-up at the customer service desk before asking for the return.",
+              "If nothing works, ask what the store can offer (refund card, credit at the lowest price) and decide whether it's worth it.",
+              "For a defective item, also ask about warranty options: the store's, the manufacturer's and, in Quebec, the legal warranty."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A bank statement shows that money was paid to a store, not which item was bought. The policies we checked don't say it replaces a receipt for a return; think of it as a way to make the look-up easier."
+          }
+        ]
+      },
+      {
+        "heading": "How ReFound helps you stop depending on paper",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound doesn't change store rules and doesn't guarantee a return will be accepted. Its main job is to keep you from ending up without a receipt:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**A readable image of the receipt**, taken on the day of purchase, before the thermal paper fades. Keep the original too, as the Office de la protection du consommateur recommends.",
+              "**The date, merchant, total and payment method** extracted from the receipt: the details you're asked for in a receipt look-up.",
+              "**The product behind the abbreviated line**, and its store or manufacturer warranty with an end date, when the information is available.",
+              "**A return view** that brings together the item, the receipt barcode when it's detected, the payment method and the photo of the original receipt.",
+              "**An estimated return deadline** based on the merchant's general policy (for example, 90 days at Canadian Tire). It doesn't account for category windows such as 30 days for electronics: check the item's own window.",
+              "**Photo search**: show the item to the camera to find its receipt (3 free searches, unlimited with ReFound Pro)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "With ReFound Pro ($4.99 per month or $39.99 per year), you get a reminder 3 days before the return deadline and 30 days before a warranty expires. ReFound is available on iPhone and Android; scanning is free and unlimited."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Can you return an item without a receipt at Canadian Tire?",
+        "a": "Possibly. Under the policy, a return without a receipt may not be accepted, but the store offers a receipt look-up for credit or debit card purchases within 90 days of purchase. Photo ID may be required."
+      },
+      {
+        "q": "Does Home Depot accept returns without a receipt?",
+        "a": "Only with government-issued photo ID, and subject to verification system approval. For 30-day items such as TVs, computers or furniture, no refunds, exchanges or store credit are given without a receipt. Home Depot may locate receipts for purchases made with credit, debit or cheque within the last 90 days."
+      },
+      {
+        "q": "What does IKEA refund without a receipt?",
+        "a": "IKEA first tries to find the purchase through your IKEA Family account or with the date, store, exact amount and last 4 digits of the card. With none of these details, IKEA refunds the product's lowest selling price in the last year on an IKEA refund card."
+      },
+      {
+        "q": "Is a photo of the receipt accepted for a return?",
+        "a": "The policies we checked don't say for a photo taken by the customer. A readable photo helps you find the date, store, amount and transaction number, but keep the original: that's also what the Office de la protection du consommateur recommends for thermal paper receipts."
+      }
+    ],
+    "ctaTitle": "Never be stuck without a receipt again",
+    "ctaBody": "Scan the receipt on the day you buy: ReFound keeps a readable copy with the date, store, total and payment method, and shows your items' warranty when the information is available.",
+    "relatedTitle": "Read next",
+    "related": [
+      {
+        "label": "Canadian Tire return policy",
+        "href": "/en/blog/canadian-tire-return-policy",
+        "desc": "Category windows, refund cards and warranties."
+      },
+      {
+        "label": "Faded receipt: what to do",
+        "href": "/en/blog/faded-receipt-what-to-do",
+        "desc": "When the thermal paper has faded."
+      },
+      {
+        "label": "Returns app",
+        "href": "/en/returns-app",
+        "desc": "Find the right receipt at the counter."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Retour (return policy, in French)",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/service-a-la-clientele/retour.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Returns (receipt look-up within 90 days)",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Return Policy",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/en/home/customer-support/return-policy.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Can I return an item without a receipt?",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/knowledge/articles/fd1993ed-564g-40b3-86c4-d5e538b76f6d.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Do I need a receipt for returns and how are the refunds made",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/knowledge/articles/705fe3b4-2g9c-4e65-8994-308d1cb86d28.html",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "IKEA Canada No-nonsense Returns Policy",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/returns-claims/return-policy/",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Walmart Canada standard return policy",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/return-policy/6657a60d5a3f4e6cbd1409330b680562",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Membership Conditions & Regulations",
+        "publisher": "Costco Canada",
+        "url": "https://www.costco.ca/f/-/membership-conditions-regulations?langId=-24",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Returns and Refunds",
+        "publisher": "RONA inc.",
+        "url": "https://www.rona.ca/en/returns-and-refunds",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Remboursement et échange (Refunds and exchanges, in French)",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Garantie de bon fonctionnement sur certains électroménagers et appareils électroniques (in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Conserver les documents pertinents (keeping relevant documents, in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/conseil-bien/conserver-documents-pertinents/",
+        "accessed": "2026-11-07"
+      },
+      {
+        "label": "Durée de conservation des documents (how long to keep documents, in French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/finances-impots-et-taxes/conseils-de-consommation/achat-de-biens-et-de-services/duree-de-conservation-des-documents",
+        "accessed": "2026-11-07"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 7, 2026"
+  }
+}
