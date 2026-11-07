@@ -4,7 +4,7 @@
   "frPath": "/blog/retour-sans-recu",
   "enPath": "/en/blog/return-without-receipt",
   "datePublished": "2026-11-07T09:00:00-05:00",
-  "dateModified": "2026-11-07T09:00:00-05:00",
+  "dateModified": "2026-11-07T15:00:00-05:00",
   "lastFactCheck": "2026-11-07",
   "cover": {
     "src": "/images/blog/retour-sans-recu/cover.png",
@@ -125,8 +125,14 @@
             "items": [
               "**Un achat payé comptant** n'entre pas dans les recherches décrites par Canadian Tire et Home Depot, qui visent les paiements par carte (et par chèque chez Home Depot).",
               "**Après 90 jours**, ni Canadian Tire ni Home Depot ne décrivent de recherche de reçu. Chez Home Depot, le délai de retour peut pourtant atteindre 365 jours pour un achat fait avec la carte de crédit à la consommation Home Depot.",
-              "**Un paiement par portefeuille numérique** (téléphone ou montre) peut afficher 4 derniers chiffres différents de ceux de la carte physique, prévient IKEA. Vérifiez lesquels figurent dans votre application bancaire avant de demander une recherche."
+              "**Un paiement par portefeuille numérique** (téléphone ou montre) peut afficher 4 derniers chiffres différents de ceux de la carte physique, prévient IKEA. Ce sont les chiffres imprimés sur le reçu, et ils ne correspondent pas forcément à ceux de la carte dans votre portefeuille. Vérifiez-les avant de demander une recherche."
             ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Apple Pay, Google Pay : quelle carte avez-vous vraiment utilisée?",
+            "text": "Dans ReFound, vous pouvez donner un nom personnalisé à chaque carte que vous utilisez et indiquer s'il s'agit de la carte physique, d'Apple Pay ou de Google Pay. Quand les 4 derniers chiffres sont lus sur un reçu, ReFound les associe à la bonne carte. Vous savez alors exactement avec quelle carte vous avez payé, même si ces chiffres n'apparaissent pas sur la carte dans votre portefeuille."
           },
           {
             "type": "p",
@@ -254,7 +260,7 @@
             "type": "bullets",
             "items": [
               "**Une image lisible du reçu**, prise le jour de l'achat, avant que le papier thermique pâlisse. Gardez quand même l'original, comme le recommande l'Office de la protection du consommateur.",
-              "**La date, le marchand, le total et le mode de paiement** extraits du reçu : les renseignements qu'on vous demande pour une recherche de reçu.",
+              "**La date, le marchand, le total et le mode de paiement** extraits du reçu, avec la carte reconnue par ses 4 derniers chiffres (nom personnalisé, carte physique, Apple Pay ou Google Pay) : les renseignements qu'on vous demande pour une recherche de reçu.",
               "**Le produit derrière la ligne abrégée**, et sa garantie du magasin ou du fabricant avec une date de fin, quand l'information est disponible.",
               "**Une vue de retour** qui regroupe l'article, le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original.",
               "**Une date limite de retour estimée** selon la politique générale du marchand (par exemple 90 jours chez Canadian Tire). Elle ne tient pas compte des délais par catégorie, comme les 30 jours de l'électronique : vérifiez ceux de l'article.",
@@ -499,8 +505,14 @@
             "items": [
               "**A cash purchase** isn't covered by the look-ups Canadian Tire and Home Depot describe, which apply to card payments (and cheques at Home Depot).",
               "**After 90 days**, neither Canadian Tire nor Home Depot describes a receipt look-up. Yet at Home Depot, the return window can reach 365 days for purchases made with a Home Depot Consumer Credit Card.",
-              "**A digital wallet payment** (phone or watch) may show different last four digits from the physical card, IKEA warns. Check which digits appear in your banking app before asking for a look-up."
+              "**A digital wallet payment** (phone or watch) may show different last four digits from the physical card, IKEA warns. Those are the digits printed on the receipt, and they don't necessarily match the card in your wallet. Check them before asking for a look-up."
             ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Apple Pay, Google Pay: which card did you actually use?",
+            "text": "In ReFound, you can give each card you use a custom name and mark whether it's the physical card, Apple Pay or Google Pay. When the last 4 digits are read on a receipt, ReFound matches them to the right card. You then know exactly which card you paid with, even if those digits don't appear on the card in your wallet."
           },
           {
             "type": "p",
@@ -628,7 +640,7 @@
             "type": "bullets",
             "items": [
               "**A readable image of the receipt**, taken on the day of purchase, before the thermal paper fades. Keep the original too, as the Office de la protection du consommateur recommends.",
-              "**The date, merchant, total and payment method** extracted from the receipt: the details you're asked for in a receipt look-up.",
+              "**The date, merchant, total and payment method** extracted from the receipt, with the card recognized by its last 4 digits (custom name, physical card, Apple Pay or Google Pay): the details you're asked for in a receipt look-up.",
               "**The product behind the abbreviated line**, and its store or manufacturer warranty with an end date, when the information is available.",
               "**A return view** that brings together the item, the receipt barcode when it's detected, the payment method and the photo of the original receipt.",
               "**An estimated return deadline** based on the merchant's general policy (for example, 90 days at Canadian Tire). It doesn't account for category windows such as 30 days for electronics: check the item's own window.",
