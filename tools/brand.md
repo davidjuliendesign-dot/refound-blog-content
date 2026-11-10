@@ -52,3 +52,5 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 `render-retour-sans-recu.js` : `layers()` avec une surcharge `COMPACT` (5 lignes, titre plus petit) pour comparer une fenêtre courte en jours (ex. recherche de reçu de 90 jours) à des garanties en années, et une couverture sans texte dépendant de la langue (reçu manquant en pointillé + carte de paiement).
 
 `render-sports-experts.js` : `segments()` (délais sur un axe de vraies dates avec plusieurs segments par ligne : remboursement en doré, échange seulement en émeraude, période non précisée en pointillé, et zones hachurées pour les jours sans retour, ex. Vendredi fou). Utile pour tout marchand qui a deux délais (remboursement / échange) ou des jours bloqués.
+
+`render-best-buy.js` : `calendar()` de Walmart réutilisé pour montrer la règle « la date la plus tardive » (prolongation des Fêtes vs délai normal, avec des achats après la date de bascule) et `vsWarranty()` sur un axe de 6 ans (gros électroménagers).
