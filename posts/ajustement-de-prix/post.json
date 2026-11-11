@@ -1,0 +1,805 @@
+{
+  "schemaVersion": 1,
+  "slug": "ajustement-de-prix",
+  "frPath": "/blog/ajustement-de-prix",
+  "enPath": "/en/blog/price-adjustment-after-purchase",
+  "datePublished": "2026-11-11T09:00:00-05:00",
+  "dateModified": "2026-11-11T09:00:00-05:00",
+  "lastFactCheck": "2026-11-11",
+  "cover": {
+    "src": "/images/blog/ajustement-de-prix/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "fenetres-ajustement-fr.png",
+    "fenetres-ajustement-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Ajustement de prix après l'achat : Walmart, Best Buy, IKEA | ReFound",
+    "metaDescription": "Le prix a baissé après votre achat? Délais d'ajustement de prix chez Walmart, Best Buy, IKEA, Home Depot et Decathlon, et calcul pour le Vendredi fou 2026.",
+    "keywords": "ajustement de prix, ajustement de prix après achat, baisse de prix après achat remboursement, ajustement de prix Walmart, ajustement de prix Best Buy, ajustement de prix IKEA, ajustement de prix Vendredi fou 2026, protection de prix Canada, appariement de prix, différence de prix reçu",
+    "category": "Guide",
+    "date": "11 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Ajustement de prix après l'achat",
+    "eyebrow": "Reçus et retours",
+    "h1": "Ajustement de prix après l'achat : quels magasins remboursent la différence?",
+    "card": {
+      "title": "Le prix a baissé après votre achat? Délais par magasin",
+      "subtitle": "Walmart, Best Buy, IKEA, Home Depot, Decathlon : qui rembourse la différence, dans quel délai, et la date d'achat qui couvre le Vendredi fou 2026."
+    },
+    "coverAlt": "Reçu stylisé montrant un aspirateur acheté 349,99 le 11 novembre puis à 279,99 le 27 novembre, une différence de 70 $, et une pastille « +30 jours »",
+    "intro": [
+      "Réponse courte : plusieurs grands détaillants canadiens remboursent la différence si leur propre prix baisse peu après votre achat, à condition de présenter le reçu à temps. **Walmart, Best Buy et IKEA** donnent **30 jours**, **Home Depot** aussi, mais seulement pour les **gros électroménagers**, et **Decathlon** donne **14 jours**. Chaque magasin ajoute ses conditions : article identique, prix réduit encore en vigueur, exclusion des liquidations ou de certaines offres limitées.",
+      "Ce guide compare les politiques officielles vérifiées le 11 novembre 2026, calcule la date d'achat la plus ancienne qui permet de profiter d'une baisse du **Vendredi fou (27 novembre 2026)** et explique pourquoi la ligne abrégée d'un reçu peut compliquer la demande."
+    ],
+    "sections": [
+      {
+        "heading": "Ajustement de prix ou appariement de prix : quelle différence?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un ajustement de prix rembourse la différence quand **le magasin où vous avez acheté** baisse son propre prix après votre achat. L'appariement de prix (ou garantie du meilleur prix) sert plutôt à obtenir le prix plus bas **d'un concurrent**. Les deux politiques se trouvent souvent sur la même page, mais elles ne répondent pas à la même question."
+          },
+          {
+            "type": "p",
+            "text": "La nuance compte. RONA, par exemple, permet de demander un appariement jusqu'à 30 jours après l'achat, mais le prix du concurrent doit avoir été « in force and effect at the date of your purchase », c'est-à-dire en vigueur le jour de votre achat. Une baisse qui arrive la semaine suivante n'entre donc pas dans cette règle. Les prix du Vendredi fou, du Cyber Monday et du Boxing Day des concurrents sont aussi exclus."
+          },
+          {
+            "type": "p",
+            "text": "Ce guide porte sur l'ajustement de prix : vous avez déjà acheté, le même magasin affiche maintenant un prix plus bas, et vous voulez récupérer l'écart sans retourner l'article."
+          }
+        ]
+      },
+      {
+        "heading": "Délais d'ajustement de prix par magasin au Canada",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai le plus courant est de 30 jours après l'achat, avec le reçu. Les conditions, elles, varient beaucoup d'un magasin à l'autre : voici ce que disent les pages officielles consultées le 11 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Baisse du prix du magasin après l'achat : politiques officielles (vérifiées le 11 novembre 2026)",
+            "headers": [
+              "Magasin",
+              "Délai",
+              "Conditions à surveiller",
+              "Preuve demandée"
+            ],
+            "rows": [
+              [
+                "Walmart",
+                "30 jours après l'achat",
+                "Achat fait en magasin Walmart. Les articles en liquidation sont exclus",
+                "Reçu de caisse Walmart, à apporter en magasin"
+              ],
+              [
+                "Best Buy",
+                "30 jours après l'achat",
+                "Vise une baisse du prix de Best Buy après votre achat. La même page couvre aussi l'appariement d'un concurrent, avant l'achat ou dans les 30 jours",
+                "Reçu original"
+              ],
+              [
+                "IKEA",
+                "30 jours après la date d'achat",
+                "Même numéro d'article. Demande faite pendant la période de promotion. Exclus : services, aliments, articles « Tel quel », comptoirs et panneaux muraux sur mesure. Offres limitées dans le temps ou en quantité possiblement exclues",
+                "Reçu ou numéro de commande"
+              ],
+              [
+                "Home Depot",
+                "30 jours après l'achat",
+                "Gros électroménagers seulement (laveuses, sécheuses, réfrigérateurs et congélateurs de plus de 12 pi³, cuisinières, fours et tables de cuisson encastrés, lave-vaisselle encastrés, etc.). Une baisse chez un concurrent ne compte pas",
+                "Reçu original ou preuve d'achat, au comptoir de service"
+              ],
+              [
+                "Decathlon",
+                "14 jours après la date d'achat",
+                "Le prix réduit doit être encore en vigueur au moment de la demande. Achat en magasin : demande en magasin. Achat en ligne : formulaire du service à la clientèle. Exclu : Decathlon Pro",
+                "Preuve d'achat"
+              ],
+              [
+                "RONA",
+                "Appariement jusqu'à 30 jours après l'achat",
+                "Prix d'un concurrent en vigueur le jour de votre achat. La page ne décrit pas d'ajustement si RONA baisse son propre prix",
+                "Preuve de l'achat original chez RONA"
+              ],
+              [
+                "Bureau en Gros",
+                "30 jours après la réception (14 jours pour l'électronique)",
+                "Politique d'appariement visant les concurrents. Elle ne dit pas clairement si une baisse du prix de Bureau en Gros après l'achat est remboursée : demandez avant de compter dessus",
+                "Reçu de caisse original parmi les preuves acceptées"
+              ],
+              [
+                "Canadian Tire",
+                "Non précisé",
+                "La page Politique de prix de Canadian Tire décrit l'alignement des prix en ligne et en magasin, pas d'ajustement après l'achat",
+                "—"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Et Costco?",
+            "text": "Costco Canada publie une politique d'ajustement de prix sur son site de service à la clientèle, mais la page n'était pas accessible à notre vérification le 11 novembre 2026. Nous ne reprenons donc pas ses conditions ici : consultez-la directement avant de vous y fier."
+          },
+          {
+            "type": "p",
+            "text": "Le remboursement se fait en général sur le mode de paiement d'origine. IKEA le précise, avec une exception : un achat payé avec une carte-cadeau IKEA est remboursé en crédit, sur une carte de remboursement numérique IKEA. Home Depot rembourse aussi la différence sur le mode de paiement d'origine pour une commande en ligne, une fois la baisse vérifiée."
+          }
+        ]
+      },
+      {
+        "heading": "Vendredi fou 2026 : la date d'achat qui compte",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour profiter d'une baisse du Vendredi fou le 27 novembre 2026, un achat fait le **28 octobre 2026 ou après** reste dans une fenêtre de 30 jours, et un achat fait le **13 novembre ou après** reste dans une fenêtre de 14 jours. Ces dates sont calculées par ReFound à partir des délais officiels."
+          },
+          {
+            "type": "p",
+            "text": "Le graphique part d'un achat fait aujourd'hui, le 11 novembre 2026. Chez Walmart, Best Buy, IKEA et Home Depot (gros électroménagers), la fenêtre de 30 jours se termine le 11 décembre et couvre le Vendredi fou. Chez Decathlon, la fenêtre de 14 jours se termine le 25 novembre, deux jours avant."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/ajustement-de-prix/fenetres-ajustement-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique : pour un achat le 11 novembre 2026, la fenêtre d'ajustement de prix se termine le 11 décembre chez Walmart, Best Buy, IKEA et Home Depot (gros électroménagers), et le 25 novembre chez Decathlon, avant le Vendredi fou du 27 novembre",
+            "caption": "Pour un achat le 11 novembre 2026, seule la fenêtre de 14 jours de Decathlon se termine avant le Vendredi fou. Calcul ReFound d'après les politiques officielles, vérifiées le 11 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Date d'achat la plus ancienne pour qu'une baisse de prix tombe dans la fenêtre (calcul ReFound)",
+            "headers": [
+              "Le prix baisse le…",
+              "Fenêtre de 30 jours (Walmart, Best Buy, IKEA, Home Depot électroménagers)",
+              "Fenêtre de 14 jours (Decathlon)"
+            ],
+            "rows": [
+              [
+                "Vendredi fou, 27 novembre 2026",
+                "Achat le 28 octobre ou après",
+                "Achat le 13 novembre ou après"
+              ],
+              [
+                "Cyber Monday, 30 novembre 2026",
+                "Achat le 31 octobre ou après",
+                "Achat le 16 novembre ou après"
+              ],
+              [
+                "Lendemain de Noël, 26 décembre 2026",
+                "Achat le 26 novembre ou après",
+                "Achat le 12 décembre ou après"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les politiques ne précisent pas si le jour de l'achat compte comme le premier jour. Faites votre demande au moins un jour avant la date du tableau pour éviter un refus à la limite."
+          },
+          {
+            "type": "h3",
+            "text": "Les conditions qui comptent le plus pendant les soldes"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Best Buy** affiche une garantie « Black Friday Price » du 19 novembre au 27 novembre 2026 : un article portant cette mention ne doit pas baisser davantage pendant la vente, et s'il baisse quand même, la demande suit la même procédure d'appariement.",
+              "**IKEA** exige que la demande soit faite pendant la période de promotion. Si la vente se termine avant que vous passiez au magasin, la fenêtre de 30 jours ne suffit plus. Les offres limitées dans le temps ou en quantité peuvent aussi être exclues : lisez les conditions de l'offre.",
+              "**Walmart** exclut les articles en liquidation. Une baisse « Clearance » ne donne donc pas droit au remboursement de la différence.",
+              "**Decathlon** demande que le prix réduit soit encore en vigueur au moment de la demande. Une vente d'une seule journée doit être réclamée le jour même."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Comment demander un ajustement de prix",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La demande se fait avec le reçu, au magasin ou au service à la clientèle, avant la fin du délai et, chez certains détaillants, pendant que le prix réduit est encore affiché."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez que c'est le même article : même modèle, même numéro d'article, même format ou même couleur. IKEA l'exige en toutes lettres.",
+              "Comptez les jours depuis la date imprimée sur le reçu : 30 jours chez Walmart, Best Buy et IKEA, 30 jours chez Home Depot pour un gros électroménager, 14 jours chez Decathlon.",
+              "Gardez une preuve du nouveau prix (capture de la page du produit ou de la circulaire, avec la date).",
+              "Présentez le reçu original ou la preuve d'achat demandée : en magasin pour un achat en magasin, au service à la clientèle pour une commande en ligne (Decathlon et Home Depot le précisent).",
+              "Vérifiez sur votre relevé que la différence revient sur le mode de paiement d'origine."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Ce que le reçu doit prouver, et ce qu'il ne montre pas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour un ajustement de prix, le reçu prouve trois choses : la date d'achat, le prix payé et l'article acheté. Les deux premières sont imprimées clairement. La troisième l'est souvent beaucoup moins."
+          },
+          {
+            "type": "p",
+            "text": "IKEA ne rembourse la différence que pour un article au **numéro d'article identique**. Or, sur notre reçu IKEA de démonstration, la même ligne abrégée est imprimée trois fois, alors qu'elle correspond à trois couleurs différentes du même produit :"
+          },
+          {
+            "type": "table",
+            "caption": "Reçu IKEA de démonstration : ligne imprimée et produit identifié par ReFound",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié par ReFound"
+            ],
+            "rows": [
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Débarbouillette, blanc, 12x12 po"
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Débarbouillette, beige clair, 12x12 po"
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Débarbouillette, gris foncé, 12x12 po"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si une seule de ces couleurs passe en solde, la description imprimée ne suffit pas à montrer laquelle vous avez achetée : il faut retrouver le bon numéro d'article ou le bon modèle. Le problème est le même pour un appareil vendu en plusieurs capacités ou un électroménager offert en plusieurs finis. Les détails de cet exemple sont sur notre [page sur les reçus IKEA](/marchands/recus-ikea)."
+          },
+          {
+            "type": "p",
+            "text": "Deux autres obstacles reviennent souvent. Le papier thermique pâlit avec la chaleur et le temps (voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)). Et le reçu n'est pas toujours entre les mains de la personne qui voit la baisse de prix."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Exemple de démonstration",
+            "text": "Ces lignes proviennent d'un compte de démonstration ReFound. L'identification d'un produit dépend du marchand et des données disponibles : elle n'est pas garantie pour chaque article."
+          }
+        ]
+      },
+      {
+        "heading": "La baisse arrive après la fenêtre : reste-t-il une option?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Après la fenêtre d'ajustement, la seule voie prévue par les politiques est souvent le retour, si l'article y est encore admissible. Ce n'est plus un ajustement : ce sont les règles de retour qui s'appliquent (emballage, état, délai, reçu)."
+          },
+          {
+            "type": "p",
+            "text": "Les délais de retour dépassent parfois la fenêtre d'ajustement. Chez Canadian Tire, par exemple, un article non ouvert, dans son emballage d'origine et avec le reçu, peut être retourné dans les 90 jours suivant l'achat. Un article ouvert ou abîmé peut être refusé. Vérifiez la politique du magasin avant de racheter : voyez nos guides sur les retours chez [Canadian Tire](/blog/politique-retour-canadian-tire), [Walmart](/blog/politique-retour-walmart), [Best Buy](/blog/politique-retour-best-buy) et [IKEA](/blog/politique-retour-ikea)."
+          }
+        ]
+      },
+      {
+        "heading": "Comment ReFound aide pour un ajustement de prix",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound ne surveille pas les prix et ne fait pas la demande d'ajustement à votre place. L'application vous aide à avoir le bon reçu sous la main le jour où vous voyez une baisse."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Une copie lisible du reçu, avec la date d'achat et le marchand, même si l'original pâlit.",
+              "Chaque ligne associée à un produit nommé quand l'information est disponible, avec une photo et un lien vers la fiche du marchand, pour comparer le bon modèle.",
+              "La date limite de retour estimée selon la politique générale du marchand, utile si la baisse arrive après la fenêtre d'ajustement. Les délais propres à une catégorie de produits restent ceux de la politique officielle.",
+              "Le reçu partagé avec un proche, pour que la personne qui passe au magasin ait la preuve d'achat."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les rappels avant la date limite de retour (3 jours avant) font partie de ReFound Pro. Il n'y a pas de rappel propre aux fenêtres d'ajustement de prix : notez la date du tableau ci-dessus si un article vous tient à cœur."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Walmart rembourse-t-il la différence si le prix baisse après l'achat?",
+        "a": "Oui, pour un article acheté en magasin Walmart : la différence est remboursée dans les 30 jours suivant l'achat, sur présentation du reçu en magasin. Les articles en liquidation sont exclus."
+      },
+      {
+        "q": "Best Buy fait-il des ajustements de prix?",
+        "a": "Oui. Si Best Buy réduit son propre prix après votre achat, présentez le reçu original dans les 30 jours suivant l'achat. Pour le Vendredi fou 2026, les articles marqués « Black Friday Price » ont une garantie du 19 au 27 novembre 2026."
+      },
+      {
+        "q": "Quel est le délai d'ajustement de prix chez IKEA?",
+        "a": "30 jours après la date d'achat, pour un article au numéro d'article identique, avec le reçu ou le numéro de commande. La demande doit être faite pendant la période de promotion, et certains articles et offres sont exclus."
+      },
+      {
+        "q": "Peut-on obtenir un ajustement de prix sans reçu?",
+        "a": "Les politiques consultées demandent toutes un reçu ou une preuve d'achat (numéro de commande chez IKEA, preuve d'achat chez Decathlon). Sans preuve, la demande risque d'être refusée."
+      }
+    ],
+    "ctaTitle": "Gardez le reçu prêt pour la prochaine baisse de prix",
+    "ctaBody": "Numérisez vos reçus le jour de l'achat : ReFound garde une copie lisible avec la date, les articles et le produit identifié quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Politique de retour Best Buy",
+        "href": "/blog/politique-retour-best-buy",
+        "desc": "30 jours et retours des Fêtes 2026."
+      },
+      {
+        "label": "Politique de retour Walmart",
+        "href": "/blog/politique-retour-walmart",
+        "desc": "Délais par catégorie et Fêtes 2026."
+      },
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce que prévoient Canadian Tire, Home Depot, IKEA et Walmart."
+      },
+      {
+        "label": "Reçus IKEA",
+        "href": "/marchands/recus-ikea",
+        "desc": "Trois lignes identiques, trois produits."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Pricing policy (price drop refund within 30 days)",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/pricing-policy/0677cc5f171e42509e9dbf66ba09be7a",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Prix (remboursement de la différence)",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/fr/help/article/prix/f748be9369fd474ca5a1e153c6a1a8a3",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Making Sure You Get the Best Price",
+        "publisher": "Best Buy Canada",
+        "url": "https://www.bestbuy.ca/en-ca/help/holiday-shopping-at-best-buy/making-sure-you-get-the-best-price",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Price Adjustment Policy",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/terms-conditions/price-adjustment-policy-pub77233d80",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "What is The Home Depot's price guarantee?",
+        "publisher": "The Home Depot Canada",
+        "url": "https://www.homedepot.ca/en/home/customer-support/home-depot-price-guarantee.html",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Price Adjustment Policy",
+        "publisher": "Decathlon Canada",
+        "url": "https://decathlon.ca/en/help/Price-Adjustment-Policy",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "What is your price adjustment policy?",
+        "publisher": "Decathlon Canada",
+        "url": "https://decathlon.ca/en/lp/i/price-adjustment-policy",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "In-store price guarantee",
+        "publisher": "RONA",
+        "url": "https://rona.ca/en/in-store-price-guarantee",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Price match information and policies",
+        "publisher": "Staples Canada",
+        "url": "https://help.staples.ca/hc/en-us/articles/360026191891-Price-match-information-and-policies",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Pricing policy",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/policies/pricing.html",
+        "accessed": "2026-11-11"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 11 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Price Adjustment After Purchase: Walmart, Best Buy, IKEA | ReFound",
+    "metaDescription": "Price dropped after you bought it? Price adjustment windows at Walmart, Best Buy, IKEA, Home Depot and Decathlon, plus the Black Friday 2026 math.",
+    "keywords": "price adjustment, price adjustment after purchase, price drop after purchase refund, Walmart price adjustment Canada, Best Buy price adjustment, IKEA price adjustment, Black Friday 2026 price adjustment, price protection Canada, price match, price difference receipt",
+    "category": "Guide",
+    "date": "November 11, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Price adjustment after purchase",
+    "eyebrow": "Receipts and returns",
+    "h1": "Price Adjustment After Purchase: Which Canadian Stores Refund the Difference?",
+    "card": {
+      "title": "Price dropped after you bought it? Windows by store",
+      "subtitle": "Walmart, Best Buy, IKEA, Home Depot, Decathlon: who refunds the difference, how long you have, and the purchase date that covers Black Friday 2026."
+    },
+    "coverAlt": "Stylized receipt showing a vacuum bought for 349.99 on November 11, then 279.99 on November 27, a $70 difference, and a \"+30 days\" badge",
+    "intro": [
+      "Short answer: several major Canadian retailers refund the difference if their own price drops shortly after you buy, as long as you bring the receipt in time. **Walmart, Best Buy and IKEA** give you **30 days**, **Home Depot** does too but only for **major appliances**, and **Decathlon** gives **14 days**. Each store adds its own conditions: an identical item, a lower price still in effect, and exclusions for clearance or some limited offers.",
+      "This guide compares the official policies as checked on November 11, 2026, works out the earliest purchase date that still lets you benefit from a **Black Friday (November 27, 2026)** price drop, and explains why an abbreviated receipt line can get in the way of your claim."
+    ],
+    "sections": [
+      {
+        "heading": "Price adjustment vs. price match: what's the difference?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A price adjustment refunds the difference when **the store you bought from** lowers its own price after your purchase. A price match (or low price guarantee) is about getting **a competitor's** lower price. Both often live on the same page, but they answer different questions."
+          },
+          {
+            "type": "p",
+            "text": "The difference matters. RONA, for example, lets you request a price match up to 30 days after purchase, but the competitor's price must have been \"in force and effect at the date of your purchase.\" A drop that shows up the following week doesn't qualify under that rule. Competitors' Black Friday, Cyber Monday and Boxing Day prices are excluded too."
+          },
+          {
+            "type": "p",
+            "text": "This guide is about price adjustments: you already bought the item, the same store now shows a lower price, and you want the difference back without returning it."
+          }
+        ]
+      },
+      {
+        "heading": "Price adjustment windows by store in Canada",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The most common window is 30 days after purchase, with the receipt. The conditions vary a lot from store to store: here is what the official pages said on November 11, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Store's own price drop after purchase: official policies (checked November 11, 2026)",
+            "headers": [
+              "Store",
+              "Window",
+              "Conditions to watch",
+              "Proof required"
+            ],
+            "rows": [
+              [
+                "Walmart",
+                "30 days after purchase",
+                "Item bought in a Walmart store. Clearance items are excluded",
+                "Walmart receipt, brought to a store"
+              ],
+              [
+                "Best Buy",
+                "30 days after purchase",
+                "Covers Best Buy lowering its own price after your purchase. The same page also covers matching a competitor, before you buy or within 30 days",
+                "Original receipt"
+              ],
+              [
+                "IKEA",
+                "30 days after the original purchase date",
+                "Identical article number. Request made during the promotional sale period. Excluded: services, food, As-is items, custom countertops and wall panels. Time-limited or limited-quantity offers may be excluded",
+                "Receipt or order number"
+              ],
+              [
+                "Home Depot",
+                "30 days after purchase",
+                "Major appliances only (washers, dryers, refrigerators and freezers over 12 cu. ft., ranges, built-in wall ovens and cooktops, built-in dishwashers, etc.). A competitor's price drop doesn't count",
+                "Original receipt or proof of purchase, at the Service Desk"
+              ],
+              [
+                "Decathlon",
+                "14 days after the original purchase date",
+                "The lower price must still be in effect when you ask. In-store purchase: ask in store. Online purchase: customer service form. Excluded: Decathlon Pro",
+                "Proof of purchase"
+              ],
+              [
+                "RONA",
+                "Price match up to 30 days after purchase",
+                "Competitor's price in effect on your purchase date. The page doesn't describe an adjustment if RONA lowers its own price",
+                "Proof of the original RONA purchase"
+              ],
+              [
+                "Staples",
+                "30 days after receiving the item (14 days for electronics)",
+                "Price match policy aimed at competitors. It doesn't clearly say whether a later Staples price drop is refunded: ask before counting on it",
+                "Original register receipt among accepted proofs"
+              ],
+              [
+                "Canadian Tire",
+                "Not stated",
+                "Canadian Tire's pricing policy page covers aligning online and in-store prices, not an adjustment after purchase",
+                "—"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "What about Costco?",
+            "text": "Costco Canada publishes a price adjustment policy on its customer service site, but the page was not accessible to our check on November 11, 2026. We don't repeat its terms here: read it directly before relying on it."
+          },
+          {
+            "type": "p",
+            "text": "Refunds generally go back to the original payment method. IKEA says so, with one exception: a purchase paid with an IKEA gift card is refunded as store credit on an IKEA Digital Refund Card. Home Depot also refunds the difference to the original payment method for online orders once the drop is verified."
+          }
+        ]
+      },
+      {
+        "heading": "Black Friday 2026: the purchase date that matters",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "To benefit from a Black Friday price drop on November 27, 2026, a purchase made on **October 28, 2026 or later** is still inside a 30-day window, and a purchase made on **November 13 or later** is still inside a 14-day window. ReFound calculated these dates from the official windows."
+          },
+          {
+            "type": "p",
+            "text": "The chart starts from a purchase made today, November 11, 2026. At Walmart, Best Buy, IKEA and Home Depot (major appliances), the 30-day window ends on December 11 and covers Black Friday. At Decathlon, the 14-day window ends on November 25, two days before."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/ajustement-de-prix/fenetres-ajustement-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Chart: for a purchase on November 11, 2026, the price adjustment window ends December 11 at Walmart, Best Buy, IKEA and Home Depot (major appliances), and November 25 at Decathlon, before Black Friday on November 27",
+            "caption": "For a purchase on November 11, 2026, only Decathlon's 14-day window ends before Black Friday. ReFound calculation based on official policies, checked November 11, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Earliest purchase date for a price drop to fall inside the window (ReFound calculation)",
+            "headers": [
+              "Price drops on…",
+              "30-day window (Walmart, Best Buy, IKEA, Home Depot appliances)",
+              "14-day window (Decathlon)"
+            ],
+            "rows": [
+              [
+                "Black Friday, November 27, 2026",
+                "Bought October 28 or later",
+                "Bought November 13 or later"
+              ],
+              [
+                "Cyber Monday, November 30, 2026",
+                "Bought October 31 or later",
+                "Bought November 16 or later"
+              ],
+              [
+                "Boxing Day, December 26, 2026",
+                "Bought November 26 or later",
+                "Bought December 12 or later"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The policies don't say whether the purchase day counts as day one. Make your request at least a day before the date in the table to avoid a refusal at the limit."
+          },
+          {
+            "type": "h3",
+            "text": "The conditions that matter most during sales"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Best Buy** has a \"Black Friday Price\" guarantee from November 19 through November 27, 2026: an item with that badge shouldn't go any lower during the sale, and if it does, you request the difference through the same price match process.",
+              "**IKEA** requires the request to be made during the promotional sale period. If the sale ends before you get to the store, the 30-day window no longer helps. Time-limited or limited-quantity offers may also be excluded: read the offer's terms.",
+              "**Walmart** excludes clearance items. A Clearance markdown doesn't qualify for a refund of the difference.",
+              "**Decathlon** requires the lower price to still be in effect when you ask. A one-day sale has to be claimed that day."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How to request a price adjustment",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "You request it with the receipt, in store or through customer service, before the window ends and, at some retailers, while the lower price is still posted."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Check that it's the same item: same model, same article number, same size or colour. IKEA spells this out.",
+              "Count the days from the date printed on the receipt: 30 days at Walmart, Best Buy and IKEA, 30 days at Home Depot for a major appliance, 14 days at Decathlon.",
+              "Keep proof of the new price (a screenshot of the product page or flyer, with the date).",
+              "Bring the original receipt or the proof of purchase they ask for: in store for an in-store purchase, through customer service for an online order (Decathlon and Home Depot say so).",
+              "Check your statement to confirm the difference went back to the original payment method."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What the receipt has to prove, and what it doesn't show",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For a price adjustment, the receipt proves three things: the purchase date, the price paid and the item bought. The first two are printed clearly. The third often isn't."
+          },
+          {
+            "type": "p",
+            "text": "IKEA only refunds the difference for an item with an **identical article number**. Yet on our demo IKEA receipt, the same abbreviated line is printed three times, for three different colours of the same product:"
+          },
+          {
+            "type": "table",
+            "caption": "Demo IKEA receipt: printed line and product identified by ReFound",
+            "headers": [
+              "Receipt line",
+              "Product identified by ReFound"
+            ],
+            "rows": [
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Washcloth, white, 12x12\""
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Washcloth, light beige, 12x12\""
+              ],
+              [
+                "VÅGSJÖN washclth 30x",
+                "VÅGSJÖN Washcloth, dark grey, 12x12\""
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If only one of those colours goes on sale, the printed description isn't enough to show which one you bought: you need the right article number or model. The same problem comes up with a device sold in several storage sizes or an appliance offered in several finishes. The details of this example are on our [IKEA receipts page](/en/merchants/ikea-receipts)."
+          },
+          {
+            "type": "p",
+            "text": "Two other obstacles come up often. Thermal paper fades with heat and time (see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)). And the receipt isn't always with the person who spots the price drop."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Demo example",
+            "text": "These lines come from a ReFound demo account. Product identification depends on the merchant and the data available: it isn't guaranteed for every item."
+          }
+        ]
+      },
+      {
+        "heading": "The price dropped after the window: any option left?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After the adjustment window, the only route the policies provide is often a return, if the item still qualifies. That's no longer an adjustment: the return rules apply (packaging, condition, time limit, receipt)."
+          },
+          {
+            "type": "p",
+            "text": "Return windows are sometimes longer than the adjustment window. At Canadian Tire, for example, an unopened item in its original packaging, with the receipt, can be returned within 90 days of purchase. An opened or damaged item may be refused. Check the store's policy before buying again: see our guides to returns at [Canadian Tire](/en/blog/canadian-tire-return-policy), [Walmart](/en/blog/walmart-return-policy), [Best Buy](/en/blog/best-buy-canada-return-policy) and [IKEA](/en/blog/ikea-return-policy)."
+          }
+        ]
+      },
+      {
+        "heading": "How ReFound helps with a price adjustment",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound doesn't track prices and doesn't file the adjustment for you. It helps you have the right receipt at hand on the day you spot a lower price."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "A readable copy of the receipt, with the purchase date and merchant, even if the original fades.",
+              "Each line matched to a named product when the information is available, with a photo and a link to the merchant's product page, so you compare the right model.",
+              "The estimated return deadline based on the merchant's general policy, useful if the price drops after the adjustment window. Category-specific time limits are still those in the official policy.",
+              "The receipt shared with a family member, so whoever goes to the store has the proof of purchase."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Reminders before the return deadline (3 days before) are part of ReFound Pro. There's no reminder specific to price adjustment windows: note the date from the table above if an item matters to you."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Does Walmart Canada refund the difference if the price drops after I buy?",
+        "a": "Yes, for an item bought in a Walmart store: the difference is refunded within 30 days of purchase when you bring the receipt to a store. Clearance items are excluded."
+      },
+      {
+        "q": "Does Best Buy Canada do price adjustments?",
+        "a": "Yes. If Best Buy lowers its own price after your purchase, bring your original receipt within 30 days of purchase. For Black Friday 2026, items marked \"Black Friday Price\" have a guarantee from November 19 to 27, 2026."
+      },
+      {
+        "q": "What is IKEA Canada's price adjustment window?",
+        "a": "30 days from the original purchase date, for an item with an identical article number, with the receipt or order number. The request must be made during the promotional sale period, and some items and offers are excluded."
+      },
+      {
+        "q": "Can I get a price adjustment without a receipt?",
+        "a": "The policies we checked all ask for a receipt or proof of purchase (an order number at IKEA, proof of purchase at Decathlon). Without proof, the request is likely to be refused."
+      }
+    ],
+    "ctaTitle": "Keep the receipt ready for the next price drop",
+    "ctaBody": "Scan your receipts on the day you buy: ReFound keeps a readable copy with the date, the items and the identified product when the information is available.",
+    "relatedTitle": "Further reading",
+    "related": [
+      {
+        "label": "Best Buy Canada return policy",
+        "href": "/en/blog/best-buy-canada-return-policy",
+        "desc": "30 days and 2026 holiday returns."
+      },
+      {
+        "label": "Walmart Canada return policy",
+        "href": "/en/blog/walmart-return-policy",
+        "desc": "Time limits by category and the 2026 holidays."
+      },
+      {
+        "label": "Returns without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What Canadian Tire, Home Depot, IKEA and Walmart allow."
+      },
+      {
+        "label": "IKEA receipts",
+        "href": "/en/merchants/ikea-receipts",
+        "desc": "Three identical lines, three products."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Pricing policy (price drop refund within 30 days)",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/pricing-policy/0677cc5f171e42509e9dbf66ba09be7a",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Prix (remboursement de la différence)",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/fr/help/article/prix/f748be9369fd474ca5a1e153c6a1a8a3",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Making Sure You Get the Best Price",
+        "publisher": "Best Buy Canada",
+        "url": "https://www.bestbuy.ca/en-ca/help/holiday-shopping-at-best-buy/making-sure-you-get-the-best-price",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Price Adjustment Policy",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/terms-conditions/price-adjustment-policy-pub77233d80",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "What is The Home Depot's price guarantee?",
+        "publisher": "The Home Depot Canada",
+        "url": "https://www.homedepot.ca/en/home/customer-support/home-depot-price-guarantee.html",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Price Adjustment Policy",
+        "publisher": "Decathlon Canada",
+        "url": "https://decathlon.ca/en/help/Price-Adjustment-Policy",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "What is your price adjustment policy?",
+        "publisher": "Decathlon Canada",
+        "url": "https://decathlon.ca/en/lp/i/price-adjustment-policy",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "In-store price guarantee",
+        "publisher": "RONA",
+        "url": "https://rona.ca/en/in-store-price-guarantee",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Price match information and policies",
+        "publisher": "Staples Canada",
+        "url": "https://help.staples.ca/hc/en-us/articles/360026191891-Price-match-information-and-policies",
+        "accessed": "2026-11-11"
+      },
+      {
+        "label": "Pricing policy",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/policies/pricing.html",
+        "accessed": "2026-11-11"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 11, 2026"
+  }
+}
