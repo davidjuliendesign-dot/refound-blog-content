@@ -54,3 +54,5 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 `render-sports-experts.js` : `segments()` (délais sur un axe de vraies dates avec plusieurs segments par ligne : remboursement en doré, échange seulement en émeraude, période non précisée en pointillé, et zones hachurées pour les jours sans retour, ex. Vendredi fou). Utile pour tout marchand qui a deux délais (remboursement / échange) ou des jours bloqués.
 
 `render-best-buy.js` : `calendar()` de Walmart réutilisé pour montrer la règle « la date la plus tardive » (prolongation des Fêtes vs délai normal, avec des achats après la date de bascule) et `vsWarranty()` sur un axe de 6 ans (gros électroménagers).
+
+`render-cadeaux-noel.js` : `deadlines()` (un même achat comparé entre marchands sur un axe de vraies dates : barre de la date d'achat à la date limite, jours sans retour hachurés par ligne, ligne verticale repère comme Noël) et une couverture sans texte dépendant de la langue (boîte-cadeau, reçu-cadeau sans prix, dates). Réutilisable pour toute comparaison de dates limites entre magasins.
