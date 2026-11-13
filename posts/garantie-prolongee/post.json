@@ -1,0 +1,919 @@
+{
+  "schemaVersion": 1,
+  "slug": "garantie-prolongee",
+  "frPath": "/blog/garantie-prolongee",
+  "enPath": "/en/blog/extended-warranty-worth-it",
+  "datePublished": "2026-11-13T09:00:00-05:00",
+  "dateModified": "2026-11-13T09:00:00-05:00",
+  "lastFactCheck": "2026-11-13",
+  "cover": {
+    "src": "/images/blog/garantie-prolongee/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "comparaison-fr.png",
+    "comparaison-en.png",
+    "calendrier-fr.png",
+    "calendrier-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Garantie prolongée au Québec : vaut-elle la peine en 2026? | ReFound",
+    "metaDescription": "Téléviseur 4 ans, laveuse 5 ans, frigo 6 ans : déjà gratuit au Québec. Ce qu'une garantie prolongée ajoute vraiment, et comment l'annuler en 10 jours.",
+    "keywords": "garantie prolongée, garantie prolongée vaut-elle la peine, garantie supplémentaire Québec, annuler garantie prolongée, garantie prolongée Best Buy, plan de protection Home Depot Québec, garantie de bon fonctionnement, garantie légale Québec, Vendredi fou 2026, garantie téléviseur, garantie électroménager",
+    "category": "Guide",
+    "date": "13 novembre 2026",
+    "readingTime": "9 min de lecture",
+    "breadcrumb": "Garantie prolongée",
+    "eyebrow": "Garanties",
+    "h1": "Garantie prolongée : vaut-elle la peine au Québec en 2026?",
+    "card": {
+      "title": "Garantie prolongée : vaut-elle la peine au Québec en 2026?",
+      "subtitle": "Ce qu'un plan payant ajoute à la garantie gratuite de 3 à 6 ans, appareil par appareil, et vos délais pour l'annuler."
+    },
+    "coverAlt": "Deux barres de garantie superposées : la garantie gratuite et une garantie prolongée qui la chevauche presque entièrement",
+    "intro": [
+      "Réponse courte : au Québec, pour un téléviseur, un ordinateur, une console, un cellulaire, une tablette ou un gros électroménager acheté neuf depuis le 5 octobre 2026, la réparation d'une panne est déjà couverte gratuitement de 3 à 6 ans par la garantie de bon fonctionnement. Une garantie prolongée vaut surtout la peine si elle couvre autre chose, comme les dommages accidentels, ou si elle dure plus longtemps que cette garantie gratuite.",
+      "Nous avons comparé, appareil par appareil, la durée gratuite prévue par la loi et la durée maximale des plans offerts par Best Buy. Pour un téléviseur ou une laveuse, la durée est la même ; pour un réfrigérateur, le plan est plus court que la garantie gratuite. Ailleurs au Canada, la question se pose autrement, et nous la traitons plus bas.",
+      "Faits vérifiés le 13 novembre 2026 auprès de l'Office de la protection du consommateur, de la Loi sur la protection du consommateur et des pages officielles des marchands. Ce guide donne de l'information générale, pas un avis juridique."
+    ],
+    "sections": [
+      {
+        "heading": "Qu'est-ce qu'une garantie prolongée?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Une garantie prolongée est un contrat payant par lequel un commerçant s'engage à assumer le coût de la réparation ou du remplacement d'un bien, en plus de la garantie de base gratuite. La Loi sur la protection du consommateur l'appelle « contrat de garantie supplémentaire »."
+          },
+          {
+            "type": "p",
+            "text": "L'Office de la protection du consommateur (OPC) distingue deux formes :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**La garantie prolongée** au sens strict : elle allonge la garantie gratuite du commerçant ou du fabricant, et elle est généralement honorée par le vendeur ou le fabricant.",
+              "**La garantie de type « assurance »** : elle s'ajoute à la garantie gratuite et elle est généralement honorée par une entreprise tierce."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "En magasin, on parle souvent de « plan de protection ». Le nom importe peu : ce qui compte, c'est ce que le contrat couvre, pendant combien de temps, et qui paie la réparation."
+          }
+        ]
+      },
+      {
+        "heading": "Au Québec : ce que vous avez déjà, gratuitement",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Depuis le **5 octobre 2026**, la garantie de bon fonctionnement oblige le commerçant ou le fabricant à réparer gratuitement 14 catégories d'appareils achetés ou loués neufs, pendant une durée fixe calculée à partir de la livraison. Elle est gratuite, automatique, et le commerçant ne peut pas vous obliger à vous tourner vers le fabricant."
+          },
+          {
+            "type": "table",
+            "caption": "Garantie de bon fonctionnement (avis officiel de l'OPC, vérifié le 13 novembre 2026)",
+            "headers": [
+              "Appareils neufs",
+              "Durée gratuite, à partir de la livraison"
+            ],
+            "rows": [
+              [
+                "Cuisinière, réfrigérateur, congélateur, climatiseur, thermopompe",
+                "6 ans"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "5 ans"
+              ],
+              [
+                "Téléviseur",
+                "4 ans"
+              ],
+              [
+                "Ordinateur portable ou de bureau, console de jeu vidéo, téléphone cellulaire, tablette électronique",
+                "3 ans"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La garantie légale s'ajoute : un bien doit servir à un usage normal pendant une durée raisonnable, compte tenu de son prix, du contrat et des conditions d'utilisation. Elle vaut pour tous les biens, pas seulement ces 14 catégories, et peut s'appliquer après la fin de la garantie de bon fonctionnement."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Ce que la garantie gratuite ne couvre pas",
+            "text": "L'entretien régulier est exclu, tout comme les dommages causés par votre faute. Éducaloi donne l'exemple d'un téléphone qui cesse de fonctionner après une chute, six mois après l'achat. C'est justement ce genre de risque qu'une garantie payante peut couvrir, si elle inclut les dommages accidentels. Tous nos détails sur cette garantie : [garantie de bon fonctionnement au Québec](/blog/garantie-bon-fonctionnement-quebec)."
+          }
+        ]
+      },
+      {
+        "heading": "Ce qu'une garantie prolongée ajoute vraiment, appareil par appareil",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour une panne normale, une garantie prolongée n'ajoute du temps au Québec que si elle dure plus longtemps que la garantie de bon fonctionnement. Nous avons mis côte à côte la durée gratuite et la durée maximale annoncée par Best Buy Canada sur ses pages de plans de protection."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-prolongee/comparaison-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Barres à l'échelle de 0 à 6 ans : téléviseur, 4 ans gratuits et plan Best Buy jusqu'à 4 ans ; ordinateur et tablette, 3 ans gratuits et plan jusqu'à 4 ans ; laveuse, sécheuse et lave-vaisselle, 5 ans gratuits et plan jusqu'à 5 ans ; réfrigérateur et cuisinière, 6 ans gratuits et plan jusqu'à 5 ans",
+            "caption": "Durée gratuite de la garantie de bon fonctionnement comparée à la durée maximale des plans Best Buy. Sources : OPC et bestbuy.ca, vérifié le 13 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Années de couverture des pannes ajoutées par un plan, au Québec (comparaison ReFound)",
+            "headers": [
+              "Appareil",
+              "Gratuit au Québec",
+              "Plan Best Buy, au maximum",
+              "Années de plus pour une panne"
+            ],
+            "rows": [
+              [
+                "Téléviseur",
+                "4 ans",
+                "Jusqu'à 4 ans",
+                "Aucune"
+              ],
+              [
+                "Ordinateur, tablette",
+                "3 ans",
+                "Jusqu'à 4 ans",
+                "Jusqu'à 1 an"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "5 ans",
+                "Jusqu'à 5 ans (gros électroménagers)",
+                "Aucune"
+              ],
+              [
+                "Réfrigérateur, cuisinière, congélateur",
+                "6 ans",
+                "Jusqu'à 5 ans (gros électroménagers)",
+                "Aucune : le plan est plus court"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deux nuances. D'abord, « jusqu'à » est un maximum : la durée offerte dépend du produit. Ensuite, les dates ne partent pas toujours du même jour : la garantie de bon fonctionnement part de la livraison, alors que le point de départ d'un plan est fixé par son contrat. Comparez les dates de fin, pas seulement le nombre d'années."
+          },
+          {
+            "type": "h3",
+            "text": "Ce qu'un plan peut encore ajouter"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Les dommages accidentels.** Best Buy vend une version « avec dommages physiques » pour les ordinateurs et les téléviseurs. Pour un téléviseur, elle inclut jusqu'à 2 incidents, et une demande liée à un dommage physique exige des frais de service.",
+              "**Des pannes nommées dans le contrat**, comme une défaillance causée par une surtension, que Best Buy cite en exemple."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Home Depot ne vend plus ses plans au Québec",
+            "text": "Selon sa page officielle, les plans de protection Home Depot pour électroménagers, marchandises générales et meubles de terrasse ne sont pas offerts au Québec. Les clients qui ont acheté un électroménager avant le 5 octobre 2026 et qui ont déjà un plan sont invités à consulter les options d'aide de la page. Voyez aussi la [politique de retour Home Depot](/blog/politique-retour-home-depot)."
+          }
+        ]
+      },
+      {
+        "heading": "Avant de payer : ce que le vendeur doit vous dire",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Au Québec, avant de vous proposer une garantie prolongée payante, le commerçant doit vous informer, verbalement et par écrit, de l'existence et du contenu des garanties légales gratuites. S'il ne le fait pas, la loi considère qu'il a passé sous silence un fait important, ce qui est une pratique interdite (article 228.1 de la Loi sur la protection du consommateur)."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Par écrit :** depuis le 5 octobre 2026, le commerçant doit vous remettre l'avis écrit sur les garanties légales publié par l'OPC avant de vous proposer la garantie, pour un appareil couvert par la garantie de bon fonctionnement. Cet avis contient le tableau des durées de 3 à 6 ans.",
+              "**Verbalement :** si le fabricant offre une garantie gratuite, le commerçant doit aussi en mentionner l'existence et la durée, et expliquer sur demande comment en connaître le reste.",
+              "**Près du prix :** la durée de la garantie de bon fonctionnement doit être affichée près du prix annoncé."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Concrètement : si on vous offre un plan de 4 ans sur un téléviseur sans vous avoir remis l'avis, demandez-le. Il vous rappellera que ces 4 ans de réparation sont déjà gratuits."
+          }
+        ]
+      },
+      {
+        "heading": "Changer d'idée : 10 jours, ou un an",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Au Québec, vous pouvez annuler une garantie prolongée dans les **10 jours** suivant la conclusion du contrat, sans frais ni pénalité, par un avis écrit au commerçant. Le contrat est annulé dès l'envoi de l'avis et le commerçant doit vous rembourser rapidement. Si le 10e jour tombe une fin de semaine ou un jour férié, l'OPC indique que le délai est reporté au jour ouvrable suivant."
+          },
+          {
+            "type": "p",
+            "text": "Ce délai passe à **un an** si le commerçant n'a pas respecté certaines obligations, par exemple vous informer des garanties gratuites ou indiquer la durée de la garantie de bon fonctionnement. Ce délai d'un an vaut seulement pour les garanties supplémentaires vendues depuis le 5 octobre 2026."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-prolongee/calendrier-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Calendrier pour un téléviseur et une garantie prolongée achetés le 27 novembre 2026 : annulation sans frais jusqu'au 7 décembre 2026, retour du plan Best Buy en magasin dans les 30 jours, délai d'un an jusqu'en novembre 2027 si le commerçant n'a pas respecté ses obligations, garantie de bon fonctionnement jusqu'au 27 novembre 2030",
+            "caption": "Exemple calculé par ReFound pour un achat du Vendredi fou, en supposant une livraison le jour de l'achat. Sources : Loi sur la protection du consommateur, OPC, bestbuy.ca, vérifié le 13 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Téléviseur et garantie prolongée achetés le vendredi 27 novembre 2026 (exemple calculé)",
+            "headers": [
+              "Échéance",
+              "Date",
+              "Ce qu'elle permet"
+            ],
+            "rows": [
+              [
+                "10 jours prévus par la loi",
+                "Lundi 7 décembre 2026",
+                "Annuler sans frais par avis écrit, remboursement rapide"
+              ],
+              [
+                "30 jours de Best Buy",
+                "Dimanche 27 décembre 2026",
+                "Ajouter ou retourner le plan en magasin, selon Best Buy"
+              ],
+              [
+                "Un an prévu par la loi",
+                "Novembre 2027",
+                "Annuler si le commerçant n'a pas respecté ses obligations d'information"
+              ],
+              [
+                "Garantie de bon fonctionnement (téléviseur)",
+                "27 novembre 2030",
+                "Réparation gratuite, 4 ans à partir de la livraison"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Vérifiez qui émet votre contrat",
+            "text": "Les règles de 10 jours et d'un an ne s'appliquent pas quand le contrat est émis par un assureur autorisé en vertu de la Loi sur les assureurs. Best Buy indique que ses plans sont fournis par Assurant Services Canada Inc. et/ou American Bankers Insurance Company of Florida. Lisez le contrat ou le certificat remis à l'achat pour savoir qui l'émet et quel délai d'annulation s'applique ; Best Buy prévoit de son côté 30 jours pour ajouter ou retourner un plan en magasin."
+          }
+        ]
+      },
+      {
+        "heading": "Ailleurs au Canada : les questions à se poser",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hors Québec, la garantie de bon fonctionnement ne s'applique pas : la garantie du fabricant est souvent la principale protection écrite, et une garantie prolongée peut réellement ajouter des années. Le Bureau de la consommation du Canada propose trois vérifications avant d'en acheter une :"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez si votre carte de crédit offre déjà une garantie additionnelle : dans ce cas, une garantie prolongée pourrait ne vous offrir aucune protection supplémentaire.",
+              "Renseignez-vous sur le coût habituel des réparations : il peut être moins cher de réparer ou de remplacer l'article que de payer la garantie.",
+              "Gardez les reçus de vente et l'information sur le produit : vous en aurez besoin pour une réclamation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les durées varient beaucoup d'un marchand à l'autre. Hors Québec, Home Depot vend un plan qui couvre un électroménager **4 ans de plus après la fin de la garantie du fabricant**, et les autres articles 1 ou 2 ans de plus. Les dommages accidentels, l'usure normale, la perte et le vol n'en font pas partie. Les plans sont gérés par SquareTrade, une entreprise d'Allstate."
+          }
+        ]
+      },
+      {
+        "heading": "Le reçu, le contrat et la date de livraison : ce qu'il faut garder",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Une garantie, gratuite ou payante, ne sert à rien si vous ne pouvez pas prouver la date. Pour un téléviseur acheté aujourd'hui au Québec, il faudra peut-être prouver la date de livraison en 2030. Gardez ensemble :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Le reçu de caisse**, avec la date et le mode de paiement. Si le plan a été payé au même moment, il apparaît souvent sur le même reçu.",
+              "**Le contrat ou le certificat du plan**, qui dit ce qui est couvert, qui l'émet et comment faire une réclamation.",
+              "**La preuve de livraison** pour un gros appareil : l'OPC suggère de conserver tout document qui indique cette date.",
+              "**Le relevé de carte**, si vous comptez sur l'assurance de votre carte de crédit : ces protections exigent souvent que l'achat ait été payé avec la carte. Votre certificat d'assurance précise les documents demandés."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le problème, c'est la durée. Un reçu sur papier thermique peut pâlir bien avant la fin d'une garantie de 4, 5 ou 6 ans, et une ligne de reçu abrégée à quelques caractères ne donne ni le modèle complet ni la garantie. Voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire) et [comment conserver ses reçus pour les garanties](/blog/comment-conserver-recus-garanties)."
+          },
+          {
+            "type": "h3",
+            "text": "Comment ReFound aide, et ses limites"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Une copie lisible du reçu, numérisée le jour de l'achat, avec la date, le total et le mode de paiement.",
+              "Le nom réel du produit derrière la ligne abrégée, et sa garantie du magasin ou du fabricant avec la date de fin, quand l'information est disponible.",
+              "Avec ReFound Pro, un rappel 30 jours avant la fin d'une garantie, et la sauvegarde cloud des reçus et de leurs images."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ReFound ne calcule pas la garantie de bon fonctionnement et ne suit pas les conditions d'un plan payant : le contrat du plan fait foi. Numérisez quand même le reçu où figure le plan, pour retrouver la date et le montant payé si vous voulez l'annuler."
+          }
+        ]
+      },
+      {
+        "heading": "Alors, faut-il acheter la garantie prolongée?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Au Québec, pour un appareil couvert par la garantie de bon fonctionnement, achetez une garantie prolongée seulement si vous pouvez nommer ce qu'elle ajoute. Quatre questions suffisent :"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Sa date de fin dépasse-t-elle celle de la garantie gratuite (3 à 6 ans à partir de la livraison)?",
+              "Couvre-t-elle un risque que la loi ne couvre pas, comme une chute, un écran brisé ou un dégât de liquide?",
+              "Combien coûterait la réparation la plus probable, comparée au prix du plan?",
+              "Votre carte de crédit prolonge-t-elle déjà la garantie du fabricant?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si vous l'achetez quand même et changez d'idée, notez la date de l'achat : vous avez 10 jours pour annuler sans frais, sauf si le contrat est émis par un assureur."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Une garantie prolongée est-elle obligatoire?",
+        "a": "Non. Elle est toujours facultative. Au Québec, le commerçant doit vous informer des garanties gratuites, verbalement et par écrit, avant de vous la proposer."
+      },
+      {
+        "q": "Combien de temps ai-je pour annuler une garantie prolongée au Québec?",
+        "a": "10 jours après la conclusion du contrat, par avis écrit, sans frais ni pénalité. Le délai passe à un an si le commerçant n'a pas respecté certaines obligations d'information, pour les garanties vendues depuis le 5 octobre 2026. Ces règles ne s'appliquent pas aux contrats émis par un assureur autorisé."
+      },
+      {
+        "q": "La garantie de bon fonctionnement couvre-t-elle un écran brisé?",
+        "a": "Non, pas si le bris vient d'un accident ou d'une chute : les dommages causés par votre faute ne sont pas couverts. Une garantie payante qui inclut les dommages accidentels peut l'être."
+      },
+      {
+        "q": "Puis-je acheter une garantie prolongée Home Depot au Québec?",
+        "a": "Non. Selon homedepot.ca, les plans de protection Home Depot ne sont pas offerts au Québec, pour les électroménagers comme pour les autres articles."
+      }
+    ],
+    "ctaTitle": "Gardez la preuve d'achat aussi longtemps que la garantie",
+    "ctaBody": "Numérisez le reçu le jour de l'achat : ReFound garde une copie lisible, identifie le produit et affiche sa garantie quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Garantie de bon fonctionnement au Québec",
+        "href": "/blog/garantie-bon-fonctionnement-quebec",
+        "desc": "Durées, dates de fin et preuves à garder."
+      },
+      {
+        "label": "Politique de retour Best Buy",
+        "href": "/blog/politique-retour-best-buy",
+        "desc": "30 jours et la prolongation des Fêtes."
+      },
+      {
+        "label": "Garantie du magasin ou du fabricant",
+        "href": "/blog/garantie-magasin-vs-garantie-manufacturier",
+        "desc": "Qui s'occupe de quoi."
+      },
+      {
+        "label": "Application de garanties",
+        "href": "/application-garanties",
+        "desc": "Garder la preuve d'achat prête."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Loi sur la protection du consommateur, RLRQ c. P-40.1 (art. 1 e.1, 38.1, 228.1, 228.3), à jour au 15 octobre 2026",
+        "publisher": "LégisQuébec",
+        "url": "https://legisquebec.gouv.qc.ca/fr/pdf/lc/P-40.1.pdf",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Avis sur les garanties légales (biens couverts par la garantie de bon fonctionnement)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://cdn.opc.gouv.qc.ca/media/documents/commercant/pratique-commerce/garantie/avis-garantie-legale_gbf.pdf",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Nouvelles obligations pour les commerçants",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/commercant/nouvelles-obligations",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Applying additional warranties (page consultée en anglais)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/applying-warranty/application-additional-waranties",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "New protections (page consultée en anglais)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "La garantie de bon fonctionnement des électroménagers et appareils électroniques",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/la-garantie-de-bon-fonctionnement-des-electromenagers-et-appareils-electroniques/",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite (13 octobre 2026)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Plan de protection Home Depot",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/plan-de-protection-home-depot.html",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "TV and Home Theatre Protection Plans (page consultée en anglais)",
+        "publisher": "Best Buy Canada",
+        "url": "https://www.bestbuy.ca/en-ca/services/protection-plans-tv-home-theatre/bltab0ce6e1cd7b0d5f",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Computer, Tablet, and More Protection Plans (page consultée en anglais)",
+        "publisher": "Best Buy Canada",
+        "url": "https://www.bestbuy.ca/en-ca/services/protection-plans-computer-tablet-and-more/blt4112011ebe3e4892",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Appliance Protection Plans (page consultée en anglais)",
+        "publisher": "Best Buy Canada",
+        "url": "https://bestbuy.ca/en-ca/services/protection-plans-appliance/blt2dad24b3999c4a85",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Best Buy Protection (page consultée en anglais)",
+        "publisher": "Best Buy Canada",
+        "url": "https://bestbuy.ca/en-ca/services/best-buy-protection/blt97aad36dff8936f1",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Garanties",
+        "publisher": "Bureau de la consommation, gouvernement du Canada",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/marche-daujourdhui/garanties",
+        "accessed": "2026-11-13"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 13 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Extended Warranty in Quebec: Is It Worth It in 2026? | ReFound",
+    "metaDescription": "TVs 4 years, washers 5, fridges 6: already free in Quebec. What an extended warranty really adds, device by device, and how to cancel it within 10 days.",
+    "keywords": "extended warranty, is an extended warranty worth it, extended warranty Quebec, cancel extended warranty, Best Buy protection plan, Home Depot protection plan Quebec, warranty of good working order, Quebec legal warranty, Black Friday 2026, TV warranty, appliance warranty Canada",
+    "category": "Guide",
+    "date": "November 13, 2026",
+    "readingTime": "9 min read",
+    "breadcrumb": "Extended warranty",
+    "eyebrow": "Warranties",
+    "h1": "Extended Warranty: Is It Worth It in Quebec in 2026?",
+    "card": {
+      "title": "Extended Warranty: Is It Worth It in Quebec in 2026?",
+      "subtitle": "What a paid plan adds to the free 3 to 6 year warranty, device by device, and your deadlines to cancel it."
+    },
+    "coverAlt": "Two overlapping warranty bars: the free warranty and an extended warranty that covers almost the same period",
+    "intro": [
+      "Short answer: in Quebec, if you bought a new TV, computer, game console, cell phone, tablet or major appliance on or after October 5, 2026, repairs for a breakdown are already covered free for 3 to 6 years by the warranty of good working order. An extended warranty is mainly worth it if it covers something else, like accidental damage, or if it lasts longer than that free warranty.",
+      "We compared, device by device, the free period set by law with the maximum length of the plans Best Buy offers. For a TV or a washer, the length is the same; for a fridge, the plan is shorter than the free warranty. Outside Quebec, the question is different, and we cover it further down.",
+      "Facts checked November 13, 2026 with Quebec's Office de la protection du consommateur, the Consumer Protection Act and retailers' official pages. This guide is general information, not legal advice."
+    ],
+    "sections": [
+      {
+        "heading": "What is an extended warranty?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "An extended warranty is a paid contract in which a merchant agrees to cover the cost of repairing or replacing an item, on top of the free basic warranty. Quebec's Consumer Protection Act calls it an \"additional warranty contract.\""
+          },
+          {
+            "type": "p",
+            "text": "Quebec's Office de la protection du consommateur (OPC) describes two kinds:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The extended warranty** in the strict sense: it lengthens the free merchant or manufacturer warranty and is usually honoured by the seller or the manufacturer.",
+              "**The \"insurance\" type warranty**: it comes on top of the free warranty and is usually honoured by a third party."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In stores, it is often called a \"protection plan.\" The name matters less than what the contract covers, for how long, and who pays for the repair."
+          }
+        ]
+      },
+      {
+        "heading": "In Quebec: what you already get for free",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Since **October 5, 2026**, the warranty of good working order requires the merchant or the manufacturer to repair 14 categories of devices bought or leased new, free of charge, for a fixed period that starts at delivery. It is free and automatic, and a merchant cannot make you go to the manufacturer instead."
+          },
+          {
+            "type": "table",
+            "caption": "Warranty of good working order (OPC, checked November 13, 2026)",
+            "headers": [
+              "New devices",
+              "Free coverage, from delivery"
+            ],
+            "rows": [
+              [
+                "Stove, refrigerator, freezer, air conditioner, heat pump",
+                "6 years"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "5 years"
+              ],
+              [
+                "Television",
+                "4 years"
+              ],
+              [
+                "Laptop or desktop computer, game console, cell phone, tablet",
+                "3 years"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The legal warranty applies too: an item must be fit for normal use for a reasonable time, given its price, the contract and the conditions of use. It covers all goods, not just these 14 categories, and can apply after the warranty of good working order ends."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "What the free warranty doesn't cover",
+            "text": "Routine maintenance is excluded, and so is damage you cause. Éducaloi gives the example of a phone that stops working after you drop it, six months after purchase. That is exactly the kind of risk a paid plan can cover, if it includes accidental damage. Full details: [Quebec's warranty of good working order](/en/blog/quebec-warranty-of-good-working-order)."
+          }
+        ]
+      },
+      {
+        "heading": "What an extended warranty really adds, device by device",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For a normal breakdown, an extended warranty only adds time in Quebec if it lasts longer than the warranty of good working order. We put the free period next to the maximum length Best Buy Canada advertises on its protection plan pages."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-prolongee/comparaison-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Bars to scale from 0 to 6 years: TV, 4 years free and Best Buy plan up to 4 years; computer and tablet, 3 years free and plan up to 4 years; washer, dryer and dishwasher, 5 years free and plan up to 5 years; fridge and stove, 6 years free and plan up to 5 years",
+            "caption": "Free warranty of good working order compared with the maximum length of Best Buy plans. Sources: OPC and bestbuy.ca, checked November 13, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Years of breakdown coverage a plan adds in Quebec (ReFound comparison)",
+            "headers": [
+              "Device",
+              "Free in Quebec",
+              "Best Buy plan, at most",
+              "Extra years for a breakdown"
+            ],
+            "rows": [
+              [
+                "Television",
+                "4 years",
+                "Up to 4 years",
+                "None"
+              ],
+              [
+                "Computer, tablet",
+                "3 years",
+                "Up to 4 years",
+                "Up to 1 year"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "5 years",
+                "Up to 5 years (major appliances)",
+                "None"
+              ],
+              [
+                "Fridge, stove, freezer",
+                "6 years",
+                "Up to 5 years (major appliances)",
+                "None: the plan is shorter"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Two caveats. First, \"up to\" is a maximum: the length offered depends on the product. Second, the clocks don't always start on the same day: the warranty of good working order starts at delivery, while a plan's start date is set by its contract. Compare end dates, not just the number of years."
+          },
+          {
+            "type": "h3",
+            "text": "What a plan can still add"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Accidental damage.** Best Buy sells a \"with Physical Damage\" version for computers and TVs. For a TV, it includes up to 2 instances, and a service request for physical damage requires a service fee.",
+              "**Failures named in the contract**, such as a failure caused by a power surge, which Best Buy gives as an example."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Home Depot no longer sells its plans in Quebec",
+            "text": "According to its official page, Home Depot protection plans for appliances, general merchandise and patio furniture are not offered in Quebec. Customers who bought an appliance before October 5, 2026 and already have a plan are directed to the page's help options. See also the [Home Depot return policy](/en/blog/home-depot-return-policy)."
+          }
+        ]
+      },
+      {
+        "heading": "Before you pay: what the seller must tell you",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In Quebec, before offering you a paid extended warranty, the merchant must tell you, orally and in writing, that the free legal warranties exist and what they cover. If it doesn't, the law treats it as failing to mention an important fact, which is a prohibited practice (section 228.1 of the Consumer Protection Act)."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**In writing:** since October 5, 2026, for a device covered by the warranty of good working order, the merchant must give you the OPC's written notice on legal warranties before offering the plan. The notice includes the 3 to 6 year table.",
+              "**Orally:** if the manufacturer offers a free warranty, the merchant must also mention that it exists and how long it lasts, and explain on request how to find out the rest.",
+              "**Next to the price:** the length of the warranty of good working order must be displayed near the advertised price."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In practice: if you're offered a 4-year plan on a TV without receiving the notice, ask for it. It will remind you that those 4 years of repairs are already free."
+          }
+        ]
+      },
+      {
+        "heading": "Changing your mind: 10 days, or one year",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In Quebec, you can cancel an extended warranty within **10 days** of entering into the contract, at no cost or penalty, by sending the merchant a written notice. The contract is cancelled as soon as the notice is sent, and the merchant must refund you promptly. If the 10th day falls on a weekend or statutory holiday, the OPC says the deadline moves to the next business day."
+          },
+          {
+            "type": "p",
+            "text": "That period becomes **one year** if the merchant failed to meet certain obligations, such as telling you about the free warranties or stating the length of the warranty of good working order. The one-year period only applies to additional warranties sold on or after October 5, 2026."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/garantie-prolongee/calendrier-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Calendar for a TV and an extended warranty bought November 27, 2026: free cancellation until December 7, 2026, Best Buy plan return in store within 30 days, one-year period until November 2027 if the merchant didn't meet its obligations, warranty of good working order until November 27, 2030",
+            "caption": "Example calculated by ReFound for a Black Friday purchase, assuming same-day delivery. Sources: Consumer Protection Act, OPC, bestbuy.ca, checked November 13, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "TV and extended warranty bought Friday, November 27, 2026 (calculated example)",
+            "headers": [
+              "Deadline",
+              "Date",
+              "What it allows"
+            ],
+            "rows": [
+              [
+                "10 days under the law",
+                "Monday, December 7, 2026",
+                "Cancel at no cost by written notice, prompt refund"
+              ],
+              [
+                "Best Buy's 30 days",
+                "Sunday, December 27, 2026",
+                "Add or return the plan in store, according to Best Buy"
+              ],
+              [
+                "One year under the law",
+                "November 2027",
+                "Cancel if the merchant didn't meet its disclosure obligations"
+              ],
+              [
+                "Warranty of good working order (TV)",
+                "November 27, 2030",
+                "Free repair, 4 years from delivery"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Check who issues your contract",
+            "text": "The 10-day and one-year rules do not apply when the contract is issued by an insurer authorized under Quebec's Insurers Act. Best Buy says its plans are provided by Assurant Services Canada Inc. and/or American Bankers Insurance Company of Florida. Read the contract or certificate you get at purchase to see who issues it and which cancellation period applies; Best Buy separately allows 30 days to add or return a plan in store."
+          }
+        ]
+      },
+      {
+        "heading": "Outside Quebec: questions to ask first",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Outside Quebec, the warranty of good working order doesn't apply: the manufacturer's warranty is often the main written protection, and an extended warranty can genuinely add years. Canada's Office of Consumer Affairs suggests three checks before buying one:"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Check whether your credit card already offers extra warranty coverage: if so, an extended warranty may not offer you any extra protection.",
+              "Ask about typical repair costs: it may be cheaper to repair or replace the item than to pay for the warranty.",
+              "Keep sales receipts and product information: you'll need them for a claim."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Lengths vary a lot between retailers. Outside Quebec, Home Depot sells a plan that covers an appliance for **an additional 4 years after the manufacturer's warranty ends**, and other items for an additional 1 or 2 years. Accidental damage, normal wear and tear, loss and theft are not covered. The plans are serviced by SquareTrade, an Allstate company."
+          }
+        ]
+      },
+      {
+        "heading": "Receipt, contract and delivery date: what to keep",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A warranty, free or paid, is useless if you can't prove the date. For a TV bought in Quebec today, you may have to prove the delivery date in 2030. Keep these together:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The till receipt**, with the date and payment method. If you paid for the plan at the same time, it often appears on the same receipt.",
+              "**The plan contract or certificate**, which says what is covered, who issues it and how to make a claim.",
+              "**Proof of delivery** for a large appliance: the OPC suggests keeping any document that shows that date.",
+              "**Your card statement**, if you're counting on your credit card's coverage: these benefits often require the purchase to be charged to the card. Your certificate of insurance lists the documents required."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The problem is time. A thermal paper receipt can fade long before a 4, 5 or 6 year warranty ends, and a receipt line abbreviated to a few characters gives neither the full model nor the warranty. See [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do) and [how to keep receipts for warranties](/en/blog/how-to-keep-receipts-for-warranties)."
+          },
+          {
+            "type": "h3",
+            "text": "How ReFound helps, and its limits"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "A readable copy of the receipt, scanned on the day of purchase, with the date, total and payment method.",
+              "The real product name behind the abbreviated line, and its store or manufacturer warranty with the end date, when the information is available.",
+              "With ReFound Pro, a reminder 30 days before a warranty ends, and cloud backup of your receipts and their images."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ReFound doesn't calculate the warranty of good working order or track the terms of a paid plan: the plan contract is what counts. Still scan the receipt that shows the plan, so you can find the date and the amount paid if you want to cancel."
+          }
+        ]
+      },
+      {
+        "heading": "So, should you buy the extended warranty?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In Quebec, for a device covered by the warranty of good working order, buy an extended warranty only if you can name what it adds. Four questions are enough:"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Does its end date go past the free warranty (3 to 6 years from delivery)?",
+              "Does it cover a risk the law doesn't, like a drop, a cracked screen or a liquid spill?",
+              "What would the most likely repair cost, compared with the price of the plan?",
+              "Does your credit card already extend the manufacturer's warranty?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If you buy it anyway and change your mind, note the purchase date: you have 10 days to cancel at no cost, unless the contract is issued by an insurer."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Is an extended warranty mandatory?",
+        "a": "No. It is always optional. In Quebec, the merchant must tell you about the free warranties, orally and in writing, before offering one."
+      },
+      {
+        "q": "How long do I have to cancel an extended warranty in Quebec?",
+        "a": "10 days after entering into the contract, by written notice, at no cost or penalty. The period becomes one year if the merchant failed to meet certain disclosure obligations, for warranties sold on or after October 5, 2026. These rules don't apply to contracts issued by an authorized insurer."
+      },
+      {
+        "q": "Does the warranty of good working order cover a cracked screen?",
+        "a": "No, not if the damage comes from an accident or a drop: damage you cause is not covered. A paid plan that includes accidental damage can cover it."
+      },
+      {
+        "q": "Can I buy a Home Depot protection plan in Quebec?",
+        "a": "No. According to homedepot.ca, Home Depot protection plans are not offered in Quebec, for appliances or for other items."
+      }
+    ],
+    "ctaTitle": "Keep proof of purchase as long as the warranty lasts",
+    "ctaBody": "Scan the receipt on the day you buy: ReFound keeps a readable copy, identifies the product and shows its warranty when the information is available.",
+    "relatedTitle": "Further reading",
+    "related": [
+      {
+        "label": "Quebec warranty of good working order",
+        "href": "/en/blog/quebec-warranty-of-good-working-order",
+        "desc": "Terms, end dates and proof to keep."
+      },
+      {
+        "label": "Best Buy return policy",
+        "href": "/en/blog/best-buy-canada-return-policy",
+        "desc": "30 days and the holiday extension."
+      },
+      {
+        "label": "Store vs manufacturer warranty",
+        "href": "/en/blog/store-warranty-vs-manufacturer-warranty",
+        "desc": "Who handles what."
+      },
+      {
+        "label": "Warranty tracker app",
+        "href": "/en/warranty-tracker-app",
+        "desc": "Keep proof of purchase ready."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Consumer Protection Act, CQLR c. P-40.1 (s. 1 e.1, 38.1, 228.1, 228.3), up to date as of October 15, 2026 (French version consulted)",
+        "publisher": "LégisQuébec",
+        "url": "https://legisquebec.gouv.qc.ca/fr/pdf/lc/P-40.1.pdf",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Avis sur les garanties légales (French only)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://cdn.opc.gouv.qc.ca/media/documents/commercant/pratique-commerce/garantie/avis-garantie-legale_gbf.pdf",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "New protections",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Applying additional warranties",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/applying-warranty/application-additional-waranties",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Nouvelles obligations pour les commerçants (French version consulted)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/commercant/nouvelles-obligations",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "La garantie de bon fonctionnement des électroménagers et appareils électroniques (French version consulted)",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/la-garantie-de-bon-fonctionnement-des-electromenagers-et-appareils-electroniques/",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Home Depot Protection Plan",
+        "publisher": "Home Depot Canada",
+        "url": "https://homedepot.ca/en/home/customer-support/extended-service-plan.html",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "TV and Home Theatre Protection Plans",
+        "publisher": "Best Buy Canada",
+        "url": "https://www.bestbuy.ca/en-ca/services/protection-plans-tv-home-theatre/bltab0ce6e1cd7b0d5f",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Computer, Tablet, and More Protection Plans",
+        "publisher": "Best Buy Canada",
+        "url": "https://www.bestbuy.ca/en-ca/services/protection-plans-computer-tablet-and-more/blt4112011ebe3e4892",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Appliance Protection Plans",
+        "publisher": "Best Buy Canada",
+        "url": "https://bestbuy.ca/en-ca/services/protection-plans-appliance/blt2dad24b3999c4a85",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Best Buy Protection",
+        "publisher": "Best Buy Canada",
+        "url": "https://bestbuy.ca/en-ca/services/best-buy-protection/blt97aad36dff8936f1",
+        "accessed": "2026-11-13"
+      },
+      {
+        "label": "Warranties",
+        "publisher": "Office of Consumer Affairs, Government of Canada",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/modern-marketplace/warranties",
+        "accessed": "2026-11-13"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 13, 2026"
+  }
+}
