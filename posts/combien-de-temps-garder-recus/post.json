@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "slug": "combien-de-temps-garder-recus",
+  "frPath": "/blog/combien-de-temps-garder-recus",
+  "enPath": "/en/blog/how-long-to-keep-receipts",
+  "datePublished": "2026-11-14T09:00:00-05:00",
+  "dateModified": "2026-11-14T09:00:00-05:00",
+  "lastFactCheck": "2026-11-14",
+  "cover": {
+    "src": "/images/blog/combien-de-temps-garder-recus/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "recu-durees-fr.png",
+    "recu-durees-en.png",
+    "dates-fr.png",
+    "dates-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Combien de temps garder ses reçus? Durées par type d’achat | ReFound",
+    "metaDescription": "90 jours, 5 ans, 25 ans ou tant que vous avez l'objet : combien de temps garder un reçu selon l'achat, avec un vrai reçu et les règles du Québec.",
+    "keywords": "combien de temps garder ses reçus, combien de temps garder un reçu, durée de conservation des reçus, garder reçu garantie, conserver factures Québec, reçu pour garantie, reçus impôt six ans, preuve d'achat, garantie de bon fonctionnement, garantie légale Québec, reçu papier thermique",
+    "category": "Guide",
+    "date": "14 novembre 2026",
+    "readingTime": "9 min de lecture",
+    "breadcrumb": "Combien de temps garder ses reçus",
+    "eyebrow": "Reçus",
+    "h1": "Combien de temps garder ses reçus? Les durées selon l’achat",
+    "card": {
+      "title": "Combien de temps garder ses reçus? Les durées selon l’achat",
+      "subtitle": "De 90 jours à 25 ans : la date où un reçu devient inutile dépend de la garantie, pas du délai de retour. Avec un vrai reçu en exemple."
+    },
+    "coverAlt": "Un reçu de caisse qui pâlit à côté d'une longue ligne du temps graduée en années",
+    "intro": [
+      "Réponse courte : gardez un reçu au moins jusqu'à la fin du délai de retour, puis aussi longtemps que dure la garantie du magasin ou du fabricant. Pour un électroménager, un appareil électrique ou audio, ou un bien coûteux, le gouvernement du Québec recommande de garder la facture et la garantie pendant toute la durée de possession du bien. Un reçu utilisé dans votre déclaration de revenus se garde au moins six ans.",
+      "En pratique, le même ticket de caisse peut contenir un article qui n'a plus besoin de preuve après 90 jours et un autre couvert pendant cinq ans. Ce guide montre comment trouver la bonne date pour chaque achat, avec un vrai reçu Canadian Tire, la garantie de bon fonctionnement du Québec et l'exemple extrême d'une cuisine IKEA garantie 25 ans.",
+      "Faits vérifiés le 14 novembre 2026 sur les sites de Québec.ca, de l'Office de la protection du consommateur, de l'Agence du revenu du Canada, de Canadian Tire et d'IKEA. Les politiques peuvent changer : la source officielle a toujours le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Combien de temps garder un reçu : le tableau",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La durée dépend de ce que le reçu prouve. Tant qu'un recours existe (retour, échange, réparation, réclamation, impôt), le reçu sert à prouver la date, le lieu et le prix de l'achat. Voici les durées minimales, d'après les sources officielles."
+          },
+          {
+            "type": "table",
+            "caption": "Durée minimale de conservation selon le type de reçu (sources vérifiées le 14 novembre 2026)",
+            "headers": [
+              "Type de reçu",
+              "Durée minimale",
+              "Source"
+            ],
+            "rows": [
+              [
+                "Article sans garantie (consommable, petit achat)",
+                "Jusqu'à la fin du délai de retour du magasin",
+                "Politique du marchand (ex. 90 jours chez Canadian Tire pour la plupart des articles)"
+              ],
+              [
+                "Article avec une garantie du magasin ou du fabricant",
+                "Jusqu'à la fin de la garantie",
+                "Conditions de la garantie"
+              ],
+              [
+                "Électroménager, appareil électrique ou audio, bien coûteux",
+                "Pendant toute la durée de possession",
+                "Québec.ca"
+              ],
+              [
+                "Bien payé par carte de crédit",
+                "Factures et états de compte : pendant la durée de possession",
+                "Québec.ca"
+              ],
+              [
+                "Garantie spécifique (pneus, traitement antirouille, etc.)",
+                "Pendant la durée de possession",
+                "Québec.ca"
+              ],
+              [
+                "Facture de réparation d'un électroménager",
+                "6 mois ou toute la durée de la garantie",
+                "Québec.ca"
+              ],
+              [
+                "Reçu utilisé dans une déclaration de revenus",
+                "Au moins 6 ans",
+                "Agence du revenu du Canada, Québec.ca"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La règle « tant que vous possédez le bien » vient de la page [Durée de conservation des documents](https://www.quebec.ca/finances-impots-et-taxes/conseils-de-consommation/achat-de-biens-et-de-services/duree-de-conservation-des-documents) de Québec.ca, mise à jour le 7 mai 2025. Elle s'explique par la garantie légale du Québec, qui n'a pas de date de fin fixe (voir plus bas)."
+          }
+        ]
+      },
+      {
+        "heading": "Le délai de retour ne dit pas quand jeter le reçu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La fin du délai de retour est rarement la fin de l'utilité du reçu. Une fois le retour impossible, un article défectueux peut encore être réparé, remplacé ou échangé grâce à une garantie, et c'est encore le reçu qui prouve la date d'achat."
+          },
+          {
+            "type": "p",
+            "text": "Chez Canadian Tire, par exemple, la plupart des articles non ouverts se retournent dans les 90 jours, et l'électronique dans les 30 jours. Ensuite, la politique précise qu'« un article défectueux est sujet à la garantie du fabricant et sera réparé ou remplacé ». Et elle ajoute : « Les retours, les échanges ou les garanties sur un article sans reçu pourraient ne pas être acceptés. »"
+          },
+          {
+            "type": "p",
+            "text": "Autrement dit, jeter le reçu le 91e jour peut vous coûter une garantie de plusieurs années. Le détail des délais est dans notre [guide de la politique de retour Canadian Tire](/blog/politique-retour-canadian-tire)."
+          }
+        ]
+      },
+      {
+        "heading": "Un seul reçu, quatre dates différentes : exemple réel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sur un même reçu, chaque article a sa propre date de fin. Voici quatre lignes d'un reçu Canadian Tire numérisé dans le compte de démonstration ReFound, avec les dates calculées pour un achat fait le 27 novembre 2026 (Vendredi fou)."
+          },
+          {
+            "type": "table",
+            "caption": "Reçu Canadian Tire de démonstration : ce que dit la ligne, ce que ReFound a trouvé, et jusqu’à quand le reçu sert",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié par ReFound",
+              "Garantie affichée",
+              "Garder le reçu au moins jusqu’au"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "Échange 5 ans, dans tout magasin Canadian Tire",
+                "27 novembre 2031"
+              ],
+              [
+                "184-2003-4 HLT NEO WK 4LB",
+                "WA:KE Athletic Neoprene Hexagonal Dumbbell",
+                "Échange 1 an",
+                "27 novembre 2027"
+              ],
+              [
+                "183-0095-8 CASQ+PR-V CCM J",
+                "CCM Hockey Helmet & Cage Combo, Youth",
+                "Garantie spéciale, durée non indiquée",
+                "Durée à demander en magasin"
+              ],
+              [
+                "153-4141-6 PIST ECAL L.SAL",
+                "Wonderful Pistachios No Shells, 170 g",
+                "Aucune",
+                "Fin du délai de retour, selon la politique"
+              ]
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/combien-de-temps-garder-recus/recu-durees-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Barres à l'échelle sur six ans : le délai de retour de 30 ou 90 jours comparé à l'échange de 1 an de l'haltère, à l'échange de 5 ans de la lampe, à la garantie de 4 ans d'un téléviseur au Québec, et à la garantie du casque dont la durée n'est pas indiquée",
+            "caption": "Le délai de retour (doré) occupe à peine le début de la barre. Exemple de démonstration ; durées vérifiées le 14 novembre 2026."
+          },
+          {
+            "type": "p",
+            "text": "Ce que le reçu ne dit pas : rien sur le papier n'indique que « LAMPE DEL GARAG » est échangeable pendant cinq ans, ni que le casque a une garantie spéciale. Sans le nom réel du produit, il est aussi difficile de retrouver sa fiche et ses conditions. Le délai de retour de la lampe se termine le 25 février 2027 ; sa garantie d'échange court jusqu'en 2031."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Exemple de démonstration",
+            "text": "Ces lignes proviennent d'un compte de démonstration ReFound et sont détaillées sur notre [page sur les reçus Canadian Tire](/marchands/recus-canadian-tire). L'identification du produit et de sa garantie dépend du marchand, du produit et des données disponibles ; elle n'est pas garantie pour tous les articles."
+          }
+        ]
+      },
+      {
+        "heading": "Électroménagers et électronique au Québec : de 3 à 6 ans minimum",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour 14 catégories d'appareils achetés neufs au Québec depuis le 5 octobre 2026, la loi fixe une garantie de bon fonctionnement de 3 à 6 ans. Gardez le reçu au moins jusqu'à la fin de cette durée, qui commence à la livraison du bien selon l'Office de la protection du consommateur."
+          },
+          {
+            "type": "table",
+            "caption": "Garantie de bon fonctionnement (biens achetés ou loués neufs à partir du 5 octobre 2026)",
+            "headers": [
+              "Biens",
+              "Durée",
+              "Achat livré le 27 novembre 2026 : fin le"
+            ],
+            "rows": [
+              [
+                "Cuisinière, réfrigérateur, congélateur, climatiseur, thermopompe",
+                "6 ans",
+                "27 novembre 2032"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "5 ans",
+                "27 novembre 2031"
+              ],
+              [
+                "Téléviseur",
+                "4 ans",
+                "27 novembre 2030"
+              ],
+              [
+                "Ordinateur portable ou de bureau, console de jeu vidéo, téléphone cellulaire, tablette",
+                "3 ans",
+                "27 novembre 2029"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Comme la durée part de la livraison, gardez aussi la preuve de la date de livraison quand elle diffère de la date d'achat (bon de livraison, courriel de confirmation). Notre [guide de la garantie de bon fonctionnement](/blog/garantie-bon-fonctionnement-quebec) explique ce cas en détail."
+          },
+          {
+            "type": "h3",
+            "text": "Pourquoi Québec.ca dit « tant que vous possédez le bien »"
+          },
+          {
+            "type": "p",
+            "text": "Au-delà de ces durées, la garantie légale de la Loi sur la protection du consommateur prévoit qu'un bien « doit pouvoir servir à un usage normal pendant une durée raisonnable ». Cette durée n'est pas fixée : selon l'Office de la protection du consommateur, il faut considérer le prix payé, les clauses du contrat et les conditions d'utilisation du bien. Vous pouvez faire vos démarches auprès du commerçant, du fabricant ou des deux. Puisqu'aucune date de fin n'existe, la seule règle prudente pour un bien durable est de garder la preuve d'achat tant que vous l'avez."
+          }
+        ]
+      },
+      {
+        "heading": "Le cas extrême : 25 ans pour une cuisine IKEA",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Certaines garanties de marchand dépassent de loin celles de la loi. Selon la brochure de garantie IKEA Canada, le rangement pour cuisine SEKTION est garanti 25 ans à partir de la date d'achat, et « le reçu d'achat original est requis comme preuve d'achat »."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Armoires SEKTION (incluant portes, tiroirs et éviers, sauf FYNDIG) : 25 ans",
+              "Armoires ouvertes ENHET : 10 ans",
+              "Robinets : 10 ans",
+              "Électroménagers IKEA : 5 ans (2 ans pour TILLREDA et LAGAN)"
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/combien-de-temps-garder-recus/dates-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Ligne du temps des achats du 27 novembre 2026 : fin du retour du téléviseur le 27 décembre 2026, fin du retour de 90 jours le 25 février 2027, fin de l'échange de l'haltère en 2027, fin de la garantie du téléviseur en 2030, fin de l'échange de la lampe en 2031 et fin de la garantie de la cuisine IKEA en 2051",
+            "caption": "Six dates de fin pour des achats faits le même jour. Exemple calculé, livraison le jour de l’achat."
+          },
+          {
+            "type": "p",
+            "text": "Un reçu de cuisine acheté en novembre 2026 doit donc rester lisible jusqu'en novembre 2051. Un ticket thermique ne tiendra pas aussi longtemps : c'est là qu'une copie numérique devient indispensable, en plus de l'original. Voyez aussi notre [guide de la politique de retour IKEA](/blog/politique-retour-ikea)."
+          }
+        ]
+      },
+      {
+        "heading": "Les reçus pour l’impôt : six ans",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu qui appuie une déduction ou un crédit dans votre déclaration de revenus se garde au moins six ans. L'Agence du revenu du Canada demande de conserver « vos documents et dossiers fiscaux pendant au moins six ans », même si vous produisez en ligne et n'envoyez pas les pièces. Québec.ca recommande aussi 6 ans pour les déclarations de revenus et documents connexes."
+          },
+          {
+            "type": "p",
+            "text": "Ce guide porte sur les achats de consommation. ReFound n'est pas un outil fiscal ni comptable ; pour une situation d'entreprise ou de travail autonome, référez-vous à l'Agence du revenu du Canada et à Revenu Québec."
+          }
+        ]
+      },
+      {
+        "heading": "Le problème : le papier s’efface avant la fin de la garantie",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La plupart des reçus de caisse sont imprimés sur papier thermique, qui pâlit avec le temps. L'Office de la protection du consommateur recommande de numériser ou de photocopier ces documents, parce que « l'impression originale pourrait devenir illisible », et ajoute : « Conservez tout de même le document original. »"
+          },
+          {
+            "type": "p",
+            "text": "Les deux sont donc utiles : l'original, parce que certains marchands l'exigent (IKEA demande le reçu original pour sa garantie de cuisine), et une copie lisible, parce que l'original peut devenir blanc bien avant la fin d'une garantie de 5 ou 25 ans. Si c'est déjà trop tard, voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Rangez l’original à l’abri",
+            "text": "Chaleur, lumière et frottement accélèrent l'effacement du papier thermique. Gardez l'original dans une enveloppe, loin d'une fenêtre ou d'un tableau de bord, et numérisez-le le jour même."
+          }
+        ]
+      },
+      {
+        "heading": "Comment ReFound aide à garder la bonne preuve assez longtemps",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound garde une copie lisible du reçu et y ajoute l'information que le papier n'a pas. La numérisation est gratuite et illimitée, pour les reçus de n'importe quel marchand ; l'information produit plus riche dépend du marchand et des données disponibles."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Produit identifié** : le nom réel, l'image et le lien vers la fiche, quand l'information est disponible (ex. « LAMPE DEL GARAG » devient NOMA LED Garage Light).",
+              "**Garantie et date de fin** : garantie du magasin ou du fabricant, avec sa date de fin calculée, quand elle est disponible. Certaines sont estimées ; les conditions du fabricant ou du magasin font foi.",
+              "**Date limite de retour estimée** : calculée selon la politique générale du marchand, pas selon les exceptions par catégorie. Vérifiez la politique officielle pour l'électronique et les autres exceptions.",
+              "**Avec ReFound Pro** (4,99 $/mois ou 39,99 $/an) : un rappel 3 jours avant la date limite de retour, un rappel 30 jours avant la fin d'une garantie, la recherche illimitée et la sauvegarde cloud."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ReFound ne remplace pas le reçu original quand un marchand l'exige, et ne décide pas si un retour ou une réclamation sera accepté. Il vous aide à savoir quelle garantie vous avez, jusqu'à quand, et à retrouver la preuve le jour où vous en avez besoin."
+          }
+        ]
+      },
+      {
+        "heading": "Avant de jeter un reçu : la vérification en 4 étapes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu peut être jeté quand plus aucun recours n'en dépend. Vérifiez dans cet ordre :"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Le délai de retour du magasin est-il terminé pour tous les articles du reçu?",
+              "Un des articles a-t-il une garantie du magasin ou du fabricant encore en cours?",
+              "Est-ce un électroménager, un appareil électronique ou un bien coûteux que vous possédez encore? Si oui, gardez la preuve d'achat.",
+              "Le reçu appuie-t-il une déduction ou un crédit d'impôt des six dernières années?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si la réponse est non partout, le reçu peut partir au déchiquetage ; Québec.ca recommande de déchiqueter les documents à détruire pour protéger vos renseignements personnels."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de temps garder un reçu pour une garantie?",
+        "a": "Au moins jusqu'à la fin de la garantie, qui part de la date d'achat (ou de livraison pour la garantie de bon fonctionnement au Québec). Pour un électroménager, un appareil électronique ou un bien coûteux, Québec.ca recommande de garder la facture et la garantie tant que vous possédez le bien."
+      },
+      {
+        "q": "Une photo du reçu suffit-elle?",
+        "a": "Pas toujours. L'Office de la protection du consommateur recommande de numériser les reçus sur papier thermique, mais de conserver tout de même l'original. Certains marchands exigent l'original, par exemple IKEA pour sa garantie de cuisine."
+      },
+      {
+        "q": "Combien de temps garder ses reçus pour l’impôt?",
+        "a": "Au moins six ans, selon l'Agence du revenu du Canada, pour les documents qui appuient votre déclaration de revenus. Québec.ca recommande aussi 6 ans pour les déclarations de revenus et documents connexes."
+      },
+      {
+        "q": "Peut-on jeter un reçu après le délai de retour?",
+        "a": "Seulement si aucun article du reçu n'a de garantie en cours et si ce n'est pas un bien durable couvert par la garantie légale. Chez Canadian Tire, par exemple, les garanties sur un article sans reçu pourraient ne pas être acceptées."
+      }
+    ],
+    "ctaTitle": "Gardez chaque reçu lisible jusqu’à la fin de sa garantie",
+    "ctaBody": "Numérisez le reçu le jour de l'achat : ReFound garde une copie lisible, identifie le produit et affiche sa garantie et sa date de fin quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Conserver ses reçus pour les garanties",
+        "href": "/blog/comment-conserver-recus-garanties",
+        "desc": "Les meilleures façons de les ranger."
+      },
+      {
+        "label": "Garantie de bon fonctionnement au Québec",
+        "href": "/blog/garantie-bon-fonctionnement-quebec",
+        "desc": "Durées, dates de fin et preuves à garder."
+      },
+      {
+        "label": "Reçu effacé : quoi faire",
+        "href": "/blog/recu-efface-quoi-faire",
+        "desc": "Quand le papier thermique a pâli."
+      },
+      {
+        "label": "Application de garanties",
+        "href": "/application-garanties",
+        "desc": "Garder la preuve d'achat prête."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Durée de conservation des documents (mise à jour le 7 mai 2025)",
+        "publisher": "Gouvernement du Québec (Québec.ca)",
+        "url": "https://www.quebec.ca/finances-impots-et-taxes/conseils-de-consommation/achat-de-biens-et-de-services/duree-de-conservation-des-documents",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Conseils sur les garanties : conserver les documents",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/conseil-bien",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Garantie de bon fonctionnement sur certains électroménagers et appareils électroniques",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Garanties légales (électroménagers)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/bien-consommation/electromenager/garantie/garanties-legales",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "La garantie de bon fonctionnement des électroménagers et appareils électroniques",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/la-garantie-de-bon-fonctionnement-des-electromenagers-et-appareils-electroniques/",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Combien de temps devez-vous conserver vos documents relatifs à l’impôt sur le revenu? (modifiée le 20 janvier 2026)",
+        "publisher": "Agence du revenu du Canada",
+        "url": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/combien-temps-devez-vous-conserver-vos-dossiers-impot-revenu.html",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Politique de retour et d’échange",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Garantie limitée des cuisines IKEA (brochure FY26)",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/fr/files/pdf/d1/c6/d1c6a45f/ikea-kitchen-warranty-brochure-fr-fy26-l1.pdf",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Reçus Canadian Tire : exemples du compte de démonstration",
+        "publisher": "ReFound",
+        "url": "https://refoundapp.ca/marchands/recus-canadian-tire",
+        "accessed": "2026-11-14"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 14 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "How Long to Keep Receipts in Canada: By Type of Purchase | ReFound",
+    "metaDescription": "90 days, 5 years, 25 years or as long as you own the item: how long to keep a receipt by type of purchase, with a real receipt and Quebec's rules.",
+    "keywords": "how long to keep receipts, how long should you keep receipts, how long to keep receipts Canada, keep receipt for warranty, receipt retention period, tax receipts six years, proof of purchase, warranty of good working order, Quebec legal warranty, thermal paper receipt",
+    "category": "Guide",
+    "date": "November 14, 2026",
+    "readingTime": "9 min read",
+    "breadcrumb": "How long to keep receipts",
+    "eyebrow": "Receipts",
+    "h1": "How Long Should You Keep Receipts? Timelines by Purchase",
+    "card": {
+      "title": "How Long Should You Keep Receipts? Timelines by Purchase",
+      "subtitle": "From 90 days to 25 years: the day a receipt stops mattering depends on the warranty, not the return window. With a real receipt as an example."
+    },
+    "coverAlt": "A fading cash register receipt next to a long timeline marked in years",
+    "intro": [
+      "Short answer: keep a receipt at least until the return window closes, then for as long as the store or manufacturer warranty lasts. For household appliances, electrical and audio devices and big-ticket items, the Quebec government recommends keeping the invoice and warranty for as long as you own the item. A receipt you use on your income tax return should be kept for at least six years.",
+      "In practice, one receipt can hold an item that needs no proof after 90 days and another that is covered for five years. This guide shows how to find the right date for each purchase, using a real Canadian Tire receipt, Quebec's warranty of good working order and the extreme case of an IKEA kitchen with a 25-year warranty.",
+      "Facts checked November 14, 2026 on Québec.ca, the Office de la protection du consommateur, the Canada Revenue Agency, Canadian Tire and IKEA. Policies can change: the official source always has the final word."
+    ],
+    "sections": [
+      {
+        "heading": "How long to keep a receipt: the table",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "How long depends on what the receipt proves. As long as you have a remedy (a return, exchange, repair, claim or tax deduction), the receipt is what proves the date, place and price of the purchase. Here are the minimum periods, based on official sources."
+          },
+          {
+            "type": "table",
+            "caption": "Minimum retention period by type of receipt (sources checked November 14, 2026)",
+            "headers": [
+              "Type of receipt",
+              "Minimum period",
+              "Source"
+            ],
+            "rows": [
+              [
+                "Item with no warranty (consumables, small purchases)",
+                "Until the store's return window ends",
+                "Merchant policy (e.g. 90 days at Canadian Tire for most items)"
+              ],
+              [
+                "Item with a store or manufacturer warranty",
+                "Until the warranty ends",
+                "Warranty terms"
+              ],
+              [
+                "Household appliances, electrical and audio devices, big-ticket items",
+                "For as long as you own the item",
+                "Québec.ca"
+              ],
+              [
+                "Goods paid for with a credit card",
+                "Invoices and statements: for as long as you own the item",
+                "Québec.ca"
+              ],
+              [
+                "Specific warranties (tires, rust-proofing, etc.)",
+                "For as long as you own the item",
+                "Québec.ca"
+              ],
+              [
+                "Household appliance repair invoice",
+                "6 months (the French page adds: or for the length of the warranty)",
+                "Québec.ca"
+              ],
+              [
+                "Receipt used on an income tax return",
+                "At least 6 years",
+                "Canada Revenue Agency, Québec.ca"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The \"as long as you own it\" rule comes from Québec.ca's [retention period page](https://www.quebec.ca/en/finance-income-and-other-taxes/conseils-de-consommation/purchase-of-goods-and-services/retention-period), last updated May 7, 2025. It follows from Quebec's legal warranty, which has no fixed end date (see below)."
+          }
+        ]
+      },
+      {
+        "heading": "The return window doesn't tell you when to toss the receipt",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The end of the return window is rarely the end of a receipt's usefulness. Once a return is no longer possible, a defective item can still be repaired, replaced or exchanged under a warranty, and the receipt is still what proves the purchase date."
+          },
+          {
+            "type": "p",
+            "text": "At Canadian Tire, for example, most unopened items can be returned within 90 days, and electronics within 30 days. After that, the policy states that \"a defective item is subject to the manufacturer's warranty and will be repaired or replaced.\" It also says: \"Returns, exchanges or warranties on an item without a receipt may not be accepted.\""
+          },
+          {
+            "type": "p",
+            "text": "In other words, throwing the receipt out on day 91 can cost you a warranty that lasts years. The full time limits are in our [Canadian Tire return policy guide](/en/blog/canadian-tire-return-policy)."
+          }
+        ]
+      },
+      {
+        "heading": "One receipt, four different dates: a real example",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "On the same receipt, every item has its own end date. Here are four lines from a Canadian Tire receipt scanned into the ReFound demo account, with dates calculated for a purchase made on November 27, 2026 (Black Friday)."
+          },
+          {
+            "type": "table",
+            "caption": "Demo Canadian Tire receipt: what the line says, what ReFound found, and how long the receipt matters",
+            "headers": [
+              "Receipt line",
+              "Product identified by ReFound",
+              "Warranty shown",
+              "Keep the receipt at least until"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "5-year exchange, at any Canadian Tire store",
+                "November 27, 2031"
+              ],
+              [
+                "184-2003-4 HLT NEO WK 4LB",
+                "WA:KE Athletic Neoprene Hexagonal Dumbbell",
+                "1-year exchange",
+                "November 27, 2027"
+              ],
+              [
+                "183-0095-8 CASQ+PR-V CCM J",
+                "CCM Hockey Helmet & Cage Combo, Youth",
+                "Special warranty, no duration stated",
+                "Ask the store for the duration"
+              ],
+              [
+                "153-4141-6 PIST ECAL L.SAL",
+                "Wonderful Pistachios No Shells, 170 g",
+                "None",
+                "End of the return window, per the policy"
+              ]
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/combien-de-temps-garder-recus/recu-durees-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Bars to scale over six years: the 30- or 90-day return window compared with the dumbbell's 1-year exchange, the lamp's 5-year exchange, a Quebec TV's 4-year warranty and the helmet's warranty with no stated duration",
+            "caption": "The return window (gold) barely covers the start of each bar. Demo example; terms checked November 14, 2026."
+          },
+          {
+            "type": "p",
+            "text": "What the receipt doesn't tell you: nothing on the paper says \"LAMPE DEL GARAG\" can be exchanged for five years, or that the helmet has a special warranty. Without the real product name, it is also hard to find its product page and terms. The lamp's return window closes on February 25, 2027; its exchange warranty runs until 2031."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Demo example",
+            "text": "These lines come from a ReFound demo account and are detailed on our [Canadian Tire receipts page](/en/merchants/canadian-tire-receipts). Identifying a product and its warranty depends on the merchant, the product and the data available; it is not guaranteed for every item."
+          }
+        ]
+      },
+      {
+        "heading": "Appliances and electronics in Quebec: 3 to 6 years minimum",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For 14 categories of devices bought new in Quebec since October 5, 2026, the law sets a warranty of good working order of 3 to 6 years. Keep the receipt at least until that period ends; according to the Office de la protection du consommateur, it starts when the item is delivered."
+          },
+          {
+            "type": "table",
+            "caption": "Warranty of good working order (goods bought or leased new on or after October 5, 2026)",
+            "headers": [
+              "Goods",
+              "Duration",
+              "Delivered November 27, 2026: ends on"
+            ],
+            "rows": [
+              [
+                "Stove, refrigerator, freezer, air conditioner, heat pump",
+                "6 years",
+                "November 27, 2032"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "5 years",
+                "November 27, 2031"
+              ],
+              [
+                "Television",
+                "4 years",
+                "November 27, 2030"
+              ],
+              [
+                "Laptop or desktop computer, video game console, cell phone, tablet",
+                "3 years",
+                "November 27, 2029"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Because the period starts at delivery, also keep proof of the delivery date when it differs from the purchase date (delivery slip, confirmation email). Our [guide to the warranty of good working order](/en/blog/quebec-warranty-of-good-working-order) covers that case in detail."
+          },
+          {
+            "type": "h3",
+            "text": "Why Québec.ca says \"for as long as you own it\""
+          },
+          {
+            "type": "p",
+            "text": "Beyond those periods, the legal warranty in the Consumer Protection Act provides that an item \"must serve for normal use for a reasonable period of time.\" That period isn't fixed: according to the Office de la protection du consommateur, the price paid, the terms of the contract and the conditions of use all count. You can deal with the merchant, the manufacturer or both. Since there is no end date, the only safe rule for a durable item is to keep the proof of purchase as long as you have it."
+          }
+        ]
+      },
+      {
+        "heading": "The extreme case: 25 years for an IKEA kitchen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Some merchant warranties run far longer than the law. According to IKEA Canada's warranty brochure, the SEKTION kitchen system is covered for 25 years from the date of purchase, and \"the original purchase receipt is required as proof of purchase.\""
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "SEKTION cabinets (including doors, drawers and sinks, except FYNDIG): 25 years",
+              "ENHET open cabinets: 10 years",
+              "Faucets: 10 years",
+              "IKEA appliances: 5 years (2 years for TILLREDA and LAGAN)"
+            ]
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/combien-de-temps-garder-recus/dates-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Timeline for purchases made on November 27, 2026: TV return ends December 27, 2026, 90-day return ends February 25, 2027, dumbbell exchange ends in 2027, TV warranty ends in 2030, lamp exchange ends in 2031 and the IKEA kitchen warranty ends in 2051",
+            "caption": "Six end dates for purchases made on the same day. Calculated example, same-day delivery."
+          },
+          {
+            "type": "p",
+            "text": "A kitchen receipt from November 2026 has to stay readable until November 2051. A thermal paper slip won't last that long, which is why a digital copy becomes essential, on top of the original. See also our [IKEA return policy guide](/en/blog/ikea-return-policy)."
+          }
+        ]
+      },
+      {
+        "heading": "Receipts for taxes: six years",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A receipt that supports a deduction or credit on your income tax return should be kept for at least six years. The Canada Revenue Agency says to \"keep your tax documents and records for at least six years,\" even if you file online and don't send the supporting documents. Québec.ca also recommends 6 years for income tax returns and supporting documents."
+          },
+          {
+            "type": "p",
+            "text": "This guide is about consumer purchases. ReFound is not a tax or accounting tool; for business or self-employment records, refer to the Canada Revenue Agency and Revenu Québec."
+          }
+        ]
+      },
+      {
+        "heading": "The problem: the paper fades before the warranty ends",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Most cash register receipts are printed on thermal paper, which fades over time. The Office de la protection du consommateur recommends scanning or photocopying documents printed on thermal paper, because \"over time, the original printing could become illegible.\" It also points out that \"the merchant, however, is not required to accept a copy.\""
+          },
+          {
+            "type": "p",
+            "text": "Both matter: the original, because some merchants require it (IKEA asks for the original receipt for its kitchen warranty), and a readable copy, because the original can go blank long before a 5- or 25-year warranty ends. If it's already too late, see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Store the original safely",
+            "text": "Heat, light and friction speed up thermal paper fading. Keep the original in an envelope, away from windows and dashboards, and scan it the same day."
+          }
+        ]
+      },
+      {
+        "heading": "How ReFound helps you keep the right proof long enough",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound keeps a readable copy of the receipt and adds the information the paper lacks. Scanning is free and unlimited, for receipts from any merchant; richer product information depends on the merchant and the data available."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Product identified**: the real name, image and product page link, when the information is available (e.g. \"LAMPE DEL GARAG\" becomes a NOMA LED Garage Light).",
+              "**Warranty and end date**: store or manufacturer warranty with its calculated end date, when available. Some are estimated; the manufacturer's or store's terms prevail.",
+              "**Estimated return deadline**: based on the merchant's general policy, not on category exceptions. Check the official policy for electronics and other exceptions.",
+              "**With ReFound Pro** ($4.99/month or $39.99/year): a reminder 3 days before the return deadline, a reminder 30 days before a warranty expires, unlimited search and cloud backup."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ReFound doesn't replace the original receipt when a merchant requires it, and it doesn't decide whether a return or claim will be accepted. It helps you know which warranty you have, until when, and find the proof on the day you need it."
+          }
+        ]
+      },
+      {
+        "heading": "Before you throw out a receipt: a 4-step check",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A receipt can go once no remedy depends on it anymore. Check in this order:"
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Has the store's return window ended for every item on the receipt?",
+              "Does any item still have a store or manufacturer warranty running?",
+              "Is it a household appliance, electronic device or big-ticket item you still own? If so, keep the proof of purchase.",
+              "Does the receipt support a tax deduction or credit from the last six years?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If every answer is no, the receipt can go. Shred it rather than tossing it whole, to protect your personal information."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How long should I keep a receipt for a warranty?",
+        "a": "At least until the warranty ends, counting from the purchase date (or the delivery date for Quebec's warranty of good working order). For appliances, electronics and big-ticket items, Québec.ca recommends keeping the invoice and warranty for as long as you own the item."
+      },
+      {
+        "q": "Is a photo of the receipt enough?",
+        "a": "Not always. The Office de la protection du consommateur recommends scanning thermal paper receipts, but notes that a merchant is not required to accept a copy. Some merchants require the original, such as IKEA for its kitchen warranty, so keep both."
+      },
+      {
+        "q": "How long should I keep receipts for taxes?",
+        "a": "At least six years, according to the Canada Revenue Agency, for documents that support your income tax return. Québec.ca also recommends 6 years for income tax returns and supporting documents."
+      },
+      {
+        "q": "Can I throw out a receipt after the return window?",
+        "a": "Only if no item on it still has a warranty running and it isn't a durable item covered by Quebec's legal warranty. At Canadian Tire, for example, warranties on an item without a receipt may not be accepted."
+      }
+    ],
+    "ctaTitle": "Keep every receipt readable until its warranty ends",
+    "ctaBody": "Scan the receipt on the day you buy: ReFound keeps a readable copy, identifies the product and shows its warranty and end date when the information is available.",
+    "relatedTitle": "Further reading",
+    "related": [
+      {
+        "label": "How to keep receipts for warranties",
+        "href": "/en/blog/how-to-keep-receipts-for-warranties",
+        "desc": "The best ways to store them."
+      },
+      {
+        "label": "Quebec warranty of good working order",
+        "href": "/en/blog/quebec-warranty-of-good-working-order",
+        "desc": "Terms, end dates and proof to keep."
+      },
+      {
+        "label": "Faded receipt: what to do",
+        "href": "/en/blog/faded-receipt-what-to-do",
+        "desc": "When thermal paper has gone blank."
+      },
+      {
+        "label": "Warranty tracker app",
+        "href": "/en/warranty-tracker-app",
+        "desc": "Keep proof of purchase ready."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Retention period (last updated May 7, 2025)",
+        "publisher": "Government of Québec (Québec.ca)",
+        "url": "https://www.quebec.ca/en/finance-income-and-other-taxes/conseils-de-consommation/purchase-of-goods-and-services/retention-period",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Tips about warranties: keep relevant documents",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/tip-good",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Warranty of good working order on certain appliances and electronic devices (French version consulted)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Legal warranties (appliances)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/goods/appliance/warranty/legal-warranties",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "The warranty of good working order for appliances and electronic devices",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/en/capsules/the-warranty-of-good-working-order-for-appliances-and-electronic-devices/",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "How long should you keep your income tax records? (modified January 20, 2026)",
+        "publisher": "Canada Revenue Agency",
+        "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/long-should-you-keep-your-income-tax-records.html",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Return and exchange policy",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "IKEA kitchen limited warranty (FY26 brochure)",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/files/pdf/84/9c/849cca32/ikea-kitchen-warranty-brochure-en-fy26-l3.pdf",
+        "accessed": "2026-11-14"
+      },
+      {
+        "label": "Canadian Tire receipts: demo account examples",
+        "publisher": "ReFound",
+        "url": "https://refoundapp.ca/en/merchants/canadian-tire-receipts",
+        "accessed": "2026-11-14"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 14, 2026"
+  }
+}
