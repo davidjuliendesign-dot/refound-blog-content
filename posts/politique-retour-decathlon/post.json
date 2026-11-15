@@ -50,7 +50,7 @@
             "type": "table",
             "caption": "Les deux délais de retour de Decathlon Canada (vérifiés le 15 novembre 2026)",
             "headers": [
-              "",
+              "Règle",
               "Membre Decathlon",
               "Non-membre"
             ],
@@ -576,7 +576,7 @@
             "type": "table",
             "caption": "Decathlon Canada's two return windows (checked November 15, 2026)",
             "headers": [
-              "",
+              "Rule",
               "Decathlon member",
               "Non-member"
             ],
