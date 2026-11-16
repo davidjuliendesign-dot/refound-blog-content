@@ -1,0 +1,833 @@
+{
+  "schemaVersion": 1,
+  "slug": "reclamation-garantie",
+  "frPath": "/blog/reclamation-garantie",
+  "enPath": "/en/blog/how-to-make-a-warranty-claim",
+  "datePublished": "2026-11-16T09:00:00-05:00",
+  "dateModified": "2026-11-16T09:00:00-05:00",
+  "lastFactCheck": "2026-11-16",
+  "cover": {
+    "src": "/images/blog/reclamation-garantie/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "ligne-temps-fr.png",
+    "ligne-temps-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Réclamation de garantie : à qui s'adresser, quoi apporter | ReFound",
+    "metaDescription": "Magasin, fabricant ou garantie légale du Québec : qui contacter selon le moment, quelle preuve d'achat apporter et ce qui arrive sans reçu.",
+    "keywords": "réclamation de garantie, comment faire une réclamation de garantie, garantie sans reçu, preuve d'achat garantie, garantie du fabricant, garantie d'échange, garantie légale Québec, garantie de bon fonctionnement, mise en demeure garantie",
+    "category": "Guide",
+    "date": "16 novembre 2026",
+    "readingTime": "9 min de lecture",
+    "breadcrumb": "Réclamation de garantie",
+    "eyebrow": "Garanties",
+    "h1": "Réclamation de garantie : à qui s'adresser et quoi apporter",
+    "card": {
+      "title": "Réclamation de garantie : à qui s'adresser et quoi apporter",
+      "subtitle": "Magasin, fabricant ou garantie légale : le bon interlocuteur selon le moment, la preuve à apporter, et ce qui arrive sans reçu."
+    },
+    "coverAlt": "Un reçu relié à trois destinations possibles pour une réclamation : le magasin, le fabricant et la loi",
+    "intro": [
+      "Réponse courte : pour faire une réclamation de garantie, communiquez avec le magasin si le produit a une garantie d'échange du magasin, sinon avec le fabricant, et ayez en main la preuve d'achat (le reçu original), l'information sur la garantie et une description précise du problème. Au Québec, vous pouvez aussi vous adresser au commerçant ou au fabricant en vertu de la garantie légale.",
+      "La difficulté n'est pas de remplir un formulaire. C'est de savoir quelle garantie s'applique à votre article, alors que le reçu n'en dit presque jamais rien. Ce guide part de vraies lignes de reçu pour montrer à qui s'adresser dans chaque cas, et ce qui se passe quand le reçu manque."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle garantie s'applique à votre problème?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La bonne porte dépend surtout du temps écoulé depuis l'achat et du type de garantie du produit. Pendant le délai de retour, le magasin règle souvent le problème lui-même. Après, c'est la garantie d'échange du magasin (si le produit en a une), la garantie du fabricant ou, au Québec, la garantie légale qui prennent le relais."
+          },
+          {
+            "type": "table",
+            "caption": "À qui s'adresser selon la situation (sources : Canadian Tire, Gouvernement du Canada, Office de la protection du consommateur, vérifié le 16 novembre 2026)",
+            "headers": [
+              "Situation",
+              "Recours possible",
+              "À qui s'adresser",
+              "Preuve à prévoir"
+            ],
+            "rows": [
+              [
+                "Article défectueux, encore dans le délai de retour du magasin",
+                "Retour ou échange selon la politique du magasin",
+                "Le magasin",
+                "Le reçu"
+              ],
+              [
+                "Produit avec une garantie d'échange du magasin",
+                "Échange de l'article défectueux",
+                "Le magasin, selon les conditions de la garantie",
+                "Le reçu"
+              ],
+              [
+                "Produit couvert par la garantie du fabricant",
+                "Réparation ou remplacement selon les conditions de la marque",
+                "Le fabricant",
+                "Le reçu et l'information sur la garantie"
+              ],
+              [
+                "Au Québec, tout bien qui ne sert pas à un usage normal ou ne dure pas raisonnablement",
+                "Réparation, échange ou remboursement (garantie légale)",
+                "Le commerçant, et le fabricant s'il y a lieu",
+                "La preuve de l'achat"
+              ],
+              [
+                "Au Québec, un des 14 appareils visés, acheté neuf depuis le 5 octobre 2026",
+                "Réparation gratuite (garantie de bon fonctionnement)",
+                "Le commerçant, le fabricant ou les deux",
+                "Un document qui indique la date de livraison"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le magasin ne gère pas toujours la garantie du fabricant. Canadian Tire, par exemple, écrit qu'un article défectueux est sujet à la garantie du fabricant et que, pour une demande de règlement en vertu de cette garantie, il faut communiquer avec le fabricant. Les détails de la garantie de chaque article se trouvent sur sa page produit."
+          },
+          {
+            "type": "p",
+            "text": "Pour la différence entre ces deux garanties, voyez [garantie du magasin vs garantie du manufacturier](/blog/garantie-magasin-vs-garantie-manufacturier)."
+          }
+        ]
+      },
+      {
+        "heading": "Quatre lignes de reçu, quatre réclamations différentes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sur un reçu, rien n'indique à qui adresser une réclamation. Voici quatre lignes de vrais reçus numérisés dans le compte de démonstration ReFound, avec la garantie que ReFound a affichée et le bon interlocuteur. Ce sont des exemples de démonstration : la garantie de votre article peut être différente."
+          },
+          {
+            "type": "table",
+            "caption": "Ce que dit le reçu, ce que ReFound a trouvé, et à qui s'adresser",
+            "headers": [
+              "Ligne imprimée",
+              "Produit identifié par ReFound",
+              "Garantie affichée",
+              "Où réclamer"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG (Canadian Tire)",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "Échange 5 ans, « redeemable at any Canadian Tire store »",
+                "N'importe quel magasin Canadian Tire, avec le reçu"
+              ],
+              [
+                "073-5211-4 CSQ C CRSTR BE (Canadian Tire)",
+                "Casque de vélo Supercycle Crosstrails, bébés",
+                "Échange 1 an",
+                "Magasin Canadian Tire, avec le reçu"
+              ],
+              [
+                "183-0095-8 CASQ+PR-V CCM J (Canadian Tire)",
+                "CCM Hockey Helmet & Cage Combo, Youth",
+                "Détails en magasin",
+                "Demander les conditions en magasin"
+              ],
+              [
+                "THERMOSTAT INT/SMRTSENSOR PREM (RONA)",
+                "Ecobee Smart Premium Thermostat and Room Sensor",
+                "Garantie limitée du fabricant de 3 ans",
+                "Le fabricant, avec le reçu"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deux articles achetés le même jour, au même magasin, peuvent donc mener à deux démarches opposées : la lampe s'échange au comptoir pendant cinq ans, alors qu'un produit sous garantie du fabricant se règle directement avec la marque. Le thermostat, lui, a été acheté chez RONA, mais sa garantie de trois ans est celle d'Ecobee."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Ce que ReFound ajoute, et ses limites",
+            "text": "ReFound identifie le produit derrière la ligne abrégée quand les données du marchand le permettent, et affiche la garantie du magasin ou du fabricant quand elle est disponible, avec sa date de fin. Certaines garanties sont estimées faute de source officielle : les conditions du fabricant ou du magasin font toujours foi. Plus d'exemples sur nos pages [reçus Canadian Tire](/marchands/recus-canadian-tire) et [reçus RONA](/marchands/recus-rona)."
+          }
+        ]
+      },
+      {
+        "heading": "Quoi apporter pour une réclamation de garantie",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le gouvernement du Canada résume l'essentiel : pour une réclamation, il faut fournir des documents comme l'information sur la garantie et les reçus de vente originaux, communiquer directement avec l'entreprise ou le fabricant, et expliquer le problème en détail."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Le reçu original** : il prouve la date, le marchand et le prix. Une copie numérique lisible aide à le retrouver, mais gardez l'original si la garantie le demande.",
+              "**L'identification exacte du produit** : marque, modèle et numéro de série, souvent sur une étiquette du produit plutôt que sur le reçu. Apple exclut de sa garantie un produit dont le numéro de série a été retiré ou dégradé.",
+              "**L'information sur la garantie** : durée, couverture, et qui l'offre (magasin ou fabricant).",
+              "**Une description précise du défaut** : quand il est apparu, dans quelles conditions, avec des photos ou une courte vidéo au besoin.",
+              "**La preuve de livraison**, pour un gros appareil au Québec : la garantie de bon fonctionnement se calcule à partir de la livraison."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Avant d'envoyer un appareil",
+            "text": "Le gouvernement du Canada recommande de sauvegarder les données d'un appareil électronique avant une réparation, au cas où elles seraient effacées. Pour les électroménagers, la plupart des garanties sont annulées si vous tentez de réparer vous-même."
+          }
+        ]
+      },
+      {
+        "heading": "Réclamation de garantie sans reçu : ce qui arrive",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sans reçu, une réclamation de garantie devient incertaine : certains marchands peuvent la refuser, et certains fabricants calculent alors la garantie à partir d'une autre date que l'achat. Voici ce que disent quatre sources officielles."
+          },
+          {
+            "type": "table",
+            "caption": "Sans preuve d'achat, selon les sources officielles (vérifié le 16 novembre 2026)",
+            "headers": [
+              "Qui",
+              "Ce que dit la source",
+              "Conséquence"
+            ],
+            "rows": [
+              [
+                "Canadian Tire",
+                "Les retours, les échanges ou les garanties sur un article sans reçu pourraient ne pas être acceptés ; une recherche de reçu peut être proposée.",
+                "La garantie d'échange peut être refusée."
+              ],
+              [
+                "Dyson Canada",
+                "Sans preuve d'achat, la garantie commence 90 jours après la date de fabrication, selon les dossiers de Dyson.",
+                "Vous pouvez perdre une partie de la garantie."
+              ],
+              [
+                "Apple (Canada)",
+                "Avant le service sous garantie, Apple ou ses mandataires peuvent exiger les détails de votre preuve d'achat.",
+                "Prévoyez le reçu même pour un produit enregistré."
+              ],
+              [
+                "Garantie de bon fonctionnement (Québec)",
+                "L'Office recommande de conserver tout document indiquant la date de livraison : facture, courriel de suivi ou de confirmation de livraison.",
+                "Sans date prouvée, la fin de la garantie est difficile à établir."
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "L'exemple de Dyson est le plus parlant : un appareil fabriqué au printemps et acheté en décembre perd, sans reçu, plusieurs mois de couverture, puisque la garantie part de la fabrication plutôt que de l'achat. L'enregistrement en ligne, que le gouvernement du Canada recommande, aide le fabricant à vous retrouver ; il ne remplace pas la preuve d'achat quand celle-ci est demandée."
+          },
+          {
+            "type": "p",
+            "text": "Si le reçu est déjà perdu, voyez nos options dans [retour sans reçu](/blog/retour-sans-recu) ; s'il est effacé, lisez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          }
+        ]
+      },
+      {
+        "heading": "Au Québec : les garanties de la loi ne dépendent pas de la marque",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Au Québec, vous pouvez réclamer même quand la garantie du fabricant est terminée. La garantie légale exige qu'un bien serve à un usage normal pendant une durée raisonnable et qu'il n'ait pas de vice caché. Il faut informer le commerçant, et le fabricant s'il y a lieu, qui peut réparer le bien sans frais, l'échanger ou vous rembourser."
+          },
+          {
+            "type": "p",
+            "text": "Pour 14 appareils achetés ou loués neufs depuis le **5 octobre 2026**, la garantie de bon fonctionnement fixe en plus une durée de réparation gratuite, comptée à partir de la livraison :"
+          },
+          {
+            "type": "table",
+            "caption": "Garantie de bon fonctionnement (source : Office de la protection du consommateur)",
+            "headers": [
+              "Biens",
+              "Durée à partir de la livraison"
+            ],
+            "rows": [
+              [
+                "Cuisinière, réfrigérateur, congélateur, climatiseur, thermopompe",
+                "6 ans"
+              ],
+              [
+                "Laveuse, sécheuse, lave-vaisselle",
+                "5 ans"
+              ],
+              [
+                "Téléviseur",
+                "4 ans"
+              ],
+              [
+                "Ordinateur portable ou de bureau, console de jeu vidéo, téléphone cellulaire, tablette électronique",
+                "3 ans"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Trois règles changent la démarche. Vous pouvez vous adresser au commerçant, au fabricant ou aux deux, et le commerçant ne peut pas exiger que vous passiez par le fabricant. Le commerçant ou le fabricant doit réparer gratuitement ou vous laisser faire réparer par un tiers à ses frais, frais raisonnables de transport compris. Enfin, la garantie suit le bien : l'acheteur d'un appareil d'occasion en profite si elle est toujours en vigueur."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/reclamation-garantie/ligne-temps-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Ligne du temps à l'échelle pour un téléviseur acheté le 27 novembre 2026 et livré le 3 décembre 2026 au Québec : retour de 30 jours jusqu'au 27 décembre 2026, garantie du fabricant de durée variable, garantie de bon fonctionnement jusqu'au 3 décembre 2030, garantie légale pour une durée raisonnable",
+            "caption": "Un téléviseur acheté le Vendredi fou au Québec : qui contacter, et jusqu'à quand. Sources : canadiantire.ca, Office de la protection du consommateur, vérifié le 16 novembre 2026."
+          },
+          {
+            "type": "p",
+            "text": "Dans cet exemple, un téléviseur acheté chez Canadian Tire le 27 novembre 2026 se retourne jusqu'au 27 décembre 2026 (30 jours pour les articles électroniques, dont l'audio et la vidéo pour la maison). Livré le 3 décembre 2026, il reste couvert par la garantie de bon fonctionnement jusqu'au 3 décembre 2030, quelle que soit la durée de la garantie de la marque. Apple l'indique d'ailleurs dans la version anglaise de sa garantie pour le Canada, en vigueur depuis le 2 octobre 2026 : au Québec, l'iPhone et l'iPad achetés neufs ont une garantie de bon fonctionnement de 3 ans."
+          },
+          {
+            "type": "p",
+            "text": "Le détail des appareils couverts et des preuves à garder est dans notre guide de la [garantie de bon fonctionnement au Québec](/blog/garantie-bon-fonctionnement-quebec)."
+          }
+        ]
+      },
+      {
+        "heading": "Si le magasin ou le fabricant refuse",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un refus n'est pas la fin de la démarche. Au Québec, l'Office de la protection du consommateur recommande d'exposer d'abord votre problème au commerçant, puis, si la négociation échoue, de lui envoyer une mise en demeure. En dernier recours, la Division des petites créances entend les réclamations de 15 000 $ et moins."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Négociez avec le commerçant ou le fabricant, par écrit si possible, en citant la garantie qui s'applique.",
+              "Gardez une trace de chaque échange : dates, noms, courriels, numéros de dossier.",
+              "Si la négociation échoue, envoyez une mise en demeure (l'Office offre un formulaire et une trousse d'information).",
+              "En dernier recours, adressez-vous aux petites créances (15 000 $ et moins) ou à la Chambre civile de la Cour du Québec au-delà."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Hors Québec, le gouvernement du Canada renvoie à sa Feuille de route des plaintes pour préparer une plainte à une entreprise."
+          }
+        ]
+      },
+      {
+        "heading": "Préparer sa réclamation dès l'achat",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La meilleure réclamation se prépare le jour de l'achat, pas le jour de la panne. Une garantie de cinq ans dure bien plus longtemps qu'un reçu sur papier thermique, et le reçu ne dit pas quelle garantie vous avez."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Numérisez le reçu pendant qu'il est lisible, et gardez l'original pour les achats importants.",
+              "Notez la garantie du produit : magasin ou fabricant, durée, date de fin.",
+              "Pour un gros appareil, gardez la confirmation de livraison avec le reçu.",
+              "Enregistrez le produit auprès du fabricant si celui-ci le propose.",
+              "Le jour d'un problème, vérifiez la date de fin, puis contactez le bon interlocuteur avec le reçu, le modèle et le numéro de série."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Avec ReFound, le reçu numérisé reste lisible et l'article apparaît sous son vrai nom quand l'information est disponible, avec sa garantie et sa date de fin. Avec ReFound Pro, un rappel arrive 30 jours avant l'expiration d'une garantie. Si c'est un proche qui se rend au magasin, vous pouvez lui [partager le reçu](/blog/partager-recu-conjoint-famille). ReFound ne décide jamais si une réclamation est acceptée : ce sont les conditions du magasin, du fabricant et la loi qui s'appliquent. Voyez aussi [combien de temps garder ses reçus](/blog/combien-de-temps-garder-recus)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Faut-il le reçu original pour une réclamation de garantie?",
+        "a": "Souvent, oui. Le gouvernement du Canada indique qu'il faut fournir des documents comme l'information sur la garantie et les reçus de vente originaux. Chez Canadian Tire, les garanties sur un article sans reçu pourraient ne pas être acceptées."
+      },
+      {
+        "q": "Dois-je m'adresser au magasin ou au fabricant?",
+        "a": "Au magasin si le produit a une garantie d'échange du magasin ou si vous êtes encore dans le délai de retour ; au fabricant pour la garantie du fabricant. Au Québec, pour la garantie légale et la garantie de bon fonctionnement, vous pouvez vous adresser au commerçant ou au fabricant."
+      },
+      {
+        "q": "Un magasin au Québec peut-il me renvoyer au fabricant?",
+        "a": "Pour la garantie de bon fonctionnement, non : selon l'Office de la protection du consommateur, le commerçant ne peut pas exiger que vous vous adressiez au fabricant."
+      },
+      {
+        "q": "L'enregistrement du produit remplace-t-il le reçu?",
+        "a": "Pas forcément. Apple, par exemple, peut exiger les détails de la preuve d'achat avant un service sous garantie. Gardez le reçu même si le produit est enregistré."
+      }
+    ],
+    "ctaTitle": "Ayez la preuve d'achat le jour où vous en aurez besoin",
+    "ctaBody": "Numérisez le reçu pendant qu'il est lisible : ReFound garde une copie claire, identifie l'article quand c'est possible et affiche sa garantie quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Garantie de bon fonctionnement au Québec",
+        "href": "/blog/garantie-bon-fonctionnement-quebec",
+        "desc": "Durées, dates de fin et preuves à garder."
+      },
+      {
+        "label": "Garantie du magasin vs garantie du manufacturier",
+        "href": "/blog/garantie-magasin-vs-garantie-manufacturier",
+        "desc": "Laquelle s'applique, et quand."
+      },
+      {
+        "label": "Application pour les garanties",
+        "href": "/application-garanties",
+        "desc": "Suivre vos garanties et leurs dates de fin."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Politique de retour et d'échange",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Garanties",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/marche-daujourdhui/garanties",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Nouvelles protections",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/nouvelles-protections",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Garanties légales",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/achat/internet/garantie/garanties-legales",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Régler un problème avec un commerçant : étapes",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/probleme-commercant/etapes",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Garantie limitée d'un (1) an d'Apple (iPhone, iPad), Canada",
+        "publisher": "Apple",
+        "url": "https://www.apple.com/legal/warranty/products/ios-warranty-canada-french.html",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Apple One (1) Year Limited Warranty, Canada (en anglais)",
+        "publisher": "Apple",
+        "url": "https://www.apple.com/legal/warranty/products/ios-warranty-canada-english.html",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Warranty terms (en anglais)",
+        "publisher": "Dyson Canada",
+        "url": "https://dysoncanada.ca/en/inside-dyson/terms/warranty-terms",
+        "accessed": "2026-11-16"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 16 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "How to Make a Warranty Claim: Who to Contact, What to Bring | ReFound",
+    "metaDescription": "Store, manufacturer or Quebec legal warranty: who to contact and when, which proof of purchase to bring, and what happens without a receipt.",
+    "keywords": "warranty claim, how to make a warranty claim, warranty claim without receipt, proof of purchase warranty, manufacturer warranty claim, exchange warranty, Quebec legal warranty, warranty of good working order, formal notice warranty",
+    "category": "Guide",
+    "date": "November 16, 2026",
+    "readingTime": "9 min read",
+    "breadcrumb": "Warranty claim",
+    "eyebrow": "Warranties",
+    "h1": "How to Make a Warranty Claim: Who to Contact and What to Bring",
+    "card": {
+      "title": "How to Make a Warranty Claim: Who to Contact and What to Bring",
+      "subtitle": "Store, manufacturer or Quebec legal warranty: the right contact at the right time, the proof to bring, and what happens without a receipt."
+    },
+    "coverAlt": "A receipt connected to three possible destinations for a claim: the store, the manufacturer and the law",
+    "intro": [
+      "Short answer: to make a warranty claim, contact the store if the product has a store exchange warranty, otherwise the manufacturer, and have the proof of purchase (the original receipt), the warranty information and a precise description of the problem ready. In Quebec, you can also go to the merchant or the manufacturer under the legal warranty.",
+      "The hard part isn't filling out a form. It's knowing which warranty covers your item when the receipt says almost nothing about it. This guide uses real receipt lines to show who to contact in each case, and what happens when the receipt is missing."
+    ],
+    "sections": [
+      {
+        "heading": "Which warranty covers your problem?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The right door depends mostly on how long ago you bought the item and what kind of warranty it has. During the return window, the store often handles the problem itself. After that, the store's exchange warranty (if the product has one), the manufacturer's warranty or, in Quebec, the legal warranty take over."
+          },
+          {
+            "type": "table",
+            "caption": "Who to contact, by situation (sources: Canadian Tire, Government of Canada, Office de la protection du consommateur, checked November 16, 2026)",
+            "headers": [
+              "Situation",
+              "Possible remedy",
+              "Who to contact",
+              "Proof to have"
+            ],
+            "rows": [
+              [
+                "Defective item, still within the store's return window",
+                "Return or exchange under the store's policy",
+                "The store",
+                "The receipt"
+              ],
+              [
+                "Product with a store exchange warranty",
+                "Exchange of the defective item",
+                "The store, under the warranty's terms",
+                "The receipt"
+              ],
+              [
+                "Product covered by the manufacturer's warranty",
+                "Repair or replacement under the brand's terms",
+                "The manufacturer",
+                "The receipt and the warranty information"
+              ],
+              [
+                "In Quebec, any good that doesn't serve its normal use or last a reasonable time",
+                "Repair, exchange or refund (legal warranty)",
+                "The merchant, and the manufacturer if applicable",
+                "Proof of the purchase"
+              ],
+              [
+                "In Quebec, one of the 14 covered devices bought new since October 5, 2026",
+                "Free repair (warranty of good working order)",
+                "The merchant, the manufacturer or both",
+                "A document showing the delivery date"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The store doesn't always handle the manufacturer's warranty. Canadian Tire, for example, says a defective item is subject to the manufacturer's warranty and that you must contact the manufacturer to make a claim under it. The warranty details for each item are on its product page."
+          },
+          {
+            "type": "p",
+            "text": "For the difference between these two warranties, see [store warranty vs manufacturer warranty](/en/blog/store-warranty-vs-manufacturer-warranty)."
+          }
+        ]
+      },
+      {
+        "heading": "Four receipt lines, four different claims",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Nothing on a receipt tells you where to send a claim. Here are four lines from real receipts scanned in the ReFound demo account, with the warranty ReFound displayed and the right contact. These are demo examples: the warranty on your item may be different."
+          },
+          {
+            "type": "table",
+            "caption": "What the receipt says, what ReFound found, and who to contact",
+            "headers": [
+              "Printed line",
+              "Product identified by ReFound",
+              "Warranty shown",
+              "Where to claim"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG (Canadian Tire)",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "5-year exchange, \"redeemable at any Canadian Tire store\"",
+                "Any Canadian Tire store, with the receipt"
+              ],
+              [
+                "073-5211-4 CSQ C CRSTR BE (Canadian Tire)",
+                "Supercycle Infant Crosstrail Bike Helmet",
+                "1-year exchange",
+                "A Canadian Tire store, with the receipt"
+              ],
+              [
+                "183-0095-8 CASQ+PR-V CCM J (Canadian Tire)",
+                "CCM Hockey Helmet & Cage Combo, Youth",
+                "Details in store",
+                "Ask the store for the terms"
+              ],
+              [
+                "THERMOSTAT INT/SMRTSENSOR PREM (RONA)",
+                "Ecobee Smart Premium Thermostat and Room Sensor",
+                "3-year limited manufacturer warranty",
+                "The manufacturer, with the receipt"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Two items bought the same day at the same store can lead to opposite processes: the light is exchanged at the counter for five years, while a product under manufacturer warranty is handled directly with the brand. The thermostat was bought at RONA, but its three-year warranty is Ecobee's."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "What ReFound adds, and its limits",
+            "text": "ReFound identifies the product behind the abbreviated line when the merchant's data allows it, and shows the store or manufacturer warranty when it is available, with its end date. Some warranties are estimated when no official source is found: the manufacturer's or store's terms always prevail. More examples on our [Canadian Tire receipts](/en/merchants/canadian-tire-receipts) and [RONA receipts](/en/merchants/rona-receipts) pages."
+          }
+        ]
+      },
+      {
+        "heading": "What to bring for a warranty claim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The Government of Canada sums it up: to make a claim, you need documentation such as your warranty information and original sales receipts, you must contact the company or the manufacturer directly, and you should explain the issue in detail."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The original receipt**: it proves the date, the merchant and the price. A readable digital copy helps you find it, but keep the original if the warranty asks for it.",
+              "**The exact product identification**: brand, model and serial number, often on a label on the product rather than on the receipt. Apple excludes from its warranty a product whose serial number has been removed or defaced.",
+              "**The warranty information**: length, coverage, and who offers it (store or manufacturer).",
+              "**A precise description of the defect**: when it started and under what conditions, with photos or a short video if useful.",
+              "**Proof of delivery**, for a large appliance in Quebec: the warranty of good working order is counted from delivery."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Before you send in a device",
+            "text": "The Government of Canada recommends saving all the information on an electronic device before a repair, in case it gets erased. For appliances, most warranties will be void if you try to fix the problem yourself."
+          }
+        ]
+      },
+      {
+        "heading": "Warranty claim without a receipt: what happens",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Without a receipt, a warranty claim becomes uncertain: some merchants may refuse it, and some manufacturers then count the warranty from a date other than the purchase. Here is what four official sources say."
+          },
+          {
+            "type": "table",
+            "caption": "Without proof of purchase, according to official sources (checked November 16, 2026)",
+            "headers": [
+              "Who",
+              "What the source says",
+              "Consequence"
+            ],
+            "rows": [
+              [
+                "Canadian Tire",
+                "Returns, exchanges or warranties on an item without a receipt may not be accepted; a receipt look-up may be offered.",
+                "The exchange warranty can be refused."
+              ],
+              [
+                "Dyson Canada",
+                "Without proof of purchase, the warranty starts 90 days after the date of manufacture, according to Dyson's records.",
+                "You can lose part of the warranty."
+              ],
+              [
+                "Apple (Canada)",
+                "Before warranty service, Apple or its agents may require proof of purchase details.",
+                "Have the receipt even for a registered product."
+              ],
+              [
+                "Warranty of good working order (Quebec)",
+                "The Office recommends keeping any document showing the delivery date: invoice, tracking or delivery confirmation email.",
+                "Without a proven date, the warranty's end is hard to establish."
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Dyson's rule is the clearest example: a machine made in the spring and bought in December can lose several months of coverage without a receipt, because the warranty starts from manufacture instead of purchase. Online registration, which the Government of Canada recommends, helps the manufacturer find you; it doesn't replace proof of purchase when proof is requested."
+          },
+          {
+            "type": "p",
+            "text": "If the receipt is already lost, see your options in [return without a receipt](/en/blog/return-without-receipt); if it has faded, read [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          }
+        ]
+      },
+      {
+        "heading": "In Quebec: the law's warranties don't depend on the brand",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In Quebec, you can make a claim even after the manufacturer's warranty has ended. The legal warranty requires a good to serve its normal use for a reasonable time and to be free of hidden defects. You must inform the merchant, and the manufacturer if applicable, who may repair the good at no cost, exchange it or refund you."
+          },
+          {
+            "type": "p",
+            "text": "For 14 devices bought or leased new since **October 5, 2026**, the warranty of good working order also sets a fixed period of free repairs, counted from delivery:"
+          },
+          {
+            "type": "table",
+            "caption": "Warranty of good working order (source: Office de la protection du consommateur)",
+            "headers": [
+              "Goods",
+              "Length from delivery"
+            ],
+            "rows": [
+              [
+                "Stove, refrigerator, freezer, air conditioner, heat pump",
+                "6 years"
+              ],
+              [
+                "Washer, dryer, dishwasher",
+                "5 years"
+              ],
+              [
+                "Television",
+                "4 years"
+              ],
+              [
+                "Laptop or desktop computer, video game console, cell phone, tablet",
+                "3 years"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Three rules change the process. You can go to the merchant, the manufacturer or both, and the merchant cannot require you to go to the manufacturer. The merchant or manufacturer must repair the good for free or let you have a third party repair it at their expense, reasonable transport costs included. And the warranty follows the good: the buyer of a used device benefits from it if it is still in effect."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/reclamation-garantie/ligne-temps-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "To-scale timeline for a TV bought November 27, 2026 and delivered December 3, 2026 in Quebec: 30-day return until December 27, 2026, manufacturer warranty of variable length, warranty of good working order until December 3, 2030, legal warranty for a reasonable time",
+            "caption": "A TV bought on Black Friday in Quebec: who to contact, and until when. Sources: canadiantire.ca, Office de la protection du consommateur, checked November 16, 2026."
+          },
+          {
+            "type": "p",
+            "text": "In this example, a TV bought at Canadian Tire on November 27, 2026 can be returned until December 27, 2026 (30 days for electronics, which include home audio and video). Delivered on December 3, 2026, it stays covered by the warranty of good working order until December 3, 2030, whatever the length of the brand's warranty. Apple says so in its Canadian warranty: in Quebec, an iPhone or iPad bought new has a 3-year warranty of good working order."
+          },
+          {
+            "type": "p",
+            "text": "The full list of covered devices and the proof to keep is in our guide to the [Quebec warranty of good working order](/en/blog/quebec-warranty-of-good-working-order)."
+          }
+        ]
+      },
+      {
+        "heading": "If the store or manufacturer says no",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A refusal isn't the end of the road. In Quebec, the Office de la protection du consommateur recommends first explaining your problem to the merchant and then, if negotiation fails, sending a formal notice. As a last resort, small claims court hears claims of $15,000 and less."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Negotiate with the merchant or manufacturer, in writing if possible, naming the warranty that applies.",
+              "Keep a record of every exchange: dates, names, emails, file numbers.",
+              "If negotiation fails, send a formal notice (the Office provides a form and an information kit).",
+              "As a last resort, go to small claims court ($15,000 and less) or the Civil Division of the Court of Québec above that."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Outside Quebec, the Government of Canada points to its Complaint Roadmap to help you prepare a complaint to a business."
+          }
+        ]
+      },
+      {
+        "heading": "Prepare your claim on the day you buy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The best warranty claim is prepared on the day of purchase, not the day the item breaks. A five-year warranty lasts far longer than a thermal-paper receipt, and the receipt doesn't tell you which warranty you have."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Scan the receipt while it's readable, and keep the original for major purchases.",
+              "Note the product's warranty: store or manufacturer, length, end date.",
+              "For a large appliance, keep the delivery confirmation with the receipt.",
+              "Register the product with the manufacturer if it offers registration.",
+              "When a problem comes up, check the end date, then contact the right party with the receipt, the model and the serial number."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "With ReFound, the scanned receipt stays readable and the item shows under its real name when the information is available, with its warranty and end date. With ReFound Pro, a reminder arrives 30 days before a warranty expires. If someone else is going to the store, you can [share the receipt](/en/blog/share-receipt-with-partner-family) with them. ReFound never decides whether a claim is accepted: the store's terms, the manufacturer's terms and the law apply. See also [how long to keep receipts](/en/blog/how-long-to-keep-receipts)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Do I need the original receipt for a warranty claim?",
+        "a": "Often, yes. The Government of Canada says you'll need documentation such as your warranty information and original sales receipts. At Canadian Tire, warranties on an item without a receipt may not be accepted."
+      },
+      {
+        "q": "Should I contact the store or the manufacturer?",
+        "a": "The store if the product has a store exchange warranty or you're still within the return window; the manufacturer for the manufacturer's warranty. In Quebec, for the legal warranty and the warranty of good working order, you can go to the merchant or the manufacturer."
+      },
+      {
+        "q": "Can a store in Quebec send me to the manufacturer?",
+        "a": "Not for the warranty of good working order: according to the Office de la protection du consommateur, the merchant cannot require you to go to the manufacturer."
+      },
+      {
+        "q": "Does registering the product replace the receipt?",
+        "a": "Not necessarily. Apple, for example, may require proof of purchase details before warranty service. Keep the receipt even if the product is registered."
+      }
+    ],
+    "ctaTitle": "Have the proof of purchase on the day you need it",
+    "ctaBody": "Scan the receipt while it's readable: ReFound keeps a clear copy, identifies the item when possible and shows its warranty when the information is available.",
+    "relatedTitle": "Read next",
+    "related": [
+      {
+        "label": "Quebec warranty of good working order",
+        "href": "/en/blog/quebec-warranty-of-good-working-order",
+        "desc": "Terms, end dates and the proof to keep."
+      },
+      {
+        "label": "Store warranty vs manufacturer warranty",
+        "href": "/en/blog/store-warranty-vs-manufacturer-warranty",
+        "desc": "Which one applies, and when."
+      },
+      {
+        "label": "Warranty tracker app",
+        "href": "/en/warranty-tracker-app",
+        "desc": "Track your warranties and their end dates."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Returns and exchanges policy",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Warranties",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/modern-marketplace/warranties",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "New protections",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Legal warranties",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/purchase/online-purchase/warranty/legal-warranties",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Resolve a problem with a merchant: steps",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/resolve-problem/steps",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite (in French)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Apple One (1) Year Limited Warranty, Canada",
+        "publisher": "Apple",
+        "url": "https://www.apple.com/legal/warranty/products/ios-warranty-canada-english.html",
+        "accessed": "2026-11-16"
+      },
+      {
+        "label": "Warranty terms",
+        "publisher": "Dyson Canada",
+        "url": "https://dysoncanada.ca/en/inside-dyson/terms/warranty-terms",
+        "accessed": "2026-11-16"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 16, 2026"
+  }
+}
