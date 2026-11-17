@@ -126,7 +126,7 @@
             "type": "table",
             "caption": "Retour en magasin chez Tigre Géant : avec ou sans reçu (vérifié le 17 novembre 2026)",
             "headers": [
-              "",
+              "Critère",
               "Avec reçu",
               "Sans reçu"
             ],
@@ -544,7 +544,7 @@
             "type": "table",
             "caption": "In-store return at Giant Tiger: with or without a receipt (checked November 17, 2026)",
             "headers": [
-              "",
+              "Criterion",
               "With receipt",
               "Without receipt"
             ],
