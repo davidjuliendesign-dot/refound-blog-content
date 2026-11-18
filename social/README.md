@@ -28,7 +28,8 @@ disent utiliser, puis on mesure.
 - **TikTok** : la vidéo reste plus engageante que les photos, mais le mode photo marche pour le
   contenu éducatif. Format **9:16 (1080 × 1920)** ; sinon, bandes noires. Le texte à l'écran et la
   légende servent à la recherche TikTok. Ajouter une musique (Metricool : musique aléatoire, ou une
-  des 100 tendances pour un compte Entreprise ; seulement en publication automatique).
+  des 100 tendances pour un compte Entreprise ; seulement en publication automatique). Le compte
+  @refoundapp est personnel : musique aléatoire.
 
 ## Format
 - **7 à 10 diapos** (maximum 20 sur Instagram) quand le contenu le justifie ; jamais de diapo de
@@ -61,7 +62,9 @@ disent utiliser, puis on mesure.
   personne qui garde les reçus chez vous »). Jamais « commentez X pour recevoir… ».
 - **5 mots-clics au maximum**, précis (sujet, marchand, #Québec quand c'est pertinent, #ReFound).
 - Facebook : « Le guide complet est en premier commentaire », et le lien de l'article dans le
-  premier commentaire. Instagram et TikTok : « Lien dans la bio ».
+  premier commentaire. Instagram et TikTok : « Le guide complet est sur refoundapp.ca, section
+  Blog. » Le lien de la bio Instagram mène à l'App Store, et la bio TikTok n'a pas de lien cliquable
+  (compte personnel : il faut 1 000 abonnés ou un compte Entreprise).
 - Texte alternatif pour chaque image (Metricool `mediaAltText`) : ce que dit la diapo, avec les
   mots-clés naturels.
 
