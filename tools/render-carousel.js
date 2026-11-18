@@ -1,5 +1,6 @@
 // Carrousels médias sociaux (social/README.md). Usage: node render-carousel.js <slug> <outDir>
-// 1080×1350, fr-01.png… et en-01.png…. Types de diapos : hook (accroche), text (titre + texte),
+// 1080×1350 (Instagram, Facebook) : fr-01.png… et en-01.png… ; 1080×1920 (TikTok, 9:16) : tt-fr-01.png…, avec
+// zones de sécurité TikTok (haut 200 px, bas 460 px pour la légende, droite 130 px pour les boutons). Types de diapos : hook (accroche), text (titre + texte),
 // stat (gros chiffre), receipt (lignes de kit/receipts.json : ligne imprimée → produit → garantie/date), cta (fin).
 // Contenu tiré de l'article (mêmes sources) ; titre ≤ 8 mots, texte ≤ 25 mots ; aucun faux bouton App Store.
 const { chromium } = require('playwright');
@@ -42,9 +43,10 @@ const CSS = [font('Funnel Display', FD + '700-normal.woff2', 700), font('Funnel 
 .nm{font-weight:700;font-size:30px;line-height:1.25}.nm:before{content:'→ ';color:var(--green)}
 .r.wp{grid-template-columns:150px 1fr;column-gap:24px}.r.wp>*:not(.ph){grid-column:2}.ph{grid-row:1/4;width:150px;height:150px;background:#fff;border-radius:14px;display:flex;align-items:center;justify-content:center;overflow:hidden;align-self:center}.ph img{max-width:100%;max-height:100%}
 .bd{justify-self:start;border:3px solid;border-radius:12px;padding:6px 16px;font-family:'Funnel Display';font-weight:800;font-size:32px}
+.s.tt{height:1920px;padding:200px 130px 460px 80px}.s.tt .t{font-size:84px}.s.tt .b{font-size:40px}
 .cta .t{font-size:84px}.url{margin-top:44px;font-family:'Funnel Display';font-weight:800;font-size:56px;color:var(--green)}`;
 
-function slide(d, i, n, src) {
+function slide(d, i, n, src, tt) {
   const top = `<div class="top"><img src="${LOGO}"><span>${i}/${n}</span></div>`;
   const foot = `<div class="foot"><span>${src}</span><span>${i < n ? '→' : ''}</span></div>`;
   let body = '';
@@ -56,7 +58,7 @@ function slide(d, i, n, src) {
       const it = r.items[ix]; const ph = photo(it); return `<div class="r${ph ? ' wp' : ''}">${ph ? `<div class="ph"><img src="${ph}"></div>` : ''}<div class="pr">${esc(it.printed)}</div><div class="nm">${esc(d.names && d.names[ix] || it.name)}</div><div class="bd" style="border-color:${col};color:${col}">${esc(badge)}</div></div>`; }).join('')}</div>`;
   }
   if (d.type === 'cta') body = `<div class="cta"><div class="eyebrow">${d.eyebrow}</div><div class="t h">${d.title}</div><div class="b">${d.text}</div><div class="url">refoundapp.ca</div></div>`;
-  return `<style>${CSS}</style><div class="s">${top}<div class="mid">${body}</div>${foot}</div>`;
+  return `<style>${CSS}</style><div class="s${tt ? ' tt' : ''}">${top}<div class="mid">${body}</div>${foot}</div>`;
 }
 
 const C = require(path.join(ROOT, 'social', process.argv[2], 'slides.js'));
@@ -65,10 +67,10 @@ const C = require(path.join(ROOT, 'social', process.argv[2], 'slides.js'));
   const b = await chromium.launch();
   for (const l of ['fr', 'en']) {
     const list = C[l].slides;
-    for (let i = 0; i < list.length; i++) {
-      const p = await b.newPage({ viewport: { width: 1080, height: 1350 } });
-      await p.setContent(slide(list[i], i + 1, list.length, C[l].src)); await p.evaluate(() => document.fonts.ready);
-      await p.screenshot({ path: path.join(out, `${l}-${String(i + 1).padStart(2, '0')}.png`) }); await p.close();
+    for (const tt of [false, true]) for (let i = 0; i < list.length; i++) {
+      const p = await b.newPage({ viewport: { width: 1080, height: tt ? 1920 : 1350 } });
+      await p.setContent(slide(list[i], i + 1, list.length, C[l].src, tt)); await p.evaluate(() => document.fonts.ready);
+      await p.screenshot({ path: path.join(out, `${tt ? 'tt-' : ''}${l}-${String(i + 1).padStart(2, '0')}.png`) }); await p.close();
     }
   }
   await b.close();
