@@ -1,0 +1,44 @@
+Tâche quotidienne : publier UN article de blog bilingue (FR + EN) sur refoundapp.ca pour David (ReFound), en dépensant le minimum de crédits Vibecode. Tout le travail se fait ici ; l'agent Vibecode ne fait qu'importer.
+
+0. Prérequis
+- Charge le skill « refound-seo-geo-content-engine » (Skill tool). S'il est introuvable, n'écris rien : envoie à David un message disant de sauvegarder ce skill, puis arrête.
+- Attache le repo davidjuliendesign-dot/refound-blog-content (add_repo, access push), clone-le, lis SCHEMA.md, tools/brand.md, tools/render-example.js et posts/politique-retour-canadian-tire/post.json (gold standard : étudie surtout sa section « Après le délai de retour » et ses tableaux d'exemples réels).
+- Tu n'as PAS accès au code de l'app : ne tente pas d'attacher davidjuliendesign-dot/refound (l'outil n'existe pas dans cette routine). Tout ce qu'il te faut est dans le repo de contenu :
+  - facts/product.md : les faits produit (gratuit / Pro, garanties, dates de retour, ce que ReFound ne fait pas). C'est la source de vérité : elle prime sur ta base de connaissances et sur le skill. Si le skill dit autre chose, suis facts/product.md et signale l'écart à David dans le message final.
+  - facts/return-policies.ts : les politiques de retour utilisées par l'app.
+  - kit/receipts.json (lis d'abord kit/README.md) : de vrais reçus nettoyés, un par magasin, pour les exemples.
+  Si facts/product.md est absent du repo, n'écris rien : préviens David (les fichiers facts/ et kit/ doivent d'abord y être déposés), puis arrête.
+- Ne jamais toucher au projet Vibecode mobile « ReFound ». Seul projet Vibecode autorisé : « ReFound Web » (project_id 019be1d1-1b54-72cb-bdc6-76573bd71734).
+
+Faits produit : voir facts/product.md (mis à jour par David le 18 novembre 2026). Rien de ce qui n'y figure ne doit être affirmé sur l'app.
+
+1. Choix du sujet (skill, étapes 2-4)
+- Contenu existant : https://refoundapp.ca/sitemap.xml et /blog (curl), plus posts/ du repo. Pas de cannibalisation.
+- Choisis la meilleure opportunité dans les territoires du skill. Priorité aux clusters existants (marchands Canadian Tire, IKEA, Home Depot, RONA ; retours ; garanties ; preuve d'achat ; famille).
+- Si aucune nouvelle opportunité solide n'existe, mets à jour un post JSON existant plutôt que d'en créer un faible.
+
+2. APPORT ORIGINAL OBLIGATOIRE. Un article qui ne fait que résumer une page officielle est refusé. Chaque article doit contenir au moins une section qui n'existe nulle part ailleurs, par exemple :
+- de vrais exemples de reçus (ligne imprimée → produit identifié → garantie trouvée), tirés de kit/receipts.json (ligne imprimée → produit identifié → garantie → date limite de retour ; respecte les règles de kit/README.md) ou des pages marchands du site ;
+- l'angle « après le délai de retour » (garantie d'échange, fabricant, garantie légale du Québec et garantie de bon fonctionnement depuis le 5 octobre 2026) quand il s'applique ;
+- un calcul, une comparaison entre marchands ou une ligne du temps construite à partir des sources primaires.
+Explique concrètement le problème que le reçu ne résout pas seul, puis comment ReFound aide, sans exagération.
+
+3. Recherche et fiche de faits (skill, étapes 5-6) : si une page demande une permission (redirection) ou ne se charge pas, ne l'attends pas : trouve la même information sur une autre page officielle (WebSearch).  15 à 25 faits sourcés, sources primaires (marchand officiel, gouvernement), vérifiés aujourd'hui. Chaque délai, durée ou montant doit être confirmé mot pour mot sur la page officielle, en FR et en EN quand elle existe.
+
+4. Rédaction (skill, étapes 7-9) : post.json conforme à SCHEMA.md, FR et EN (traduction de sens, slugs EN traduits), environ 1200-2000 mots par langue, réponse directe en tête de chaque H2, tableau/étapes/encadré quand utile, FAQ seulement si utile, CTA contextuel, liens internes vérifiés (HTTP 200 ET <title> réel : le site renvoie 200 même pour une page inexistante), sources avec date de consultation, factCheckLabel. metaTitle ≤ 70 caractères, metaDescription ≤ 160.
+
+5. Révisions (skill, étape 10) : les 7 passes, en particulier exactitude, sources, produit ReFound et humanisation.
+
+6. Visuels (skill, étape 11 + tools/brand.md) : couverture 1200×630 et 1 à 2 visuels utiles (FR et EN si texte), rendus avec Playwright. Regarde chaque PNG avant de pousser. Mets à jour tools/render-example.js si tu crées un gabarit réutilisable.
+
+6b. Carrousel médias sociaux : suis social/README.md. Crée social/<slug>/ avec 5 à 7 images 1080×1350 en FR et en EN, et caption.md. Rien n'est publié sur les réseaux : David les relit et les publie. Regarde chaque PNG avant de pousser.
+
+7. Publication
+- Valide le JSON (json.load, chaque fichier de assets existe dans images/), commit et push sur main du repo de contenu (post et carrousel).
+- Un seul appel mcp__Vibecode__edit_app, mot pour mot : « Publie l'article <slug> : dans webapp, exécute uniquement `npm run import-post -- <slug>` puis le build. Ne modifie aucun autre fichier. Si l'import ou le build échoue, n'essaie pas de corriger : arrête et donne l'erreur. »
+- wait_for_build jusqu'à la fin. Si échec : corrige post.json et refais UN seul appel. Deuxième échec : arrête et préviens David avec l'erreur.
+- mcp__Vibecode__deploy_app, puis attends que la page réponde avec le bon <title>.
+
+8. Vérification en ligne (curl) des deux URLs : H1, canonical, hreflang, BlogPosting, FAQPage si FAQ, images en 200, présence dans sitemap.xml.
+
+9. Message final à David (SendUserMessage), en français, court : titre FR, les deux liens, l'apport original de l'article en une phrase, le dossier du carrousel (social/<slug>/), et tout point à vérifier par lui.
