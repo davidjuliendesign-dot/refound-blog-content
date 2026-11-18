@@ -62,9 +62,11 @@ disent utiliser, puis on mesure.
   personne qui garde les reçus chez vous »). Jamais « commentez X pour recevoir… ».
 - **5 mots-clics au maximum**, précis (sujet, marchand, #Québec quand c'est pertinent, #ReFound).
 - Facebook : « Le guide complet est en premier commentaire », et le lien de l'article dans le
-  premier commentaire. Instagram et TikTok : « Le guide complet est sur refoundapp.ca, section
-  Blog. » Le lien de la bio Instagram mène à l'App Store, et la bio TikTok n'a pas de lien cliquable
-  (compte personnel : il faut 1 000 abonnés ou un compte Entreprise).
+  premier commentaire.
+- Instagram : « Le guide complet : lien du blog dans la bio. » La bio a deux liens :
+  refoundapp.ca/download (iPhone et Android) et refoundapp.ca/blog.
+- TikTok : « Le guide complet est sur refoundapp.ca, section Blog. » Le compte est personnel : le
+  lien de la bio n'est pas cliquable sous 1 000 abonnés (un compte Entreprise lèverait la limite).
 - Texte alternatif pour chaque image (Metricool `mediaAltText`) : ce que dit la diapo, avec les
   mots-clés naturels.
 
