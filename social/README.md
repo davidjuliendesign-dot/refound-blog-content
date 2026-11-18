@@ -1,7 +1,9 @@
 # Carrousels pour les médias sociaux
 
-Un carrousel par article publié, dans `social/<slug>/`. Rien n'est publié automatiquement :
-David les relit et les publie lui-même (Instagram, Facebook, LinkedIn).
+Un carrousel par article publié, dans `social/<slug>/`. La routine le planifie dans Metricool
+(Facebook, Instagram, et TikTok quand le carrousel de photos est possible), au meilleur créneau de
+chaque réseau, jamais en publication immédiate : David reçoit le contenu le matin et peut annuler ou
+modifier dans Metricool. Sans Metricool, rien n'est publié : David les publie lui-même.
 
 ## Format
 - 5 à 7 images, 1080 × 1350 (portrait 4:5), PNG, numérotées : `fr-01.png` … et `en-01.png` …
