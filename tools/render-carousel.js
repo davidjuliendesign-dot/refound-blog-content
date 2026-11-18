@@ -11,6 +11,13 @@ const FD = 'fonts/fontsource-funnel-display-5.3.0/files/funnel-display-latin-';
 const DM = 'fonts/fontsource-dm-sans-5.3.0/files/dm-sans-latin-';
 const LOGO = `data:image/png;base64,${b64('assets/logo-refound-light.png')}`;
 const KIT = JSON.parse(fs.readFileSync(path.join(ROOT, 'kit/receipts.json'), 'utf8')).receipts;
+function photo(it) {
+  if (!it.image || it.imageSource === 'merchant') return null; // photos « merchant » : décalées (voir kit/README.md)
+  const f = path.join(ROOT, 'kit/images', it.image.split('/').pop());
+  if (!fs.existsSync(f)) return null;
+  const ext = path.extname(f).slice(1).replace('jpg', 'jpeg');
+  return `data:image/${ext};base64,${fs.readFileSync(f).toString('base64')}`;
+}
 const esc = s => String(s).replace(/&#039;/g, '’').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/ /g, ' ');
 const CSS = [font('Funnel Display', FD + '700-normal.woff2', 700), font('Funnel Display', FD + '800-normal.woff2', 800),
   font('DM Sans', DM + '400-normal.woff2', 400), font('DM Sans', DM + '500-normal.woff2', 500), font('DM Sans', DM + '700-normal.woff2', 700)].join('') + `
@@ -33,6 +40,7 @@ const CSS = [font('Funnel Display', FD + '700-normal.woff2', 700), font('Funnel 
 .r{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:24px 26px;display:grid;gap:12px}
 .pr{font-family:ui-monospace,Menlo,monospace;font-weight:700;font-size:28px;background:#F4F1E8;color:#2A2D33;border-radius:8px;padding:10px 14px;justify-self:start}
 .nm{font-weight:700;font-size:30px;line-height:1.25}.nm:before{content:'→ ';color:var(--green)}
+.r.wp{grid-template-columns:150px 1fr;column-gap:24px}.r.wp>*:not(.ph){grid-column:2}.ph{grid-row:1/4;width:150px;height:150px;background:#fff;border-radius:14px;display:flex;align-items:center;justify-content:center;overflow:hidden;align-self:center}.ph img{max-width:100%;max-height:100%}
 .bd{justify-self:start;border:3px solid;border-radius:12px;padding:6px 16px;font-family:'Funnel Display';font-weight:800;font-size:32px}
 .cta .t{font-size:84px}.url{margin-top:44px;font-family:'Funnel Display';font-weight:800;font-size:56px;color:var(--green)}`;
 
@@ -45,7 +53,7 @@ function slide(d, i, n, src) {
   if (d.type === 'receipt') {
     const r = KIT.find(x => x.slug === d.kit);
     body = `<div class="eyebrow">${d.eyebrow}</div><div class="t h" style="font-size:70px">${d.title}</div><div class="rows">${d.rows.map(([ix, badge, col]) => {
-      const it = r.items[ix]; return `<div class="r"><div class="pr">${esc(it.printed)}</div><div class="nm">${esc(d.names && d.names[ix] || it.name)}</div><div class="bd" style="border-color:${col};color:${col}">${esc(badge)}</div></div>`; }).join('')}</div>`;
+      const it = r.items[ix]; const ph = photo(it); return `<div class="r${ph ? ' wp' : ''}">${ph ? `<div class="ph"><img src="${ph}"></div>` : ''}<div class="pr">${esc(it.printed)}</div><div class="nm">${esc(d.names && d.names[ix] || it.name)}</div><div class="bd" style="border-color:${col};color:${col}">${esc(badge)}</div></div>`; }).join('')}</div>`;
   }
   if (d.type === 'cta') body = `<div class="cta"><div class="eyebrow">${d.eyebrow}</div><div class="t h">${d.title}</div><div class="b">${d.text}</div><div class="url">refoundapp.ca</div></div>`;
   return `<style>${CSS}</style><div class="s">${top}<div class="mid">${body}</div>${foot}</div>`;

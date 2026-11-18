@@ -28,7 +28,7 @@ const KIT = JSON.parse(fs.readFileSync(path.join(ROOT, 'kit/receipts.json'), 'ut
 const esc = s => String(s).replace(/&#039;/g, '’').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/ /g, ' ');
 
 function photo(it) {
-  if (!it.image) return null;
+  if (!it.image || it.imageSource === 'merchant') return null; // photos « merchant » : décalées (voir kit/README.md)
   const f = path.join(ROOT, 'kit/images', it.image.split('/').pop());
   if (!fs.existsSync(f)) return null;
   const ext = path.extname(f).slice(1).replace('jpg', 'jpeg');
@@ -51,7 +51,7 @@ function flow(t) {
   .row{display:grid;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 16px;min-height:58px}
   .pr{font-family:ui-monospace,Menlo,monospace;font-weight:700;font-size:15px;background:#F4F1E8;color:#2A2D33;border-radius:6px;padding:8px 10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .ar{color:var(--green);font-size:24px;text-align:center}
-  .ph{width:64px;height:48px;background:#fff;border-radius:8px;display:flex;align-items:center;justify-content:center;overflow:hidden}.ph img{max-width:100%;max-height:100%}
+  .ph{width:64px;height:48px;background:#fff;border-radius:8px;display:flex;align-items:center;justify-content:center;overflow:hidden}.ph img{max-width:100%;max-height:100%}.ph:empty{background:transparent;border:1px dashed var(--line)}
   .nm{font-weight:700;font-size:17px;line-height:1.25}
   .bd{border:2px solid;border-radius:10px;padding:6px 12px;display:flex;flex-direction:column;line-height:1.2}
   .bd b{font-size:19px;font-weight:800}.bd span{font-size:13px;color:var(--muted)}
