@@ -1,0 +1,107 @@
+{
+ "note": "Reçus de David utilisés comme exemples (un par magasin). Ajouter ou retirer des lignes ici ; tools/fetch-kit.js recrée kit/receipts/ à partir de cette liste.",
+ "receipts": [
+  {
+   "slug": "maxi",
+   "id": "e7f4ca37-190f-43bc-bbcc-ead2a6b99d36",
+   "store": "MAXI&CIE",
+   "date": "2026-10-02"
+  },
+  {
+   "slug": "reitmans",
+   "id": "15515265-c397-4c58-9f22-211c72761ddf",
+   "store": "REITMANS",
+   "date": "2026-09-16"
+  },
+  {
+   "slug": "home-depot",
+   "id": "d68b8e0d-caf0-4b00-8af0-c1106c68e767",
+   "store": "HOME DEPOT",
+   "date": "2026-09-14"
+  },
+  {
+   "slug": "ikea",
+   "id": "c4ab3b67-a0ca-48b1-a1be-ddc73635d85f",
+   "store": "IKEA",
+   "date": "2026-09-06"
+  },
+  {
+   "slug": "dollarama",
+   "id": "5eb41dfa-a626-40f2-9c54-e51d5e82b969",
+   "store": "DOLLARAMA",
+   "date": "2026-08-18"
+  },
+  {
+   "slug": "tigre-geant",
+   "id": "978115e3-fa63-4c05-83a1-88f6faf402bf",
+   "store": "TIGRE GÉANT",
+   "date": "2026-07-19"
+  },
+  {
+   "slug": "costco",
+   "id": "46d847b5-1b1b-48f3-b702-1a72018911fd",
+   "store": "Costco Wholesale",
+   "date": "2026-07-08"
+  },
+  {
+   "slug": "decathlon",
+   "id": "9c249ee4-4568-48ac-b1ca-2d61eebd510a",
+   "store": "Decathlon",
+   "date": "2026-06-14"
+  },
+  {
+   "slug": "rona",
+   "id": "da351d88-bdf0-4730-93fb-2174ace75d7c",
+   "store": "RONA",
+   "date": "2026-05-31"
+  },
+  {
+   "slug": "walmart",
+   "id": "23518090-6ee6-4bde-b11c-e9f8aa0c39cd",
+   "store": "Walmart",
+   "date": "2026-05-26"
+  },
+  {
+   "slug": "sports-experts",
+   "id": "7e975d70-f38a-4182-b48c-7feaacc7af1f",
+   "store": "Sports Experts",
+   "date": "2026-05-16"
+  },
+  {
+   "slug": "canadian-tire",
+   "id": "8189ea96-f298-4218-9ece-9c836fa493b9",
+   "store": "Canadian Tire",
+   "date": "2026-05-03"
+  },
+  {
+   "slug": "rona-plus",
+   "id": "f24a187b-c6ca-4260-ba36-f3f30d831566",
+   "store": "RONA+",
+   "date": "2026-04-19"
+  },
+  {
+   "slug": "bmr",
+   "id": "696f707f-19fd-4994-92e7-6e9cbe8be53a",
+   "store": "BMR",
+   "date": "2026-04-18"
+  },
+  {
+   "slug": "metro",
+   "id": "e4ffe653-5c77-49b0-bd21-9cb46ce4ce1d",
+   "store": "Metro Marche Aylmer Inc.",
+   "date": "2026-03-23"
+  },
+  {
+   "slug": "princess-auto",
+   "id": "9fbc7ed3-d98c-465f-bb46-c6c91a2b8e53",
+   "store": "PRINCESS AUTO",
+   "date": "2025-09-14"
+  },
+  {
+   "slug": "bureau-en-gros",
+   "id": "7865f5a9-7e93-4da3-b503-acf08fa11982",
+   "store": "BUREAU EN GROS",
+   "date": "2025-06-19"
+  }
+ ]
+}
