@@ -12,8 +12,8 @@ const DM = 'fonts/fontsource-dm-sans-5.3.0/files/dm-sans-latin-';
 const LOGO = `data:image/png;base64,${b64('assets/logo-refound-light.png')}`;
 const KIT = JSON.parse(fs.readFileSync(path.join(ROOT, 'kit/receipts.json'), 'utf8')).receipts;
 function photo(it) {
-  if (!it.image || it.imageSource === 'merchant') return null; // photos « merchant » : décalées (voir kit/README.md)
-  const f = path.join(ROOT, 'kit/images', it.image.split('/').pop());
+  if (!it.imageFile) return null; // nom exact du fichier dans kit/images/
+  const f = path.join(ROOT, 'kit/images', it.imageFile);
   if (!fs.existsSync(f)) return null;
   const ext = path.extname(f).slice(1).replace('jpg', 'jpeg');
   return `data:image/${ext};base64,${fs.readFileSync(f).toString('base64')}`;

@@ -29,12 +29,14 @@
      "subcategory": "garden_tools",
      "enriched": true,
      "productUrl": "https://www.bmr.ca/fr/botaflora-rateau-feuilles-acier-24-dents-manche-65-fibre-verre-002-7896.html",
-     "image": null,
+     "image": "https://www.bmr.ca/media/catalog/product/cache/44d3c3140199fe163ff776af7e30878d/0/0/002-7896_001.jpg",
      "warranty": {
       "duration": "1 year",
       "type": "manufacturer",
       "coverage": "Échange ou crédit en magasin des produits défectueux de 1 an."
-     }
+     },
+     "imageFile": "2f619398dc96.jpg",
+     "imageSource": "merchant"
     },
     {
      "printed": "GRAVIER 3/4\" 30KG",
@@ -51,12 +53,14 @@
      "subcategory": "tile_stone",
      "enriched": true,
      "productUrl": "https://www.bmr.ca/fr/sika-gravier-3-4-30-kg-002-7149.html",
-     "image": null,
+     "image": "https://www.bmr.ca/media/catalog/product/cache/44d3c3140199fe163ff776af7e30878d/0/0/002-7149_001.jpg",
      "warranty": {
       "duration": "1 year",
       "type": "manufacturer",
       "coverage": "Garantie de fabrication limitée de 1 an."
-     }
+     },
+     "imageFile": "1a5543b05a34.jpg",
+     "imageSource": "merchant"
     },
     {
      "printed": "EMBOUT TOURNEVIS PHILLIPS #33",
@@ -73,9 +77,8 @@
      "subcategory": "tool_accessories",
      "enriched": false,
      "productUrl": null,
-     "image": "https://www.bmr.ca/media/catalog/product/cache/44d3c3140199fe163ff776af7e30878d/0/0/002-7149_001.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "EMBOUT PHILLIPS IMPACT #1 3\"",
@@ -146,9 +149,8 @@
      "subcategory": "tool_accessories",
      "enriched": false,
      "productUrl": null,
-     "image": "https://www.bmr.ca/media/catalog/product/cache/44d3c3140199fe163ff776af7e30878d/0/0/002-7896_001.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     }
    ],
    "slug": "bmr"
@@ -556,7 +558,8 @@
       "duration": "Voir détails",
       "type": "manufacturer",
       "coverage": "Cat article est couvert par une garantie spéciale. Pour de plus amples renseignements sur la garantie, rendez-vous à votre magasin Canadian Tire."
-     }
+     },
+     "imageFile": "083_5519_0_med.webp"
     },
     {
      "printed": "BATON HOCK.RUE",
@@ -578,7 +581,8 @@
       "duration": "Voir détails",
       "type": "manufacturer",
       "coverage": "Cat article est couvert par une garantie spéciale. Pour de plus amples renseignements sur la garantie, rendez-vous à votre magasin Canadian Tire."
-     }
+     },
+     "imageFile": "083_4002_4_med.webp"
     },
     {
      "printed": "FO MATRICEE LIC",
@@ -595,9 +599,8 @@
      "subcategory": null,
      "enriched": false,
      "productUrl": null,
-     "image": "https://media-www.canadiantire.ca/product/fixing/paint/paint-accessories/0494811/drop-sheet-plastic-10-x25-3-5mil-heavy-0e79ba3d-04b2-406d-b75a-7d6f23bb7602-jpgrendition.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "BALLE TENNIS MT",
@@ -619,7 +622,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "084_1819_8_med.webp"
     },
     {
      "printed": "(GUIM DARE BANA",
@@ -641,7 +645,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "153_4133_6_med.webp"
     },
     {
      "printed": "CASQ BASE MVP C",
@@ -663,7 +668,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "183_1986_2_med.webp"
     },
     {
      "printed": "TL PRT LRD BN 1",
@@ -685,7 +691,8 @@
       "duration": "Voir détails",
       "type": "manufacturer",
       "coverage": "Cet article n'est pas couvert par une garantie du fabricant."
-     }
+     },
+     "imageFile": "049_4811_2_med.webp"
     },
     {
      "printed": "BONB. BUTANE5,60",
@@ -707,7 +714,8 @@
       "duration": "Voir détails",
       "type": "manufacturer",
       "coverage": "Cat article est couvert par une garantie spéciale. Pour de plus amples renseignements sur la garantie, rendez-vous à votre magasin Canadian Tire."
-     }
+     },
+     "imageFile": "058_0070_6_med.webp"
     },
     {
      "printed": "ECOFRAIS",
@@ -724,9 +732,8 @@
      "subcategory": "environmental_fee",
      "enriched": false,
      "productUrl": null,
-     "image": "https://media-www.canadiantire.ca/product/playing/team-sports-and-golf/sports-equipment-accessories/0841819/matrix-tennis-balls-3-pack-d384819a-14cf-455c-b01e-3193cbc1ec99-jpgrendition.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "PILE ALC ENR AA",
@@ -748,7 +755,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "065_1020_2_med.webp"
     },
     {
      "printed": "ECOFRAIS",
@@ -765,9 +773,8 @@
      "subcategory": "environmental_fee",
      "enriched": false,
      "productUrl": null,
-     "image": "https://media-www.canadiantire.ca/product/playing/hockey/hockey-accessories/1831986/montreal-canadiens-mass-basic-mvp-cap-adult-1b0b7770-5259-4e50-9225-ace6ae1113a7-jpgrendition.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "PILE ALC AA ENR",
@@ -789,7 +796,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "065_0052_2_med.webp"
     },
     {
      "printed": "ECOFRAIS",
@@ -806,9 +814,8 @@
      "subcategory": "environmental_fee",
      "enriched": false,
      "productUrl": null,
-     "image": "https://media-www.canadiantire.ca/product/fixing/hardware/household-batteries/0650052/energizer-max-alkaline-aa-24-1aadbfdd-3835-4777-848d-5ae3a50d46bc-jpgrendition.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "MINI-MEULE EN L",
@@ -830,7 +837,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "054_1324_6_med.webp"
     },
     {
      "printed": "DETRT NTTY LIQ",
@@ -852,7 +860,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "043_1792_6_med.webp"
     },
     {
      "printed": "EQ.H.R RW 4P 21",
@@ -874,7 +883,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "083_2214_2_med.webp"
     },
     {
      "printed": "CRT LT TRP 4X6'",
@@ -896,7 +906,8 @@
       "duration": "1 an",
       "type": "manufacturer",
       "coverage": "Si cet article est défectueux, il est couvert par la garantie du fabricant. Dans le cas où aucune garantie n'est indiquée, cet article est couvert par une garantie de un an honorée dans tout magasin C..."
-     }
+     },
+     "imageFile": "040_5124_0_med.webp"
     }
    ],
    "slug": "canadian-tire"
@@ -930,7 +941,8 @@
      "enriched": true,
      "productUrl": "https://www.costco.ca/p/-/palmolive-advanced-dish-liquid-427-l/4000176557",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/costco_3862780_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "costco_3862780_med.webp"
     },
     {
      "printed": "RENOUV PRIVI",
@@ -966,7 +978,8 @@
      "enriched": true,
      "productUrl": "https://sameday.costco.ca/store/costco-canada/products/21019261-pretzel-crisps-original-flavor-pretzel-crisps-737-grm",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/costco_262313_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "costco_262313_med.webp"
     },
     {
      "printed": "BRETZELS",
@@ -984,7 +997,8 @@
      "enriched": true,
      "productUrl": "https://sameday.costco.ca/store/costco-canada/products/21019261-pretzel-crisps-original-flavor-pretzel-crisps-737-grm",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/costco_262313_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "costco_262313_med.webp"
     },
     {
      "printed": "COMBINAISON",
@@ -1020,7 +1034,8 @@
      "enriched": true,
      "productUrl": "https://www.costco.ca/p/-/sunice-mens-short/4000425042",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/costco_1880502_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "costco_1880502_med.webp"
     },
     {
      "printed": "SOURIS MINI",
@@ -1056,7 +1071,8 @@
      "enriched": true,
      "productUrl": "https://sameday.costco.ca/store/costco-canada/products/88338557-kirkland-signature-diapers-size-6-132-ct",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/costco_1920495_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "costco_1920495_med.webp"
     }
    ],
    "slug": "costco"
@@ -1090,7 +1106,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/chaussures-de-sport-enfant-soft-140/145009/c195c218c4m8368186",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_2101414_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_2101414_med.webp"
     },
     {
      "printed": "MF COMPACT L TOWEL JUNGLE GREEN",
@@ -1108,7 +1125,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/serviette-de-bain-en-microfibre-taille-g-80-cm-x-130-cm/158325/c273c192m8543246",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_2743985_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_2743985_med.webp"
     },
     {
      "printed": "BACPACK NH100 10L BLUE 10 L",
@@ -1126,7 +1144,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/sac-a-dos-de-randonnee-10-l-arpenaz-50/301684/c43m8502149",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_2487053_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_2487053_med.webp"
     },
     {
      "printed": "TRIPOD 100 LIGHT BLUE No Size",
@@ -1144,7 +1163,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/tabouret-de-camping/13373/c193m8975016",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_5709995_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_5709995_med.webp"
     },
     {
      "printed": "GOAL NG140S BLACK / WHITE No Size",
@@ -1162,7 +1182,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/but-de-soccer-kage/304565/c382c200m8525840",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_2644981_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_2644981_med.webp"
     },
     {
      "printed": "ILS SET 3P PLAY COLO GIRL 2XS",
@@ -1180,7 +1201,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/ensemble-de-3-x-2-protections-de-patin-a-roues-alignees-enfant-play/14777/c43c200c289m8784953",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_4804174_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_4804174_med.webp"
     },
     {
      "printed": "ILS LEARN100 JR CAKTUS BEIGE 10.5C - 12.5C",
@@ -1198,7 +1220,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/patins-a-roues-alignees-enfant-learn-100/324270/c179c277c349m8580562",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_4004224_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_4004224_med.webp"
     },
     {
      "printed": "KH 500 BLUE XS 48-52 cm",
@@ -1216,7 +1239,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/casque-de-velo-500-enfants/338990/c209c202m8737457",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_4517772_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_4517772_med.webp"
     },
     {
      "printed": "SANDALS MH900 JR BLUE RED 10.5C - 11.5C",
@@ -1234,7 +1258,8 @@
      "enriched": true,
      "productUrl": "https://www.decathlon.ca/fr/p/sandales-respirantes-de-randonnee-enfant-mh-900-bleu/310869/c231c242m8927375",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/decathlon_5425825_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "decathlon_5425825_med.webp"
     }
    ],
    "slug": "decathlon"
@@ -1267,9 +1292,8 @@
      "subcategory": "snacks_candy",
      "enriched": true,
      "productUrl": "https://www.upcitemdb.com/norob/alink/?id=u2o203v2330364c4x2t2&tid=1&seq=1787106889&plt=1814903fbfe08597555f9334caa12edb",
-     "image": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_9c0dc67e-c58e-4883-9cdf-34e9498590eb.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "EXCEL MENTHE",
@@ -1287,7 +1311,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_064900431432_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_064900431432_med.webp"
     },
     {
      "printed": "SUCETTES",
@@ -1305,7 +1330,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_631552022365_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_631552022365_med.webp"
     },
     {
      "printed": "SUCETTES",
@@ -1323,7 +1349,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_631552022365_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_631552022365_med.webp"
     },
     {
      "printed": "2 for $1.25",
@@ -1340,9 +1367,8 @@
      "subcategory": null,
      "enriched": false,
      "productUrl": null,
-     "image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/98e819af-10c3-4ed1-b0e6-70a18e51277b-retina-large.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "BATEAU JOUET",
@@ -1360,7 +1386,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_667888259748_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_667888259748_med.webp"
     },
     {
      "printed": "VIM VAPORISATEUR",
@@ -1378,7 +1405,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_067238000837_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_067238000837_med.webp"
     },
     {
      "printed": "IC FRN EVERYDAY",
@@ -1414,7 +1442,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_667888333745_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_667888333745_med.webp"
     },
     {
      "printed": "NAPPE TABLE",
@@ -1432,7 +1461,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_667888333745_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_667888333745_med.webp"
     },
     {
      "printed": "LIVRE SONORE",
@@ -1449,9 +1479,8 @@
      "subcategory": "books",
      "enriched": true,
      "productUrl": null,
-     "image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/575f1967-388d-4c15-bdf5-39ef7e2d8232-retina-large.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "LIVRE",
@@ -1468,9 +1497,8 @@
      "subcategory": "books",
      "enriched": true,
      "productUrl": null,
-     "image": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_d6fae952-49f2-4bb0-ab16-7ef7b48ed900.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "JEU A PECHE",
@@ -1488,7 +1516,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_667888159451_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_667888159451_med.webp"
     },
     {
      "printed": "CHANDELLE",
@@ -1506,7 +1535,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_667888217144_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_667888217144_med.webp"
     },
     {
      "printed": "BULLES DE SAVON",
@@ -1524,7 +1554,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/dollarama_667888160150_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "dollarama_667888160150_med.webp"
     }
    ],
    "slug": "dollarama"
@@ -1558,7 +1589,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/bennett-5-pack-9-1-2-inch-tray-liners-for-1-gallon/1000751774",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/772783115621_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "772783115621_med.webp"
     },
     {
      "printed": "RECHARGES <A>",
@@ -1576,7 +1608,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/behr-edger-refill-pads-for-edgers-and-tight-space-painter-2-pack/1001812699",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/678885212865_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "678885212865_med.webp"
     },
     {
      "printed": "APPLICATEUR <A>",
@@ -1594,7 +1627,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/behr-5-75-in-premium-edger-painter-with-extension-pole-adapter/1001812697",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/678885212841_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "678885212841_med.webp"
     },
     {
      "printed": "CDN 18 HD <A>",
@@ -1612,7 +1646,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/bennett-18-inch-paint-roller-cage-with-quick-release/1001916009",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/772783124265_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "772783124265_med.webp"
     },
     {
      "printed": "MP 18-10 <A>",
@@ -1630,7 +1665,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/bennett-18-inch-micro-pro-roller-10mm/1001916022",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/772783117427_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "772783117427_med.webp"
     },
     {
      "printed": "Mélangeur <A>",
@@ -1648,7 +1684,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/a-richard-stirwhip-mixer/1000723877",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/066395550049_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "066395550049_med.webp"
     },
     {
      "printed": "REMPL.DECOUP <A>",
@@ -1666,7 +1703,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/bennett-4-inch-mini-multicoloured-rollers-2-pack/1000412701",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/772783110305_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "772783110305_med.webp"
     },
     {
      "printed": "NETTPINETRO <A>",
@@ -1684,7 +1722,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/bennett-spinner-brush-roller/1000413826",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/772783107220_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "772783107220_med.webp"
     },
     {
      "printed": "PQT/10 RL.4\" <A>",
@@ -1702,7 +1741,8 @@
      "enriched": true,
      "productUrl": "https://www.homedepot.ca/product/bennett-4-inch-high-density-foam-refills-10-pack/1000661804",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/772783110268_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "772783110268_med.webp"
     }
    ],
    "slug": "home-depot"
@@ -1736,7 +1776,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/smycka-bouquet-artificiel-interieur-exterieur-eucalyptus-vert-80606260/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/80606260_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "80606260_med.webp"
     },
     {
      "printed": "BAGIS NN chld coat h",
@@ -1754,7 +1795,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/bagis-cintres-pour-enfant-multicolore-60591014/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/60591014_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "60591014_med.webp"
     },
     {
      "printed": "ORDNING utensl hldr",
@@ -1772,7 +1814,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/ordning-egouttoir-a-couverts-blanc-20605881/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/20605881_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "20605881_med.webp"
     },
     {
      "printed": "KALAS NN plate mixed",
@@ -1790,7 +1833,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/kalas-assiette-multicolore-80461380/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/80461380_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "80461380_med.webp"
     },
     {
      "printed": "KALAS bwl mixed colo",
@@ -1808,7 +1852,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/kalas-bol-multicolore-edition-saisonniere-70620092/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/70620092_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "70620092_med.webp"
     },
     {
      "printed": "KALAS tmblr mixed co",
@@ -1826,7 +1871,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/kalas-gobelet-multicolore-edition-saisonniere-50620093/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/50620093_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "50620093_med.webp"
     },
     {
      "printed": "KALAS spoon mixed co",
@@ -1844,7 +1890,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/kalas-cuillere-multicolore-edition-saisonniere-00620095/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/00620095_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "00620095_med.webp"
     },
     {
      "printed": "VITMOSSA throw 120x1",
@@ -1862,7 +1909,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/vitmossa-jete-gris-90304889/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/90304889_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "90304889_med.webp"
     },
     {
      "printed": "GULVIAL bath twl 70x",
@@ -1880,7 +1928,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/gulvial-serviette-de-bain-blanc-00579661/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/00579661_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "00579661_med.webp"
     },
     {
      "printed": "GULVIAL hand twl 40x",
@@ -1898,7 +1947,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/gulvial-essuie-mains-beige-50579687/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/50579687_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "50579687_med.webp"
     },
     {
      "printed": "APTITLIG chop brd 45",
@@ -1916,7 +1966,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/aptitlig-planche-a-decouper-bambou-80233430/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/80233430_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "80233430_med.webp"
     },
     {
      "printed": "RINNIG dish brsh gra",
@@ -1934,7 +1985,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/rinnig-brosse-a-vaisselle-gris-30407814/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/30407814_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "30407814_med.webp"
     },
     {
      "printed": "DVALA pwc QN gray-gr",
@@ -1952,7 +2004,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/dvala-taie-doreiller-gris-vert-70549675/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/70549675_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "70549675_med.webp"
     },
     {
      "printed": "IKEA 365+ ov dsh 38x",
@@ -1970,7 +2023,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/ikea-365-plat-a-four-blanc-40286736/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/40286736_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "40286736_med.webp"
     },
     {
      "printed": "BJÖRKASEN laptp stnd",
@@ -1988,7 +2042,8 @@
      "enriched": true,
      "productUrl": "https://www.ikea.com/ca/fr/p/bjoerkasen-support-pr-portable-beige-90467838/",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/90467838_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "90467838_med.webp"
     }
    ],
    "slug": "ikea"
@@ -2022,7 +2077,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/05522008014_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "05522008014_med.webp"
     },
     {
      "printed": "BENS BE PLT ROTI RJ",
@@ -2040,7 +2096,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/05849645928_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "05849645928_med.webp"
     },
     {
      "printed": "BENS BE MEL LEGU RJ",
@@ -2058,7 +2115,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/05849645942_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "05849645942_med.webp"
     },
     {
      "printed": "BENS BE BASMATI RJ",
@@ -2076,7 +2134,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/05849645944_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "05849645944_med.webp"
     },
     {
      "printed": "PC MAX PAP HYG FRJ",
@@ -2093,9 +2152,8 @@
      "subcategory": "paper_products",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/006/148/303/2803/front_fr.3.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "PC EAU PET FRMB FPRJ",
@@ -2148,9 +2206,8 @@
      "subcategory": "snacks_candy",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/005/849/645/9444/front_en.32.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "HELLMANNS MAYO RJ",
@@ -2168,7 +2225,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06840015806_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06840015806_med.webp"
     },
     {
      "printed": "CLEV SS MJT FRM FPRJ",
@@ -2222,7 +2280,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/85645100095_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "85645100095_med.webp"
     },
     {
      "printed": "PC MORCX AVOCAT RJ",
@@ -2239,9 +2298,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/005/849/645/9284/front_fr.10.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "SAVEUR CANNELLE FRJ",
@@ -2259,7 +2317,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/68745621432_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "68745621432_med.webp"
     },
     {
      "printed": "APPLE CINN GRAN FRJ",
@@ -2277,7 +2336,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/68745622349_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "68745622349_med.webp"
     },
     {
      "printed": "NNNI POIVRONS RJ",
@@ -2330,9 +2390,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/006/840/015/8066/front_en.55.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "CAROTTES ET OIGNONS 3 LB RJ",
@@ -2368,7 +2427,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06148301471_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06148301471_med.webp"
     },
     {
      "printed": "DM MINI CONCOMBR RJ",
@@ -2386,7 +2446,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06148303280_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06148303280_med.webp"
     },
     {
      "printed": "OIGNONS DM RJ",
@@ -2403,9 +2464,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/068/745/621/4320/front_en.15.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "CAROTTES ET OIGNONS 3 LB RJ",
@@ -2476,9 +2536,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/006/148/301/4717/front_en.6.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "SAVOURO TOMATO RJ",
@@ -2532,7 +2591,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06582210060_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06582210060_med.webp"
     },
     {
      "printed": "CTLTT SRLNG PORC RJ",
@@ -2568,7 +2628,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06038300741_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06038300741_med.webp"
     },
     {
      "printed": "CAMP WW LF RJ",
@@ -2586,7 +2647,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06850510065_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06850510065_med.webp"
     },
     {
      "printed": "PAIN DIETE RJ",
@@ -2604,7 +2666,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06850510132_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06850510132_med.webp"
     },
     {
      "printed": "PAIN PROTEINES RJ",
@@ -2622,7 +2685,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/06850511011_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "06850511011_med.webp"
     },
     {
      "printed": "OLYML JAMB FOR N RJ",
@@ -2640,7 +2704,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/05745948057_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "05745948057_med.webp"
     },
     {
      "printed": "PC TRMP MAIS RUE RJ",
@@ -2657,9 +2722,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/006/850/510/1325/front_fr.39.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "GUSTA HACH VG OG RJ",
@@ -2677,7 +2741,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/62755210405_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "62755210405_med.webp"
     },
     {
      "printed": "FSA HUMM POIV RG RJ",
@@ -2695,7 +2760,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/77033302250_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "77033302250_med.webp"
     },
     {
      "printed": "TIMBRE PHY GAGNE Q",
@@ -2730,9 +2796,8 @@
      "subcategory": "pants",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/062/755/210/4057/front_en.27.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "SW HOODY FPRJ",
@@ -2749,9 +2814,8 @@
      "subcategory": "outerwear",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/077/033/302/2504/front_en.41.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "LLBL PBS AUX BAI RJ",
@@ -2769,7 +2833,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/81002440238_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "81002440238_med.webp"
     },
     {
      "printed": "BON FABR",
@@ -2875,7 +2940,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/off_1775963102714_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "off_1775963102714_med.webp"
     },
     {
      "printed": "LIPTON SOUPE ENV",
@@ -2910,9 +2976,8 @@
      "subcategory": "snacks_candy",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/006/850/510/2285/front_fr.22.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "PTQUE FROM.BLOC",
@@ -2947,9 +3012,8 @@
      "subcategory": "dairy_eggs",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/359/671/048/6762/front_fr.48.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "LA TRAPPE CHEDDA",
@@ -2985,7 +3049,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/off_1775963119481_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "off_1775963119481_med.webp"
     },
     {
      "printed": "OIGNON ROUGE JUM",
@@ -3020,9 +3085,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/325/039/080/6011/front_fr.61.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "CONCOMBRE SANS P",
@@ -3058,7 +3122,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/off_1775963130215_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "off_1775963130215_med.webp"
     }
    ],
    "slug": "metro"
@@ -3092,7 +3157,8 @@
      "enriched": true,
      "productUrl": "https://www.princessauto.com/fr/product/grande-caisse-de-rangement-pour-munitions-polyvalente-en-poly/PA0008747214/8747214",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/princessauto_8747214_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "princessauto_8747214_med.webp"
     },
     {
      "printed": "GOGGLE SAFETY CLEAR",
@@ -3146,7 +3212,8 @@
      "enriched": true,
      "productUrl": "https://www.princessauto.com/fr/product/film-%C3%A9tirable-5-po-x-1-000-pi/PA0009166257/9166257",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/princessauto_9166257_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "princessauto_9166257_med.webp"
     },
     {
      "printed": "BRACKET 10IN PLANT IRON",
@@ -3182,7 +3249,8 @@
      "enriched": true,
      "productUrl": "https://www.princessauto.com/fr/product/%C3%A9pandeur-portatif-de-sel-graines/PA0008281511/8281511",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/princessauto_8281511_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "princessauto_8281511_med.webp"
     },
     {
      "printed": "GUN CAULKING DRPLSS MTL 9IN P",
@@ -3200,7 +3268,8 @@
      "enriched": true,
      "productUrl": "https://www.princessauto.com/fr/product/pistolet-%C3%A0-calfeutrer-anti-goutte/PA0008452682/8452682",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/princessauto_8452682_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "princessauto_8452682_med.webp"
     },
     {
      "printed": "VALVE HOSE SHUT OFF SINGLE",
@@ -3269,8 +3338,9 @@
      "subcategory": "tops",
      "enriched": true,
      "productUrl": "https://www.reitmans.com/fr/products/haut-en-tricot-avec-manches-en-dentelle-100-coton-492516?variant=47644742189156",
-     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/633ea8af98f46e9e801b674745e1dfa00d865678_494160_359_B.jpg",
+     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/f32fbe5bbb9e0a1ef026cdbed28b0f15197cb35c_492516_957_B.jpg",
      "warranty": null,
+     "imageFile": "e244aa97a5b1.jpg",
      "imageSource": "merchant"
     },
     {
@@ -3288,8 +3358,9 @@
      "subcategory": "tops",
      "enriched": true,
      "productUrl": "https://www.reitmans.com/fr/products/t-shirt-col-rond-r-essentiels-491939?variant=47690678567012",
-     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/9c206cbecbda02260658280a51a66a5a6ccb30c6_483395_461_B.jpg",
+     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/01cd984440021934fee851f4f252f36b85159957_491939_749_B.jpg",
      "warranty": null,
+     "imageFile": "98516ba9afea.jpg",
      "imageSource": "merchant"
     },
     {
@@ -3307,8 +3378,9 @@
      "subcategory": "dresses_skirts",
      "enriched": true,
      "productUrl": "https://www.reitmans.com/fr/products/jupe-maxi-en-maille-pique-mlange-53-viscose-494160?variant=47644617670756",
-     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/f32fbe5bbb9e0a1ef026cdbed28b0f15197cb35c_492516_957_B.jpg",
+     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/633ea8af98f46e9e801b674745e1dfa00d865678_494160_359_B.jpg",
      "warranty": null,
+     "imageFile": "7a5d1978486f.jpg",
      "imageSource": "merchant"
     },
     {
@@ -3326,8 +3398,9 @@
      "subcategory": "pants",
      "enriched": true,
      "productUrl": "https://www.reitmans.com/fr/products/jean-jambe-large-et-taille-haute-483395?variant=47644661383268",
-     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/01cd984440021934fee851f4f252f36b85159957_491939_749_B.jpg",
+     "image": "https://cdn.shopify.com/s/files/1/0691/7888/4196/files/9c206cbecbda02260658280a51a66a5a6ccb30c6_483395_461_B.jpg",
      "warranty": null,
+     "imageFile": "7c9230924166.jpg",
      "imageSource": "merchant"
     }
    ],
@@ -3366,7 +3439,8 @@
       "duration": "1 year",
       "type": "manufacturer",
       "coverage": "manufacturing defects"
-     }
+     },
+     "imageFile": "55636864755_med.webp"
     },
     {
      "printed": "PALMIER 10 MAJESTY",
@@ -3384,7 +3458,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/en/product/costa-nursery-10-in-pot-majesty-palm-tree-mp11-loose-67325062",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/22532705611_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "22532705611_med.webp"
     },
     {
      "printed": "PROTECTEUR BOIS CEDRE 3.78L",
@@ -3402,7 +3477,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/en/product/techniseal-378-l-translucent-matte-cedar-maintenance-free-wood-protector-144-353-79245036",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/773758143533_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "773758143533_med.webp"
     },
     {
      "printed": "CAGE TOMATE GALVANISE 33",
@@ -3420,7 +3496,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/en/product/panacea-33-in-high-galvanized-steel-tomato-cage-89723l-4220001",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/93432897232_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "93432897232_med.webp"
     },
     {
      "printed": "FINES HERBES 9CM",
@@ -3438,7 +3515,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/en/product/assorted-fine-herbs-9-cm-pot-00011-42895006",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/620869000111_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "620869000111_med.webp"
     },
     {
      "printed": "PINCEAU TEINT./PEINT. 125MM",
@@ -3456,7 +3534,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/en/product/simms-plastic-handle-extra-thick-synthetic-bristle-polyester-paint-brush-5-in-w-1960-5-01585145",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/58391196024_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "58391196024_med.webp"
     },
     {
      "printed": "VIVACE 9CM",
@@ -3474,7 +3553,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/en/product/perennials-assorted-00003-42895001",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/620869000036_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "620869000036_med.webp"
     },
     {
      "printed": "OSTEOSPERMUM BLUE ICE 6",
@@ -3491,9 +3571,8 @@
      "subcategory": "plants_seeds",
      "enriched": false,
      "productUrl": null,
-     "image": "https://cdn.rona.ca/images/67325062_L.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "PLANTE REPULSIVE 11CM",
@@ -3511,7 +3590,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/en/product/repellent-plant-45-assorted-vmix001-11rp-42895079",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/620869002450_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "620869002450_med.webp"
     },
     {
      "printed": "INTIENE NOUVELLE GUINEE 10T",
@@ -3567,7 +3647,8 @@
       "duration": "Aucune",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "93994018335_med.webp"
     },
     {
      "printed": "TEINTURE/BOIS CN B.HUILE 946ML",
@@ -3589,7 +3670,8 @@
       "duration": "Aucune",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "67166700472_med.webp"
     },
     {
      "printed": "BROSSE GONG MANCHE COURT 5 NR",
@@ -3611,7 +3693,8 @@
       "duration": "Limitée d&#039;un an",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "61747077410_med.webp"
     },
     {
      "printed": "VERNIS FINI SAT.BASE EAU 472ML",
@@ -3633,7 +3716,8 @@
       "duration": "Limitée de 15 ans",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "627720160311_med.webp"
     },
     {
      "printed": "GRATTOIR DECAPER PROF.MUL.2902",
@@ -3655,7 +3739,8 @@
       "duration": "Aucune",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "66395039025_med.webp"
     },
     {
      "printed": "TUYAU/REGULATEUR 20",
@@ -3677,7 +3762,8 @@
       "duration": "Limitée d&#039;un an",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "841308104096_med.webp"
     },
     {
      "printed": "SCELLANT SILIC+ C/SDB BC 300ML",
@@ -3699,7 +3785,8 @@
       "duration": "Garantie à vie",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "70798733763_med.webp"
     },
     {
      "printed": "SCELLANT SILICONE+P/F BC 300ML",
@@ -3721,7 +3808,8 @@
       "duration": "Garantie à vie",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "70798733503_med.webp"
     },
     {
      "printed": "GANT TRAVAIL NITRILE NR/BL G",
@@ -3743,7 +3831,8 @@
       "duration": "Limitée d&#039;un an",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "6971815691247_med.webp"
     },
     {
      "printed": "PILE ALCALINE AA 16PK",
@@ -3765,7 +3854,8 @@
       "duration": "5 ans",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "6911334033289_med.webp"
     },
     {
      "printed": "PILE ALCALINE AAA 16PK",
@@ -3787,7 +3877,8 @@
       "duration": "5 ans",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "6911334033296_med.webp"
     },
     {
      "printed": "RONDEL.P-CH.5/16X1/4(50)162387",
@@ -3805,7 +3896,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/fr/produit/rondelles-de-protection-en-acier-precision-zinc-paquet-de-50-5-16-po-diametre-interne-x-1-1-4-po-externe-162-387-63866511",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/135457_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "135457_med.webp"
     },
     {
      "printed": "NETTOYANT BBQ GRILLE 950ML",
@@ -3827,7 +3919,8 @@
       "duration": "Limitée de 90 jours",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "68811822433_med.webp"
     },
     {
      "printed": "FEUILLE DE CUISSON NR 40X50CM",
@@ -3849,7 +3942,8 @@
       "duration": "Un an",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "688864241663_med.webp"
     },
     {
      "printed": "GANT TRAVAIL NITRILE NR/BL TG",
@@ -3871,7 +3965,8 @@
       "duration": "Limitée d&#039;un an",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "6971815690639_med.webp"
     },
     {
      "printed": "DRACAENA GOLDEN HEART 10",
@@ -3893,7 +3988,8 @@
       "duration": "Aucune",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "22532183914_med.webp"
     },
     {
      "printed": "CLOU COMMUN 6X CH",
@@ -3910,9 +4006,8 @@
      "subcategory": "hardware_fasteners",
      "enriched": false,
      "productUrl": null,
-     "image": "https://cdn.rona.ca/images/63585009_L.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "CLOU COMMUN BRILLANT 8X CH",
@@ -3929,9 +4024,8 @@
      "subcategory": "hardware_fasteners",
      "enriched": false,
      "productUrl": null,
-     "image": "https://cdn.rona.ca/images/04705000_L.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "BORDURE PR PAVES PLAST.NOIR 6'",
@@ -3953,7 +4047,8 @@
       "duration": "Aucune",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "742786915658_med.webp"
     },
     {
      "printed": "PANNEAU PR BASE PAVE NR 24X36",
@@ -3975,7 +4070,8 @@
       "duration": "À vie limitée",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "851214003000_med.webp"
     },
     {
      "printed": "PIERRE RIVIERE 18KG 5/8-3/4",
@@ -3997,7 +4093,8 @@
       "duration": "Aucune",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "778069110335_med.webp"
     },
     {
      "printed": "GRAVIER 1/4 30KG",
@@ -4015,7 +4112,8 @@
      "enriched": true,
      "productUrl": "https://www.rona.ca/fr/produit/charbonneau-floral-gravier-floral-de-charbonneau-1-4-po-fondation-stable-30-kg-8300-6081001",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/58639608302_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "58639608302_med.webp"
     },
     {
      "printed": "POUSSIERE ROCHE 30KG 2020S30",
@@ -4037,7 +4135,8 @@
       "duration": "Limitée d&#039;un an",
       "type": "manufacturer",
       "coverage": "Garantie du fabricant"
-     }
+     },
+     "imageFile": "61105202010_med.webp"
     }
    ],
    "slug": "rona-plus"
@@ -4070,8 +4169,9 @@
      "subcategory": "sneakers",
      "enriched": true,
      "productUrl": "https://www.sportsexperts.ca/en-CA/p-mercurial-vapor-16-academy-adult-turf-soccer-shoes/334910/334910-5",
-     "image": "https://fglprdcdn.azureedge.net/images/363373-na-1-Large.jpg",
+     "image": "https://fglprdcdn.azureedge.net/images/334910-700-1-Large.jpg",
      "warranty": null,
+     "imageFile": "eb276bdb2eb0.jpg",
      "imageSource": "merchant"
     },
     {
@@ -4089,8 +4189,9 @@
      "subcategory": "kids_footwear",
      "enriched": true,
      "productUrl": "https://www.sportsexperts.ca/en-CA/p-ultra-press-fg-kids-outdoor-soccer-shoes/350758/350758-5",
-     "image": "https://fglprdcdn.azureedge.net/images/334910-700-1-Large.jpg",
+     "image": "https://fglprdcdn.azureedge.net/images/350758-bblk-1-Large.jpg",
      "warranty": null,
+     "imageFile": "abbc3f1b67aa.jpg",
      "imageSource": "merchant"
     },
     {
@@ -4108,9 +4209,8 @@
      "subcategory": "team_sports",
      "enriched": true,
      "productUrl": "https://www.sportsexperts.ca/en-CA/p-king-soccer-ball/363373/363373-1",
-     "image": "https://fglprdcdn.azureedge.net/images/350758-bblk-1-Large.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     }
    ],
    "slug": "sports-experts"
@@ -4144,7 +4244,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/giant-tiger-medium-enviro-bag",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1406528_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1406528_med.webp"
     },
     {
      "printed": "3PK GV POIVRONS",
@@ -4162,7 +4263,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/rainbow-peppers-3-pack-7",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1289387_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1289387_med.webp"
     },
     {
      "printed": "1.36K OIGNONS ROU",
@@ -4180,7 +4282,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/vegco-red-onions-1-kg-4",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1291119_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1291119_med.webp"
     },
     {
      "printed": "LAIT D'AMANDE 946",
@@ -4198,7 +4301,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/silk-fortified-almond-beverage-unsweetened-946-ml",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1468789_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1468789_med.webp"
     },
     {
      "printed": "BANANA INDIVIDUEL",
@@ -4252,7 +4356,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/litehouse-romano-caesar-dressing-dip-384-ml-2",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_0736111_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_0736111_med.webp"
     },
     {
      "printed": "CH S&TRP.RANCH 28",
@@ -4270,7 +4375,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/club-house-salads-n-dips-ranch-dressing-and-dip-mix-28g-1",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_0066476_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_0066476_med.webp"
     },
     {
      "printed": "4PK GV TOMATE PAQ",
@@ -4288,7 +4394,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/tomatoes-4-pack-4",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1289434_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1289434_med.webp"
     },
     {
      "printed": "TIGRE GÉA.MOY.SAC",
@@ -4306,7 +4413,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/giant-tiger-medium-enviro-bag",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1406528_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1406528_med.webp"
     },
     {
      "printed": "POMMES CORTLAND",
@@ -4324,7 +4432,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/cortland-apples-3-lb-1",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1291170_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1291170_med.webp"
     },
     {
      "printed": "COEURS DE ROMN 68",
@@ -4342,7 +4451,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/romaine-lettuce-hearts-3-pack",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1291123_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1291123_med.webp"
     },
     {
      "printed": "CROQ.CANNELLE CER",
@@ -4360,7 +4470,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/giant-value-cinnamon-crunch-cereal-300-g",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1471126_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1471126_med.webp"
     },
     {
      "printed": "CONCOMBRE ANGLAIS",
@@ -4378,7 +4489,8 @@
      "enriched": true,
      "productUrl": "https://www.gianttiger.com/fr/products/english-cucumber",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/gianttiger_1291111_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "gianttiger_1291111_med.webp"
     }
    ],
    "slug": "tigre-geant"
@@ -4411,8 +4523,10 @@
      "subcategory": "laundry",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/Bounce-Feuilles-Assouplissantes-Parfum-Fra-cheur-de-Grand-Air-120CT/10057876?classType=REGULAR&athbdg=L1102&from=/search",
-     "image": null,
-     "warranty": null
+     "image": "https://i5.walmartimages.com/asr/6b1d38a2-bd19-4953-b58d-a9aa2aa98be3.a02d9c66e7c07dce4cca09aee5ebeeb9.jpeg",
+     "warranty": null,
+     "imageFile": "df75bb488b88.jpeg",
+     "imageSource": "merchant"
     },
     {
      "printed": "POELE FRIRE",
@@ -4429,12 +4543,13 @@
      "subcategory": "cookware",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/Po-le-frire-antiadh-sive-en-aluminium-rev-tement-c-ramique-de-12-po-Mainstays/6000206769617?classType=REGULAR&athbdg=L1102&from=/search",
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/322/728/6000208322728.jpg",
+     "image": "https://i5.walmartimages.com/asr/a8a7467a-9f00-4d2e-972f-e1cca86e86cc.5310874bc257407eef888ff39b1a5607.jpeg",
      "warranty": {
       "duration": "1 year",
       "type": "manufacturer",
       "coverage": null
      },
+     "imageFile": "186ced9705ab.jpeg",
      "imageSource": "merchant"
     },
     {
@@ -4452,12 +4567,13 @@
      "subcategory": "cookware",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/T-fal-C-ramique-Essential-Faitout-Jumbo-de-5-pintes/19BVHHFIL9OC?classType=REGULAR&from=/search",
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/647/141/6000209647141.jpg",
+     "image": "https://i5.walmartimages.com/asr/3c86e8e7-64e3-4468-8d97-0a48abb32a0e.da0684191f865b943a39dc3fdb54cf3a.jpeg",
      "warranty": {
       "duration": "1 year",
       "type": "manufacturer",
       "coverage": null
      },
+     "imageFile": "4e36090554d0.jpeg",
      "imageSource": "merchant"
     },
     {
@@ -4475,8 +4591,10 @@
      "subcategory": "cleaning_products",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/Great-Value-lingettes-d-sinfectantes-parfum-de-citron-75ct/10252815?classType=REGULAR&athbdg=L1600&from=/search",
-     "image": null,
-     "warranty": null
+     "image": "https://i5.walmartimages.com/asr/b08de97a-74a9-4add-b15e-e4e80b26048c.adccc7482e0d43e0c040353fda55b98c.jpeg",
+     "warranty": null,
+     "imageFile": "ee19653a1b4e.jpeg",
+     "imageSource": "merchant"
     },
     {
      "printed": "BOUTEILLE",
@@ -4493,12 +4611,14 @@
      "subcategory": "drinkware",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/Zak-Designs-Bouteille-Inox-Minecraft-13-5oz/2IS3GVJFATY5?classType=VARIANT&from=/search",
-     "image": null,
+     "image": "https://i5.walmartimages.com/asr/36f4cca1-5b92-4d4a-bc1a-e7823bd631e4.9ce4f49d0f5bb102501026ad08fd0ea3.jpeg",
      "warranty": {
       "duration": "1 year",
       "type": "manufacturer",
       "coverage": null
-     }
+     },
+     "imageFile": "e934094fe1a8.jpeg",
+     "imageSource": "merchant"
     },
     {
      "printed": "PANIER LINGE",
@@ -4515,8 +4635,10 @@
      "subcategory": "storage_organization",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/Sterilite-Panier-Linge-Ergonomique-44-Litres-vert-p-le/6000208904119?classType=REGULAR&athbdg=L1600&from=/search",
-     "image": null,
-     "warranty": null
+     "image": "https://i5.walmartimages.com/asr/c030dae8-4193-498f-987e-88f93070516a.494366216b785902c60fa87362efe3c8.jpeg",
+     "warranty": null,
+     "imageFile": "9170ff67b884.jpeg",
+     "imageSource": "merchant"
     },
     {
      "printed": "PYJAMA PAW P",
@@ -4551,9 +4673,8 @@
      "subcategory": "underwear_sleepwear",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/pyjama-2pices-avec-dbardeur-de-musculation-george-pour-garons-marine/5W2QID95S7B6?classType=VARIANT&from=/search",
-     "image": "https://i5.walmartimages.com/asr/a8a7467a-9f00-4d2e-972f-e1cca86e86cc.5310874bc257407eef888ff39b1a5607.jpeg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "DEBARDEUR",
@@ -4571,7 +4692,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/663480999190_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "663480999190_med.webp"
     },
     {
      "printed": "COM USURE",
@@ -4588,8 +4710,9 @@
      "subcategory": "underwear_sleepwear",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/carters-child-of-mine-sous-vtements-pour-tout-petits-garons-requin-bleu/6000208625742?classType=VARIANT&athbdg=L1102&from=/search",
-     "image": "https://i5.walmartimages.com/asr/6b1d38a2-bd19-4953-b58d-a9aa2aa98be3.a02d9c66e7c07dce4cca09aee5ebeeb9.jpeg",
+     "image": "https://i5.walmartimages.ca/images/Thumbnails/559/590/6000209559590.jpg",
      "warranty": null,
+     "imageFile": "9c623641ff64.jpg",
      "imageSource": "merchant"
     },
     {
@@ -4607,9 +4730,8 @@
      "subcategory": "tops",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/t-shirt-manches-courtes-hot-wheels-pour-garons-noir/14VQVB1JBCNN?classType=VARIANT&from=/search",
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/411/222/6000209411222.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "TSHIRT SHORT",
@@ -4626,9 +4748,8 @@
      "subcategory": "tops",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/ensemble-2-pices-avec-t-shirt-surdimensionn-george-pour-garons-cuivre/2PHE5N8T1HBY?classType=VARIANT&from=/search",
-     "image": "https://i5.walmartimages.com/asr/c030dae8-4193-498f-987e-88f93070516a.494366216b785902c60fa87362efe3c8.jpeg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "T-SHIRT",
@@ -4645,9 +4766,8 @@
      "subcategory": "tops",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/t-shirt-imprim-graphique-george-pour-garons-jaune/5CY3EVZ8BKYB?classType=VARIANT&from=/search",
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/682/775/6000209682775.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "T-SHIRT LIC",
@@ -4664,9 +4784,8 @@
      "subcategory": "tops",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/t-shirt-the-avengers-marvel-pour-garons-gris/6000207790662?classType=VARIANT&from=/search",
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/674/330/6000209674330.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "SHORT TSHIRT",
@@ -4684,7 +4803,8 @@
      "enriched": true,
      "productUrl": "https://www.walmart.com/ip/Womens-Poly-Cotton-Short-Sleeve-T-Shirt/175648590",
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/14_1780273405218_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "14_1780273405218_med.webp"
     },
     {
      "printed": "BARBOTEUSE",
@@ -4719,9 +4839,8 @@
      "subcategory": "pants",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/short-en-jersey-george-pour-petits-garons-gris/5M1BR6QYNGJK?classType=VARIANT&athbdg=L1102&from=/search",
-     "image": "https://i5.walmartimages.com/asr/8574f438-52d0-4417-8ee4-230483dcbb1f.24ff196c6a8c65af8a76a3d477af924f.png",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "SHORTS",
@@ -4738,9 +4857,8 @@
      "subcategory": "pants",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/short-en-jersey-george-pour-petits-garons-cuivre/2T0MAU4CPYYA?classType=VARIANT&from=/search",
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/775/257/6000209775257.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "SHORT CARGO",
@@ -4757,9 +4875,8 @@
      "subcategory": "pants",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/fr/ip/short-cargo-enfilable-george-pour-garons-marron/2R38SOL6CL1E?classType=VARIANT&from=/search",
-     "image": "https://i5.walmartimages.ca/images/Enlarge/728/675/6000209728675.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "SHORT GARCON",
@@ -4777,7 +4894,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/840468954893_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "840468954893_med.webp"
     },
     {
      "printed": "PANTL SPORT",
@@ -4795,7 +4913,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/663480994872_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "663480994872_med.webp"
     },
     {
      "printed": "GRBR P PLTS",
@@ -4830,9 +4949,8 @@
      "subcategory": null,
      "enriched": true,
      "productUrl": null,
-     "image": "https://i5.walmartimages.com/asr/36f4cca1-5b92-4d4a-bc1a-e7823bd631e4.9ce4f49d0f5bb102501026ad08fd0ea3.jpeg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "GBPITSRAV",
@@ -4849,9 +4967,8 @@
      "subcategory": null,
      "enriched": true,
      "productUrl": null,
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/799/320/6000209799320.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "GRBR P PLTS",
@@ -4868,9 +4985,8 @@
      "subcategory": null,
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/761/336/139/6809/front_xx.5.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "PRO VAN",
@@ -4887,9 +5003,8 @@
      "subcategory": null,
      "enriched": true,
      "productUrl": null,
-     "image": "https://i5.walmartimages.ca/images/Thumbnails/559/590/6000209559590.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "BOUCHES",
@@ -4907,7 +5022,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/627735010632_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "627735010632_med.webp"
     },
     {
      "printed": "LIL BEL MAN",
@@ -4925,7 +5041,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/810024402373_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "810024402373_med.webp"
     },
     {
      "printed": "LIL BELL FRS",
@@ -4943,7 +5060,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/810024401833_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "810024401833_med.webp"
     },
     {
      "printed": "ACT MANGUE",
@@ -4961,7 +5079,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/056800782400_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "056800782400_med.webp"
     },
     {
      "printed": "BISCOTTES CP",
@@ -4979,7 +5098,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/627735274898_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "627735274898_med.webp"
     },
     {
      "printed": "COLLATION",
@@ -4997,7 +5117,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/015000045920_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "015000045920_med.webp"
     },
     {
      "printed": "BG CITROUILE",
@@ -5019,7 +5140,8 @@
       "duration": "1 year",
       "type": "limited",
       "coverage": null
-     }
+     },
+     "imageFile": "628619881232_med.webp"
     },
     {
      "printed": "FRAMBOISES 1",
@@ -5036,9 +5158,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://images.openfoodfacts.org/images/products/005/680/078/2400/front_en.12.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "FRAMBOISES 1",
@@ -5055,9 +5176,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": null,
-     "image": "https://i5.walmartimages.com/asr/4f940a8b-de6c-43f1-bf79-3e2a67076a02.3235c5d6049cb4c9acd21efd59e15eda.jpeg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "ROMAINE 3PK",
@@ -5074,9 +5194,8 @@
      "subcategory": "produce",
      "enriched": true,
      "productUrl": "https://www.walmart.ca/en/ip/romaine-lettuce-hearts-pack-of-3/6000191271929",
-     "image": "https://images.openfoodfacts.org/images/products/001/500/004/5920/front_fr.3.400.jpg",
-     "warranty": null,
-     "imageSource": "merchant"
+     "image": null,
+     "warranty": null
     },
     {
      "printed": "MINIMFFN BL",
@@ -5094,7 +5213,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/627735258829_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "627735258829_med.webp"
     },
     {
      "printed": "BEUR SANSEL",
@@ -5112,7 +5232,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/628915829380_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "628915829380_med.webp"
     },
     {
      "printed": "KALANCHOES",
@@ -5148,7 +5269,8 @@
      "enriched": true,
      "productUrl": null,
      "image": "https://zroycvvhclkuaxusysgc.supabase.co/storage/v1/object/public/product-images/products/plu_48080_1780274471643_med.webp",
-     "warranty": null
+     "warranty": null,
+     "imageFile": "plu_48080_1780274471643_med.webp"
     }
    ],
    "slug": "walmart"

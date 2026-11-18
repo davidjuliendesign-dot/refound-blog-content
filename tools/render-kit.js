@@ -1,9 +1,8 @@
 // Visuels tirés de kit/receipts.json (vrais reçus nettoyés). Usage: node render-kit.js <slug-article> <outDir>
 // Gabarit réutilisable : flow() — « ligne imprimée → produit identifié (avec sa photo) → garantie ou date limite ».
 //  - Les lignes et produits viennent tels quels de kit/receipts.json (index d'articles choisis dans JOBS).
-//  - Photo produit : si un fichier local existe dans kit/images/ (nom = dernier segment de l'URL `image`,
-//    ex. 93994018335_med.webp), il est intégré ; sinon la colonne photo est omise. Les URL distantes ne
-//    sont jamais chargées (l'hôte des images n'est pas joignable depuis l'environnement de la routine).
+//  - Photo produit : champ `imageFile` (nom exact du fichier dans kit/images/) ; sans imageFile, pas de photo.
+//    Les URL distantes ne sont jamais chargées (l'hôte des images n'est pas joignable depuis la routine).
 //  - Règles de kit/README.md : jamais de code-barres, numéro de transaction, chiffres de carte, adresse de rue.
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
@@ -28,8 +27,8 @@ const KIT = JSON.parse(fs.readFileSync(path.join(ROOT, 'kit/receipts.json'), 'ut
 const esc = s => String(s).replace(/&#039;/g, '’').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/ /g, ' ');
 
 function photo(it) {
-  if (!it.image || it.imageSource === 'merchant') return null; // photos « merchant » : décalées (voir kit/README.md)
-  const f = path.join(ROOT, 'kit/images', it.image.split('/').pop());
+  if (!it.imageFile) return null; // nom exact du fichier dans kit/images/
+  const f = path.join(ROOT, 'kit/images', it.imageFile);
   if (!fs.existsSync(f)) return null;
   const ext = path.extname(f).slice(1).replace('jpg', 'jpeg');
   return `data:image/${ext};base64,${fs.readFileSync(f).toString('base64')}`;

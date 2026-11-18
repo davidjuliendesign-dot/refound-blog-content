@@ -69,6 +69,6 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 
 `render-rappel-produit.js` : `gap()` (écart entre l'achat et un événement, ex. avis de rappel, à l'échelle en mois avec ticks en années, et une fenêtre courte dorée superposée, ex. délai de retour de 90 jours), `where()` (deux colonnes « sur le reçu » / « sur le produit » reliées par un identifiant commun au centre) et une couverture sans texte (reçu fictif aux lignes floutées, loupe, triangle d'alerte).
 
-`render-kit.js` : `flow()` (lignes de `kit/receipts.json` : ligne imprimée → produit identifié → garantie ou date limite, avec la photo du produit si le fichier est présent dans `kit/images/` ; les URL distantes ne sont pas chargées). Les choix d'articles sont dans `JOBS`.
+`render-kit.js` : `flow()` (lignes de `kit/receipts.json` : ligne imprimée → produit identifié → garantie ou date limite, avec la photo du produit lue depuis le champ `imageFile` (fichier dans `kit/images/`) ; les URL distantes ne sont pas chargées). Les choix d'articles sont dans `JOBS`.
 
 `render-carousel.js` : carrousels 1080×1350 (`social/README.md`). Le contenu de chaque carrousel est dans `social/<slug>/slides.js` (types `hook`, `text`, `stat`, `receipt`, `cta`) ; rendu : `node render-carousel.js <slug> ../social/<slug>`.

@@ -14,7 +14,8 @@ et les carrousels : ligne imprimée → produit identifié → garantie → date
 - `productCode`, `quantity`, `unitPrice`, `total`, `regularPrice`, `discount`, `isReturn` ;
 - `category`, `subcategory` ;
 - `productUrl` : la fiche du produit chez le marchand ;
-- `image` : la photo du produit (URL publique, utilisable dans un visuel) ;
+- `image` : l'URL d'origine de la photo du produit ;
+- `imageFile` : le nom exact du fichier de cette photo dans `kit/images/` (c'est lui que les gabarits utilisent) ;
 - `warranty` : `duration`, `type`, `coverage`, quand elle est connue.
 
 ## Ce qui n'y est volontairement PAS (ne jamais le recréer)
@@ -31,4 +32,3 @@ fidélité, adresse de rue du magasin, nom de David. Quand un visuel montre un r
 - **Costco** : ne pas utiliser la `returnDeadline` du reçu Costco (90 jours). Le vrai délai de Costco : aucun, sauf pour l'électronique et les électroménagers.
 - **Decathlon** : la `returnDeadline` (365 jours) vaut seulement pour les membres. Ne pas la présenter comme le délai général de Decathlon.
 - **Bureau en Gros** : ne pas utiliser la ligne « BTS25 LG sarrau héro » : le produit identifié (ruban Brother TZe-251) est une erreur d'identification.
-- **Photos `imageSource: "merchant"`** (ajoutées le 18 novembre 2026) : elles ne correspondent pas à leur article (ex. « POELE FRIRE » → un t-shirt, « ECOFRAIS » → des balles de tennis). Ne pas les utiliser tant qu'elles n'ont pas été corrigées ; les gabarits de `tools/` les ignorent.
