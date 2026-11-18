@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-ikea",
   "enPath": "/en/blog/ikea-return-policy",
   "datePublished": "2026-11-02T09:00:00-05:00",
-  "dateModified": "2026-11-02T09:00:00-05:00",
+  "dateModified": "2026-11-18T16:00:00-05:00",
   "lastFactCheck": "2026-11-02",
   "cover": {
     "src": "/images/blog/politique-retour-ikea/cover.png",
@@ -369,7 +369,7 @@
           },
           {
             "type": "p",
-            "text": "Dans ReFound, le reçu, le produit identifié, le code-barres du reçu quand il est détecté et le mode de paiement sont regroupés dans la vue de retour. ReFound affiche une date limite de retour estimée selon la politique générale du marchand, quand elle est connue ; il ne sait pas si vous avez ouvert la boîte, donc le délai de 90 jours reste à surveiller vous-même. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. Pour un achat fait par un proche, voyez [comment partager un reçu](/blog/partager-recu-conjoint-famille)."
+            "text": "Dans ReFound, le mode retour (au comptoir) regroupe le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu. ReFound affiche une date limite de retour estimée selon la politique générale du marchand, quand elle est connue ; il ne sait pas si vous avez ouvert la boîte, donc le délai de 90 jours reste à surveiller vous-même. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. Pour un achat fait par un proche, voyez [comment partager un reçu](/blog/partager-recu-conjoint-famille)."
           }
         ]
       }
@@ -799,7 +799,7 @@
           },
           {
             "type": "p",
-            "text": "In ReFound, the receipt, the identified product, the receipt barcode when it's detected and the payment method are grouped in the return view. ReFound shows an estimated return deadline based on the merchant's general policy, when it's known; it doesn't know whether you opened the box, so the 90-day limit is yours to watch. With ReFound Pro, you get a reminder 3 days before the return deadline and 30 days before a warranty ends. For something a family member bought, see [how to share a receipt](/en/blog/share-receipt-with-partner-family)."
+            "text": "In ReFound, return mode (at the counter) brings together the receipt barcode when it's detected, the payment method and the receipt photo. ReFound shows an estimated return deadline based on the merchant's general policy, when it's known; it doesn't know whether you opened the box, so the 90-day limit is yours to watch. With ReFound Pro, you get a reminder 3 days before the return deadline and 30 days before a warranty ends. For something a family member bought, see [how to share a receipt](/en/blog/share-receipt-with-partner-family)."
           }
         ]
       }

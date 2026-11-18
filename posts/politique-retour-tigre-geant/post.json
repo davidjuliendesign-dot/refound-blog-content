@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-tigre-geant",
   "enPath": "/en/blog/giant-tiger-return-policy",
   "datePublished": "2026-11-17T09:00:00-05:00",
-  "dateModified": "2026-11-18T14:00:00-05:00",
+  "dateModified": "2026-11-18T16:00:00-05:00",
   "lastFactCheck": "2026-11-17",
   "cover": {
     "src": "/images/blog/politique-retour-tigre-geant/cover.png",
@@ -309,11 +309,50 @@
             "text": "ReFound sert surtout ici à garder une preuve d'achat lisible et facile à retrouver, longtemps après l'achat. Vous pouvez numériser les reçus de n'importe quel marchand, et Tigre Géant fait partie des marchands optimisés de l'app : l'information produit plus riche dépend du reçu et des données disponibles."
           },
           {
+            "type": "p",
+            "text": "Sur un reçu réel Tigre Géant du 19 juillet 2026, numérisé avec ReFound, la date limite de retour suit la politique générale du magasin : sans limite de temps. Pour ce reçu, il n'y a donc **aucune date limite de retour**, ce qui rend le reçu utile aussi longtemps que vous gardez les articles. Encore faut-il pouvoir lire les lignes :"
+          },
+          {
+            "type": "table",
+            "caption": "Reçu réel Tigre Géant du 19 juillet 2026 : ce que dit la ligne, et ce que ReFound a trouvé",
+            "headers": [
+              "Ligne imprimée",
+              "Produit identifié par ReFound",
+              "Date limite de retour"
+            ],
+            "rows": [
+              [
+                "LAIT D'AMANDE 946",
+                "Silk Boisson aux amandes enrichie zéro sucre, 946 ml",
+                "Aucune date limite"
+              ],
+              [
+                "TREMPETT.CESAR 38",
+                "Vinaigrette et trempette César Romano Litehouse, 384 ml",
+                "Aucune date limite"
+              ],
+              [
+                "CH S&TRP.RANCH 28",
+                "Mélange pour vinaigrette et trempette style ranch de Club House, 28 g",
+                "Aucune date limite"
+              ],
+              [
+                "4PK GV TOMATE PAQ",
+                "Tomates, emb. de 4",
+                "Aucune date limite"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "« CH S&TRP.RANCH 28 » est un mélange Club House de 28 g : sans le nom, il devient difficile de savoir, des mois plus tard, quelle ligne correspond à quel article. Les conditions décrites plus haut s'appliquent quand même : preuve d'achat, ventes fermes et usage de bonne foi."
+          },
+          {
             "type": "bullets",
             "items": [
               "**Une copie claire du reçu**, numérisée le jour de l'achat, avec le marchand, la date, le total et les articles extraits.",
               "**Un produit identifié quand c'est possible :** nom réel, image et lien vers la fiche du marchand, quand l'information est disponible.",
-              "**Une vue de retour** avec l'article mis en évidence, le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original.",
+              "**Un mode retour** (au comptoir) avec le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original.",
               "**Retrouver le reçu** en cherchant parmi vos reçus (gratuit), ou à partir de l'article, par son nom ou en le montrant à la caméra (ReFound Pro).",
               "**Partager le reçu** avec la personne qui fait le retour à votre place."
             ]
@@ -727,11 +766,50 @@
             "text": "Here, ReFound is mostly about keeping a readable proof of purchase that's easy to find long after you bought the item. You can scan receipts from any merchant, and Giant Tiger is one of the app's optimized merchants: richer product information depends on the receipt and the data available."
           },
           {
+            "type": "p",
+            "text": "On a real Giant Tiger receipt dated July 19, 2026, scanned with ReFound, the return deadline follows the store's general policy: no time limit. For this receipt, there is therefore **no return deadline**, which keeps the receipt useful for as long as you keep the items. You still need to be able to read the lines:"
+          },
+          {
+            "type": "table",
+            "caption": "Real Giant Tiger receipt, July 19, 2026: what the line says, and what ReFound found",
+            "headers": [
+              "Printed line",
+              "Product identified by ReFound",
+              "Return deadline"
+            ],
+            "rows": [
+              [
+                "LAIT D'AMANDE 946",
+                "Silk unsweetened fortified almond beverage, 946 ml",
+                "No deadline"
+              ],
+              [
+                "TREMPETT.CESAR 38",
+                "Litehouse Caesar Romano dressing and dip, 384 ml",
+                "No deadline"
+              ],
+              [
+                "CH S&TRP.RANCH 28",
+                "Club House ranch-style dressing and dip mix, 28 g",
+                "No deadline"
+              ],
+              [
+                "4PK GV TOMATE PAQ",
+                "Tomatoes, 4-pack",
+                "No deadline"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "\"CH S&TRP.RANCH 28\" is a 28 g Club House mix: without the name, it gets hard to tell, months later, which line matches which item. The conditions described above still apply: proof of purchase, final sales and good-faith use."
+          },
+          {
             "type": "bullets",
             "items": [
               "**A clear copy of the receipt**, scanned on the day you buy, with the merchant, date, total and items extracted.",
               "**The product identified when possible:** real name, image and link to the merchant's product page, when the information is available.",
-              "**A return view** with the item highlighted, the receipt barcode when it's detected, the payment method and the photo of the original receipt.",
+              "**A return mode** (at the counter) with the receipt barcode when it's detected, the payment method and the photo of the original receipt.",
               "**Find the receipt** by searching your receipts (free), or from the item, by its name or by showing it to the camera (ReFound Pro).",
               "**Share the receipt** with the person making the return for you."
             ]

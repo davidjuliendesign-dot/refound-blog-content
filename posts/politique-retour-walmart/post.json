@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-walmart",
   "enPath": "/en/blog/walmart-return-policy",
   "datePublished": "2026-11-04T09:00:00-05:00",
-  "dateModified": "2026-11-04T09:00:00-05:00",
+  "dateModified": "2026-11-18T16:00:00-05:00",
   "lastFactCheck": "2026-11-04",
   "cover": {
     "src": "/images/blog/politique-retour-walmart/cover.png",
@@ -16,7 +16,9 @@
     "retours-fetes-fr.png",
     "retours-fetes-en.png",
     "retour-vs-garantie-fr.png",
-    "retour-vs-garantie-en.png"
+    "retour-vs-garantie-en.png",
+    "recu-reel-fr.png",
+    "recu-reel-en.png"
   ],
   "fr": {
     "metaTitle": "Politique de retour Walmart Canada : délais, Fêtes 2026 | ReFound",
@@ -272,6 +274,57 @@
           {
             "type": "p",
             "text": "Quand le délai de retour est passé, la politique de Walmart ne prévoit plus de remboursement, mais un article défectueux n'est pas forcément perdu. La garantie du fabricant continue selon ses propres conditions et, au Québec, la loi ajoute deux garanties. Ce sont d'autres recours (réparation, remplacement), pas un remboursement : ils ne prolongent pas le délai de retour."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie du fabricant, sur un reçu réel Walmart"
+          },
+          {
+            "type": "p",
+            "text": "La garantie du fabricant dure souvent bien plus longtemps que le délai de retour, mais le reçu n'en dit rien. Sur un reçu réel Walmart du 26 mai 2026, numérisé avec ReFound, la date limite de retour estimée est le **24 août 2026** (90 jours, la politique générale de Walmart). Trois articles du même reçu ont pourtant une garantie du fabricant d'un an, jusqu'au 26 mai 2027 :"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-walmart/recu-reel-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Quatre lignes d'un reçu réel Walmart : POELE FRIRE, CER ES 5QT et BOUTEILLE identifiés par ReFound avec une garantie du fabricant d'un an jusqu'au 26 mai 2027, et PYJAMA PAW P retournable jusqu'au 24 août 2026",
+            "caption": "Un reçu réel Walmart : la ligne imprimée, le produit identifié par ReFound, puis la garantie ou la date limite de retour."
+          },
+          {
+            "type": "table",
+            "caption": "Reçu réel Walmart du 26 mai 2026 : ce que dit la ligne, et ce que ReFound a trouvé",
+            "headers": [
+              "Ligne imprimée",
+              "Produit identifié par ReFound",
+              "Garantie affichée"
+            ],
+            "rows": [
+              [
+                "POELE FRIRE",
+                "Poêle à frire antiadhésive en aluminium à revêtement céramique de 12 po Mainstays",
+                "1 an (fabricant), jusqu'au 26 mai 2027"
+              ],
+              [
+                "CER ES 5QT",
+                "T-fal Céramique Essential, faitout Jumbo de 5 pintes",
+                "1 an (fabricant), jusqu'au 26 mai 2027"
+              ],
+              [
+                "BOUTEILLE",
+                "Zak Designs, bouteille en inox Minecraft de 13,5 oz",
+                "1 an (fabricant), jusqu'au 26 mai 2027"
+              ],
+              [
+                "PYJAMA PAW P",
+                "Pyjama 2 pièces Pat'Patrouille pour garçons",
+                "Aucune garantie indiquée ; retour jusqu'au 24 août 2026"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "« CER ES 5QT » ne dit ni la marque ni qu'il s'agit d'un faitout T-fal garanti un an. ReFound garde la ligne imprimée et y associe, quand l'information est disponible, le produit nommé et sa garantie, avec sa date de fin. Ce sont les conditions du fabricant qui font foi. C'est un exemple réel : l'identification dépend du produit et des données disponibles."
           },
           {
             "type": "h3",
@@ -710,6 +763,57 @@
           {
             "type": "p",
             "text": "Once the return window has closed, Walmart's policy no longer offers a refund, but a defective item isn't necessarily a loss. The manufacturer's warranty still applies under its own terms, and in Quebec the law adds two warranties. These are different remedies (repair, replacement), not a refund: they don't extend the return window."
+          },
+          {
+            "type": "h3",
+            "text": "The manufacturer warranty, on a real Walmart receipt"
+          },
+          {
+            "type": "p",
+            "text": "A manufacturer warranty often lasts much longer than the return window, but the receipt says nothing about it. On a real Walmart receipt dated May 26, 2026, scanned with ReFound, the estimated return deadline is **August 24, 2026** (90 days, Walmart's general policy). Yet three items on the same receipt have a one-year manufacturer warranty, until May 26, 2027:"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-walmart/recu-reel-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Four lines from a real Walmart receipt: POELE FRIRE, CER ES 5QT and BOUTEILLE identified by ReFound with a one-year manufacturer warranty until May 26, 2027, and PYJAMA PAW P returnable until August 24, 2026",
+            "caption": "A real Walmart receipt: the printed line, the product identified by ReFound, then the warranty or the return deadline."
+          },
+          {
+            "type": "table",
+            "caption": "Real Walmart receipt, May 26, 2026: what the line says, and what ReFound found",
+            "headers": [
+              "Printed line",
+              "Product identified by ReFound",
+              "Warranty shown"
+            ],
+            "rows": [
+              [
+                "POELE FRIRE",
+                "Mainstays 12-in ceramic-coated aluminum non-stick frying pan",
+                "1 year (manufacturer), until May 26, 2027"
+              ],
+              [
+                "CER ES 5QT",
+                "T-fal Ceramic Essential 5-quart jumbo cooker",
+                "1 year (manufacturer), until May 26, 2027"
+              ],
+              [
+                "BOUTEILLE",
+                "Zak Designs 13.5-oz Minecraft stainless steel bottle",
+                "1 year (manufacturer), until May 26, 2027"
+              ],
+              [
+                "PYJAMA PAW P",
+                "PAW Patrol 2-piece pajama set for boys",
+                "No warranty listed; returnable until August 24, 2026"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "\"CER ES 5QT\" gives neither the brand nor the fact that it's a T-fal cooker with a one-year warranty. ReFound keeps the printed line and attaches, when the information is available, the named product and its warranty, with its end date. The manufacturer's terms apply. This is a real example: identification depends on the product and the data available."
           },
           {
             "type": "h3",

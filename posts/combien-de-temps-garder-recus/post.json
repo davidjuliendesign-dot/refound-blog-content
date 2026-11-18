@@ -4,7 +4,7 @@
   "frPath": "/blog/combien-de-temps-garder-recus",
   "enPath": "/en/blog/how-long-to-keep-receipts",
   "datePublished": "2026-11-14T09:00:00-05:00",
-  "dateModified": "2026-11-14T09:00:00-05:00",
+  "dateModified": "2026-11-18T16:00:00-05:00",
   "lastFactCheck": "2026-11-14",
   "cover": {
     "src": "/images/blog/combien-de-temps-garder-recus/cover.png",
@@ -305,7 +305,7 @@
               "**Produit identifié** : le nom réel, l'image et le lien vers la fiche, quand l'information est disponible (ex. « LAMPE DEL GARAG » devient NOMA LED Garage Light).",
               "**Garantie et date de fin** : garantie du magasin ou du fabricant, avec sa date de fin calculée, quand elle est disponible. Certaines sont estimées ; les conditions du fabricant ou du magasin font foi.",
               "**Date limite de retour estimée** : calculée selon la politique générale du marchand, pas selon les exceptions par catégorie. Vérifiez la politique officielle pour l'électronique et les autres exceptions.",
-              "**Avec ReFound Pro** (4,99 $/mois ou 39,99 $/an) : un rappel 3 jours avant la date limite de retour, un rappel 30 jours avant la fin d'une garantie, la recherche illimitée et la sauvegarde cloud."
+              "**Avec ReFound Pro** (4,99 $/mois ou 39,99 $/an) : un rappel 3 jours avant la date limite de retour, un rappel 30 jours avant la fin d'une garantie, la recherche par article (par son nom ou à la caméra) et la sauvegarde cloud."
             ]
           },
           {
@@ -727,7 +727,7 @@
               "**Product identified**: the real name, image and product page link, when the information is available (e.g. \"LAMPE DEL GARAG\" becomes a NOMA LED Garage Light).",
               "**Warranty and end date**: store or manufacturer warranty with its calculated end date, when available. Some are estimated; the manufacturer's or store's terms prevail.",
               "**Estimated return deadline**: based on the merchant's general policy, not on category exceptions. Check the official policy for electronics and other exceptions.",
-              "**With ReFound Pro** ($4.99/month or $39.99/year): a reminder 3 days before the return deadline, a reminder 30 days before a warranty expires, unlimited search and cloud backup."
+              "**With ReFound Pro** ($4.99/month or $39.99/year): a reminder 3 days before the return deadline, a reminder 30 days before a warranty expires, item search (by name or with the camera) and cloud backup."
             ]
           },
           {

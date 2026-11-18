@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-rona",
   "enPath": "/en/blog/rona-return-policy",
   "datePublished": "2026-11-03T09:00:00-05:00",
-  "dateModified": "2026-11-04T07:30:00-05:00",
+  "dateModified": "2026-11-18T16:00:00-05:00",
   "lastFactCheck": "2026-11-03",
   "cover": {
     "src": "/images/blog/politique-retour-rona/cover.png",
@@ -16,7 +16,9 @@
     "delais-retour-fr.png",
     "delais-retour-en.png",
     "retour-vs-garantie-fr.png",
-    "retour-vs-garantie-en.png"
+    "retour-vs-garantie-en.png",
+    "recu-reel-fr.png",
+    "recu-reel-en.png"
   ],
   "fr": {
     "metaTitle": "Politique de retour RONA : 90 jours, reçu et garanties | ReFound",
@@ -287,37 +289,71 @@
         "blocks": [
           {
             "type": "p",
-            "text": "Un reçu RONA prouve la date, le magasin et le montant d'un achat, mais pas toujours le produit exact ni sa garantie. Voici une ligne d'un reçu RONA numérisé dans le compte de démonstration ReFound :"
+            "text": "Un reçu RONA prouve la date, le magasin et le montant d'un achat, mais pas le produit exact ni sa garantie. Voici cinq lignes d'un reçu réel RONA+ du 19 avril 2026, numérisé avec ReFound :"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-rona/recu-reel-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Cinq lignes d'un reçu réel RONA+ : chaque ligne imprimée, le produit identifié par ReFound et la garantie affichée, de aucune à à vie, avec une date limite de retour estimée au 18 juillet 2026",
+            "caption": "Un reçu réel RONA+ : un seul délai de retour, cinq garanties différentes."
           },
           {
             "type": "table",
-            "caption": "Ce que dit le reçu, et ce que ReFound a identifié",
+            "caption": "Reçu réel RONA+ du 19 avril 2026 : ce que dit la ligne, et ce que ReFound a trouvé",
             "headers": [
               "Ligne imprimée",
               "Produit identifié par ReFound",
-              "Garantie affichée"
+              "Garantie affichée",
+              "Fin de la garantie (calcul)"
             ],
             "rows": [
               [
-                "THERMOSTAT INT/SMRTSENSOR PREM",
-                "Ecobee Smart Premium Black Wi-Fi Compatible Thermostat and Room Sensor",
-                "Garantie limitée du fabricant de 3 ans"
+                "SCELLANT SILICONE+P/F BC 300ML",
+                "Scellant blanc pour portes et fenêtres Silicone Plus DAP, 300 ml",
+                "Garantie à vie du fabricant",
+                "Aucune date de fin"
+              ],
+              [
+                "VERNIS FINI SAT.BASE EAU 472ML",
+                "Vernis à l'eau pour bois d'intérieur Saman, clair, fini satiné, 472 ml",
+                "Limitée de 15 ans",
+                "19 avril 2041"
+              ],
+              [
+                "PILE ALCALINE AA 16PK",
+                "Piles AA ultra alcalines VALU+ 1,5 V, paquet de 16",
+                "5 ans (fabricant)",
+                "19 avril 2031"
+              ],
+              [
+                "TUYAU/REGULATEUR 20",
+                "Tuyau souple et régulateur LAFLAMME & CO 20 po pour gaz propane",
+                "Limitée d'un an",
+                "19 avril 2027"
+              ],
+              [
+                "DECAP SCELLANT+ ENDUIT 946ML",
+                "Décapant puissant pour scellant et enduit, 1 pinte",
+                "Aucune garantie indiquée",
+                "—"
               ]
             ]
           },
           {
             "type": "p",
-            "text": "La ligne dit « thermostat », mais ni la marque, ni le modèle, ni la durée de la garantie. Or c'est exactement ce qu'on vous demandera dans deux ans, quand l'appareil cessera de fonctionner. Le papier thermique, lui, aura pâli : voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+            "text": "Sur ce reçu, la date limite de retour estimée est le **18 juillet 2026**, 90 jours après l'achat : c'est la politique générale de RONA, que ReFound applique aussi aux reçus RONA+. Ensuite, le retour est terminé, mais les garanties continuent : un an pour le tuyau de propane, 5 ans pour les piles, 15 ans pour le vernis et une garantie à vie pour le scellant. Rien de tout cela n'est imprimé sur le reçu : « SCELLANT SILICONE+P/F BC 300ML » ne donne ni la marque ni la garantie. Et le papier thermique aura pâli bien avant 2041 : voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
           },
           {
             "type": "p",
-            "text": "ReFound garde la ligne imprimée telle quelle et y associe, quand l'information est disponible, le produit nommé, sa photo et un lien vers sa fiche sur rona.ca. La garantie du fabricant de 3 ans de cet exemple vient de cette fiche : quand rona.ca l'indique, ReFound la récupère. C'est un exemple de démonstration : l'identification dépend du produit et des données disponibles. Voyez d'autres exemples sur notre page [Reçus RONA](/marchands/recus-rona)."
+            "text": "ReFound garde la ligne imprimée telle quelle et y associe, quand l'information est disponible, le produit nommé, sa photo, un lien vers sa fiche et sa garantie. Une garantie « limitée » ou « à vie » a ses propres conditions : ce sont celles du fabricant qui font foi. C'est un exemple réel, pas une promesse pour chaque article : l'identification dépend du produit et des données disponibles. Voyez d'autres exemples sur notre page [Reçus RONA](/marchands/recus-rona)."
           },
           {
             "type": "callout",
             "tone": "info",
             "title": "Ce que ReFound fait, et ne fait pas",
-            "text": "Quand la fiche du produit sur rona.ca indique une garantie du fabricant, ReFound la récupère et l'affiche avec sa date de fin, calculée à partir de la date d'achat du reçu. ReFound estime aussi la date limite de retour selon la politique générale de RONA (90 jours) : il ne connaît pas les exceptions par catégorie, donc pour un électroménager (30 jours) ou une vivace (1 an), fiez-vous au tableau ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. ReFound ne décide jamais si un retour est accepté : c'est RONA qui applique sa politique."
+            "text": "Quand l'information est disponible, ReFound affiche la garantie du magasin ou du fabricant avec sa date de fin, calculée à partir de la date d'achat du reçu. ReFound estime aussi la date limite de retour selon la politique générale de RONA (90 jours) : il ne connaît pas les exceptions par catégorie, donc pour un électroménager (30 jours) ou une vivace (1 an), fiez-vous au tableau ci-dessus. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. ReFound ne décide jamais si un retour est accepté : c'est RONA qui applique sa politique."
           }
         ]
       },
@@ -358,7 +394,7 @@
           },
           {
             "type": "p",
-            "text": "Pour retrouver le bon reçu au comptoir, la vue de retour de ReFound montre l'article, le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original. Voyez [l'application pour les retours en magasin](/application-retours-magasin)."
+            "text": "Pour retrouver le bon reçu au comptoir, le mode retour de ReFound montre le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original. Voyez [l'application pour les retours en magasin](/application-retours-magasin)."
           }
         ]
       }
@@ -712,37 +748,71 @@
         "blocks": [
           {
             "type": "p",
-            "text": "A RONA receipt proves the date, store and amount of a purchase, but not always the exact product or its warranty. Here is one line from a RONA receipt scanned in the ReFound demo account:"
+            "text": "A RONA receipt proves the date, store and amount of a purchase, but not the exact product or its warranty. Here are five lines from a real RONA+ receipt dated April 19, 2026, scanned with ReFound:"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-rona/recu-reel-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Five lines from a real RONA+ receipt: each printed line, the product identified by ReFound and the warranty shown, from none to lifetime, with an estimated return deadline of July 18, 2026",
+            "caption": "A real RONA+ receipt: one return window, five different warranties."
           },
           {
             "type": "table",
-            "caption": "What the receipt says, and what ReFound identified",
+            "caption": "Real RONA+ receipt, April 19, 2026: what the line says, and what ReFound found",
             "headers": [
               "Printed line",
               "Product identified by ReFound",
-              "Warranty shown"
+              "Warranty shown",
+              "Warranty end (calculated)"
             ],
             "rows": [
               [
-                "THERMOSTAT INT/SMRTSENSOR PREM",
-                "Ecobee Smart Premium Black Wi-Fi Compatible Thermostat and Room Sensor",
-                "3-year limited manufacturer warranty"
+                "SCELLANT SILICONE+P/F BC 300ML",
+                "DAP Silicone Plus white door and window sealant, 300 ml",
+                "Lifetime manufacturer warranty",
+                "No end date"
+              ],
+              [
+                "VERNIS FINI SAT.BASE EAU 472ML",
+                "Saman water-based interior wood varnish, clear, satin, 472 ml",
+                "15-year limited",
+                "April 19, 2041"
+              ],
+              [
+                "PILE ALCALINE AA 16PK",
+                "VALU+ ultra alkaline AA batteries 1.5 V, 16-pack",
+                "5 years (manufacturer)",
+                "April 19, 2031"
+              ],
+              [
+                "TUYAU/REGULATEUR 20",
+                "LAFLAMME & CO 20-in propane hose and regulator",
+                "1-year limited",
+                "April 19, 2027"
+              ],
+              [
+                "DECAP SCELLANT+ ENDUIT 946ML",
+                "Heavy-duty sealant and coating stripper, 1 quart",
+                "No warranty listed",
+                "—"
               ]
             ]
           },
           {
             "type": "p",
-            "text": "The line says \"thermostat\", but not the brand, the model or how long the warranty lasts. That is exactly what you'll be asked in two years, when the device stops working. By then the thermal paper will have faded: see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+            "text": "On this receipt, the estimated return deadline is **July 18, 2026**, 90 days after the purchase: that's RONA's general policy, which ReFound also applies to RONA+ receipts. After that, the return is over, but the warranties keep going: one year for the propane hose, 5 years for the batteries, 15 years for the varnish and a lifetime warranty for the sealant. None of this is printed on the receipt: \"SCELLANT SILICONE+P/F BC 300ML\" gives neither the brand nor the warranty. And the thermal paper will have faded long before 2041: see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
           },
           {
             "type": "p",
-            "text": "ReFound keeps the printed line as is and attaches, when the information is available, the named product, its photo and a link to its product page on rona.ca. The 3-year manufacturer warranty in this example comes from that page: when rona.ca lists it, ReFound picks it up. This is a demo example: identification depends on the product and the data available. See more examples on our [RONA receipts](/en/merchants/rona-receipts) page."
+            "text": "ReFound keeps the printed line as is and attaches, when the information is available, the named product, its photo, a link to its product page and its warranty. A \"limited\" or \"lifetime\" warranty has its own terms: the manufacturer's terms apply. This is a real example, not a promise for every item: identification depends on the product and the data available. See more examples on our [RONA receipts](/en/merchants/rona-receipts) page."
           },
           {
             "type": "callout",
             "tone": "info",
             "title": "What ReFound does, and doesn't do",
-            "text": "When the product page on rona.ca lists a manufacturer warranty, ReFound picks it up and shows it with its end date, calculated from the purchase date on the receipt. ReFound also estimates the return deadline from RONA's general policy (90 days): it doesn't know the category exceptions, so for an appliance (30 days) or a perennial (1 year), go by the table above. With ReFound Pro, a reminder arrives 3 days before the return deadline and 30 days before a warranty ends. ReFound never decides whether a return is accepted: RONA applies its own policy."
+            "text": "When the information is available, ReFound shows the store or manufacturer warranty with its end date, calculated from the purchase date on the receipt. ReFound also estimates the return deadline from RONA's general policy (90 days): it doesn't know the category exceptions, so for an appliance (30 days) or a perennial (1 year), go by the table above. With ReFound Pro, a reminder arrives 3 days before the return deadline and 30 days before a warranty ends. ReFound never decides whether a return is accepted: RONA applies its own policy."
           }
         ]
       },
@@ -783,7 +853,7 @@
           },
           {
             "type": "p",
-            "text": "To find the right receipt at the counter, ReFound's return view shows the item, the receipt barcode when it's detected, the payment method and the photo of the original receipt. See [the in-store returns app](/en/returns-app)."
+            "text": "To find the right receipt at the counter, ReFound's return mode shows the receipt barcode when it's detected, the payment method and the photo of the original receipt. See [the in-store returns app](/en/returns-app)."
           }
         ]
       }
