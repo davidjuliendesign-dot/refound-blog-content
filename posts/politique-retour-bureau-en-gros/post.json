@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-bureau-en-gros",
   "enPath": "/en/blog/staples-canada-return-policy",
   "datePublished": "2026-11-08T09:00:00-05:00",
-  "dateModified": "2026-11-18T16:00:00-05:00",
+  "dateModified": "2026-11-18T17:00:00-05:00",
   "lastFactCheck": "2026-11-08",
   "cover": {
     "src": "/images/blog/politique-retour-bureau-en-gros/cover.png",
@@ -377,7 +377,7 @@
               "Une image lisible du reçu, avec la date, le magasin, le total et le mode de paiement, même si le papier pâlit.",
               "Le produit derrière la ligne abrégée du reçu, avec son image et un lien vers la fiche du marchand, quand l'information est disponible.",
               "Une date limite de retour estimée selon la politique générale du marchand. Pour un ordinateur, une tablette ou un téléphone, fiez-vous plutôt au délai de 14 jours ci-dessus : ReFound ne calcule pas les exceptions par catégorie.",
-              "Un mode retour (au comptoir) avec le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu.",
+              "Un mode retour (au comptoir) avec l'article à retourner mis en évidence, le code-barres du reçu quand il est détecté, le mode de paiement, la photo du reçu et la liste des articles.",
               "Avec ReFound Pro, un rappel 3 jours avant la date limite de retour estimée et 30 jours avant la fin d'une garantie."
             ]
           },
@@ -850,7 +850,7 @@
               "A readable image of the receipt, with the date, store, total and payment method, even if the paper fades.",
               "The product behind the receipt's shortened line, with its image and a link to the merchant's product page, when the information is available.",
               "An estimated return deadline based on the merchant's general policy. For a computer, tablet or phone, go by the 14-day window above instead: ReFound doesn't calculate category exceptions.",
-              "A return mode (at the counter) with the receipt barcode when it's detected, the payment method and the receipt photo.",
+              "A return mode (at the counter) with the item to return highlighted, the receipt barcode when it's detected, the payment method, the receipt photo and the list of items.",
               "With ReFound Pro, a reminder 3 days before the estimated return deadline and 30 days before a warranty ends."
             ]
           },

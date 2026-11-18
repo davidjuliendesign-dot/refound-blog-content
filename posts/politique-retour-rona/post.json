@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-rona",
   "enPath": "/en/blog/rona-return-policy",
   "datePublished": "2026-11-03T09:00:00-05:00",
-  "dateModified": "2026-11-18T16:00:00-05:00",
+  "dateModified": "2026-11-18T17:00:00-05:00",
   "lastFactCheck": "2026-11-03",
   "cover": {
     "src": "/images/blog/politique-retour-rona/cover.png",
@@ -34,7 +34,7 @@
       "title": "Politique de retour RONA : délais, reçu et garanties (2026)",
       "subtitle": "90 jours, 30 pour les électroménagers, 1 an pour les vivaces. Puis les garanties qui durent des années."
     },
-    "coverAlt": "Reçu RONA de démonstration avec la ligne THERMOSTAT INT/SMRTSENSOR PREM et un délai de retour de 90 jours",
+    "coverAlt": "Reçu RONA+ avec les lignes SCELLANT SILICONE+P/F BC 300ML et VERNIS FINI SAT.BASE EAU 472ML, leurs garanties à vie et de 15 ans, et un délai de retour de 90 jours",
     "intro": [
       "Réponse courte : chez RONA, la plupart des articles se retournent dans les 90 jours suivant l'achat, dans leur état et leur emballage d'origine, avec le reçu original. Les électroménagers n'ont que 30 jours et doivent être rapportés au magasin où ils ont été achetés. Les arbres, arbustes et vivaces peuvent être remplacés ou remboursés pendant un an, sur présentation du reçu.",
       "Sans reçu, le retour est laissé à la discrétion de RONA et remboursé au plus bas prix du système, en crédit ou en carte-cadeau. Ce guide ajoute ce que la page officielle ne fait pas : les dates calculées pour un achat fait le 5 octobre 2026, jour où la garantie de bon fonctionnement est entrée en vigueur au Québec, les garanties qui prennent le relais après le retour, et un vrai reçu RONA dont la ligne imprimée ne dit pas quel produit a été acheté."
@@ -255,11 +255,11 @@
                 "Octobre 2031"
               ],
               [
-                "Thermostat intelligent Ecobee (exemple de notre reçu démo)",
+                "Piles AA VALU+ (garantie de notre reçu réel RONA+)",
                 "90 jours",
                 "3 janvier 2027",
-                "Fabricant : 3 ans (garantie limitée)",
-                "Octobre 2029"
+                "Fabricant : 5 ans",
+                "Octobre 2031"
               ],
               [
                 "Vivace ou arbuste",
@@ -275,12 +275,12 @@
             "src": "/images/blog/politique-retour-rona/retour-vs-garantie-fr.png",
             "width": 1200,
             "height": 675,
-            "alt": "Graphique à l'échelle : le délai de retour RONA de 30 ou 90 jours est une fine bande comparée à la garantie de bon fonctionnement de 5 à 6 ans pour les électroménagers et à la garantie du fabricant de 3 ans du thermostat Ecobee",
-            "caption": "À l'échelle : des jours pour un retour, des années de garantie. Sources : rona.ca, Gouvernement du Québec, compte démo ReFound, vérifié le 3 novembre 2026."
+            "alt": "Graphique à l'échelle : le délai de retour RONA de 30 ou 90 jours est une fine bande comparée à la garantie de bon fonctionnement de 5 à 6 ans pour les électroménagers et à la garantie du fabricant de 5 ans des piles AA VALU+ d'un reçu réel RONA+",
+            "caption": "À l'échelle : des jours pour un retour, des années de garantie. Sources : rona.ca et Gouvernement du Québec, vérifié le 3 novembre 2026 ; garantie des piles tirée d'un reçu réel RONA+."
           },
           {
             "type": "p",
-            "text": "Un réfrigérateur se retourne pendant 30 jours, mais sa garantie de bon fonctionnement dure environ 73 fois plus longtemps. Le thermostat intelligent, lui, ne figure pas dans la liste des biens visés : après 90 jours, il dépend de la garantie du fabricant et de la garantie légale. Dans tous les cas, l'Office de la protection du consommateur recommande de garder un document qui prouve la date de livraison : facture, courriel de confirmation, bon de livraison ou reçu."
+            "text": "Un réfrigérateur se retourne pendant 30 jours, mais sa garantie de bon fonctionnement dure environ 73 fois plus longtemps. Les piles, elles, ne figurent pas dans la liste des biens visés : après 90 jours, elles dépendent de la garantie du fabricant et de la garantie légale. Dans tous les cas, l'Office de la protection du consommateur recommande de garder un document qui prouve la date de livraison : facture, courriel de confirmation, bon de livraison ou reçu."
           }
         ]
       },
@@ -394,7 +394,7 @@
           },
           {
             "type": "p",
-            "text": "Pour retrouver le bon reçu au comptoir, le mode retour de ReFound montre le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original. Voyez [l'application pour les retours en magasin](/application-retours-magasin)."
+            "text": "Pour retrouver le bon reçu au comptoir, le mode retour de ReFound met en évidence l'article à retourner et montre le code-barres du reçu quand il est détecté, le mode de paiement, la photo du reçu original et la liste des articles. Voyez [l'application pour les retours en magasin](/application-retours-magasin)."
           }
         ]
       }
@@ -493,7 +493,7 @@
       "title": "RONA Return Policy: Time Limits, Receipts and Warranties (2026)",
       "subtitle": "90 days, 30 for appliances, 1 year for perennials. Then the warranties that last for years."
     },
-    "coverAlt": "Demo RONA receipt showing the line THERMOSTAT INT/SMRTSENSOR PREM and a 90-day return window",
+    "coverAlt": "RONA+ receipt showing the lines SCELLANT SILICONE+P/F BC 300ML and VERNIS FINI SAT.BASE EAU 472ML, their lifetime and 15-year warranties, and a 90-day return window",
     "intro": [
       "Short answer: at RONA, most items can be returned within 90 days of purchase, in their original condition and packaging, with the original receipt. Appliances get only 30 days and must go back to the store where they were bought. Trees, shrubs and perennials can be replaced or refunded for one year, with the receipt.",
       "Without a receipt, the return is at RONA's discretion and refunded at the lowest system price, as store credit or a gift card. This guide adds what the official page doesn't: dates calculated for a purchase made on October 5, 2026, the day Quebec's warranty of good working order took effect, the warranties that take over after the return window, and a real RONA receipt whose printed line doesn't say which product was bought."
@@ -714,11 +714,11 @@
                 "October 2031"
               ],
               [
-                "Ecobee smart thermostat (from our demo receipt)",
+                "VALU+ AA batteries (warranty from our real RONA+ receipt)",
                 "90 days",
                 "January 3, 2027",
-                "Manufacturer: 3 years (limited warranty)",
-                "October 2029"
+                "Manufacturer: 5 years",
+                "October 2031"
               ],
               [
                 "Perennial or shrub",
@@ -734,12 +734,12 @@
             "src": "/images/blog/politique-retour-rona/retour-vs-garantie-en.png",
             "width": 1200,
             "height": 675,
-            "alt": "Chart to scale: RONA's 30- or 90-day return window is a thin strip compared with the 5- to 6-year warranty of good working order for appliances and the 3-year manufacturer warranty on the Ecobee thermostat",
-            "caption": "To scale: days to return, years of warranty. Sources: rona.ca, Government of Quebec, ReFound demo account, checked November 3, 2026."
+            "alt": "Chart to scale: RONA's 30- or 90-day return window is a thin strip compared with the 5- to 6-year warranty of good working order for appliances and the 5-year manufacturer warranty on VALU+ AA batteries from a real RONA+ receipt",
+            "caption": "To scale: days to return, years of warranty. Sources: rona.ca and Government of Quebec, checked November 3, 2026; battery warranty from a real RONA+ receipt."
           },
           {
             "type": "p",
-            "text": "A refrigerator can be returned for 30 days, but its warranty of good working order lasts about 73 times longer. The smart thermostat isn't on the list of covered goods: after 90 days, it relies on the manufacturer warranty and the legal warranty. Either way, Quebec's consumer protection office recommends keeping a document that proves the delivery date: an invoice, a confirmation email, a delivery slip or a receipt."
+            "text": "A refrigerator can be returned for 30 days, but its warranty of good working order lasts about 73 times longer. Batteries aren't on the list of covered goods: after 90 days, they rely on the manufacturer warranty and the legal warranty. Either way, Quebec's consumer protection office recommends keeping a document that proves the delivery date: an invoice, a confirmation email, a delivery slip or a receipt."
           }
         ]
       },
@@ -853,7 +853,7 @@
           },
           {
             "type": "p",
-            "text": "To find the right receipt at the counter, ReFound's return mode shows the receipt barcode when it's detected, the payment method and the photo of the original receipt. See [the in-store returns app](/en/returns-app)."
+            "text": "To find the right receipt at the counter, ReFound's return mode highlights the item to return and shows the receipt barcode when it's detected, the payment method, the photo of the original receipt and the list of items. See [the in-store returns app](/en/returns-app)."
           }
         ]
       }

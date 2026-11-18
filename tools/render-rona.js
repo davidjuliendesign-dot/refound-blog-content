@@ -89,17 +89,18 @@ const W = {
 const TK = l => [[0, l === 'fr' ? 'Achat' : 'Purchase'], [90, '90'], [180, '180'], [365, '365']];
 const V = {
   fr: { eyebrow: 'RONA · Québec · achat neuf depuis le 5 octobre 2026', title: 'Retour : des jours. Garantie : des années.', yr: 'ans',
-    lr: 'Délai de retour RONA', lw: 'Garantie de bon fonctionnement (Québec)', lw2: 'Garantie du fabricant (exemple démo)', axis: 'années après l’achat ou la livraison',
-    rows: [['Réfrigérateur', 30, 'retour 30 j', 6], ['Cuisinière', 30, 'retour 30 j', 6], ['Laveuse', 30, 'retour 30 j', 5], ['Lave-vaisselle', 30, 'retour 30 j', 5], ['Thermostat Ecobee', 90, 'retour 90 j', 3, '#7FA8FF']],
-    src: 'Sources : rona.ca, Gouvernement du Québec, compte démo ReFound · vérifié le 3 novembre 2026 · à l’échelle' },
+    lr: 'Délai de retour RONA', lw: 'Garantie de bon fonctionnement (Québec)', lw2: 'Garantie du fabricant (reçu réel RONA+)', axis: 'années après l’achat ou la livraison',
+    rows: [['Réfrigérateur', 30, 'retour 30 j', 6], ['Cuisinière', 30, 'retour 30 j', 6], ['Laveuse', 30, 'retour 30 j', 5], ['Lave-vaisselle', 30, 'retour 30 j', 5], ['Piles AA VALU+', 90, 'retour 90 j', 5, '#7FA8FF']],
+    src: 'Sources : rona.ca, Gouvernement du Québec (vérifié le 3 novembre 2026), reçu réel RONA+ numérisé avec ReFound · à l’échelle' },
   en: { eyebrow: 'RONA · Quebec · bought new since October 5, 2026', title: 'Returns last days. Warranties last years.', yr: 'yrs',
-    lr: 'RONA return window', lw: 'Warranty of good working order (Quebec)', lw2: 'Manufacturer warranty (demo example)', axis: 'years after purchase or delivery',
-    rows: [['Refrigerator', 30, '30-day return', 6], ['Stove', 30, '30-day return', 6], ['Washer', 30, '30-day return', 5], ['Dishwasher', 30, '30-day return', 5], ['Ecobee thermostat', 90, '90-day return', 3, '#7FA8FF']],
-    src: 'Sources: rona.ca, Government of Quebec, ReFound demo account · checked November 3, 2026 · to scale' }
+    lr: 'RONA return window', lw: 'Warranty of good working order (Quebec)', lw2: 'Manufacturer warranty (real RONA+ receipt)', axis: 'years after purchase or delivery',
+    rows: [['Refrigerator', 30, '30-day return', 6], ['Stove', 30, '30-day return', 6], ['Washer', 30, '30-day return', 5], ['Dishwasher', 30, '30-day return', 5], ['VALU+ AA batteries', 90, '90-day return', 5, '#7FA8FF']],
+    src: 'Sources: rona.ca, Government of Quebec (checked November 3, 2026), real RONA+ receipt scanned with ReFound · to scale' }
 };
 
 function cover() {
-  const lines = [['THERMOSTAT INT/SMRTSENSOR PREM', '1']];
+  // Lignes d'un reçu réel RONA+ (kit/receipts.json) ; zone grise à la place du code-barres (kit/README.md).
+  const lines = [['SCELLANT SILICONE+P/F BC 300ML', '1'], ['VERNIS FINI SAT.BASE EAU 472ML', '1']];
   return `<style>${CSS}
   .c{width:1200px;height:630px;position:relative;overflow:hidden;background:radial-gradient(700px 420px at 85% 30%, rgba(30,184,133,.18), transparent 70%), var(--bg)}
   .left{position:absolute;left:72px;top:0;bottom:0;display:flex;flex-direction:column;justify-content:center;gap:28px;width:520px}
@@ -114,10 +115,12 @@ function cover() {
   .stamp b{font-family:'Funnel Display';font-size:64px;line-height:1}.stamp span{font-weight:700;font-size:15px;letter-spacing:.1em}
   </style><div class="c"><div class="left"><img src="${LOGO}"><div class="big h"><em>RONA</em></div>
   <div class="chips"><div class="chip h" style="color:#5FD3AE">30</div><div class="chip h" style="color:var(--green)">90</div><div class="chip h" style="color:#7FA8FF">365</div></div></div>
-  <div class="r"><div class="t">REÇU · RECEIPT</div>${lines.map(l => `<div class="l"><span>${l[0]}</span><span>${l[1]}</span></div>`).join('')}
-  <div class="l" style="color:#8A8579"><span>→ Ecobee Smart Premium</span><span>3 ANS</span></div>
+  <div class="r"><div class="t">REÇU · RECEIPT</div><div class="l"><span>${lines[0][0]}</span><span>${lines[0][1]}</span></div>
+  <div class="l" style="color:#8A8579"><span>→ DAP Silicone Plus</span><span>À VIE</span></div>
+  <div class="l"><span>${lines[1][0]}</span><span>${lines[1][1]}</span></div>
+  <div class="l" style="color:#8A8579"><span>→ Saman</span><span>15 ANS</span></div>
   <hr><div class="l"><span>RETOUR / RETURN</span><span>90 J</span></div><hr>
-  <div style="height:54px;background:repeating-linear-gradient(90deg,#2A2D33 0 3px,transparent 3px 6px,#2A2D33 6px 7px,transparent 7px 11px)"></div></div>
+  <div style="height:44px;background:#D6D2C7;border-radius:4px"></div></div>
   <div class="stamp"><b>90</b><span>JOURS · DAYS</span></div></div>`;
 }
 (async () => {

@@ -26,3 +26,8 @@ fidélité, adresse de rue du magasin, nom de David. Quand un visuel montre un r
 - Utiliser les données telles quelles : ne pas inventer d'articles, de prix ni de garanties.
 - Dire « un reçu réel » ou « un de nos reçus de test », jamais « le reçu de David ».
 - Les dates limites de retour de 2053 (ex. Tigre Géant) signifient « aucune date limite » : l'écrire ainsi.
+
+## Mises en garde (données du kit à ne pas utiliser)
+- **Costco** : ne pas utiliser la `returnDeadline` du reçu Costco (90 jours). Le vrai délai de Costco : aucun, sauf pour l'électronique et les électroménagers.
+- **Decathlon** : la `returnDeadline` (365 jours) vaut seulement pour les membres. Ne pas la présenter comme le délai général de Decathlon.
+- **Bureau en Gros** : ne pas utiliser la ligne « BTS25 LG sarrau héro » : le produit identifié (ruban Brother TZe-251) est une erreur d'identification.

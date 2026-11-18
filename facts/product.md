@@ -13,7 +13,8 @@ Mis à jour : 18 novembre 2026 (David).
 - Numérisation de reçus illimitée (photo, reçus longs en plusieurs parties, import depuis la galerie).
 - Enrichissement des articles : nom réel du produit, image, lien vers la fiche du marchand, garantie quand l'information est disponible.
 - Date limite de retour estimée, visible sur chaque reçu.
-- Mode retour (au comptoir) : code-barres du reçu quand il a été détecté, mode de paiement, photo du reçu.
+- Mode retour (au comptoir) : code-barres du reçu quand il a été détecté, mode de paiement, photo du reçu, et liste des articles. Ouvert depuis l'onglet Retours, l'article à retourner y est mis en évidence (« Article à retourner »).
+- Noms de cartes : on associe un nom aux 4 derniers chiffres de chaque carte, en indiquant si c'est la carte physique ou Apple Pay / Google Pay, pour reconnaître la bonne carte lors d'un retour.
 - Partage d'un reçu (on partage un reçu à la fois ; il n'y a pas de dossier partagé).
 - Recherche parmi ses reçus (le reçu complet : magasin, date, montant).
 

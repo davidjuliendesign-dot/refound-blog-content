@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-sports-experts",
   "enPath": "/en/blog/sports-experts-return-policy",
   "datePublished": "2026-11-09T09:00:00-05:00",
-  "dateModified": "2026-11-18T16:00:00-05:00",
+  "dateModified": "2026-11-18T17:00:00-05:00",
   "lastFactCheck": "2026-11-09",
   "cover": {
     "src": "/images/blog/politique-retour-sports-experts/cover.png",
@@ -337,7 +337,7 @@
               "Une image lisible du reçu, avec la date, le total et le mode de paiement, même si le papier pâlit.",
               "Le produit derrière la ligne abrégée, avec son image et un lien vers la fiche du marchand, quand l'information est disponible.",
               "Une date limite de retour estimée selon la politique générale du marchand. Pour un achat couvert par la politique des Fêtes, fiez-vous au 10 janvier 2027 annoncé par Sports Experts.",
-              "Un mode retour (au comptoir) avec le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu, pour savoir quelle carte apporter.",
+              "Un mode retour (au comptoir) avec l'article à retourner mis en évidence, le code-barres du reçu quand il est détecté, le mode de paiement, la photo du reçu et la liste des articles, pour savoir quelle carte apporter.",
               "Le partage du reçu avec la personne à qui vous avez offert le cadeau.",
               "La garantie du magasin ou du fabricant avec sa date de fin, quand l'information est disponible. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie."
             ]
@@ -823,7 +823,7 @@
               "A readable image of the receipt, with the date, total and payment method, even if the paper fades.",
               "The product behind the abbreviated line, with its image and a link to the retailer's page, when the information is available.",
               "An estimated return deadline based on the retailer's general policy. For a purchase covered by the holiday policy, rely on the January 10, 2027 date announced by Sports Experts.",
-              "A return mode (at the counter) with the receipt barcode when detected, the payment method and the receipt photo, so you know which card to bring.",
+              "A return mode (at the counter) with the item to return highlighted, the receipt barcode when it's detected, the payment method, the receipt photo and the list of items, so you know which card to bring.",
               "Receipt sharing with the person you gave the gift to.",
               "The store or manufacturer warranty with its end date, when the information is available. With ReFound Pro, you get a reminder 3 days before the return deadline and 30 days before a warranty ends."
             ]

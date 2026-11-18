@@ -38,7 +38,7 @@ function photo(it) {
 // t: {eyebrow, title, head:[left, right], rows:[{printed, name, badge, sub, color}], src}
 function flow(t) {
   const withPhotos = t.rows.some(r => r.photo);
-  const cols = withPhotos ? '300px 34px 64px 1fr 34px 250px' : '330px 34px 1fr 34px 260px';
+  const cols = withPhotos ? '340px 28px 64px 1fr 28px 240px' : '330px 34px 1fr 34px 260px';
   const rows = t.rows.map(r => `<div class="row" style="grid-template-columns:${cols}">
     <div class="pr">${esc(r.printed)}</div><div class="ar">→</div>
     ${withPhotos ? `<div class="ph">${r.photo ? `<img src="${r.photo}">` : ''}</div>` : ''}
@@ -47,9 +47,9 @@ function flow(t) {
   return `<style>${CSS}
   .head{display:flex;justify-content:space-between;margin-top:16px;color:var(--muted);font-size:15px}
   .head b{color:var(--fg)}.head .g b{color:var(--gold)}
-  .rows{margin-top:12px;display:grid;gap:10px}
-  .row{display:grid;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 16px;min-height:62px}
-  .pr{font-family:ui-monospace,Menlo,monospace;font-weight:700;font-size:16px;background:#F4F1E8;color:#2A2D33;border-radius:6px;padding:8px 10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .rows{margin-top:12px;display:grid;gap:8px}
+  .row{display:grid;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 16px;min-height:58px}
+  .pr{font-family:ui-monospace,Menlo,monospace;font-weight:700;font-size:15px;background:#F4F1E8;color:#2A2D33;border-radius:6px;padding:8px 10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .ar{color:var(--green);font-size:24px;text-align:center}
   .ph{width:64px;height:48px;background:#fff;border-radius:8px;display:flex;align-items:center;justify-content:center;overflow:hidden}.ph img{max-width:100%;max-height:100%}
   .nm{font-weight:700;font-size:17px;line-height:1.25}
