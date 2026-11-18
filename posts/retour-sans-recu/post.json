@@ -4,7 +4,7 @@
   "frPath": "/blog/retour-sans-recu",
   "enPath": "/en/blog/return-without-receipt",
   "datePublished": "2026-11-07T09:00:00-05:00",
-  "dateModified": "2026-11-07T15:00:00-05:00",
+  "dateModified": "2026-11-18T14:00:00-05:00",
   "lastFactCheck": "2026-11-07",
   "cover": {
     "src": "/images/blog/retour-sans-recu/cover.png",
@@ -264,7 +264,7 @@
               "**Le produit derrière la ligne abrégée**, et sa garantie du magasin ou du fabricant avec une date de fin, quand l'information est disponible.",
               "**Une vue de retour** qui regroupe l'article, le code-barres du reçu quand il est détecté, le mode de paiement (la carte à présenter pour le remboursement) et la photo du reçu original.",
               "**Une date limite de retour estimée** selon la politique générale du marchand (par exemple 90 jours chez Canadian Tire). Elle ne tient pas compte des délais par catégorie, comme les 30 jours de l'électronique : vérifiez ceux de l'article.",
-              "**La recherche par photo** : montrez l'article à la caméra pour retrouver son reçu (3 recherches gratuites, illimitées avec ReFound Pro)."
+              "**La recherche par article** (ReFound Pro) : montrez l'article à la caméra ou tapez son nom pour retrouver son reçu ; la recherche parmi vos reçus est gratuite."
             ]
           },
           {
@@ -644,7 +644,7 @@
               "**The product behind the abbreviated line**, and its store or manufacturer warranty with an end date, when the information is available.",
               "**A return view** that brings together the item, the receipt barcode when it's detected, the payment method (the card to present for the refund) and the photo of the original receipt.",
               "**An estimated return deadline** based on the merchant's general policy (for example, 90 days at Canadian Tire). It doesn't account for category windows such as 30 days for electronics: check the item's own window.",
-              "**Photo search**: show the item to the camera to find its receipt (3 free searches, unlimited with ReFound Pro)."
+              "**Item search** (ReFound Pro): show the item to the camera or type its name to find its receipt; searching your receipts is free."
             ]
           },
           {

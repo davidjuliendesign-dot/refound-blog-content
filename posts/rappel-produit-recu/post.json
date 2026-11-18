@@ -4,7 +4,7 @@
   "frPath": "/blog/rappel-produit-recu",
   "enPath": "/en/blog/product-recall-receipt",
   "datePublished": "2026-11-18T09:00:00-05:00",
-  "dateModified": "2026-11-18T09:00:00-05:00",
+  "dateModified": "2026-11-18T14:00:00-05:00",
   "lastFactCheck": "2026-11-18",
   "cover": {
     "src": "/images/blog/rappel-produit-recu/cover.png",
@@ -308,7 +308,7 @@
             "items": [
               "**Le numéro et la description imprimés sont conservés tels quels**, avec la photo du reçu original, même si le papier thermique pâlit ensuite.",
               "**Le nom réel du produit s'ajoute quand l'information est disponible.** Sur notre reçu de démonstration, « LAMPE DEL GARAG » devient NOMA LED Garage Light, 8000 Lumens : c'est ce nom que vous comparerez avec un avis.",
-              "**Vous retrouvez le reçu en cherchant l'article**, ou en montrant l'article à la caméra (3 recherches par photo gratuites ; recherche illimitée avec ReFound Pro).",
+              "**Vous retrouvez le reçu** en cherchant parmi vos reçus, gratuitement. Avec ReFound Pro, vous pouvez aussi le retrouver à partir de l'article lui-même, par son nom ou en le montrant à la caméra.",
               "**Avec ReFound Pro, la sauvegarde cloud** garde vos reçus et leurs images même si vous changez de téléphone, utile quand un rappel arrive six ans après l'achat.",
               "**Vous pouvez partager le reçu** avec la personne qui rapportera l'article au magasin."
             ]
@@ -749,7 +749,7 @@
             "items": [
               "**The printed number and description are kept as is**, with the photo of the original receipt, even if the thermal paper fades later.",
               "**The real product name is added when the information is available.** On our demo receipt, \"LAMPE DEL GARAG\" becomes NOMA LED Garage Light, 8000 Lumens: that's the name you'll compare with a notice.",
-              "**You find the receipt by searching for the item**, or by showing the item to the camera (3 free photo searches; unlimited search with ReFound Pro).",
+              "**You find the receipt** by searching your receipts, for free. With ReFound Pro, you can also find it from the item itself, by its name or by showing it to the camera.",
               "**With ReFound Pro, cloud backup** keeps your receipts and their images even if you change phones, which matters when a recall comes six years after the purchase.",
               "**You can share the receipt** with the person who will bring the item back to the store."
             ]

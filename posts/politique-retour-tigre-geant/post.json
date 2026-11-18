@@ -4,7 +4,7 @@
   "frPath": "/blog/politique-retour-tigre-geant",
   "enPath": "/en/blog/giant-tiger-return-policy",
   "datePublished": "2026-11-17T09:00:00-05:00",
-  "dateModified": "2026-11-17T09:00:00-05:00",
+  "dateModified": "2026-11-18T14:00:00-05:00",
   "lastFactCheck": "2026-11-17",
   "cover": {
     "src": "/images/blog/politique-retour-tigre-geant/cover.png",
@@ -314,7 +314,7 @@
               "**Une copie claire du reçu**, numérisée le jour de l'achat, avec le marchand, la date, le total et les articles extraits.",
               "**Un produit identifié quand c'est possible :** nom réel, image et lien vers la fiche du marchand, quand l'information est disponible.",
               "**Une vue de retour** avec l'article mis en évidence, le code-barres du reçu quand il est détecté, le mode de paiement et la photo du reçu original.",
-              "**Retrouver le reçu** par le nom de l'article, ou en montrant l'article à la caméra (3 recherches par photo gratuites ; illimitées avec ReFound Pro).",
+              "**Retrouver le reçu** en cherchant parmi vos reçus (gratuit), ou à partir de l'article, par son nom ou en le montrant à la caméra (ReFound Pro).",
               "**Partager le reçu** avec la personne qui fait le retour à votre place."
             ]
           },
@@ -345,7 +345,7 @@
       }
     ],
     "ctaTitle": "Un reçu qui dure aussi longtemps que la politique",
-    "ctaBody": "Numérisez votre reçu de Tigre Géant le jour de l'achat : ReFound garde une copie claire et vous le retrouvez par le nom de l'article quand vous en avez besoin.",
+    "ctaBody": "Numérisez votre reçu de Tigre Géant le jour de l'achat : ReFound garde une copie claire, prête quand vous en avez besoin.",
     "relatedTitle": "À lire aussi",
     "related": [
       {
@@ -732,7 +732,7 @@
               "**A clear copy of the receipt**, scanned on the day you buy, with the merchant, date, total and items extracted.",
               "**The product identified when possible:** real name, image and link to the merchant's product page, when the information is available.",
               "**A return view** with the item highlighted, the receipt barcode when it's detected, the payment method and the photo of the original receipt.",
-              "**Find the receipt** by item name, or by showing the item to the camera (3 free photo searches; unlimited with ReFound Pro).",
+              "**Find the receipt** by searching your receipts (free), or from the item, by its name or by showing it to the camera (ReFound Pro).",
               "**Share the receipt** with the person making the return for you."
             ]
           },
@@ -763,7 +763,7 @@
       }
     ],
     "ctaTitle": "A receipt that lasts as long as the policy",
-    "ctaBody": "Scan your Giant Tiger receipt on the day you buy: ReFound keeps a clear copy, and you can find it by item name when you need it.",
+    "ctaBody": "Scan your Giant Tiger receipt on the day you buy: ReFound keeps a clear copy, ready when you need it.",
     "relatedTitle": "Read next",
     "related": [
       {
