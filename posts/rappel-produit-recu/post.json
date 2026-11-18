@@ -1,0 +1,897 @@
+{
+  "schemaVersion": 1,
+  "slug": "rappel-produit-recu",
+  "frPath": "/blog/rappel-produit-recu",
+  "enPath": "/en/blog/product-recall-receipt",
+  "datePublished": "2026-11-18T09:00:00-05:00",
+  "dateModified": "2026-11-18T09:00:00-05:00",
+  "lastFactCheck": "2026-11-18",
+  "cover": {
+    "src": "/images/blog/rappel-produit-recu/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delai-rappel-fr.png",
+    "delai-rappel-en.png",
+    "recu-vs-produit-fr.png",
+    "recu-vs-produit-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Rappel de produit : faut-il le reçu pour être remboursé? | ReFound",
+    "metaDescription": "Certains rappels n'exigent aucune preuve d'achat, d'autres n'en disent rien. 8 avis réels comparés, et pourquoi un rappel arrive souvent des années après.",
+    "keywords": "rappel de produit, rappel de produit remboursement, rappel sans reçu, preuve d'achat rappel, rappel Canadian Tire, rappel IKEA, Santé Canada rappels, Canadiens en santé rappels, produit rappelé que faire",
+    "category": "Guide",
+    "date": "18 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Rappel de produit et reçu",
+    "eyebrow": "Preuve d'achat",
+    "h1": "Rappel de produit au Canada : faut-il le reçu pour être remboursé?",
+    "card": {
+      "title": "Rappel de produit : faut-il le reçu pour être remboursé?",
+      "subtitle": "8 avis de rappel réels comparés, et pourquoi le numéro imprimé sur votre reçu aide à savoir si un article est visé."
+    },
+    "coverAlt": "Reçu de caisse dont une ligne est surlignée sous une loupe, à côté d'un triangle d'avertissement",
+    "intro": [
+      "Réponse courte : pas toujours. Lors d'un rappel, c'est l'entreprise qui fixe la marche à suivre, et les avis publiés au Canada ne disent pas tous la même chose. Certains précisent qu'aucune preuve d'achat n'est requise, comme le rappel des chargeurs portables VARMFRONT d'IKEA ou celui d'une rampe vendue chez Canadian Tire. La plupart ne mentionnent tout simplement pas le reçu.",
+      "Le reçu reste pourtant utile, pour une autre raison : un rappel arrive souvent des mois, voire des années après l'achat. Une souffleuse à neige Yardworks achetée en mars 2019 chez Canadian Tire a été visée par un rappel élargi en mars 2025, six ans plus tard. À ce moment, il faut d'abord savoir qu'on possède l'article visé, et le reçu est souvent le seul endroit où le numéro d'article et la date d'achat sont réunis.",
+      "Ce guide compare huit avis de rappel réels et montre comment relier une ligne de reçu à un avis. Avis consultés sur recalls-rappels.canada.ca et ikea.com le 18 novembre 2026."
+    ],
+    "sections": [
+      {
+        "heading": "Faut-il un reçu pour être remboursé lors d'un rappel?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non, pas nécessairement : c'est l'avis de rappel qui le dit, et il varie d'un rappel à l'autre. Parmi les huit avis comparés ci-dessous, deux précisent qu'aucune preuve d'achat n'est requise, et les six autres n'en parlent pas. Aucun ne dit explicitement qu'un reçu est obligatoire."
+          },
+          {
+            "type": "table",
+            "caption": "Ce que disent huit avis de rappel réels (consultés le 18 novembre 2026)",
+            "headers": [
+              "Produit rappelé",
+              "Où le rapporter",
+              "Ce qui est offert",
+              "Preuve d'achat dans l'avis"
+            ],
+            "rows": [
+              [
+                "Chargeurs portables VARMFRONT (IKEA)",
+                "N'importe quel magasin IKEA",
+                "Article de remplacement ou remboursement intégral",
+                "« Aucune preuve d'achat (reçu) n'est nécessaire »"
+              ],
+              [
+                "Rampes multifonctionnelles à trois sections (Canadian Tire, article 040-8684)",
+                "Un magasin Canadian Tire",
+                "Un autre produit ou un remboursement",
+                "« Aucune preuve d'achat n'est requise »"
+              ],
+              [
+                "Souffleuse à neige Yardworks 15 A, 22 po (modèle 060-0583)",
+                "N'importe quel magasin Canadian Tire",
+                "Remboursement complet",
+                "Non mentionnée"
+              ],
+              [
+                "Tapis de marche PowerG (modèle 499-4052)",
+                "Un magasin Canadian Tire",
+                "Remboursement ou crédit en magasin",
+                "Non mentionnée"
+              ],
+              [
+                "Radiateurs ronds CTP Home Collections (modèle 043-5105)",
+                "Là où il a été acheté",
+                "Remboursement complet ou un autre produit",
+                "Non mentionnée"
+              ],
+              [
+                "Torches de table HOMETRENDS et torches écologiques BETTER HOMES AND GARDENS",
+                "Magasins Walmart",
+                "Remboursement complet",
+                "Non mentionnée"
+              ],
+              [
+                "Porte-bébé MEC Shuttlecraft",
+                "Un magasin MEC",
+                "Remboursement",
+                "Non mentionnée"
+              ],
+              [
+                "Détecteur de fumée autonome Ariza S100B-CR (commerçant en ligne)",
+                "Aucun retour prévu",
+                "Aucun remboursement mentionné : l'éliminer et le remplacer par un détecteur portant une marque de certification canadienne",
+                "Non mentionnée"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "« Non mentionnée » ne veut pas dire « exigée » ni « inutile ». Cela veut dire que l'avis ne tranche pas. Avant de vous déplacer, appelez le numéro indiqué dans l'avis : Canadian Tire, Walmart et MEC y donnent tous un numéro sans frais."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Un rappel ne garantit pas un remboursement",
+            "text": "Le cas du détecteur de fumée Ariza, vendu par un commerçant en ligne établi en Chine, le montre : l'avis demande d'éliminer le produit et de le remplacer par un détecteur certifié, sans remboursement prévu. Le reçu ne change rien à ce que l'entreprise offre."
+          }
+        ]
+      },
+      {
+        "heading": "Qui décide de ce qui est offert lors d'un rappel?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "L'entreprise qui rappelle le produit choisit la mesure corrective. Le guide de Santé Canada sur les rappels volontaires de produits de consommation en énumère quatre : la correction du produit (par exemple une réparation qui élimine le danger), le remplacement par un produit semblable de valeur semblable, l'élimination du produit et le remboursement ou une autre forme de dédommagement."
+          },
+          {
+            "type": "p",
+            "text": "Ce même guide ne parle pas du reçu. Il précise plutôt que, pour un remboursement, l'entreprise pourrait exiger que le consommateur retourne le produit comme preuve qu'il n'est plus utilisé. Autrement dit, c'est souvent le produit lui-même qu'on vous demande, pas le papier."
+          },
+          {
+            "type": "p",
+            "text": "Santé Canada peut aussi aller plus loin qu'une demande : en vertu de la Loi canadienne sur la sécurité des produits de consommation, le ministre de la Santé a le pouvoir d'ordonner un rappel quand il a des motifs raisonnables de croire qu'un produit présente un danger pour la santé ou la sécurité humaine. La même loi interdit de redistribuer, de vendre ou même de donner un produit rappelé au Canada."
+          }
+        ]
+      },
+      {
+        "heading": "Le rappel arrive souvent après la fin du délai de retour",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un rappel peut viser un article acheté il y a plusieurs années. Pour les quatre rappels Canadian Tire de notre comparaison, nous avons calculé l'écart entre le premier mois de vente et la date de l'avis : de 14 mois à six ans. Le délai de retour standard de Canadian Tire, lui, est de 90 jours."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/rappel-produit-recu/delai-rappel-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle : de 14 mois à 6 ans entre le premier achat possible et l'avis de rappel pour quatre produits Canadian Tire, contre un délai de retour de 90 jours",
+            "caption": "Calcul ReFound à partir des périodes de vente et des dates publiées dans les avis de Santé Canada."
+          },
+          {
+            "type": "table",
+            "caption": "Entre l'achat et l'avis de rappel : quatre rappels Canadian Tire",
+            "headers": [
+              "Produit",
+              "Période de vente",
+              "Date de l'avis",
+              "Écart maximal"
+            ],
+            "rows": [
+              [
+                "Souffleuse Yardworks 22 po (060-0583)",
+                "Mars 2019 à décembre 2021",
+                "11 mars 2025 (rappel du 28 février 2023 élargi à tous les lots)",
+                "Environ 6 ans"
+              ],
+              [
+                "Radiateur rond CTP Home Collections (043-5105)",
+                "Juin 2016 à avril 2018",
+                "11 février 2019",
+                "Environ 32 mois"
+              ],
+              [
+                "Tapis de marche PowerG (499-4052)",
+                "Janvier 2025 à juillet 2026",
+                "27 août 2026",
+                "Environ 19 mois"
+              ],
+              [
+                "Rampe à trois sections (040-8684)",
+                "Septembre 2019 à septembre 2020",
+                "16 novembre 2020",
+                "Environ 14 mois"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deux conséquences pratiques. D'abord, les avis consultés n'imposent pas de date limite liée à l'achat : on vous demande de rapporter le produit, pas de respecter le délai de retour. Ensuite, la recherche de reçu ne vous sauvera pas. La page anglaise de la politique de retour de Canadian Tire précise que cette recherche permet de vérifier les achats par carte de crédit ou de débit dans les 90 jours ; la page française mentionne la recherche de reçu sans donner ce détail. Pour un achat de 2019, il ne reste que le reçu que vous avez gardé."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Pourquoi garder le reçu si le rappel ne l'exige pas?",
+            "text": "Parce qu'il répond aux deux questions qu'on vous posera ou que vous vous poserez : avez-vous vraiment acheté ce modèle, et quand? Pour un rappel visant certains lots ou une période de vente précise, la date d'achat aide à savoir si votre article peut être concerné. Et si le magasin vous demande une preuve, vous l'avez."
+          }
+        ]
+      },
+      {
+        "heading": "Comment savoir si un article de votre reçu est visé par un rappel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Comparez le numéro imprimé sur votre reçu avec celui de l'avis, puis confirmez avec l'étiquette du produit. Chez Canadian Tire, les avis de rappel citent un numéro au même format que les numéros d'article imprimés sur les reçus, trois groupes de chiffres comme 043-5105 ou 040-8684. Sur un reçu, ce numéro est suivi d'une description abrégée qui, seule, ne permet presque jamais de reconnaître le produit."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/rappel-produit-recu/recu-vs-produit-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Deux colonnes : ce qui figure sur le reçu (numéro d'article, description, date, magasin, paiement) et ce qui figure sur le produit (modèle, CUP, lot, poinçon de date, bon de commande)",
+            "caption": "Le reçu et le produit ne contiennent pas les mêmes renseignements. Un rappel a souvent besoin des deux."
+          },
+          {
+            "type": "p",
+            "text": "Voici ce que montre un vrai reçu Canadian Tire numérisé dans le compte de démonstration ReFound. Ces articles ne figurent pas parmi les rappels présentés dans ce guide ; ils servent à montrer ce que vous aurez sous les yeux en cherchant."
+          },
+          {
+            "type": "table",
+            "caption": "Reçu de démonstration Canadian Tire : ce que dit la ligne, et ce qu'il faut chercher",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié par ReFound",
+              "Ce que vous chercheriez dans un avis"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "Le numéro 052-2124, la marque NOMA"
+              ],
+              [
+                "073-5211-4 CSQ C CRSTR BE",
+                "Casque de vélo Supercycle Crosstrails, bébés",
+                "Le numéro 073-5211, la marque Supercycle"
+              ],
+              [
+                "183-0095-8 CASQ+PR-V CCM J",
+                "CCM Hockey Helmet & Cage Combo, Youth, Black",
+                "Le numéro 183-0095, la marque CCM"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Remarquez les deux casques : « CSQ C CRSTR BE » et « CASQ+PR-V CCM J ». Un avis de rappel est rédigé avec la marque et le nom commercial du produit, pas avec l'abréviation de la caisse. Sans le nom réel, vous ne ferez pas le lien entre « CSQ C CRSTR BE » et un avis sur un casque Supercycle."
+          },
+          {
+            "type": "h3",
+            "text": "Ce qui se trouve sur le produit, et pas sur le reçu"
+          },
+          {
+            "type": "p",
+            "text": "Plusieurs rappels ne visent qu'une partie des unités vendues. L'identifiant est alors sur le produit :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Poinçon de date** : les chargeurs VARMFRONT visés portent une date de fabrication au format AASS (année, semaine), par exemple 2313 ou 2318.",
+              "**Numéro de lot** : le rappel de février 2023 de la souffleuse Yardworks visait certains lots ; il a été élargi à tous les lots du modèle 060-0583 en mars 2025. L'avis montre le numéro de lot au dos de l'appareil.",
+              "**Bon de commande** : seuls les porte-bébés MEC du bon de commande 0707760 sont visés ; l'étiquette se trouve dans la pochette inférieure principale.",
+              "**CUP** : le code-barres de l'emballage, par exemple 814645020039 pour le radiateur CTP Home Collections."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le bon réflexe : le reçu pour savoir quoi chercher et quand vous l'avez acheté, l'étiquette du produit pour confirmer que votre unité est visée."
+          }
+        ]
+      },
+      {
+        "heading": "Comment être averti des rappels",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Abonnez-vous aux avis de Santé Canada : c'est la façon la plus directe d'apprendre qu'un produit est rappelé. Le site Rappels et avis de sécurité offre des avis par courriel, envoyés immédiatement ou en résumé quotidien, en français ou en anglais, pour les catégories choisies (produits de consommation, jouets, électronique, aliments, produits de santé). Une application mobile existe aussi. Les rappels de véhicules ne sont pas offerts par abonnement sur ce site ; ils relèvent de Transports Canada."
+          },
+          {
+            "type": "p",
+            "text": "Les entreprises peuvent aussi joindre directement leurs clients connus. Le guide de Santé Canada cite les envois postaux ou les appels à partir des cartes d'inscription et des programmes de fidélisation. Enregistrer un produit auprès du fabricant ou présenter sa carte de fidélité augmente donc vos chances d'être averti, sans rien garantir."
+          }
+        ]
+      },
+      {
+        "heading": "Rappel, retour, garantie : trois recours différents",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un rappel n'est ni un retour ni une garantie. Il vise un danger connu pour la santé ou la sécurité, et la mesure offerte est fixée par l'entreprise dans l'avis. Le retour, lui, dépend de la politique du magasin et d'un délai court, 90 jours pour la plupart des articles chez Canadian Tire. La garantie couvre les défauts selon les conditions du magasin ou du fabricant et, au Québec, selon la loi."
+          },
+          {
+            "type": "p",
+            "text": "Si votre article a un problème qui n'est visé par aucun rappel, ce sont les garanties qui s'appliquent. Voyez [comment faire une réclamation de garantie](/blog/reclamation-garantie) et, au Québec, la [garantie de bon fonctionnement](/blog/garantie-bon-fonctionnement-quebec). Pour les délais de retour, consultez la [politique de retour Canadian Tire](/blog/politique-retour-canadian-tire)."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que ReFound fait, et ne fait pas, pour les rappels",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound ne surveille pas les rappels et n'envoie pas d'alerte de rappel. Pour être averti, abonnez-vous aux avis de Santé Canada. Ce que ReFound fait, c'est garder la preuve d'achat utilisable le jour où un avis vous concerne."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Le numéro et la description imprimés sont conservés tels quels**, avec la photo du reçu original, même si le papier thermique pâlit ensuite.",
+              "**Le nom réel du produit s'ajoute quand l'information est disponible.** Sur notre reçu de démonstration, « LAMPE DEL GARAG » devient NOMA LED Garage Light, 8000 Lumens : c'est ce nom que vous comparerez avec un avis.",
+              "**Vous retrouvez le reçu en cherchant l'article**, ou en montrant l'article à la caméra (3 recherches par photo gratuites ; recherche illimitée avec ReFound Pro).",
+              "**Avec ReFound Pro, la sauvegarde cloud** garde vos reçus et leurs images même si vous changez de téléphone, utile quand un rappel arrive six ans après l'achat.",
+              "**Vous pouvez partager le reçu** avec la personne qui rapportera l'article au magasin."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Vous pouvez numériser les reçus de n'importe quel marchand ; l'information produit plus riche dépend du marchand et des données disponibles. Voyez aussi [comment ReFound lit les codes des reçus Canadian Tire](/marchands/recus-canadian-tire)."
+          }
+        ]
+      },
+      {
+        "heading": "Vous avez un produit rappelé : que faire, dans l'ordre",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Cessez d'utiliser le produit, comme le demandent tous les avis consultés.",
+              "Vérifiez que votre unité est visée : modèle, CUP, lot, poinçon de date ou bon de commande, selon l'avis.",
+              "Retrouvez le reçu, ou à défaut une autre trace de la date et du lieu d'achat.",
+              "Lisez la section « Ce que vous devriez faire » de l'avis : où rapporter le produit et ce qui est offert.",
+              "Si l'avis ne dit rien sur la preuve d'achat, appelez le numéro indiqué avant de vous déplacer.",
+              "Ne donnez pas, ne vendez pas et ne jetez pas le produit sans instructions : Santé Canada demande de ne pas le jeter sans avoir obtenu des conseils.",
+              "Rapportez le produit, avec le reçu si vous l'avez, et conservez la preuve du remboursement ou de l'échange."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Peut-on être remboursé pour un produit rappelé sans reçu?",
+        "a": "Souvent, oui, mais cela dépend de l'avis. Certains avis précisent qu'aucune preuve d'achat n'est requise, comme ceux des chargeurs VARMFRONT d'IKEA et de la rampe à trois sections de Canadian Tire. Quand l'avis ne dit rien, appelez le numéro qu'il donne avant de vous déplacer."
+      },
+      {
+        "q": "Y a-t-il une date limite pour rapporter un produit rappelé?",
+        "a": "Les avis consultés pour ce guide n'en fixent pas. Le délai de retour du magasin ne s'applique pas à un rappel : la souffleuse Yardworks visée par le rappel élargi de 2025 avait pu être achetée dès mars 2019."
+      },
+      {
+        "q": "Puis-je revendre ou donner un produit rappelé?",
+        "a": "Non. La Loi canadienne sur la sécurité des produits de consommation interdit de redistribuer, de vendre ou même de donner des produits rappelés au Canada."
+      },
+      {
+        "q": "Comment savoir si un article que j'ai acheté est rappelé?",
+        "a": "Cherchez la marque, le nom ou le numéro de modèle sur recalls-rappels.canada.ca, et abonnez-vous aux avis par courriel. Chez Canadian Tire, le numéro d'article imprimé sur le reçu a le même format que le numéro cité dans les avis de rappel."
+      }
+    ],
+    "ctaTitle": "Gardez la preuve d'achat lisible jusqu'au jour où vous en aurez besoin",
+    "ctaBody": "Numérisez le reçu dès l'achat : ReFound garde le numéro d'article, la date et la photo du reçu, et affiche le nom réel du produit quand l'information est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Reçus Canadian Tire",
+        "href": "/marchands/recus-canadian-tire",
+        "desc": "Ce que signifient les codes produits imprimés."
+      },
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce que permettent quatre grands magasins."
+      },
+      {
+        "label": "Combien de temps garder ses reçus",
+        "href": "/blog/combien-de-temps-garder-recus",
+        "desc": "Les durées selon le type d'achat."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "IKEA rappelle certains chargeurs portables VARMFRONT",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/fr/customer-service/product-support/recalls/ikea-rappelle-certains-chargeurs-portables-varmfront-pub74ad59c0/",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Rampes multifonctionnelles à trois sections rappelées en raison d'un risque de chute",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/avis-rappel/rampes-multifonctionnelles-trois-sections-rappelees-en-raison-risque-chute",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Rappel élargi : Souffleuse à neige électrique Yardworks avec fil, 15 A, 22 po",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/avis-rappel/rappel-elargi-souffleuse-neige-electrique-yardworks-avec-fil-15-22-po-rappelee-en",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Tapis de marche PowerG rappelé en raison d'un risque de choc électrique",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/avis-rappel/tapis-marche-powerg-rappele-en-raison-risque-choc-electrique",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Canadian Tire Corporation rappelle les radiateurs ronds CTP Home Collections",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/avis-rappel/canadian-tire-corporation-rappelle-radiateurs-ronds-ctp-home-collections",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Torches de table HOMETRENDS et torches écologiques BETTER HOMES AND GARDENS rappelées",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/avis-rappel/torches-table-hometrends-et-torches-ecologiques-better-homes-and-gardens-rappelees-en",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Porte-bébé Shuttlecraft de MEC rappelé en raison d'un risque potentiel de chute",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/avis-rappel/porte-bebe-shuttlecraft-mec-rappele-en-raison-risque-potentiel-chute",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Détecteur de fumée autonome Ariza rappelé en raison de possible défaillance",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/avis-rappel/detecteur-fumee-autonome-ariza-rappele-en-raison-possible-defaillance",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Guide de rappel volontaire de produits de consommation ou de cosmétiques au Canada",
+        "publisher": "Santé Canada",
+        "url": "https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/rapports-publications/industrie-professionnels/rappel-produits-consommation-guide-intention-industrie.html",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Que faire lorsqu'un produit est rappelé",
+        "publisher": "Santé Canada",
+        "url": "https://sante.canada.ca/recall-alert-rappel-avis/what-quoi-fra.php",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Abonnez-vous",
+        "publisher": "Gouvernement du Canada (Rappels et avis de sécurité)",
+        "url": "https://recalls-rappels.canada.ca/fr/abonnez-vous",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Retour",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/service-a-la-clientele/retour.html",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Returns (page anglaise, recherche de reçu de 90 jours)",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-11-18"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 18 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Product recall refund: do you need the receipt? | ReFound",
+    "metaDescription": "Some recalls require no proof of purchase, others don't say. 8 real Canadian recall notices compared, and why recalls often come years after you buy.",
+    "keywords": "product recall, product recall refund, recall without receipt, proof of purchase recall, Canadian Tire recall, IKEA recall, Health Canada recalls, recalled product what to do",
+    "category": "Guide",
+    "date": "November 18, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Product recalls and receipts",
+    "eyebrow": "Proof of purchase",
+    "h1": "Product recalls in Canada: do you need the receipt to get a refund?",
+    "card": {
+      "title": "Product recall refund: do you need the receipt?",
+      "subtitle": "8 real recall notices compared, and why the number printed on your receipt helps you tell if an item is affected."
+    },
+    "coverAlt": "Store receipt with one line highlighted under a magnifying glass, next to a warning triangle",
+    "intro": [
+      "Short answer: not always. In a recall, the company sets the remedy, and Canadian recall notices don't all say the same thing. Some state that no proof of purchase is required, like IKEA's VARMFRONT portable charger recall or a ramp sold at Canadian Tire. Most simply don't mention the receipt.",
+      "The receipt still matters, for a different reason: recalls often come months or even years after the purchase. A Yardworks snowblower bought at Canadian Tire in March 2019 was covered by an expanded recall in March 2025, six years later. By then, you first need to know you own the affected item, and the receipt is often the only place where the item number and purchase date sit together.",
+      "This guide compares eight real recall notices and shows how to match a receipt line to a notice. Notices checked on recalls-rappels.canada.ca and ikea.com on November 18, 2026."
+    ],
+    "sections": [
+      {
+        "heading": "Do you need a receipt to get a refund in a recall?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Not necessarily: the recall notice decides, and it varies from one recall to the next. Of the eight notices compared below, two state that no proof of purchase is required and the other six don't mention it. None explicitly says a receipt is mandatory."
+          },
+          {
+            "type": "table",
+            "caption": "What eight real recall notices say (checked November 18, 2026)",
+            "headers": [
+              "Recalled product",
+              "Where to bring it",
+              "What's offered",
+              "Proof of purchase in the notice"
+            ],
+            "rows": [
+              [
+                "VARMFRONT portable chargers (IKEA)",
+                "Any IKEA store",
+                "Replacement product or full refund",
+                "\"Proof of purchase (receipt) is not required.\""
+              ],
+              [
+                "Tri-panel multi-use ramp (Canadian Tire, product 040-8684)",
+                "A Canadian Tire store",
+                "Exchange or refund",
+                "\"Proof of purchase is not required.\""
+              ],
+              [
+                "Yardworks 15-amp 22-inch electric corded snowblower (model 060-0583)",
+                "Any Canadian Tire store",
+                "Full refund",
+                "Not mentioned"
+              ],
+              [
+                "PowerG walking pad (model 499-4052)",
+                "A Canadian Tire store",
+                "Refund or in-store credit",
+                "Not mentioned"
+              ],
+              [
+                "Home Collections round PTC heater (model 043-5105-0)",
+                "The place of purchase",
+                "Full refund or replacement unit",
+                "Not mentioned"
+              ],
+              [
+                "HOMETRENDS tabletop torches and BETTER HOMES AND GARDENS eco torches",
+                "Walmart stores",
+                "Full refund",
+                "Not mentioned"
+              ],
+              [
+                "MEC Shuttlecraft kid carrier",
+                "A MEC store",
+                "Refund",
+                "Not mentioned"
+              ],
+              [
+                "Ariza independent smoke alarm S100B-CR (online merchant)",
+                "No return described",
+                "No refund mentioned: dispose of it and replace it with an alarm bearing a Canadian certification mark",
+                "Not mentioned"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "\"Not mentioned\" doesn't mean \"required\" or \"not needed\". It means the notice doesn't settle the question. Before you go, call the number in the notice: Canadian Tire, Walmart and MEC all list a toll-free number."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "A recall doesn't guarantee a refund",
+            "text": "The Ariza smoke alarm, sold by an online merchant based in China, shows it: the notice asks you to dispose of the product and replace it with a certified alarm, with no refund described. The receipt doesn't change what the company offers."
+          }
+        ]
+      },
+      {
+        "heading": "Who decides what is offered in a recall?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The company recalling the product chooses the corrective measure. Health Canada's guide to recalling consumer products lists four: product correction (such as a repair that removes the hazard), product replacement with a similar product of similar value, product disposal, and product refund or another form of compensation."
+          },
+          {
+            "type": "p",
+            "text": "The same guide doesn't discuss receipts. Instead, it says that to receive a refund, the company may require the consumer to return the product as proof that it is no longer being used. In other words, it's often the product itself you're asked for, not the paper."
+          },
+          {
+            "type": "p",
+            "text": "Health Canada can also go beyond a request: under the Canada Consumer Product Safety Act, the Minister of Health can order a recall when there are reasonable grounds to believe a product is a danger to human health or safety. The same Act prohibits recalled products from being redistributed, sold or even given away in Canada."
+          }
+        ]
+      },
+      {
+        "heading": "Recalls often come after the return window has closed",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A recall can cover an item bought years ago. For the four Canadian Tire recalls in our comparison, we calculated the gap between the first month of sale and the date of the notice: from 14 months to six years. Canadian Tire's standard return window is 90 days."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/rappel-produit-recu/delai-rappel-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "To-scale chart: 14 months to 6 years between the earliest possible purchase and the recall notice for four Canadian Tire products, versus a 90-day return window",
+            "caption": "ReFound calculation based on the sale periods and dates published in Health Canada notices."
+          },
+          {
+            "type": "table",
+            "caption": "From purchase to recall notice: four Canadian Tire recalls",
+            "headers": [
+              "Product",
+              "Sale period",
+              "Notice date",
+              "Maximum gap"
+            ],
+            "rows": [
+              [
+                "Yardworks 22-in snowblower (060-0583)",
+                "March 2019 to December 2021",
+                "March 11, 2025 (February 28, 2023 recall expanded to all batches)",
+                "About 6 years"
+              ],
+              [
+                "Home Collections round PTC heater (043-5105-0)",
+                "June 2016 to April 2018",
+                "February 11, 2019",
+                "About 32 months"
+              ],
+              [
+                "PowerG walking pad (499-4052)",
+                "January 2025 to July 2026",
+                "August 27, 2026",
+                "About 19 months"
+              ],
+              [
+                "Tri-panel multi-use ramp (040-8684)",
+                "September 2019 to September 2020",
+                "November 16, 2020",
+                "About 14 months"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Two practical consequences. First, the notices we checked set no deadline tied to the purchase: you're asked to bring the product back, not to stay within the return window. Second, a receipt look-up won't save you. Canadian Tire's return policy says receipt look-up lets stores verify credit or debit card purchases within 90 days. For a 2019 purchase, all that's left is the receipt you kept."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Why keep the receipt if the recall doesn't require it?",
+            "text": "Because it answers the two questions you'll be asked, or will ask yourself: did you really buy this model, and when? For a recall limited to certain batches or a specific sale period, the purchase date helps you tell whether your item could be affected. And if the store asks for proof, you have it."
+          }
+        ]
+      },
+      {
+        "heading": "How to tell if an item on your receipt has been recalled",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Compare the number printed on your receipt with the one in the notice, then confirm with the product label. At Canadian Tire, recall notices list a number in the same format as the item numbers printed on receipts, three groups of digits such as 043-5105-0 or 040-8684. On a receipt, that number is followed by an abbreviated description that, on its own, almost never tells you what the product is."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/rappel-produit-recu/recu-vs-produit-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Two columns: what is on the receipt (item number, description, date, store, payment) and what is on the product (model, UPC, batch, date stamp, purchase order)",
+            "caption": "The receipt and the product don't carry the same information. A recall often needs both."
+          },
+          {
+            "type": "p",
+            "text": "Here's what a real Canadian Tire receipt scanned in the ReFound demo account shows. These items are not among the recalls in this guide; they illustrate what you'll be looking at when you search."
+          },
+          {
+            "type": "table",
+            "caption": "Canadian Tire demo receipt: what the line says, and what to look for",
+            "headers": [
+              "Receipt line",
+              "Product identified by ReFound",
+              "What you would look for in a notice"
+            ],
+            "rows": [
+              [
+                "052-2124-0 LAMPE DEL GARAG",
+                "NOMA LED Garage Light, 8000 Lumens",
+                "Number 052-2124, the NOMA brand"
+              ],
+              [
+                "073-5211-4 CSQ C CRSTR BE",
+                "Supercycle Crosstrails bike helmet, infant",
+                "Number 073-5211, the Supercycle brand"
+              ],
+              [
+                "183-0095-8 CASQ+PR-V CCM J",
+                "CCM Hockey Helmet & Cage Combo, Youth, Black",
+                "Number 183-0095, the CCM brand"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Look at the two helmets: \"CSQ C CRSTR BE\" and \"CASQ+PR-V CCM J\". A recall notice uses the brand and product name, not the till abbreviation. Without the real name, you won't connect \"CSQ C CRSTR BE\" with a notice about a Supercycle helmet."
+          },
+          {
+            "type": "h3",
+            "text": "What's on the product, not on the receipt"
+          },
+          {
+            "type": "p",
+            "text": "Many recalls cover only some of the units sold. The identifier is then on the product:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Date stamp**: the affected VARMFRONT chargers carry a YYWW date stamp (year, week), such as 2313 or 2318.",
+              "**Batch number**: the February 2023 Yardworks snowblower recall covered certain batches; it was expanded to all batches of model 060-0583 in March 2025. The notice shows the batch number on the back of the unit.",
+              "**Purchase order**: only MEC kid carriers from purchase order 0707760 are affected; the tag is in the main lower pocket.",
+              "**UPC**: the barcode on the packaging, for example 814645020039 for the Home Collections PTC heater."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The right habit: the receipt to know what to look for and when you bought it, the product label to confirm your unit is affected."
+          }
+        ]
+      },
+      {
+        "heading": "How to get recall alerts",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Subscribe to Health Canada's alerts: it's the most direct way to learn that a product has been recalled. The Recalls and Safety Alerts site sends email notifications, immediately or as a daily digest, in English or French, for the categories you choose (consumer products, toys, electronics, food, health products). There is also a mobile app. Vehicle recalls aren't offered through this subscription; they're handled by Transport Canada."
+          },
+          {
+            "type": "p",
+            "text": "Companies can also contact known customers directly. Health Canada's guide mentions mail-outs or phone calls using registration cards, sales records and loyalty programs. Registering a product with the manufacturer or using your loyalty card improves your chances of being notified, without guaranteeing it."
+          }
+        ]
+      },
+      {
+        "heading": "Recall, return, warranty: three different remedies",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A recall is neither a return nor a warranty. It addresses a known health or safety hazard, and the remedy is set by the company in the notice. A return depends on the store's policy and a short window, 90 days for most items at Canadian Tire. A warranty covers defects under the store's or manufacturer's terms and, in Quebec, under the law."
+          },
+          {
+            "type": "p",
+            "text": "If your item has a problem that no recall covers, warranties apply. See [how to make a warranty claim](/en/blog/how-to-make-a-warranty-claim) and, in Quebec, the [warranty of good working order](/en/blog/quebec-warranty-of-good-working-order). For return windows, see the [Canadian Tire return policy](/en/blog/canadian-tire-return-policy)."
+          }
+        ]
+      },
+      {
+        "heading": "What ReFound does, and does not do, for recalls",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound doesn't monitor recalls and doesn't send recall alerts. To be notified, subscribe to Health Canada's alerts. What ReFound does is keep your proof of purchase usable on the day a notice concerns you."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The printed number and description are kept as is**, with the photo of the original receipt, even if the thermal paper fades later.",
+              "**The real product name is added when the information is available.** On our demo receipt, \"LAMPE DEL GARAG\" becomes NOMA LED Garage Light, 8000 Lumens: that's the name you'll compare with a notice.",
+              "**You find the receipt by searching for the item**, or by showing the item to the camera (3 free photo searches; unlimited search with ReFound Pro).",
+              "**With ReFound Pro, cloud backup** keeps your receipts and their images even if you change phones, which matters when a recall comes six years after the purchase.",
+              "**You can share the receipt** with the person who will bring the item back to the store."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "You can scan receipts from any merchant; richer product information depends on the merchant and the data available. See also [how ReFound reads Canadian Tire receipt codes](/en/merchants/canadian-tire-receipts)."
+          }
+        ]
+      },
+      {
+        "heading": "You have a recalled product: what to do, in order",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Stop using the product, as every notice we checked asks.",
+              "Check that your unit is affected: model, UPC, batch, date stamp or purchase order, depending on the notice.",
+              "Find the receipt, or failing that, another record of the purchase date and place.",
+              "Read the \"What you should do\" section of the notice: where to bring the product and what is offered.",
+              "If the notice says nothing about proof of purchase, call the number it lists before you go.",
+              "Don't give away, sell or throw out the product without instructions: Health Canada asks you not to throw it out without guidance.",
+              "Bring the product back, with the receipt if you have it, and keep proof of the refund or exchange."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Can you get a refund for a recalled product without a receipt?",
+        "a": "Often, yes, but it depends on the notice. Some notices state that no proof of purchase is required, such as those for IKEA's VARMFRONT chargers and Canadian Tire's tri-panel ramp. When the notice says nothing, call the number it lists before you go."
+      },
+      {
+        "q": "Is there a deadline to return a recalled product?",
+        "a": "The notices checked for this guide don't set one. The store's return window doesn't apply to a recall: the Yardworks snowblower covered by the expanded 2025 recall could have been bought as early as March 2019."
+      },
+      {
+        "q": "Can I sell or give away a recalled product?",
+        "a": "No. The Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada."
+      },
+      {
+        "q": "How do I find out if something I bought has been recalled?",
+        "a": "Search the brand, name or model number on recalls-rappels.canada.ca, and subscribe to email alerts. At Canadian Tire, the item number printed on the receipt uses the same format as the number listed in recall notices."
+      }
+    ],
+    "ctaTitle": "Keep your proof of purchase readable until the day you need it",
+    "ctaBody": "Scan the receipt when you buy: ReFound keeps the item number, the date and the receipt photo, and shows the real product name when the information is available.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "Canadian Tire receipts",
+        "href": "/en/merchants/canadian-tire-receipts",
+        "desc": "What the printed product codes mean."
+      },
+      {
+        "label": "Returns without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What four major retailers allow."
+      },
+      {
+        "label": "How long to keep receipts",
+        "href": "/en/blog/how-long-to-keep-receipts",
+        "desc": "By type of purchase."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "IKEA is recalling certain VARMFRONT portable chargers due to fire hazard",
+        "publisher": "IKEA Canada",
+        "url": "https://www.ikea.com/ca/en/customer-service/product-support/recalls/ikea-is-recalling-certain-varmfront-portable-chargers-due-to-fire-hazard-pub2c141bc0",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Tri-Panel Multi-Use Ramp recalled due to fall hazard",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/tri-panel-multi-use-ramp-recalled-due-fall-hazard",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Expanded recall: Yardworks 15-amp, 22-inch electric corded snowblower",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/expanded-recall-yardworks-15-amp-22-inch-electric-corded-snowblower-recalled-due",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "PowerG Walking Pad recalled due to electrical hazard",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/powerg-walking-pad-recalled-due-electrical-hazard",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Canadian Tire Corporation recalls Home Collections Round PTC Heater",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/canadian-tire-corporation-recalls-home-collections-round-ptc-heater",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "HOMETRENDS Tabletop Torches and BETTER HOMES AND GARDENS Eco Torches recalled",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/hometrends-tabletop-torches-and-better-homes-and-gardens-eco-torches-recalled-due-lack",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "MEC Shuttlecraft Kid Carrier recalled due to potential fall hazard",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/mec-shuttlecraft-kid-carrier-recalled-due-potential-fall-hazard",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Ariza Independent Smoke Alarm recalled due to potential failure to operate",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/ariza-independent-smoke-alarm-recalled-due-potential-failure-operate",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Recalling Consumer Products: A Guide for Industry",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/industry-professionals/recalling-consumer-products-guide-industry.html",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "What to do when a product is recalled",
+        "publisher": "Health Canada",
+        "url": "https://health.canada.ca/recall-alert-rappel-avis/what-quoi-eng.php",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Subscribe",
+        "publisher": "Government of Canada (Recalls and Safety Alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/subscribe",
+        "accessed": "2026-11-18"
+      },
+      {
+        "label": "Returns",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-11-18"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 18, 2026"
+  }
+}
