@@ -81,7 +81,10 @@ const C = require(path.join(ROOT, 'social', process.argv[2], 'slides.js'));
     for (const tt of [false, true]) for (let i = 0; i < list.length; i++) {
       const p = await b.newPage({ viewport: { width: 1080, height: tt ? 1920 : 1350 } });
       await p.setContent(slide(list[i], i + 1, list.length, C[l].src, tt)); await p.evaluate(() => document.fonts.ready);
-      await p.screenshot({ path: path.join(out, `${tt ? 'tt-' : ''}${l}-${String(i + 1).padStart(2, '0')}.png`) }); await p.close();
+      const base = path.join(out, `${tt ? 'tt-' : ''}${l}-${String(i + 1).padStart(2, '0')}`);
+      await p.screenshot({ path: base + '.png' });
+      if (tt) await p.screenshot({ path: base + '.jpg', type: 'jpeg', quality: 92 }); // TikTok (Metricool) refuse le PNG : JPEG ou WebP seulement
+      await p.close();
     }
   }
   await b.close();
