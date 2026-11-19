@@ -24,7 +24,7 @@ h1{font-size:36px;line-height:1.12;margin-top:8px;font-weight:800}
 .foot p{color:var(--muted);font-size:13px;max-width:930px}.foot img{height:20px}`;
 const LOGO = `data:image/png;base64,${b64('assets/logo-refound-light.png')}`;
 const KIT = JSON.parse(fs.readFileSync(path.join(ROOT, 'kit/receipts.json'), 'utf8')).receipts;
-const esc = s => String(s).replace(/&#039;/g, '’').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/ /g, ' ');
+const esc = s => String(s).replace(/\\u0026/g, '&').replace(/&#039;/g, '’').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/ /g, ' ');
 
 function photo(it) {
   if (!it.imageFile) return null; // nom exact du fichier dans kit/images/
@@ -76,6 +76,18 @@ const JOBS = {
       rows: [row('rona-plus', 7, 'Lifetime', 'manufacturer warranty', 'var(--green)'), row('rona-plus', 3, '15 years', 'limited · ends Apr. 19, 2041', 'var(--green)'),
         row('rona-plus', 9, '5 years', 'manufacturer · ends Apr. 19, 2031', '#5FD3AE'), row('rona-plus', 5, '1 year', 'limited · ends Apr. 19, 2027', '#7FA8FF'), row('rona-plus', 0, 'None', 'no warranty listed', 'var(--muted)')],
       src: 'Data: real RONA+ receipt scanned with ReFound (warranties when the information is available; manufacturer terms apply) · end dates calculated from the purchase' }) },
+  'politique-retour-dollarama': {
+    file: 'recu-reel', slug: 'dollarama',
+    fr: () => ({ eyebrow: 'Un reçu réel Dollarama · acheté le 18 août 2026', title: 'Le reçu dit « JEU A PECHE ». Il ne dit rien d’autre.',
+      head: ['<b>Ligne imprimée</b> → <b>produit identifié par ReFound</b> → <b>garantie</b>', 'Défaut à signaler avant le : <span class="g"><b>17 septembre 2026</b></span>'],
+      rows: [row('dollarama', 12, 'Aucune', 'garantie indiquée', 'var(--muted)'), row('dollarama', 5, 'Aucune', 'garantie indiquée', 'var(--muted)'),
+        row('dollarama', 8, 'Aucune', 'garantie indiquée', 'var(--muted)'), row('dollarama', 13, 'Aucune', 'garantie indiquée', 'var(--muted)'), row('dollarama', 6, 'Aucune', 'garantie indiquée', 'var(--muted)')],
+      src: 'Données : reçu réel Dollarama numérisé avec ReFound · 17 septembre = 30 jours après l’achat, délai de Dollarama pour signaler un produit défectueux ou endommagé (dollarama.com, vérifié le 19 novembre 2026)' }),
+    en: () => ({ eyebrow: 'A real Dollarama receipt · bought August 18, 2026', title: 'The receipt says “JEU A PECHE”. Nothing more.',
+      head: ['<b>Printed line</b> → <b>product identified by ReFound</b> → <b>warranty</b>', 'Report a defect by: <span class="g"><b>September 17, 2026</b></span>'],
+      rows: [row('dollarama', 12, 'None', 'no warranty listed', 'var(--muted)'), row('dollarama', 5, 'None', 'no warranty listed', 'var(--muted)'),
+        row('dollarama', 8, 'None', 'no warranty listed', 'var(--muted)'), row('dollarama', 13, 'None', 'no warranty listed', 'var(--muted)'), row('dollarama', 6, 'None', 'no warranty listed', 'var(--muted)')],
+      src: 'Data: real Dollarama receipt scanned with ReFound · September 17 = 30 days after purchase, Dollarama’s window to report a defective or damaged product (dollarama.com, checked November 19, 2026)' }) },
   'politique-retour-walmart': {
     file: 'recu-reel', slug: 'walmart',
     fr: () => ({ eyebrow: 'Un reçu réel Walmart · acheté le 26 mai 2026', title: 'Le retour finit en août. La garantie, l’an prochain.',

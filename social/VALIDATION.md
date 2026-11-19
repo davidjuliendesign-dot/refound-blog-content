@@ -83,3 +83,12 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **Promesses exactes** : « une copie lisible, même si le papier pâlit » plutôt que « pour toujours ».
 - **Ce qui fait partager** : une alerte précise qu'on envoie à quelqu'un (« check ta souffleuse »).
   La légende le dit : « Envoyez-le à quelqu'un qui a une souffleuse. »
+
+## Leçons du troisième essai (19 novembre 2026, `politique-retour-dollarama` : 5 / 4 / 5,5 → 8 / 6,5 / 8)
+- **Un calcul évident sur une diapo entière (« 1er déc. + 30 jours = 31 déc. ») a été jugé condescendant par les trois.** Le calcul marche quand il révèle une surprise (cadeaux de Noël), pas quand il est attendu.
+- **Ce qui manquait le plus : le « comment ».** Où signaler, avec quoi. Une diapo de marche à suivre est celle que les personas enregistrent.
+- **Un mot de la politique officielle peut sembler contradictoire** (« inutilisé » pour un article défectueux) : l'enlever de la diapo s'il n'est pas essentiel, le garder dans l'article.
+- **La garantie légale du Québec, avec une action** (« même après 30 jours, magasin ou fabricant, avec le reçu »), est ce qui fait partager Gilles et Julie.
+- **Ne pas donner la réponse dans l'accroche** si la diapo 2 la donne : sinon la 2 devient un doublon.
+- **L'exemple avant/après de l'app (ligne du reçu → produit identifié, avec photo) rend la dernière diapo claire**, mais un nom de produit en anglais dans un carrousel français accroche les trois personas : choisir de préférence un exemple du kit dont le nom identifié est en français.
+- Samuel (TikTok) reste sous 7 : une 1re image texte sur fond noir ne l'arrête pas, et un article à 4 $ ne le concerne pas.

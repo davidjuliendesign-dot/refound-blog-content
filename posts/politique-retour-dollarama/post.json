@@ -1,0 +1,799 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-dollarama",
+  "frPath": "/blog/politique-retour-dollarama",
+  "enPath": "/en/blog/dollarama-return-policy",
+  "datePublished": "2026-11-19T09:00:00-05:00",
+  "dateModified": "2026-11-19T09:00:00-05:00",
+  "lastFactCheck": "2026-11-19",
+  "cover": {
+    "src": "/images/blog/politique-retour-dollarama/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delais-fr.png",
+    "delais-en.png",
+    "recu-reel-fr.png",
+    "recu-reel-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour Dollarama : aucun échange, sauf défaut | ReFound",
+    "metaDescription": "Dollarama n'accepte ni échange ni retour, sauf un produit défectueux ou endommagé signalé dans les 30 jours. Avec un vrai reçu et vos recours au Québec.",
+    "keywords": "politique de retour Dollarama, retour Dollarama, échange Dollarama, Dollarama remboursement, Dollarama produit défectueux, reçu Dollarama, Dollarama sans reçu, garantie légale Québec, carte-cadeau Dollarama",
+    "category": "Guide",
+    "date": "19 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour Dollarama",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour Dollarama : aucun échange, sauf un produit défectueux",
+    "card": {
+      "title": "Politique de retour Dollarama : aucun échange, sauf défaut (2026)",
+      "subtitle": "Ce que Dollarama écrit vraiment, les 30 jours pour un produit défectueux, et un vrai reçu ligne par ligne."
+    },
+    "coverAlt": "Reçu de petits montants, flèche de retour barrée et calendrier indiquant 30",
+    "intro": [
+      "Réponse courte : Dollarama a une politique selon laquelle aucun échange ni aucun retour n'est accepté. La seule exception écrite : un produit défectueux ou endommagé, que vous devez signaler dans les 30 jours avec une photo du produit et de son emballage d'origine. Le produit doit être inutilisé et dans son emballage d'origine.",
+      "Ce que la plupart des guides ne disent pas : les règles publiées par Dollarama visent surtout les achats faits sur son site, et Dollarama ne publie pas de règle distincte pour les achats en magasin. Au Québec, la garantie légale s'applique quand même à un article défectueux. Ce guide fait le tri, avec un vrai reçu Dollarama ligne par ligne.",
+      "Politique vérifiée sur dollarama.com le 19 novembre 2026. Elle peut changer : la page officielle et votre magasin ont le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de Dollarama?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Dollarama n'accepte pas les échanges ni les retours, sauf pour un produit défectueux ou endommagé. C'est la règle écrite dans sa foire aux questions et dans ses termes et conditions (dernière mise à jour : 11 août 2026). Pour une commande en ligne, un produit qui ne correspond pas à ce que vous avez commandé fait aussi exception."
+          },
+          {
+            "type": "table",
+            "caption": "La politique de retour de Dollarama en 6 règles (dollarama.com, vérifié le 19 novembre 2026)",
+            "headers": [
+              "Règle",
+              "Ce que dit Dollarama"
+            ],
+            "rows": [
+              [
+                "Principe",
+                "Aucun échange ni aucun retour n'est accepté"
+              ],
+              [
+                "Exceptions",
+                "Produit défectueux ou endommagé ; pour une commande en ligne, produit qui ne correspond pas à la commande"
+              ],
+              [
+                "Délai",
+                "Trente (30) jours suivant l'achat (termes et conditions) ; pour une commande en ligne, 30 jours de l'expédition"
+              ],
+              [
+                "Preuve demandée",
+                "Une photo du produit défectueux ou endommagé et une photo de l'emballage d'origine, envoyées par le formulaire Nous joindre"
+              ],
+              [
+                "État du produit",
+                "Inutilisé, dans son emballage d'origine"
+              ],
+              [
+                "Remboursement",
+                "Sur la carte de paiement utilisée lors de l'achat ; frais de livraison et de manutention non remboursables (commande en ligne)"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Autrement dit, un article qui fonctionne mais qui ne vous plaît plus, la mauvaise couleur ou un achat en double ne sont pas couverts par la politique écrite. C'est la grande différence avec Walmart (90 jours pour la plupart des articles) ou [Tigre Géant](/blog/politique-retour-tigre-geant), qui n'a aucune date limite avec le reçu."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-dollarama/delais-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Comparaison à l'échelle : Dollarama, aucun retour pour un article non défectueux et 30 jours pour signaler un défaut ; Walmart, 90 jours ; Tigre Géant, aucune date limite",
+            "caption": "Chez Dollarama, le délai de 30 jours ne vaut que pour un produit défectueux ou endommagé. Sources : dollarama.com, walmart.ca, gianttiger.com, vérifié le 19 novembre 2026."
+          }
+        ]
+      },
+      {
+        "heading": "Produit défectueux : comment compter les 30 jours",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai part de la date d'achat pour un achat ordinaire, et de la date d'expédition pour une commande en ligne. Les termes et conditions de Dollarama parlent de « trente (30) jours suivant votre achat » ; sa réponse sur les commandes en ligne parle de 30 jours « de l'expédition de votre commande »."
+          },
+          {
+            "type": "p",
+            "text": "Exemple avec un vrai reçu : un achat fait le 18 août 2026 doit être signalé au plus tard le 17 septembre 2026. Le reçu est le seul document qui prouve ce 18 août."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Gardez le produit tel quel : inutilisé, dans son emballage d'origine.",
+              "Prenez une photo du produit défectueux ou endommagé, et une photo de l'emballage d'origine.",
+              "Remplissez le formulaire Nous joindre sur dollarama.com avant la fin des 30 jours, avec le plus de détails possible.",
+              "Gardez votre reçu : il établit la date d'achat et le montant payé."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Une commande en ligne ne se règle pas en magasin",
+            "text": "Dollarama indique qu'une demande de remboursement pour un produit acheté en ligne ne peut pas être traitée dans ses magasins, et que retourner en magasin un produit acheté en ligne n'est pas possible."
+          }
+        ]
+      },
+      {
+        "heading": "En magasin, en ligne ou par livraison : à qui s'adresser?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ça dépend de l'endroit où vous avez acheté. Dollarama ne publie pas de règle distincte pour les achats en magasin : le principe affiché reste « aucun échange ni aucun retour ». Pour un article acheté en magasin, demandez au comptoir et lisez la politique affichée : le Bureau de la consommation du Canada rappelle que ces politiques sont souvent affichées près de la caisse."
+          },
+          {
+            "type": "table",
+            "caption": "Où faire une demande selon l'endroit de l'achat",
+            "headers": [
+              "Achat fait…",
+              "Qui s'en occupe",
+              "À retenir"
+            ],
+            "rows": [
+              [
+                "En magasin",
+                "Le magasin, ou le service à la clientèle de Dollarama",
+                "Aucune règle distincte publiée ; tous les magasins appartiennent à Dollarama (pas de franchises)"
+              ],
+              [
+                "Sur dollarama.com",
+                "Dollarama, par le formulaire Nous joindre",
+                "30 jours de l'expédition ; pas de remboursement en magasin"
+              ],
+              [
+                "Par Instacart, Uber Eats ou DoorDash",
+                "La plateforme de livraison",
+                "Dollarama renvoie à la plateforme pour tout échange ou retour"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Depuis le 2 juin 2025, Dollarama a retiré son service de commandes en gros en ligne : les articles se vendent à l'unité, en magasin ou par ses plateformes de livraison. Pour une commande passée sur l'une d'elles, Dollarama précise que c'est la plateforme qui gère les échanges, les retours et le service à la clientèle."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que dit (et ne dit pas) un vrai reçu Dollarama",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu Dollarama prouve la date et le montant, mais il nomme les produits en quelques mots. Voici cinq lignes d'un reçu réel, un achat de 35,81 $ fait le 18 août 2026 à Gatineau (15 lignes), numérisé avec ReFound."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-dollarama/recu-reel-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Cinq lignes d'un reçu réel Dollarama : JEU A PECHE, BATEAU JOUET, NAPPE TABLE, CHANDELLE, VIM VAPORISATEUR, avec le produit identifié par ReFound et aucune garantie indiquée",
+            "caption": "Lignes d'un reçu réel Dollarama et produits identifiés par ReFound. Le 17 septembre correspond aux 30 jours pour signaler un défaut."
+          },
+          {
+            "type": "table",
+            "caption": "Ligne imprimée → produit identifié par ReFound (reçu réel, 18 août 2026)",
+            "headers": [
+              "Ligne du reçu",
+              "Produit identifié",
+              "Prix"
+            ],
+            "rows": [
+              [
+                "JEU A PECHE",
+                "Dollarama Diving Fishing Game With Net",
+                "3,00 $"
+              ],
+              [
+                "BATEAU JOUET",
+                "Windup Boat Toy",
+                "1,75 $"
+              ],
+              [
+                "NAPPE TABLE",
+                "Better Food Concepts Occasions Birthday Balloon Printed Table Cover",
+                "1,50 $"
+              ],
+              [
+                "CHANDELLE",
+                "Birthday Number Candle With Decor",
+                "1,25 $"
+              ],
+              [
+                "VIM VAPORISATEUR",
+                "Vim Power & Shine, vaporisateur antibactérien",
+                "4,50 $"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Trois choses ressortent de ce reçu. D'abord, « CHANDELLE » ou « JEU A PECHE » ne disent pas quel modèle vous avez acheté : un mois plus tard, sur un reçu de 15 lignes, c'est difficile de relier la ligne au produit qui a brisé. Ensuite, aucun de ces articles n'a de garantie indiquée. Enfin, toutes les lignes ne s'identifient pas aussi bien : sur ce même reçu, une ligne « LIVRE » reste un simple « livre »."
+          },
+          {
+            "type": "p",
+            "text": "Pour un article à 3 $, ça peut sembler beaucoup d'effort. Mais quand un jouet brise le lendemain d'une fête, le reçu est ce qui prouve la date, et donc que vous êtes encore dans les 30 jours."
+          }
+        ]
+      },
+      {
+        "heading": "Après les 30 jours : la garantie légale au Québec",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Au Québec, une politique « aucun retour » n'enlève pas la garantie légale. Selon l'Office de la protection du consommateur, tous les biens vendus par un commerçant sont couverts par des garanties prévues par la loi, qui s'appliquent automatiquement et sans frais. Une mention, verbale ou écrite, selon laquelle un bien est vendu sans garantie est inopposable au consommateur."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Ce que la loi exige** : le bien doit servir à l'usage auquel il est destiné, pendant une durée raisonnable. Cette durée dépend notamment du prix payé et des conditions d'utilisation.",
+              "**Ce que le commerçant peut faire** : selon le cas, réparer le bien sans frais, l'échanger ou vous rembourser.",
+              "**À qui s'adresser** : au commerçant, ou à votre choix au fabricant. Le commerçant ne peut pas vous obliger à vous adresser au fabricant."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La [garantie de bon fonctionnement](/blog/garantie-bon-fonctionnement-quebec), en vigueur depuis le 5 octobre 2026, vise des électroménagers et des appareils électroniques neufs (réfrigérateur, laveuse, ordinateur, cellulaire, etc.). La plupart des articles vendus chez Dollarama n'en font pas partie : pour eux, c'est la garantie légale qui compte."
+          },
+          {
+            "type": "p",
+            "text": "Ailleurs au Canada, le Bureau de la consommation rappelle que les entreprises ne sont pas légalement obligées d'accepter un article retourné, à moins qu'il soit défectueux. Pour un article qui fonctionne, la politique du magasin décide."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "« Aucun retour » ne veut pas dire « aucun recours »",
+            "text": "Pour un article qui fonctionne, Dollarama peut refuser l'échange : la loi québécoise n'oblige pas un commerçant à reprendre un bien non défectueux. Pour un article défectueux, signalez-le dans les 30 jours, et au Québec, la garantie légale peut s'appliquer au-delà. Dans les deux cas, on vous demandera de prouver l'achat."
+          }
+        ]
+      },
+      {
+        "heading": "Cadeaux et cartes-cadeaux Dollarama",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un cadeau acheté chez Dollarama suit la même règle : pas d'échange s'il n'est pas défectueux. Avant les Fêtes, c'est la principale différence avec les magasins qui prolongent leurs délais de retour ; voyez notre guide pour [retourner un cadeau de Noël](/blog/retourner-cadeau-noel)."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Carte-cadeau physique** : ses conditions sont imprimées à l'endos.",
+              "**Carte-cadeau virtuelle** : son solde s'utilise dans tous les magasins Dollarama au Canada ; il ne peut pas être échangé contre de l'argent ni remboursé, sauf si la loi l'exige.",
+              "**Achat payé avec une carte-cadeau virtuelle** : il suit la politique de retour, d'échange et de remboursement de Dollarama."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Comment se préparer avant d'acheter chez Dollarama",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Comme un retour pour changement d'idée n'est pas prévu, la préparation se fait avant et juste après l'achat."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez l'emballage et la taille avant de passer à la caisse.",
+              "Gardez l'emballage d'origine pendant 30 jours : Dollarama le demande en photo pour un produit défectueux.",
+              "Gardez le reçu, et notez la date limite : 30 jours après l'achat.",
+              "Si le produit est défectueux, prenez les photos et faites la demande avant cette date."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ReFound aide à garder la preuve. Numérisez le reçu en rentrant : l'app garde une copie lisible même si le papier pâlit, identifie le produit derrière une ligne comme « JEU A PECHE » quand l'information est disponible, et vous permet de retrouver le reçu par magasin, date ou montant. Si c'est votre conjoint qui fait la demande, vous pouvez lui partager le reçu."
+          },
+          {
+            "type": "p",
+            "text": "ReFound affiche sur chaque reçu une date limite de retour estimée selon la politique générale du marchand. Chez Dollarama, cette date ne vous donne pas droit à un retour : la politique écrite reste « aucun échange ni aucun retour », sauf produit défectueux ou endommagé. ReFound ne décide jamais si une demande est acceptée."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Dollarama accepte-t-il les retours?",
+        "a": "Non, en principe. Dollarama a une politique selon laquelle aucun échange ni aucun retour n'est accepté, sauf pour un produit défectueux ou endommagé signalé dans les 30 jours."
+      },
+      {
+        "q": "Combien de jours a-t-on pour un produit défectueux chez Dollarama?",
+        "a": "30 jours. Les termes et conditions parlent de trente jours suivant l'achat ; pour une commande en ligne, Dollarama compte 30 jours à partir de l'expédition."
+      },
+      {
+        "q": "Peut-on échanger un article chez Dollarama sans reçu?",
+        "a": "La politique publiée ne parle pas du reçu, mais elle n'accepte pas les échanges d'articles non défectueux. Pour un article défectueux, le reçu prouve la date d'achat et le montant."
+      },
+      {
+        "q": "Peut-on retourner en magasin un achat fait sur dollarama.com?",
+        "a": "Non. Dollarama indique que cette option n'est pas disponible et que les demandes pour un achat en ligne passent par le formulaire Nous joindre."
+      },
+      {
+        "q": "Que faire si un article Dollarama brise après 30 jours?",
+        "a": "Au Québec, la garantie légale peut s'appliquer : un bien doit servir à un usage normal pendant une durée raisonnable, qui dépend notamment du prix payé. Adressez-vous au commerçant ou au fabricant, avec votre preuve d'achat."
+      }
+    ],
+    "ctaTitle": "Gardez la preuve de vos achats Dollarama",
+    "ctaBody": "Numérisez le reçu en rentrant : ReFound garde une copie lisible, identifie les produits quand l'information est disponible et vous aide à retrouver le reçu le jour où un article brise.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Politique de retour Tigre Géant",
+        "href": "/blog/politique-retour-tigre-geant",
+        "desc": "Aucune date limite avec le reçu."
+      },
+      {
+        "label": "Politique de retour Walmart",
+        "href": "/blog/politique-retour-walmart",
+        "desc": "90 jours pour la plupart des articles."
+      },
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce que les grands magasins acceptent."
+      },
+      {
+        "label": "Réclamation de garantie",
+        "href": "/blog/reclamation-garantie",
+        "desc": "À qui s'adresser, et jusqu'à quand."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Nous joindre : Quelle est votre politique de retours?",
+        "publisher": "Dollarama",
+        "url": "https://www.dollarama.com/fr-CA/corp/nous-joindre",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Termes et conditions (31 octobre 2025)",
+        "publisher": "Dollarama",
+        "url": "https://www.dollarama.com/media/rggklgfc/dollarama-termes-et-conditions-2025-10-31-fr-clean.pdf",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Terms and Conditions (11 août 2026, en anglais)",
+        "publisher": "Dollarama",
+        "url": "https://www.dollarama.com/media/jcglscco/dollarama-terms-and-conditions-2026-08-11-eng-clean.pdf",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Garanties prévues par la loi",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/commercant/pratique-commerce/garanties/legale",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Garanties prévues par la loi (durée raisonnable)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/bien-consommation/electromenager/garantie/garanties-legales",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Échange et remboursement d'un bien non défectueux",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/echange/remboursement/bien/bien-non-defectueux",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Remboursements et échanges",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Politique de retour standard",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Politique de retour",
+        "publisher": "Tigre Géant",
+        "url": "https://help.gianttiger.com/fr-FR/politique-de-retour-92495",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 19 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Dollarama Return Policy: No Exchanges Unless Defective | ReFound",
+    "metaDescription": "Dollarama accepts no exchanges or returns unless a product is defective or damaged and reported within 30 days. With a real receipt and your options in Quebec.",
+    "keywords": "Dollarama return policy, Dollarama returns, Dollarama exchange, Dollarama refund, Dollarama defective product, Dollarama receipt, Dollarama no receipt, Quebec legal warranty, Dollarama gift card",
+    "category": "Guide",
+    "date": "November 19, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Dollarama return policy",
+    "eyebrow": "Returns",
+    "h1": "Dollarama return policy: no exchanges unless the product is defective",
+    "card": {
+      "title": "Dollarama return policy: no exchanges unless defective (2026)",
+      "subtitle": "What Dollarama actually writes, the 30 days for a defective product, and a real receipt line by line."
+    },
+    "coverAlt": "Receipt with small amounts, a crossed-out return arrow and a calendar showing 30",
+    "intro": [
+      "Short answer: Dollarama has a “no exchange, no return” policy. The only written exception is a defective or damaged product, which you must report within 30 days with a photo of the product and its original packaging. The product must be unused and in its original packaging.",
+      "What most guides leave out: the rules Dollarama publishes mainly cover purchases made on its website, and Dollarama doesn’t publish a separate rule for in-store purchases. In Quebec, the legal warranty still applies to a defective item. This guide sorts it out, with a real Dollarama receipt line by line.",
+      "Policy checked on dollarama.com on November 19, 2026. It can change: the official page and your store have the final say."
+    ],
+    "sections": [
+      {
+        "heading": "What is Dollarama’s return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Dollarama doesn’t accept exchanges or returns, except for a defective or damaged product. That’s the rule in its FAQ and in its Terms and Conditions (last updated August 11, 2026). For an online order, a product that doesn’t match what you ordered is also an exception."
+          },
+          {
+            "type": "table",
+            "caption": "Dollarama’s return policy in 6 rules (dollarama.com, checked November 19, 2026)",
+            "headers": [
+              "Rule",
+              "What Dollarama says"
+            ],
+            "rows": [
+              [
+                "Principle",
+                "No exchange, no return"
+              ],
+              [
+                "Exceptions",
+                "Defective or damaged product; for an online order, a product that doesn’t match the order"
+              ],
+              [
+                "Deadline",
+                "Thirty (30) days of your purchase (Terms and Conditions); for an online order, 30 days from shipment"
+              ],
+              [
+                "Proof requested",
+                "A picture of the defective or damaged product and a picture of the original packaging, sent through the Contact us form"
+              ],
+              [
+                "Product condition",
+                "Unused, in its original packaging"
+              ],
+              [
+                "Refund",
+                "To the original payment method; shipping and handling charges are not refundable (online order)"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In other words, an item that works but that you no longer want, the wrong colour or a duplicate purchase isn’t covered by the written policy. That’s the big difference with Walmart (90 days for most items) or [Giant Tiger](/en/blog/giant-tiger-return-policy), which has no time limit with the receipt."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-dollarama/delais-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Comparison to scale: Dollarama, no returns for an item that isn’t defective and 30 days to report a defect; Walmart, 90 days; Giant Tiger, no time limit",
+            "caption": "At Dollarama, the 30-day window only applies to a defective or damaged product. Sources: dollarama.com, walmart.ca, gianttiger.com, checked November 19, 2026."
+          }
+        ]
+      },
+      {
+        "heading": "Defective product: how to count the 30 days",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The window starts on the purchase date for a regular purchase, and on the shipping date for an online order. Dollarama’s Terms and Conditions say “within thirty (30) days of your purchase”; its answer about online orders says 30 days “from shipment of your order”."
+          },
+          {
+            "type": "p",
+            "text": "Example with a real receipt: a purchase made on August 18, 2026 must be reported by September 17, 2026 at the latest. The receipt is the only document that proves that August 18 date."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Keep the product as is: unused, in its original packaging.",
+              "Take a picture of the defective or damaged product, and a picture of the original packaging.",
+              "Fill out the Contact us form on dollarama.com before the 30 days are up, with as many details as possible.",
+              "Keep your receipt: it establishes the purchase date and the amount paid."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "An online order can’t be settled in store",
+            "text": "Dollarama says refund requests for products purchased online can’t be processed in its stores, and that returning an online purchase to a store isn’t available."
+          }
+        ]
+      },
+      {
+        "heading": "In store, online or by delivery: who handles it?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "It depends on where you bought. Dollarama doesn’t publish a separate rule for in-store purchases: the stated principle remains “no exchange, no return”. For an item bought in store, ask at the counter and read the posted policy: the Office of Consumer Affairs notes that these policies are often posted near the cash register."
+          },
+          {
+            "type": "table",
+            "caption": "Where to make a request depending on where you bought",
+            "headers": [
+              "Bought…",
+              "Who handles it",
+              "Keep in mind"
+            ],
+            "rows": [
+              [
+                "In store",
+                "The store, or Dollarama customer service",
+                "No separate rule published; all stores are corporate-owned (no franchises)"
+              ],
+              [
+                "On dollarama.com",
+                "Dollarama, through the Contact us form",
+                "30 days from shipment; no refund in store"
+              ],
+              [
+                "Through Instacart, Uber Eats or DoorDash",
+                "The delivery platform",
+                "Dollarama refers you to the platform for any exchange or return"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Since June 2, 2025, Dollarama has retired its online bulk ordering service: items are sold by the unit, in store or through its delivery platforms. For an order placed on one of them, Dollarama states that the platform handles exchanges, returns and customer service."
+          }
+        ]
+      },
+      {
+        "heading": "What a real Dollarama receipt says (and doesn’t)",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A Dollarama receipt proves the date and the amount, but it names products in a few words. Here are five lines from a real receipt, a $35.81 purchase made on August 18, 2026 in Gatineau (15 lines), scanned with ReFound."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-dollarama/recu-reel-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Five lines from a real Dollarama receipt: JEU A PECHE, BATEAU JOUET, NAPPE TABLE, CHANDELLE, VIM VAPORISATEUR, with the product identified by ReFound and no warranty listed",
+            "caption": "Lines from a real Dollarama receipt and products identified by ReFound. September 17 is the end of the 30 days to report a defect."
+          },
+          {
+            "type": "table",
+            "caption": "Printed line → product identified by ReFound (real receipt, August 18, 2026)",
+            "headers": [
+              "Receipt line",
+              "Product identified",
+              "Price"
+            ],
+            "rows": [
+              [
+                "JEU A PECHE",
+                "Dollarama Diving Fishing Game With Net",
+                "$3.00"
+              ],
+              [
+                "BATEAU JOUET",
+                "Windup Boat Toy",
+                "$1.75"
+              ],
+              [
+                "NAPPE TABLE",
+                "Better Food Concepts Occasions Birthday Balloon Printed Table Cover",
+                "$1.50"
+              ],
+              [
+                "CHANDELLE",
+                "Birthday Number Candle With Decor",
+                "$1.25"
+              ],
+              [
+                "VIM VAPORISATEUR",
+                "Vim Power & Shine antibacterial spray",
+                "$4.50"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Three things stand out on this receipt. First, “CHANDELLE” (candle) or “JEU A PECHE” (fishing game) doesn’t tell you which model you bought: a month later, on a 15-line receipt, it’s hard to link the line to the product that broke. Second, none of these items has a warranty listed. Third, not every line is identified as well: on the same receipt, a line reading “LIVRE” stays a plain “book”."
+          },
+          {
+            "type": "p",
+            "text": "For a $3 item, that can seem like a lot of effort. But when a toy breaks the day after a party, the receipt is what proves the date, and so that you’re still within the 30 days."
+          }
+        ]
+      },
+      {
+        "heading": "After the 30 days: Quebec’s legal warranty",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In Quebec, a “no return” policy doesn’t remove the legal warranty. According to the Office de la protection du consommateur, all goods sold by a merchant are covered by warranties provided by law, which apply automatically and at no cost. A statement, verbal or written, that a good is sold without warranty can’t be set up against the consumer."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**What the law requires**: the good must be fit for its intended use, for a reasonable length of time. That length depends notably on the price paid and the conditions of use.",
+              "**What the merchant can do**: depending on the case, repair the good at no cost, exchange it or refund you.",
+              "**Who to contact**: the merchant, or at your choice the manufacturer. The merchant can’t force you to go to the manufacturer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The [warranty of good working order](/en/blog/quebec-warranty-of-good-working-order), in effect since October 5, 2026, covers new household appliances and electronic devices (refrigerator, washer, computer, cell phone, etc.). Most items sold at Dollarama aren’t among them: for those, the legal warranty is what counts."
+          },
+          {
+            "type": "p",
+            "text": "Elsewhere in Canada, the Office of Consumer Affairs notes that businesses are not legally obligated to accept the return of purchased items unless they are defective. For an item that works, the store’s policy decides."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "“No return” doesn’t mean “no recourse”",
+            "text": "For an item that works, Dollarama can refuse an exchange: Quebec law doesn’t require a merchant to take back a good that isn’t defective. For a defective item, report it within 30 days, and in Quebec the legal warranty can apply beyond that. Either way, you’ll be asked to prove the purchase."
+          }
+        ]
+      },
+      {
+        "heading": "Dollarama gifts and gift cards",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A gift bought at Dollarama follows the same rule: no exchange unless it’s defective. Before the holidays, that’s the main difference with stores that extend their return windows; see our guide to [returning Christmas gifts](/en/blog/returning-christmas-gifts)."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Physical gift card**: its terms are printed on the back.",
+              "**Virtual gift card**: the balance can be used in all Dollarama stores across Canada; it isn’t redeemable for cash or refundable, except as required by law.",
+              "**Purchase paid with a virtual gift card**: it follows Dollarama’s return, exchange and refund policy."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare before you buy at Dollarama",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Since a change-of-mind return isn’t provided for, preparation happens before and right after the purchase."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Check the packaging and the size before you pay.",
+              "Keep the original packaging for 30 days: Dollarama asks for a picture of it for a defective product.",
+              "Keep the receipt, and note the deadline: 30 days after the purchase.",
+              "If the product is defective, take the pictures and make the request before that date."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ReFound helps you keep the proof. Scan the receipt when you get home: the app keeps a readable copy even if the paper fades, identifies the product behind a line like “JEU A PECHE” when the information is available, and lets you find the receipt by store, date or amount. If your partner is the one making the request, you can share the receipt with them."
+          },
+          {
+            "type": "p",
+            "text": "ReFound shows an estimated return deadline on every receipt, based on the merchant’s general policy. At Dollarama, that date doesn’t give you a right to a return: the written policy remains “no exchange, no return”, except for a defective or damaged product. ReFound never decides whether a request is accepted."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Does Dollarama accept returns?",
+        "a": "Not as a rule. Dollarama has a “no exchange, no return” policy, except for a defective or damaged product reported within 30 days."
+      },
+      {
+        "q": "How many days do you have for a defective product at Dollarama?",
+        "a": "30 days. The Terms and Conditions say thirty days of your purchase; for an online order, Dollarama counts 30 days from shipment."
+      },
+      {
+        "q": "Can you exchange an item at Dollarama without a receipt?",
+        "a": "The published policy doesn’t mention receipts, but it doesn’t accept exchanges of items that aren’t defective. For a defective item, the receipt proves the purchase date and amount."
+      },
+      {
+        "q": "Can you return a dollarama.com purchase to a store?",
+        "a": "No. Dollarama says this option isn’t available and that requests for an online purchase go through the Contact us form."
+      },
+      {
+        "q": "What if a Dollarama item breaks after 30 days?",
+        "a": "In Quebec, the legal warranty can apply: a good must be fit for normal use for a reasonable length of time, which depends notably on the price paid. Contact the merchant or the manufacturer, with your proof of purchase."
+      }
+    ],
+    "ctaTitle": "Keep proof of your Dollarama purchases",
+    "ctaBody": "Scan the receipt when you get home: ReFound keeps a readable copy, identifies products when the information is available and helps you find the receipt the day an item breaks.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "Giant Tiger return policy",
+        "href": "/en/blog/giant-tiger-return-policy",
+        "desc": "No time limit with the receipt."
+      },
+      {
+        "label": "Walmart return policy",
+        "href": "/en/blog/walmart-return-policy",
+        "desc": "90 days for most items."
+      },
+      {
+        "label": "Return without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What major stores accept."
+      },
+      {
+        "label": "Warranty claims",
+        "href": "/en/blog/how-to-make-a-warranty-claim",
+        "desc": "Who to contact, and until when."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Contact us: What is your return policy?",
+        "publisher": "Dollarama",
+        "url": "https://www.dollarama.com/en-CA/corp/contact-us",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Terms and Conditions (August 11, 2026)",
+        "publisher": "Dollarama",
+        "url": "https://www.dollarama.com/media/jcglscco/dollarama-terms-and-conditions-2026-08-11-eng-clean.pdf",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Garanties prévues par la loi (in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/commercant/pratique-commerce/garanties/legale",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Legal warranties",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/goods/appliance/warranty/legal-warranties",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Échange et remboursement d’un bien non défectueux (in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/echange/remboursement/bien/bien-non-defectueux",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Refund and exchange",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/business-practices-and-consumer-concerns/refund-and-exchange",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite (in French)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Walmart Canada standard return policy",
+        "publisher": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/article/return-policy/6657a60d5a3f4e6cbd1409330b680562",
+        "accessed": "2026-11-19"
+      },
+      {
+        "label": "Return policy",
+        "publisher": "Giant Tiger",
+        "url": "https://help.gianttiger.com/en-US/return-policy-92495",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "factCheckLabel": "Facts checked on November 19, 2026"
+  }
+}
