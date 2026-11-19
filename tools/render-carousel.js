@@ -1,7 +1,7 @@
 // Carrousels médias sociaux (social/README.md). Usage: node render-carousel.js <slug> <outDir>
 // 1080×1350 (Instagram, Facebook) : fr-01.png… et en-01.png… ; 1080×1920 (TikTok, 9:16) : tt-fr-01.png…, avec
 // zones de sécurité TikTok (haut 200 px, bas 460 px pour la légende, droite 130 px pour les boutons). Types de diapos : hook (accroche), text (titre + texte),
-// stat (gros chiffre), match (reçu dessiné avec une ligne surlignée : lines [{code, hl, w}]), list (liste numérotée « à garder » : [titre, détail] ; plain: true sans numéros, ex. un magasin par ligne ; text optionnel sous la liste), receipt (lignes de kit/receipts.json : ligne imprimée → produit → garantie/date), cta (fin ; img optionnel : vraie capture de l'app dans tools/assets/, sans nom, numéro de carte, code-barres ni adresse).
+// stat (gros chiffre), match (reçu dessiné avec une ligne surlignée : lines [{code, hl, w}]), list (liste numérotée « à garder » : [titre, détail] ; plain: true sans numéros, ex. un magasin par ligne ; text optionnel sous la liste), receipt (lignes de kit/receipts.json : ligne imprimée → produit → garantie/date), cta (fin ; img optionnel, au cas par cas : capture de l'app dans tools/assets/, nettoyée).
 // Contenu tiré de l'article (mêmes sources) ; titre ≤ 8 mots, texte ≤ 25 mots ; aucun faux bouton App Store.
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
