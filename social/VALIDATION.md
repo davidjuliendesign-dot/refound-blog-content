@@ -58,6 +58,7 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **Un exemple de reçu hors sujet (bâton de hockey dans un carrousel sur l'électronique) et un code de caisse brut perdent les gens.** Mieux vaut aucun exemple.
 - **Dernière diapo : une action précise** (« Téléchargez ReFound avant le Vendredi fou »), pas seulement une adresse web.
 - **L'app seulement à la dernière diapo** (demande de David), nommée « l'app ReFound », et reliée au problème posé juste avant (ici : envoyer le reçu à la personne qui fait l'échange). Avant, une diapo « ce que fait l'app » au milieu n'était pas comprise comme parlant d'une app.
+- **Un geste réaliste** : personne ne prend son reçu en photo à la caisse (remarque de David). Proposer un moment naturel : en rentrant, en déballant les achats, en emballant le cadeau.
 - **Pas de paragraphe de conseils à la dernière diapo** : une phrase, une action.
 - Demande récurrente, à combler par David : une vraie capture d'écran de l'app (mode retour).
 

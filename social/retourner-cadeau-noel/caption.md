@@ -18,7 +18,7 @@ Enregistrez-le pour le Vendredi fou, et envoyez-le à la personne qui achète le
 2. Acheté le 27 novembre, à rapporter avant : Canadian Tire et Home Depot, télé et électronique le 27 décembre, le reste le 25 février ; Walmart, électronique le 27 décembre ; RONA, électroménagers le 27 décembre ; Costco, télé et électronique le 25 février ; Best Buy, le 10 janvier, sans retour en magasin le 26 décembre.
 3. Le cadeau est chez eux, le reçu est chez vous : la preuve d'achat appartient à la personne qui a payé.
 4. Pas de reçu-cadeau? Best Buy : carte-cadeau avec le reçu-cadeau, sinon la personne qui a payé doit venir ; IKEA : date, magasin, montant exact et 4 derniers chiffres de la carte ; Home Depot : pièce d'identité avec photo et une vérification.
-5. L'app ReFound, gratuite sur iPhone et Android, garde le reçu de chaque cadeau : une photo à la caisse, et vous l'envoyez à la personne qui fera l'échange.
+5. L'app ReFound, gratuite sur iPhone et Android, garde le reçu de chaque cadeau : prenez-le en photo en emballant le cadeau, et envoyez-le à la personne qui fera l'échange.
 
 ## EN
 Returning a Christmas gift: the clock starts at purchase, not on December 25
@@ -38,4 +38,4 @@ Save it for Black Friday, and send it to whoever buys the gifts at your place.
 2. Bought November 27, bring it back by: Canadian Tire and Home Depot, TVs and electronics Dec. 27, everything else Feb. 25; Walmart, electronics Dec. 27; RONA, appliances Dec. 27; Costco, TVs and electronics Feb. 25; Best Buy, Jan. 10, no in-store returns Dec. 26.
 3. The gift is at their place, the receipt is at yours: proof of purchase belongs to the person who paid.
 4. No gift receipt? Best Buy: gift card with a gift receipt, otherwise the person who paid has to come in; IKEA: date, store, exact amount and the card's last 4 digits; Home Depot: government photo ID and a verification.
-5. The ReFound app, free on iPhone and Android, keeps every gift receipt: one photo at the checkout, then send it to whoever makes the exchange.
+5. The ReFound app, free on iPhone and Android, keeps every gift receipt: snap it while you wrap the gift, then send it to whoever makes the exchange.
