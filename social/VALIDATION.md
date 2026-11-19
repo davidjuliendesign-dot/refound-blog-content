@@ -5,7 +5,7 @@ des utilisateurs réels. Ils regardent les PNG, disent où ils comprennent, où 
 feraient (envoyer, enregistrer, commenter, s'abonner, aller sur le site). On corrige, puis on refait lire.
 
 Premier essai (18 novembre 2026, carrousel `rappel-produit-recu`) : notes de 4, 4 et 6/10 au départ,
-puis 7, 7,5 et 8,5/10 après deux corrections.
+puis 8, 7,5 et 8,5/10 après trois rondes.
 
 ## Quand
 Étape obligatoire entre le rendu des PNG et la planification dans Metricool (ou l'envoi à David).
