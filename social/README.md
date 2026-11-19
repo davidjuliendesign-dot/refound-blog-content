@@ -32,8 +32,8 @@ disent utiliser, puis on mesure.
   @refoundapp est personnel : musique aléatoire.
 
 ## Format
-- **7 à 10 diapos** (maximum 20 sur Instagram) quand le contenu le justifie ; jamais de diapo de
-  remplissage. Minimum 5.
+- **5 à 7 diapos** : la validation par personas montre que les diapos qui répètent font décrocher.
+  Jamais de diapo de remplissage.
 - Instagram et Facebook : 1080 × 1350 (4:5), `fr-01.png` … `en-01.png` … Garder l'essentiel dans le
   carré central 1080 × 1080 (aperçu de la grille).
 - TikTok : 1080 × 1920 (9:16), `tt-fr-01.png` … `tt-en-01.png` …, rendus par
@@ -44,15 +44,20 @@ disent utiliser, puis on mesure.
 - Pas de faux bouton App Store, pas de logo de marchand, pas de filigrane.
 
 ## Structure d'un carrousel
-1. **Accroche** : un chiffre surprenant ou une question que la personne se pose vraiment
-   (« Un rappel 6 ans après l'achat? »). C'est aussi la couverture.
-2. **Deuxième accroche** : la réponse courte, assez forte pour fonctionner si le carrousel est
-   remontré à partir de cette diapo.
-3. **3 à 6 diapos de valeur** : un fait sourcé par diapo, un tableau simplifié, une ligne d'un reçu
-   réel du kit (ligne imprimée → produit avec sa photo → garantie ou date limite).
-4. **Une diapo « à garder »** : la liste à cocher ou le chiffre qu'on voudra retrouver (raison
-   d'enregistrer) ou envoyer à quelqu'un (raison de partager).
-5. **Fin** : « Gardez vos reçus avec ReFound » + refoundapp.ca.
+1. **Accroche** : un sujet concret qu'on reconnaît (produit, magasin, modèle nommés) et un chiffre ou
+   une question. C'est aussi la couverture.
+2. **La promesse tenue tout de suite** : l'action concrète ou la réponse, assez forte pour fonctionner
+   si le carrousel est remontré à partir de cette diapo.
+3. **2 ou 3 diapos de valeur** : une idée par diapo, sans jargon ; un visuel simple (reçu dessiné avec
+   la ligne surlignée, ligne d'un reçu réel du kit avec la photo du produit) plutôt qu'un paragraphe.
+4. **Une diapo « à garder »** quand le sujet s'y prête (liste à cocher, chiffre à retrouver), ou le
+   problème que le reçu ne règle pas seul (papier qui pâlit, ligne illisible).
+5. **Fin** : ce que fait ReFound, concrètement, avec un exemple réel, « Gratuit, iPhone et Android »,
+   et refoundapp.ca.
+
+## Validation avant publication
+Obligatoire : 3 personas (sous-agents) lisent le carrousel et le notent, on corrige jusqu'à au moins
+7/10 chacune. Méthode, personas, gabarit et leçons : `social/VALIDATION.md`.
 
 ## Légende (`caption.md`, FR et EN)
 - **Première ligne = titre avec le mot-clé recherché** (« Rappel de produit : faut-il le reçu pour
