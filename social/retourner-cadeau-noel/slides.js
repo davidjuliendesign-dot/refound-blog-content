@@ -10,34 +10,33 @@
 // Ronde 4 : 7,5 / 7,5 / 8,5 ; dernière diapo reliée au problème (partage du reçu).
 // v5 : diapo 4 simplifiée (David ne la comprenait pas) : une seule règle, IKEA sans reçu, 4 éléments.
 // v6 (David) : rester sur un sujet, titres génériques (plus de Canadian Tire à la diapo 1 ni d'IKEA en titre).
+// v7 (David) : pas de surtitres, texte réduit au minimum.
 // Finale ronde 3 : Julie 8, Samuel 7,5, Gilles 9. Reste : aucune capture d'écran de l'app (demander à David une vraie capture du mode retour).
 module.exports = {
   fr: { src: 'Sources : politiques de retour officielles, nov. 2026 · calcul ReFound', slides: [
-    { type: 'stat', eyebrow: 'Cadeau acheté au Vendredi fou', stat: '2 jours', title: 'après Noël pour retourner un cadeau électronique', text: 'Dans plusieurs magasins, l’électronique, c’est 30 jours. Et ça part de l’achat, pas de Noël.<br><b>27 novembre + 30 jours = 27 décembre.</b>' },
-    { type: 'list', plain: true, eyebrow: 'Acheté le 27 novembre', title: 'Rapportez-le avant le…', items: [
-      ['Canadian Tire · Home Depot', 'Télé et électronique : 27 déc. · Le reste : 25 févr.'],
+    { type: 'stat', stat: '2 jours', title: 'après Noël pour retourner un cadeau électronique', text: 'Dans plusieurs magasins :<br><b>27&nbsp;nov. + 30&nbsp;jours = 27&nbsp;déc.</b>' },
+    { type: 'list', plain: true, title: 'Acheté le 27 nov. : à rapporter avant le…', items: [
+      ['Canadian Tire · Home Depot', 'Électronique : 27 déc. · Le reste : 25 févr.'],
       ['Walmart', 'Électronique : 27 déc. · Le reste : 25 févr.'],
       ['RONA', 'Électroménagers : 27 déc. · Le reste : 25 févr.'],
-      ['Costco', 'Télé et électronique : 25 févr.'],
-      ['Best Buy', '10 janv. · Mais aucun retour en magasin le 26 déc.']],
-      text: 'Électronique : télé, son, photo, téléphones. Walmart n’a pas annoncé de prolongation des Fêtes.' },
-    { type: 'text', eyebrow: 'Le vrai problème', title: 'Le cadeau est chez eux. Le reçu est chez vous.', text: 'Pour un retour, le magasin demande une preuve d’achat. C’est la personne qui a payé qui l’a.' },
-    { type: 'list', eyebrow: 'Pas de reçu?', title: 'Pour retrouver l’achat, il faut 4&nbsp;choses', items: [
+      ['Costco', 'Électronique : 25 févr.'],
+      ['Best Buy', '10 janv. · Aucun retour en magasin le 26 déc.']] },
+    { type: 'text', title: 'Le cadeau est chez eux. Le reçu est chez vous.' },
+    { type: 'list', title: 'Sans reçu, il faut 4&nbsp;choses', items: [
       ['La date d’achat', ''], ['Le magasin', ''], ['Le montant exact', ''], ['Les 4 derniers chiffres de la carte', '']],
-      text: '<b>La personne qui a reçu le cadeau n’en a aucune.</b><br><span style="font-size:24px;color:#8491A4">Exemple : la politique d’IKEA.</span>' },
-    { type: 'cta', eyebrow: 'Gratuit · iPhone et Android', title: 'L’app ReFound garde le reçu de chaque cadeau', img: 'assets/app-partage-recu.png', text: 'Prenez-le en photo en emballant le cadeau, et envoyez-le à la personne qui fera l’échange.' }] },
+      text: '<b>La personne qui a reçu le cadeau n’en a aucune.</b><br><span style="font-size:22px;color:#8491A4">Exemple : IKEA.</span>' },
+    { type: 'cta', title: 'L’app ReFound garde le reçu de chaque cadeau', img: 'assets/app-partage-recu.png', text: 'Gratuit. Envoyez-le à qui fera l’échange.' }] },
   en: { src: 'Sources: official return policies, Nov. 2026 · ReFound calculation', slides: [
-    { type: 'stat', eyebrow: 'Gift bought on Black Friday', stat: '2 days', title: 'after Christmas to return an electronics gift', text: 'At several stores, electronics get 30 days. And the clock starts at purchase, not on Christmas.<br><b>November 27 + 30 days = December 27.</b>' },
-    { type: 'list', plain: true, eyebrow: 'Bought November 27', title: 'Bring it back by…', items: [
-      ['Canadian Tire · Home Depot', 'TVs and electronics: Dec. 27 · Everything else: Feb. 25'],
+    { type: 'stat', stat: '2 days', title: 'after Christmas to return an electronics gift', text: 'At several stores:<br><b>Nov.&nbsp;27 + 30&nbsp;days = Dec.&nbsp;27</b>' },
+    { type: 'list', plain: true, title: 'Bought Nov. 27: bring it back by…', items: [
+      ['Canadian Tire · Home Depot', 'Electronics: Dec. 27 · Everything else: Feb. 25'],
       ['Walmart', 'Electronics: Dec. 27 · Everything else: Feb. 25'],
       ['RONA', 'Appliances: Dec. 27 · Everything else: Feb. 25'],
-      ['Costco', 'TVs and electronics: Feb. 25'],
-      ['Best Buy', 'Jan. 10 · But no in-store returns on Dec. 26']],
-      text: 'Electronics: TVs, audio, cameras, phones. Walmart hasn’t announced a holiday extension.' },
-    { type: 'text', eyebrow: 'The real problem', title: 'The gift is at their place. The receipt is at yours.', text: 'Stores ask for proof of purchase. The person who paid has it.' },
-    { type: 'list', eyebrow: 'No receipt?', title: 'To find the purchase, they need 4&nbsp;things', items: [
+      ['Costco', 'Electronics: Feb. 25'],
+      ['Best Buy', 'Jan. 10 · No in-store returns on Dec. 26']] },
+    { type: 'text', title: 'The gift is at their place. The receipt is at yours.' },
+    { type: 'list', title: 'No receipt? You need 4&nbsp;things', items: [
       ['The purchase date', ''], ['The store', ''], ['The exact amount', ''], ['The card’s last 4 digits', '']],
-      text: '<b>The person who got the gift has none of them.</b><br><span style="font-size:24px;color:#8491A4">Example: IKEA’s policy.</span>' },
-    { type: 'cta', eyebrow: 'Free · iPhone and Android', title: 'The ReFound app keeps every gift receipt', text: 'Snap it while you wrap the gift, then send it to whoever makes the exchange.' }] }
+      text: '<b>The person who got the gift has none of them.</b><br><span style="font-size:22px;color:#8491A4">Example: IKEA.</span>' },
+    { type: 'cta', title: 'The ReFound app keeps every gift receipt', text: 'Free. Send it to whoever makes the exchange.' }] }
 };

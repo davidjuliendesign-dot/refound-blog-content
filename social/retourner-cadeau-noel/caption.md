@@ -16,9 +16,9 @@ Enregistrez-le pour le Vendredi fou, et envoyez-le à la personne qui achète le
 ### Textes alternatifs (FR)
 1. Cadeau électronique acheté au Vendredi fou : 2 jours après Noël pour le retourner, dans plusieurs magasins. 27 novembre + 30 jours = 27 décembre.
 2. Acheté le 27 novembre, à rapporter avant : Canadian Tire et Home Depot, télé et électronique le 27 décembre, le reste le 25 février ; Walmart, électronique le 27 décembre ; RONA, électroménagers le 27 décembre ; Costco, télé et électronique le 25 février ; Best Buy, le 10 janvier, sans retour en magasin le 26 décembre.
-3. Le cadeau est chez eux, le reçu est chez vous : la preuve d'achat appartient à la personne qui a payé.
-4. Pas de reçu? Pour retrouver l'achat, il faut 4 choses (exemple : la politique d'IKEA) : la date d'achat, le magasin, le montant exact et les 4 derniers chiffres de la carte. La personne qui a reçu le cadeau n'en a aucune.
-5. L'app ReFound, gratuite sur iPhone et Android, garde le reçu de chaque cadeau : prenez-le en photo en emballant le cadeau, et envoyez-le à la personne qui fera l'échange.
+3. Le cadeau est chez eux. Le reçu est chez vous.
+4. Sans reçu, il faut 4 choses (exemple : IKEA) : la date d'achat, le magasin, le montant exact et les 4 derniers chiffres de la carte. La personne qui a reçu le cadeau n'en a aucune.
+5. L'app ReFound garde le reçu de chaque cadeau. Capture de l'app : un reçu Walmart partagé. Gratuit. Envoyez-le à qui fera l'échange.
 
 ## EN
 Returning a Christmas gift: the clock starts at purchase, not on December 25

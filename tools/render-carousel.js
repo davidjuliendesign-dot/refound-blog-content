@@ -53,21 +53,21 @@ function slide(d, i, n, src, tt) {
   const top = `<div class="top"><img src="${LOGO}"><span>${i}/${n}</span></div>`;
   const foot = `<div class="foot"><span>${src}</span><span>${i < n ? '→' : ''}</span></div>`;
   let body = '';
-  if (d.type === 'hook' || d.type === 'text') body = `<div class="eyebrow">${d.eyebrow || ''}</div><div class="t h">${d.title}</div><div class="b">${d.text}</div>`;
-  if (d.type === 'stat') body = `<div class="eyebrow">${d.eyebrow}</div><div class="big h" style="${d.size ? `font-size:${d.size}px` : ""}">${d.stat}</div><div class="t h" style="font-size:68px">${d.title}</div><div class="b">${d.text}</div>`;
+  if (d.type === 'hook' || d.type === 'text') body = `${d.eyebrow ? `${d.eyebrow ? `<div class="eyebrow">${d.eyebrow}</div>` : ''}` : ''}<div class="t h">${d.title}</div>${d.text ? `<div class="b">${d.text}</div>` : ''}`;
+  if (d.type === 'stat') body = `${d.eyebrow ? `<div class="eyebrow">${d.eyebrow}</div>` : ''}<div class="big h" style="${d.size ? `font-size:${d.size}px` : ""}">${d.stat}</div><div class="t h" style="font-size:68px">${d.title}</div>${d.text ? `<div class="b">${d.text}</div>` : ''}`;
   if (d.type === 'receipt') {
     const r = KIT.find(x => x.slug === d.kit);
-    body = `<div class="eyebrow">${d.eyebrow}</div><div class="t h" style="font-size:70px">${d.title}</div><div class="rows">${d.rows.map(([ix, badge, col]) => {
+    body = `${d.eyebrow ? `<div class="eyebrow">${d.eyebrow}</div>` : ''}<div class="t h" style="font-size:70px">${d.title}</div><div class="rows">${d.rows.map(([ix, badge, col]) => {
       const it = r.items[ix]; const ph = photo(it); return `<div class="r${ph ? ' wp' : ''}">${ph ? `<div class="ph"><img src="${ph}"></div>` : ''}<div class="pr">${esc(it.printed)}</div><div class="nm">${esc(d.names && d.names[ix] || it.name)}</div><div class="bd" style="border-color:${col};color:${col}">${esc(badge)}</div></div>`; }).join('')}</div>`;
   }
-  if (d.type === 'list') body = `<div class="eyebrow">${d.eyebrow}</div><div class="t h" style="font-size:72px">${d.title}</div><ol class="ls${d.plain ? ' pl' : ''}">${d.items.map(x => `<li${x[1] ? '' : ' class="nod"'}><span class="h">${x[0]}</span>${x[1] ? `<div>${x[1]}</div>` : ''}</li>`).join('')}</ol>${d.text ? `<div class="b" style="font-size:30px;margin-top:28px">${d.text}</div>` : ''}`;
-  if (d.type === 'match') body = `<div class="eyebrow">${d.eyebrow}</div><div class="t h" style="font-size:80px">${d.title}</div><div class="rc">${d.lines.map(l => `<div class="rl${l.hl ? ' hl' : ''}"><span>${l.code}</span><i style="width:${l.w || 220}px"></i></div>`).join('')}</div><div class="b">${d.text}</div>`;
+  if (d.type === 'list') body = `${d.eyebrow ? `<div class="eyebrow">${d.eyebrow}</div>` : ''}<div class="t h" style="font-size:72px">${d.title}</div><ol class="ls${d.plain ? ' pl' : ''}">${d.items.map(x => `<li${x[1] ? '' : ' class="nod"'}><span class="h">${x[0]}</span>${x[1] ? `<div>${x[1]}</div>` : ''}</li>`).join('')}</ol>${d.text ? `<div class="b" style="font-size:30px;margin-top:28px">${d.text}</div>` : ''}`;
+  if (d.type === 'match') body = `${d.eyebrow ? `<div class="eyebrow">${d.eyebrow}</div>` : ''}<div class="t h" style="font-size:80px">${d.title}</div><div class="rc">${d.lines.map(l => `<div class="rl${l.hl ? ' hl' : ''}"><span>${l.code}</span><i style="width:${l.w || 220}px"></i></div>`).join('')}</div>${d.text ? `<div class="b">${d.text}</div>` : ''}`;
   if (d.type === 'cta') {
     let ex = '';
     if (d.example) { const it = KIT.find(x => x.slug === d.example.kit).items[d.example.ix]; const ph = photo(it);
       ex = `<div class="ex"><div class="exl">${d.example.l1}</div><div class="pr">${esc(it.printed)}</div><div class="exl">${d.example.l2}</div><div class="exr">${ph ? `<div class="ph"><img src="${ph}"></div>` : ''}<div class="nm2">${esc(d.example.name || it.name)}</div></div></div>`; }
     const im = d.img ? `<img class="shot" src="data:image/png;base64,${b64(d.img)}">` : '';
-    body = `<div class="cta"><div class="eyebrow">${d.eyebrow}</div><div class="t h">${d.title}</div>${ex}${im}<div class="b">${d.text}</div><div class="url">refoundapp.ca</div></div>`;
+    body = `<div class="cta">${d.eyebrow ? `<div class="eyebrow">${d.eyebrow}</div>` : ''}<div class="t h">${d.title}</div>${ex}${im}${d.text ? `<div class="b">${d.text}</div>` : ''}<div class="url">refoundapp.ca</div></div>`;
   }
   return `<style>${CSS}</style><div class="s${tt ? ' tt' : ''}">${top}<div class="mid">${body}</div>${foot}</div>`;
 }

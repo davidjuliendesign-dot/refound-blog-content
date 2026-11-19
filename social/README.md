@@ -39,7 +39,8 @@ disent utiliser, puis on mesure.
 - TikTok : 1080 × 1920 (9:16), `tt-fr-01.png` … `tt-en-01.png` …, rendus par
   `tools/render-carousel.js` avec les zones de sécurité TikTok (haut 200 px, bas 460 px, droite
   130 px).
-- Chaque image se lit seule, en grand (titre ≤ 8 mots, texte ≤ 25 mots), aux couleurs de
+- Design épuré (demande de David) : **pas de surtitre**, un titre court et au plus une ligne de texte par diapo. Les détails vont dans la légende.
+- Chaque image se lit seule, en grand (titre ≤ 8 mots, texte ≤ 12 mots), aux couleurs de
   `tools/brand.md`, avec le compteur « 2/7 ».
 - Pas de faux bouton App Store, pas de logo de marchand, pas de filigrane.
 
