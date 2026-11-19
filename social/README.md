@@ -52,8 +52,8 @@ disent utiliser, puis on mesure.
    la ligne surlignée, ligne d'un reçu réel du kit avec la photo du produit) plutôt qu'un paragraphe.
 4. **Une diapo « à garder »** quand le sujet s'y prête (liste à cocher, chiffre à retrouver), ou le
    problème que le reçu ne règle pas seul (papier qui pâlit, ligne illisible).
-5. **Fin** : ce que fait ReFound, concrètement, avec un exemple réel, « Gratuit, iPhone et Android »,
-   et refoundapp.ca.
+5. **Fin, et seulement là, l'app** : « L'app ReFound… » en une phrase qui règle le problème posé juste avant,
+   « Gratuit, iPhone et Android », et refoundapp.ca. Pas de paragraphe de conseils.
 
 ## Validation avant publication
 Obligatoire : 3 personas (sous-agents) lisent le carrousel et le notent, on corrige jusqu'à au moins
