@@ -1,7 +1,7 @@
 // Carrousels médias sociaux (social/README.md). Usage: node render-carousel.js <slug> <outDir>
 // 1080×1350 (Instagram, Facebook) : fr-01.png… et en-01.png… ; 1080×1920 (TikTok, 9:16) : tt-fr-01.png…, avec
 // zones de sécurité TikTok (haut 200 px, bas 460 px pour la légende, droite 130 px pour les boutons). Types de diapos : hook (accroche), text (titre + texte),
-// stat (gros chiffre), match (reçu dessiné avec une ligne surlignée : lines [{code, hl, w}]), list (liste numérotée « à garder » : [titre, détail] ; plain: true sans numéros, ex. un magasin par ligne ; text optionnel sous la liste), receipt (lignes de kit/receipts.json : ligne imprimée → produit → garantie/date), cta (fin).
+// stat (gros chiffre), match (reçu dessiné avec une ligne surlignée : lines [{code, hl, w}]), list (liste numérotée « à garder » : [titre, détail] ; plain: true sans numéros, ex. un magasin par ligne ; text optionnel sous la liste), receipt (lignes de kit/receipts.json : ligne imprimée → produit → garantie/date), cta (fin ; img optionnel : vraie capture de l'app dans tools/assets/, sans nom, numéro de carte, code-barres ni adresse).
 // Contenu tiré de l'article (mêmes sources) ; titre ≤ 8 mots, texte ≤ 25 mots ; aucun faux bouton App Store.
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
@@ -47,7 +47,7 @@ const CSS = [font('Funnel Display', FD + '700-normal.woff2', 700), font('Funnel 
 .ls{list-style:none;padding:0;margin-top:40px;display:grid;gap:22px;counter-reset:n}.ls li{counter-increment:n;display:grid;grid-template-columns:72px 1fr;column-gap:22px;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 24px;align-items:center}.ls li:before{content:counter(n);grid-row:1/3;width:72px;height:72px;border-radius:50%;background:var(--green);color:#0E1217;font-family:'Funnel Display';font-weight:800;font-size:40px;display:flex;align-items:center;justify-content:center}.ls li span{font-weight:800;font-size:36px}.ls li div{color:#C9CFD8;font-size:28px;margin-top:4px}
 .rc{margin-top:44px;background:#F4F1E8;border-radius:10px;padding:30px 34px;transform:rotate(-1.5deg);box-shadow:0 24px 50px rgba(0,0,0,.4);display:grid;gap:14px}.rl{display:grid;grid-template-columns:auto 1fr;gap:26px;align-items:center;font-family:ui-monospace,Menlo,monospace;font-weight:700;font-size:38px;color:#2A2D33;padding:8px 12px;border-radius:6px}.rl i{display:block;height:20px;background:#C9C4B8;border-radius:5px}.rl.hl{background:rgba(246,184,40,.6);outline:4px solid #E0A315}
 .ex{margin-top:36px;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:24px 28px;display:grid;gap:12px}.exl{color:var(--muted);font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}.ex .pr{justify-self:start}.exr{display:flex;gap:20px;align-items:center}.exr .ph{width:110px;height:110px;flex:none}.nm2{font-weight:800;font-size:32px;line-height:1.25}
-.ls.pl{gap:14px;margin-top:30px}.ls.pl li{grid-template-columns:1fr;padding:16px 24px}.ls.pl li:before{display:none}.cta .t{font-size:84px}.url{margin-top:44px;font-family:'Funnel Display';font-weight:800;font-size:56px;color:var(--green)}`;
+.ls.pl{gap:14px;margin-top:30px}.ls.pl li{grid-template-columns:1fr;padding:16px 24px}.ls.pl li:before{display:none}.cta:has(.shot) .t{font-size:72px}.shot{display:block;width:100%;margin-top:40px;border-radius:28px;box-shadow:0 24px 50px rgba(0,0,0,.45)}.cta .t{font-size:84px}.url{margin-top:44px;font-family:'Funnel Display';font-weight:800;font-size:56px;color:var(--green)}`;
 
 function slide(d, i, n, src, tt) {
   const top = `<div class="top"><img src="${LOGO}"><span>${i}/${n}</span></div>`;
@@ -66,7 +66,8 @@ function slide(d, i, n, src, tt) {
     let ex = '';
     if (d.example) { const it = KIT.find(x => x.slug === d.example.kit).items[d.example.ix]; const ph = photo(it);
       ex = `<div class="ex"><div class="exl">${d.example.l1}</div><div class="pr">${esc(it.printed)}</div><div class="exl">${d.example.l2}</div><div class="exr">${ph ? `<div class="ph"><img src="${ph}"></div>` : ''}<div class="nm2">${esc(d.example.name || it.name)}</div></div></div>`; }
-    body = `<div class="cta"><div class="eyebrow">${d.eyebrow}</div><div class="t h">${d.title}</div>${ex}<div class="b">${d.text}</div><div class="url">refoundapp.ca</div></div>`;
+    const im = d.img ? `<img class="shot" src="data:image/png;base64,${b64(d.img)}">` : '';
+    body = `<div class="cta"><div class="eyebrow">${d.eyebrow}</div><div class="t h">${d.title}</div>${ex}${im}<div class="b">${d.text}</div><div class="url">refoundapp.ca</div></div>`;
   }
   return `<style>${CSS}</style><div class="s${tt ? ' tt' : ''}">${top}<div class="mid">${body}</div>${foot}</div>`;
 }

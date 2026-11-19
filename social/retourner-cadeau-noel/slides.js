@@ -25,7 +25,7 @@ module.exports = {
       ['IKEA', 'Sans reçu : date, magasin, montant exact et 4 derniers chiffres de la carte.'],
       ['Home Depot', 'Sans reçu : pièce d’identité avec photo, et une vérification.']],
       text: 'La personne qui a reçu le cadeau n’a rien de tout ça.' },
-    { type: 'cta', eyebrow: 'Gratuit · iPhone et Android', title: 'L’app ReFound garde le reçu de chaque cadeau', text: 'Prenez-le en photo en emballant le cadeau, et envoyez-le à la personne qui fera l’échange.' }] },
+    { type: 'cta', eyebrow: 'Gratuit · iPhone et Android', title: 'L’app ReFound garde le reçu de chaque cadeau', img: 'assets/app-partage-recu.png', text: 'Prenez-le en photo en emballant le cadeau, et envoyez-le à la personne qui fera l’échange.' }] },
   en: { src: 'Sources: official return policies, Nov. 2026 · ReFound calculation', slides: [
     { type: 'stat', eyebrow: 'Gift bought on Black Friday', stat: '2 days', title: 'after Christmas to return electronics at Canadian Tire', text: '30 days from the purchase, not from Christmas.<br><b>November 27 + 30 days = December 27.</b>' },
     { type: 'list', plain: true, eyebrow: 'Bought November 27', title: 'Bring it back by…', items: [

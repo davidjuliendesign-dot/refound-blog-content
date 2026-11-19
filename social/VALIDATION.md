@@ -60,7 +60,7 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **L'app seulement à la dernière diapo** (demande de David), nommée « l'app ReFound », et reliée au problème posé juste avant (ici : envoyer le reçu à la personne qui fait l'échange). Avant, une diapo « ce que fait l'app » au milieu n'était pas comprise comme parlant d'une app.
 - **Un geste réaliste** : personne ne prend son reçu en photo à la caisse (remarque de David). Proposer un moment naturel : en rentrant, en déballant les achats, en emballant le cadeau.
 - **Pas de paragraphe de conseils à la dernière diapo** : une phrase, une action.
-- Demande récurrente, à combler par David : une vraie capture d'écran de l'app (mode retour).
+- **Une vraie capture de l'app à la dernière diapo** (demande récurrente des personas). Captures fournies par David (images App Store), recadrées sur la fonction utile et nettoyées : jamais de nom, numéro de carte, code-barres, adresse ni numéro de transaction lisibles. Disponible : `tools/assets/app-partage-recu.png` (partage d'un reçu, gratuit). Ne pas montrer une fonction Pro (recherche par article, caméra, rappels) comme gratuite.
 
 ## Leçons du premier essai (à appliquer dès la première version)
 - **Un seul sujet concret du début à la fin** : un produit, un magasin, un modèle nommés. Une accroche
