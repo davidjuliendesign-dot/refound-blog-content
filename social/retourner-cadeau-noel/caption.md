@@ -7,9 +7,9 @@ Un cadeau électronique acheté le 27 novembre chez Canadian Tire doit revenir v
 
 Enregistrez-le pour le Vendredi fou, et envoyez-le à la personne qui achète les cadeaux chez vous.
 
-[Facebook] IKEA, Decathlon, Sports Experts et les garanties : le lien est en premier commentaire. (1er commentaire : Le guide complet : https://refoundapp.ca/blog/retourner-cadeau-noel)
-[Instagram] IKEA, Decathlon, Sports Experts et les garanties : lien du blog dans la bio.
-[TikTok] IKEA, Decathlon, Sports Experts et les garanties : refoundapp.ca, section Blog.
+[Facebook] Le guide complet, avec IKEA, Decathlon, Sports Experts et les garanties, est en premier commentaire. (1er commentaire : Le guide complet : https://refoundapp.ca/blog/retourner-cadeau-noel)
+[Instagram] Le guide complet, avec IKEA, Decathlon, Sports Experts et les garanties : lien du blog dans la bio.
+[TikTok] Le guide complet, avec IKEA, Decathlon, Sports Experts et les garanties : refoundapp.ca, section Blog.
 
 #retourcadeau #Noël #VendrediFou #Québec #ReFound
 
@@ -27,9 +27,9 @@ An electronics gift bought on November 27 at Canadian Tire must go back around D
 
 Save it for Black Friday, and send it to whoever buys the gifts at your place.
 
-[Facebook] IKEA, Decathlon, Sports Experts and warranties: link in the first comment. (1st comment: https://refoundapp.ca/en/blog/returning-christmas-gifts)
-[Instagram] IKEA, Decathlon, Sports Experts and warranties: blog link in bio.
-[TikTok] IKEA, Decathlon, Sports Experts and warranties: refoundapp.ca, Blog section.
+[Facebook] The full guide, with IKEA, Decathlon, Sports Experts and warranties, is in the first comment. (1st comment: https://refoundapp.ca/en/blog/returning-christmas-gifts)
+[Instagram] The full guide, with IKEA, Decathlon, Sports Experts and warranties: blog link in bio.
+[TikTok] The full guide, with IKEA, Decathlon, Sports Experts and warranties: refoundapp.ca, Blog section.
 
 #giftreturns #Christmas #BlackFriday #Canada #ReFound
 
