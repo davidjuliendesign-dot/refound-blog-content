@@ -5,7 +5,7 @@ des utilisateurs réels. Ils regardent les PNG, disent où ils comprennent, où 
 feraient (envoyer, enregistrer, commenter, s'abonner, aller sur le site). On corrige, puis on refait lire.
 
 Premier essai (18 novembre 2026, carrousel `rappel-produit-recu`) : notes de 4, 4 et 6/10 au départ,
-puis 8, 7,5 et 8,5/10 après trois rondes.
+puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop pointu : la validation vérifie aussi que le sujet concerne la persona (question 0).
 
 ## Quand
 Étape obligatoire entre le rendu des PNG et la planification dans Metricool (ou l'envoi à David).
@@ -38,6 +38,7 @@ puis 8, 7,5 et 8,5/10 après trois rondes.
 > Personnage : [description]. Il/elle ne connaît pas l'app ReFound.
 > Regarde dans l'ordre ces images (outil Read) : [chemins]. Puis lis la légende FR dans [caption.md].
 > Réponds en français :
+> 0. Ce sujet te concerne-t-il, toi, en ce moment (oui/non, pourquoi)?
 > 1. Première image : t'arrêtes-tu? Pourquoi (une phrase)?
 > 2. Pour chaque diapo : compris en moins de 3 secondes (oui/non), ce que tu retiens en 5 mots,
 >    continues-tu (oui/non, pourquoi)?
@@ -47,6 +48,16 @@ puis 8, 7,5 et 8,5/10 après trois rondes.
 > 5. Les 3 diapos les plus faibles et pourquoi.
 > 6. 3 suggestions concrètes.
 > Note globale sur 10 pour « je m'arrête, je comprends, je fais quelque chose ».
+
+## Leçons du deuxième essai (19 novembre 2026, `retourner-cadeau-noel` : 5,5 / 6 / 7 → 8 / 7,5 / 9)
+- **Choisir un sujet qui concerne beaucoup de monde maintenant** (saison, Vendredi fou, Fêtes, déménagement, impôts). David a refusé le carrousel sur un rappel de souffleuse vieux d'un an : trop pointu, pas actuel. Le carrousel n'est pas obligé de reprendre l'article du jour : s'il est trop pointu, prendre un article du blog plus large et de saison.
+- **Montrer les magasins des gens** : Canadian Tire, Walmart, Costco, RONA, Home Depot, Best Buy. Chaque persona cherche « ses » magasins ; sans eux, ni enregistrement ni partage.
+- **Le calcul en clair** (« 27 novembre + 30 jours = 27 décembre ») rend un chiffre-choc crédible en une seconde.
+- **Une liste de magasins ne doit pas avoir de numéros** (`plain: true`) : sinon elle ressemble à des étapes.
+- **Les conseils que tout le monde connaît font décrocher.** Les remplacer par ce que l'app fait de plus qu'une photo dans la galerie (recherche, mode retour, partage), seulement avec `facts/product.md`.
+- **Un exemple de reçu hors sujet (bâton de hockey dans un carrousel sur l'électronique) et un code de caisse brut perdent les gens.** Mieux vaut aucun exemple.
+- **Dernière diapo : une action précise** (« Téléchargez ReFound avant le Vendredi fou »), pas seulement une adresse web.
+- Demande récurrente, à combler par David : une vraie capture d'écran de l'app (mode retour).
 
 ## Leçons du premier essai (à appliquer dès la première version)
 - **Un seul sujet concret du début à la fin** : un produit, un magasin, un modèle nommés. Une accroche
