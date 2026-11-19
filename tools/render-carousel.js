@@ -1,7 +1,7 @@
 // Carrousels médias sociaux (social/README.md). Usage: node render-carousel.js <slug> <outDir>
 // 1080×1350 (Instagram, Facebook) : fr-01.png… et en-01.png… ; 1080×1920 (TikTok, 9:16) : tt-fr-01.png…, avec
 // zones de sécurité TikTok (haut 200 px, bas 460 px pour la légende, droite 130 px pour les boutons). Types de diapos : hook (accroche), text (titre + texte),
-// stat (gros chiffre), receipt (lignes de kit/receipts.json : ligne imprimée → produit → garantie/date), cta (fin).
+// stat (gros chiffre), list (liste numérotée « à garder » : [titre, détail]), receipt (lignes de kit/receipts.json : ligne imprimée → produit → garantie/date), cta (fin).
 // Contenu tiré de l'article (mêmes sources) ; titre ≤ 8 mots, texte ≤ 25 mots ; aucun faux bouton App Store.
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
@@ -44,6 +44,7 @@ const CSS = [font('Funnel Display', FD + '700-normal.woff2', 700), font('Funnel 
 .r.wp{grid-template-columns:150px 1fr;column-gap:24px}.r.wp>*:not(.ph){grid-column:2}.ph{grid-row:1/4;width:150px;height:150px;background:#fff;border-radius:14px;display:flex;align-items:center;justify-content:center;overflow:hidden;align-self:center}.ph img{max-width:100%;max-height:100%}
 .bd{justify-self:start;border:3px solid;border-radius:12px;padding:6px 16px;font-family:'Funnel Display';font-weight:800;font-size:32px}
 .s.tt{height:1920px;padding:200px 130px 460px 80px}.s.tt .t{font-size:84px}.s.tt .b{font-size:40px}
+.ls{list-style:none;padding:0;margin-top:40px;display:grid;gap:22px;counter-reset:n}.ls li{counter-increment:n;display:grid;grid-template-columns:72px 1fr;column-gap:22px;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 24px;align-items:center}.ls li:before{content:counter(n);grid-row:1/3;width:72px;height:72px;border-radius:50%;background:var(--green);color:#0E1217;font-family:'Funnel Display';font-weight:800;font-size:40px;display:flex;align-items:center;justify-content:center}.ls li span{font-weight:800;font-size:36px}.ls li div{color:#C9CFD8;font-size:28px;margin-top:4px}
 .cta .t{font-size:84px}.url{margin-top:44px;font-family:'Funnel Display';font-weight:800;font-size:56px;color:var(--green)}`;
 
 function slide(d, i, n, src, tt) {
@@ -57,6 +58,7 @@ function slide(d, i, n, src, tt) {
     body = `<div class="eyebrow">${d.eyebrow}</div><div class="t h" style="font-size:70px">${d.title}</div><div class="rows">${d.rows.map(([ix, badge, col]) => {
       const it = r.items[ix]; const ph = photo(it); return `<div class="r${ph ? ' wp' : ''}">${ph ? `<div class="ph"><img src="${ph}"></div>` : ''}<div class="pr">${esc(it.printed)}</div><div class="nm">${esc(d.names && d.names[ix] || it.name)}</div><div class="bd" style="border-color:${col};color:${col}">${esc(badge)}</div></div>`; }).join('')}</div>`;
   }
+  if (d.type === 'list') body = `<div class="eyebrow">${d.eyebrow}</div><div class="t h" style="font-size:72px">${d.title}</div><ol class="ls">${d.items.map(x => `<li><span class="h">${x[0]}</span><div>${x[1]}</div></li>`).join('')}</ol>`;
   if (d.type === 'cta') body = `<div class="cta"><div class="eyebrow">${d.eyebrow}</div><div class="t h">${d.title}</div><div class="b">${d.text}</div><div class="url">refoundapp.ca</div></div>`;
   return `<style>${CSS}</style><div class="s${tt ? ' tt' : ''}">${top}<div class="mid">${body}</div>${foot}</div>`;
 }
