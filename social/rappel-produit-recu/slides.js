@@ -1,33 +1,23 @@
 // Contenu du carrousel (rendu : node tools/render-carousel.js rappel-produit-recu social/rappel-produit-recu)
-// Structure (social/README.md) : accroche → réponse → valeur (3 diapos) → reçu réel → diapo « à garder » → fin.
+// v4 après 2 rondes de validation par 3 personas (Julie 38 ans, Samuel 26 ans, Gilles 63 ans) :
+// produit nommé et précisé (électrique à fil), action et question du reçu réglées tout de suite, reçu dessiné,
+// plan B sans reçu, problème du papier qui pâlit, puis ce que fait ReFound avec un exemple réel du kit.
+// Faits : avis de Santé Canada (rappel élargi du 11 mars 2025) ; l'avis ne parle pas du reçu.
 module.exports = {
-  fr: { src: 'Sources : Santé Canada, IKEA, Canadian Tire · vérifié le 18 nov. 2026', slides: [
-    { type: 'hook', eyebrow: 'Rappel de produit', title: 'Un rappel <em>6 ans</em> après l’achat?', text: 'Une souffleuse vendue chez Canadian Tire dès mars 2019 a été visée par un rappel élargi en mars 2025.' },
-    { type: 'text', eyebrow: 'La réponse courte', title: 'Faut-il le reçu? Pas toujours.', text: 'Sur 8 avis de rappel réels, <b>2 disent qu’aucune preuve d’achat n’est requise</b>. Les 6 autres n’en parlent pas.' },
-    { type: 'stat', eyebrow: '4 rappels Canadian Tire', stat: '14 mois<br>à 6 ans', title: 'entre l’achat et l’avis', text: 'Le délai de retour, lui : 90 jours.' },
-    { type: 'text', eyebrow: 'Sans reçu', title: 'La carte ne suffit plus après 90 jours', text: 'Chez Canadian Tire, la recherche de reçu retrouve les achats par carte de crédit ou de débit dans les 90 jours. Après, il reste votre reçu.' },
-    { type: 'text', eyebrow: 'Le bon numéro', title: 'Le numéro est sur votre reçu', text: 'Les avis de rappel Canadian Tire citent un numéro au même format que les numéros d’article des reçus, comme <b style="white-space:nowrap">043-5105</b>.' },
-    { type: 'receipt', kit: 'canadian-tire', eyebrow: 'Un reçu réel Canadian Tire', title: 'Ce que vous compareriez',
-      rows: [[0, 'N° 083-5519-0', 'var(--gold)'], [7, 'N° 058-0070-6', 'var(--gold)']] },
-    { type: 'list', eyebrow: 'À garder', title: 'Produit rappelé : 4 vérifications', items: [
-      ['Cessez de l’utiliser', 'Tous les avis le demandent.'],
-      ['Vérifiez l’étiquette', 'Modèle, lot, poinçon de date ou CUP.'],
-      ['Retrouvez le reçu', 'Il prouve la date et le lieu d’achat.'],
-      ['Appelez avant d’y aller', 'Le numéro est dans l’avis.']] },
-    { type: 'cta', eyebrow: 'Avant le prochain rappel', title: 'Gardez vos reçus avec ReFound', text: 'Une copie lisible, avec le numéro d’article et la date. Pour les alertes de rappel : abonnez-vous à Santé Canada.' }] },
-  en: { src: 'Sources: Health Canada, IKEA, Canadian Tire · checked Nov. 18, 2026', slides: [
-    { type: 'hook', eyebrow: 'Product recall', title: 'A recall <em>6 years</em> after you bought it?', text: 'A snowblower sold at Canadian Tire from March 2019 was covered by an expanded recall in March 2025.' },
-    { type: 'text', eyebrow: 'The short answer', title: 'Need the receipt? Not always.', text: 'Of 8 real recall notices, <b>2 say no proof of purchase is required</b>. The other 6 don’t mention it.' },
-    { type: 'stat', eyebrow: '4 Canadian Tire recalls', stat: '14 months<br>to 6 years', size: 170, title: 'between purchase and notice', text: 'The return window: 90 days.' },
-    { type: 'text', eyebrow: 'No receipt', title: 'Your card won’t help after 90 days', text: 'At Canadian Tire, receipt look-up finds credit or debit card purchases within 90 days. After that, only your receipt is left.' },
-    { type: 'text', eyebrow: 'The right number', title: 'The number is on your receipt', text: 'Canadian Tire recall notices list a number in the same format as receipt item numbers, like <b style="white-space:nowrap">043-5105-0</b>.' },
-    { type: 'receipt', kit: 'canadian-tire', eyebrow: 'A real Canadian Tire receipt', title: 'What you would compare',
-      names: { 0: 'VIC Fused wood street hockey stick, junior, 40 in', 7: 'Mag-Torch odourized butane refill, 160 g' },
-      rows: [[0, 'No. 083-5519-0', 'var(--gold)'], [7, 'No. 058-0070-6', 'var(--gold)']] },
-    { type: 'list', eyebrow: 'Save this', title: 'Recalled product: 4 checks', items: [
-      ['Stop using it', 'Every notice asks for this.'],
-      ['Check the label', 'Model, batch, date stamp or UPC.'],
-      ['Find the receipt', 'It proves when and where you bought it.'],
-      ['Call before you go', 'The number is in the notice.']] },
-    { type: 'cta', eyebrow: 'Before the next recall', title: 'Keep your receipts with ReFound', text: 'A readable copy, with the item number and date. For recall alerts, subscribe to Health Canada.' }] }
+  fr: { src: 'Source : Santé Canada, rappel élargi du 11 mars 2025 · vérifié le 18 nov. 2026', slides: [
+    { type: 'stat', eyebrow: 'Rappel · Canadian Tire', stat: '6 ans', title: 'après l’achat : souffleuse électrique Yardworks rappelée', text: 'Modèle 060-0583, à fil, 22 po. Vendue de mars 2019 à décembre 2021. Le fil peut casser sous <span style="white-space:nowrap">-20 °C</span>.' },
+    { type: 'text', eyebrow: 'C’est la vôtre?', title: 'Remboursement complet', text: 'Rapportez-la dans <b>n’importe quel magasin Canadian Tire</b>. L’avis ne parle pas du reçu : apportez-le si vous l’avez, il prouve votre modèle et votre date d’achat.<br><br>Info : <span style="white-space:nowrap">1-800-387-8803</span>' },
+    { type: 'match', eyebrow: 'Comment vérifier', title: 'Le numéro est sur le reçu', text: 'Cherchez <b style="white-space:nowrap">060-0583</b> au début d’une ligne. Plus de reçu? Lisez l’étiquette de la machine ou appelez Canadian Tire.',
+      lines: [{ code: '052-2124', w: 250 }, { code: '060-0583', w: 280, hl: true }, { code: '184-2003', w: 200 }] },
+    { type: 'stat', eyebrow: 'Le vrai problème', stat: '90 jours', size: 200, title: 'pour un retour. Votre reçu tiendra-t-il 6 ans?', text: 'Le papier thermique pâlit avec le temps. Le jour d’un rappel, il peut être illisible.' },
+    { type: 'cta', eyebrow: 'Gratuit · iPhone et Android', title: 'Une copie lisible, même si le papier pâlit', text: 'Prenez le reçu en photo : ReFound le garde et affiche le vrai nom du produit.',
+      example: { kit: 'canadian-tire', ix: 0, l1: 'Exemple : un vrai reçu dit', l2: 'ReFound affiche' } }] },
+  en: { src: 'Source: Health Canada, expanded recall of March 11, 2025 · checked Nov. 18, 2026', slides: [
+    { type: 'stat', eyebrow: 'Recall · Canadian Tire', stat: '6 years', size: 220, title: 'after purchase: Yardworks electric snowblower recalled', text: 'Model 060-0583, corded, 22 in. Sold March 2019 to December 2021. The cord can break below <span style="white-space:nowrap">-20 °C</span>.' },
+    { type: 'text', eyebrow: 'Is it yours?', title: 'Full refund', text: 'Bring it to <b>any Canadian Tire store</b>. The notice doesn’t mention the receipt: bring it if you have it, it proves your model and purchase date.<br><br>Info: <span style="white-space:nowrap">1-800-387-8803</span>' },
+    { type: 'match', eyebrow: 'How to check', title: 'The number is on the receipt', text: 'Look for <b style="white-space:nowrap">060-0583</b> at the start of a line. No receipt? Read the label on the machine or call Canadian Tire.',
+      lines: [{ code: '052-2124', w: 250 }, { code: '060-0583', w: 280, hl: true }, { code: '184-2003', w: 200 }] },
+    { type: 'stat', eyebrow: 'The real problem', stat: '90 days', size: 200, title: 'to return it. Will your receipt last 6 years?', text: 'Thermal paper fades over time. By the time of a recall, it may be unreadable.' },
+    { type: 'cta', eyebrow: 'Free · iPhone and Android', title: 'A readable copy, even when the paper fades', text: 'Snap the receipt: ReFound keeps it and shows the real product name.',
+      example: { kit: 'canadian-tire', ix: 0, l1: 'Example: a real receipt says', l2: 'ReFound shows', name: 'VIC Fused wood street hockey stick, junior, 40 in' } }] }
 };
