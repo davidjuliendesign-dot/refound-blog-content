@@ -36,7 +36,7 @@ disent utiliser, puis on mesure.
   Jamais de diapo de remplissage.
 - Instagram et Facebook : 1080 × 1350 (4:5), `fr-01.png` … `en-01.png` … Garder l'essentiel dans le
   carré central 1080 × 1080 (aperçu de la grille).
-- TikTok : 1080 × 1920 (9:16), `tt-fr-01.png` … `tt-en-01.png` …, plus une copie **JPEG** `tt-fr-01.jpg` … : TikTok (via Metricool) refuse le PNG (« 'image/png' type is not allowed, use 'image/jpeg' or 'image/webp' ») ; toujours planifier TikTok avec les `.jpg`. Images rendus par
+- TikTok : 1080 × 1920 (9:16), `tt-fr-01.png` … `tt-en-01.png` …, plus une copie **JPEG** `tt-fr-01.jpg` … : TikTok (via Metricool) refuse le PNG (« 'image/png' type is not allowed, use 'image/jpeg' or 'image/webp' ») ; toujours planifier TikTok avec les `.jpg`. Le tout est rendu par
   `tools/render-carousel.js` avec les zones de sécurité TikTok (haut 200 px, bas 460 px, droite
   130 px).
 - Design épuré (demande de David) : **pas de surtitre**, un titre court et au plus une ligne de texte par diapo. Les détails vont dans la légende.
