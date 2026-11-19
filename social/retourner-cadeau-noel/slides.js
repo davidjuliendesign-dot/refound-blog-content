@@ -6,6 +6,8 @@
 // v2 après une ronde de personas (5,5 / 6 / 7) : magasins nommés sans numéros, Walmart, Costco et RONA ajoutés, « électronique » défini,
 // diapo Best Buy fusionnée, exemple de reçu hors sujet retiré, problème réel (le reçu est chez celui qui a payé).
 // v3 après la ronde 2 (7,5 / 7 / 8,5) : conseils génériques remplacés par ce que l'app fait de plus qu'une photo (facts/product.md : recherche du reçu complet, mode retour, partage — gratuits).
+// v4 (demande de David) : l'app seulement à la dernière diapo, nommée « l'app » ; diapo 4 = ce que les magasins demandent sans reçu (article, 12 nov. 2026).
+// Ronde 4 : 7,5 / 7,5 / 8,5 ; dernière diapo reliée au problème (partage du reçu).
 // Finale ronde 3 : Julie 8, Samuel 7,5, Gilles 9. Reste : aucune capture d'écran de l'app (demander à David une vraie capture du mode retour).
 module.exports = {
   fr: { src: 'Sources : politiques de retour officielles, nov. 2026 · calcul ReFound', slides: [
@@ -17,12 +19,13 @@ module.exports = {
       ['Costco', 'Télé et électronique : 25 févr.'],
       ['Best Buy', '10 janv. · Mais aucun retour en magasin le 26 déc.']],
       text: 'Électronique : télé, son, photo, téléphones. Walmart n’a pas annoncé de prolongation des Fêtes.' },
-    { type: 'text', eyebrow: 'Le vrai problème', title: 'Le cadeau est chez eux. Le reçu est chez vous.', text: 'Pour un retour, le magasin demande une preuve d’achat. C’est la personne qui a payé qui l’a : date, montant, carte.' },
-    { type: 'list', eyebrow: 'Mieux qu’une photo dans la galerie', title: 'Le reçu, prêt au comptoir', items: [
-      ['Retrouvé en quelques secondes', 'Cherchez par magasin, date ou montant.'],
-      ['Mode retour', 'Code-barres du reçu, carte utilisée, article à retourner mis en évidence.'],
-      ['Partagé à qui fera l’échange', 'Un reçu à la fois, quand vous le décidez.']] },
-    { type: 'cta', eyebrow: 'Gratuit · iPhone et Android', title: 'Téléchargez ReFound avant le Vendredi fou', text: 'Numérisez le reçu à la caisse, avant d’emballer. Et demandez un reçu-cadeau : sinon, vous devrez peut-être aller vous-même au magasin.' }] },
+    { type: 'text', eyebrow: 'Le vrai problème', title: 'Le cadeau est chez eux. Le reçu est chez vous.', text: 'Pour un retour, le magasin demande une preuve d’achat. C’est la personne qui a payé qui l’a.' },
+    { type: 'list', plain: true, eyebrow: 'Pas de reçu-cadeau?', title: 'Ce que le magasin demandera', items: [
+      ['Best Buy', 'Avec reçu-cadeau : carte-cadeau. Sans : la personne qui a payé doit venir.'],
+      ['IKEA', 'Sans reçu : date, magasin, montant exact et 4 derniers chiffres de la carte.'],
+      ['Home Depot', 'Sans reçu : pièce d’identité avec photo, et une vérification.']],
+      text: 'La personne qui a reçu le cadeau n’a rien de tout ça.' },
+    { type: 'cta', eyebrow: 'Gratuit · iPhone et Android', title: 'L’app ReFound garde le reçu de chaque cadeau', text: 'Une photo à la caisse, et vous l’envoyez à la personne qui fera l’échange.' }] },
   en: { src: 'Sources: official return policies, Nov. 2026 · ReFound calculation', slides: [
     { type: 'stat', eyebrow: 'Gift bought on Black Friday', stat: '2 days', title: 'after Christmas to return electronics at Canadian Tire', text: '30 days from the purchase, not from Christmas.<br><b>November 27 + 30 days = December 27.</b>' },
     { type: 'list', plain: true, eyebrow: 'Bought November 27', title: 'Bring it back by…', items: [
@@ -32,10 +35,11 @@ module.exports = {
       ['Costco', 'TVs and electronics: Feb. 25'],
       ['Best Buy', 'Jan. 10 · But no in-store returns on Dec. 26']],
       text: 'Electronics: TVs, audio, cameras, phones. Walmart hasn’t announced a holiday extension.' },
-    { type: 'text', eyebrow: 'The real problem', title: 'The gift is at their place. The receipt is at yours.', text: 'Stores ask for proof of purchase. The person who paid has it: date, amount, card.' },
-    { type: 'list', eyebrow: 'Better than a photo in your gallery', title: 'Your receipt, ready at the counter', items: [
-      ['Found in seconds', 'Search by store, date or amount.'],
-      ['Return mode', 'Receipt barcode, card used, the item to return highlighted.'],
-      ['Shared with whoever makes the exchange', 'One receipt at a time, when you decide.']] },
-    { type: 'cta', eyebrow: 'Free · iPhone and Android', title: 'Get ReFound before Black Friday', text: 'Scan the receipt at the checkout, before you wrap. And ask for a gift receipt: otherwise, you may have to go to the store yourself.' }] }
+    { type: 'text', eyebrow: 'The real problem', title: 'The gift is at their place. The receipt is at yours.', text: 'Stores ask for proof of purchase. The person who paid has it.' },
+    { type: 'list', plain: true, eyebrow: 'No gift receipt?', title: 'What the store will ask for', items: [
+      ['Best Buy', 'With a gift receipt: a gift card. Without: the person who paid has to come in.'],
+      ['IKEA', 'No receipt: date, store, exact amount and the card’s last 4 digits.'],
+      ['Home Depot', 'No receipt: government photo ID, and a verification.']],
+      text: 'The person who received the gift has none of that.' },
+    { type: 'cta', eyebrow: 'Free · iPhone and Android', title: 'The ReFound app keeps every gift receipt', text: 'One photo at the checkout, then send it to whoever makes the exchange.' }] }
 };

@@ -57,6 +57,8 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **Les conseils que tout le monde connaît font décrocher.** Les remplacer par ce que l'app fait de plus qu'une photo dans la galerie (recherche, mode retour, partage), seulement avec `facts/product.md`.
 - **Un exemple de reçu hors sujet (bâton de hockey dans un carrousel sur l'électronique) et un code de caisse brut perdent les gens.** Mieux vaut aucun exemple.
 - **Dernière diapo : une action précise** (« Téléchargez ReFound avant le Vendredi fou »), pas seulement une adresse web.
+- **L'app seulement à la dernière diapo** (demande de David), nommée « l'app ReFound », et reliée au problème posé juste avant (ici : envoyer le reçu à la personne qui fait l'échange). Avant, une diapo « ce que fait l'app » au milieu n'était pas comprise comme parlant d'une app.
+- **Pas de paragraphe de conseils à la dernière diapo** : une phrase, une action.
 - Demande récurrente, à combler par David : une vraie capture d'écran de l'app (mode retour).
 
 ## Leçons du premier essai (à appliquer dès la première version)
