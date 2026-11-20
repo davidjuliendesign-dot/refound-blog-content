@@ -72,3 +72,5 @@ node render-example.js ../posts/<slug>/images   # adapter les gabarits cover() /
 `render-kit.js` : `flow()` (lignes de `kit/receipts.json` : ligne imprimée → produit identifié → garantie ou date limite, avec la photo du produit lue depuis le champ `imageFile` (fichier dans `kit/images/`) ; les URL distantes ne sont pas chargées). Les choix d'articles sont dans `JOBS`.
 
 `render-carousel.js` : carrousels 1080×1350 (`social/README.md`). Le contenu de chaque carrousel est dans `social/<slug>/slides.js` (types `hook`, `text`, `stat`, `receipt`, `cta`) ; rendu : `node render-carousel.js <slug> ../social/<slug>`.
+
+`render-bmr.js` : `compare()` (comparer plusieurs politiques d'une même enseigne : colonnes = canaux ou propriétaires, lignes = critères, une ligne surlignée en doré ; utile pour une bannière dont les magasins indépendants ont des règles différentes) et une couverture sans texte dépendant de la langue (un reçu « 30 » relié à trois magasins). `render-kit.js` a un job `politique-retour-bmr` (ligne non identifiée affichée comme telle, avec `nf()`).

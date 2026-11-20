@@ -92,3 +92,11 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **Ne pas donner la réponse dans l'accroche** si la diapo 2 la donne : sinon la 2 devient un doublon.
 - **L'exemple avant/après de l'app (ligne du reçu → produit identifié, avec photo) rend la dernière diapo claire**, mais un nom de produit en anglais dans un carrousel français accroche les trois personas : choisir de préférence un exemple du kit dont le nom identifié est en français.
 - Samuel (TikTok) reste sous 7 : une 1re image texte sur fond noir ne l'arrête pas, et un article à 4 $ ne le concerne pas.
+
+## Leçons du quatrième essai (20 novembre 2026)
+- **Souffleuse à neige** (`politique-retour-bmr`, non planifié) : 4,5 / 3 / 6,5. Seul Gilles (propriétaire) était concerné ; Julie a un contrat de déneigement, Samuel est locataire. Une liste de vérifications évidentes (« le bon modèle ») fait décrocher.
+- **Ajustement de prix avant le Vendredi fou** (`ajustement-de-prix`) : 7 / 7 / 6 → 8 / 7,5 / 7,5. De l'argent à récupérer, une semaine avant le Vendredi fou, avec Walmart et Best Buy : les trois se sentent concernés.
+- La diapo **« Comment réclamer »** (3 étapes) a fait le plus gagner : sans elle, personne ne savait quoi faire.
+- Une ligne exacte mais neutre (« sa politique n'en parle pas ») n'est pas comprise : dire quoi faire (« aucun ajustement annoncé · demandez au comptoir »).
+- Fin qui marche : un geste concret dans l'app (« Tapez “Best Buy” : le reçu sort ») plutôt qu'une description.
+- Encore demandé : un montant en dollars à la diapo 1 et une capture de l'app (recherche) ; Costco et RONA.

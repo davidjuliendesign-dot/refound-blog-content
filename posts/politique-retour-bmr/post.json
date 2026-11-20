@@ -1,0 +1,991 @@
+{
+ "schemaVersion": 1,
+ "slug": "politique-retour-bmr",
+ "frPath": "/blog/politique-retour-bmr",
+ "enPath": "/en/blog/bmr-return-policy",
+ "datePublished": "2026-11-20T09:00:00-05:00",
+ "dateModified": "2026-11-20T09:00:00-05:00",
+ "lastFactCheck": "2026-11-20",
+ "cover": {
+  "src": "/images/blog/politique-retour-bmr/cover.png",
+  "width": 1200,
+  "height": 630
+ },
+ "assets": [
+  "cover.png",
+  "politiques-fr.png",
+  "politiques-en.png",
+  "recu-reel-fr.png",
+  "recu-reel-en.png"
+ ],
+ "fr": {
+  "metaTitle": "Politique de retour BMR : 30 jours, facture et frais | ReFound",
+  "metaDescription": "BMR : 30 jours pour un retour, mais chaque magasin peut avoir ses règles (facture originale, frais jusqu'à 15 %). Trois politiques comparées et un vrai reçu.",
+  "keywords": "politique de retour BMR, retour BMR, BMR retour sans facture, délai de retour BMR, échange BMR, remboursement BMR, frais de retour BMR, retour souffleuse à neige, garantie légale Québec",
+  "category": "Guide",
+  "date": "20 novembre 2026",
+  "readingTime": "9 min de lecture",
+  "breadcrumb": "Politique de retour BMR",
+  "eyebrow": "Retours",
+  "h1": "Politique de retour BMR : 30 jours, facture originale et règles du magasin",
+  "card": {
+   "title": "Politique de retour BMR : 30 jours, et ça dépend du magasin (2026)",
+   "subtitle": "Trois politiques BMR comparées, les articles non repris, la souffleuse à neige, et un vrai reçu BMR."
+  },
+  "coverAlt": "Un reçu BMR marqué 30 relié à trois magasins aux règles différentes : 30 jours, frais de 15 % et point d'interrogation",
+  "intro": [
+   "Réponse courte : chez BMR, le délai de retour publié est de **30 jours**, mais il n'existe pas une seule politique pour tous les magasins. Un achat sur BMR.ca suit la politique des achats en ligne : 30 jours à partir de la réception du produit. Les magasins BMR appartiennent à des coopératives ou à des entrepreneurs indépendants, et certains publient leurs propres règles : facture originale obligatoire, emballage d'origine, frais de retour possibles.",
+   "Pour savoir à quoi vous attendre, nous avons comparé trois politiques BMR publiées (BMR.ca, Avantis Coopérative et BMR Anctil), relevé les articles qui ne sont pas repris, et regardé ce que dit, et ne dit pas, un vrai reçu BMR."
+  ],
+  "sections": [
+   {
+    "heading": "Quelle est la politique de retour de BMR?",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Chez BMR, la règle commune aux politiques publiées est un délai de **30 jours**, avec la preuve d'achat et l'article dans son emballage d'origine. Le reste dépend de l'endroit où vous avez acheté."
+     },
+     {
+      "type": "p",
+      "text": "BMR n'est pas une chaîne où tous les magasins appartiennent à la même entreprise. Selon BMR.ca, Groupe BMR, filiale de Sollio Groupe Coopératif, regroupe plus de 275 centres de rénovation et quincailleries au Québec, en Ontario et dans les Maritimes, et exploite 14 magasins corporatifs, surtout dans la région de Montréal. Les autres marchands BMR sont des coopératives ou des entrepreneurs indépendants qui s'associent volontairement à Groupe BMR."
+     },
+     {
+      "type": "p",
+      "text": "La politique de retour que nous avons trouvée sur BMR.ca s'intitule « politique de retour et d'échange – achats en ligne ». Pour un achat fait au comptoir, c'est la politique de votre magasin qui compte. Si vous achetez un article coûteux, demandez-la avant de payer."
+     },
+     {
+      "type": "callout",
+      "tone": "info",
+      "title": "Un magasin est-il obligé de reprendre un article?",
+      "text": "Non, si l'article n'est pas défectueux. Au Québec, l'Office de la protection du consommateur rappelle que la loi n'oblige pas un commerçant à échanger ou à rembourser un bien non défectueux, ni même à avoir une politique. Mais s'il en a une, il doit la respecter."
+     }
+    ]
+   },
+   {
+    "heading": "Trois politiques BMR comparées",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Les trois politiques BMR que nous avons trouvées donnent toutes 30 jours, mais elles ne comptent pas à partir de la même date et n'exigent pas la même preuve. Nous avons comparé la politique en ligne de BMR.ca, celle d'Avantis Coopérative (une coopérative qui exploite des magasins BMR) et celle de BMR Anctil (succursales de Magog et de Saint-Denis-de-Brompton)."
+     },
+     {
+      "type": "figure",
+      "src": "/images/blog/politique-retour-bmr/politiques-fr.png",
+      "width": 1200,
+      "height": 675,
+      "alt": "Comparaison de trois politiques de retour BMR : BMR.ca, 30 jours après la réception ; Avantis Coopérative, 30 jours après l'achat, facture originale, frais jusqu'à 15 % ; BMR Anctil, 30 jours après la réception, facture originale",
+      "caption": "Trois politiques BMR publiées. Sources : bmr.ca, avantis.coop, bmranctil.com, vérifié le 20 novembre 2026."
+     },
+     {
+      "type": "table",
+      "caption": "Politiques de retour BMR : ce qui change d’un magasin à l’autre",
+      "headers": [
+       "",
+       "BMR.ca (achats en ligne)",
+       "Avantis Coopérative (magasins BMR)",
+       "BMR Anctil"
+      ],
+      "rows": [
+       [
+        "Délai",
+        "30 jours suivant la réception du produit",
+        "30 jours suivant la date de l’achat",
+        "30 jours suivant la réception du produit ; aucun retour après 30 jours"
+       ],
+       [
+        "Preuve",
+        "Numéro de commande et numéro de facture",
+        "Facture originale : aucun remboursement ni échange sans elle",
+        "Facture originale obligatoire pour un remboursement"
+       ],
+       [
+        "État de l’article",
+        "Emballage d’origine, avec manuels et pièces",
+        "Emballage original, à l’état neuf",
+        "Emballage d’origine non endommagé"
+       ],
+       [
+        "Frais",
+        "Livraison remboursée si l’erreur vient de BMR.ca ; sinon, retour à vos frais",
+        "Le magasin se réserve le droit de réclamer 15 % du remboursement, ou de refuser le retour",
+        "Des frais de retour peuvent s’appliquer"
+       ],
+       [
+        "Remboursement",
+        "Même mode de paiement qu’à l’achat",
+        "Selon le mode de paiement d’origine",
+        "Non précisé"
+       ],
+       [
+        "Autres règles",
+        "Produit manquant, brisé ou défectueux : le signaler dans les 3 jours suivant la réception",
+        "Retour autorisé au préalable par un responsable ; points 360 BMR annulés et carte 360 BMR à présenter",
+        "Retour au magasin où vous avez acheté"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Deux différences comptent en pratique. D'abord, **la date de départ** : 30 jours après l'achat (Avantis) ou après la réception (BMR.ca et BMR Anctil). Pour un achat emporté le jour même, c'est la même date ; pour une livraison, le délai peut commencer plus tard. Ensuite, **les frais** : chez Avantis, un retour peut coûter jusqu'à 15 % du montant remboursé, à la discrétion du magasin."
+     },
+     {
+      "type": "p",
+      "text": "Ces trois documents ne représentent pas tous les magasins BMR. Ils montrent surtout qu'il faut vérifier la politique du magasin où vous avez acheté. La politique d'Avantis indique aussi que les matériaux se retournent à la cour à matériaux et la quincaillerie à la caisse."
+     }
+    ]
+   },
+   {
+    "heading": "Retourner un achat fait sur BMR.ca",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Un article commandé sur BMR.ca se retourne dans les 30 jours suivant sa réception, au magasin participant le plus proche. Si vous avez récupéré la commande en magasin, le retour se fait seulement à ce magasin."
+     },
+     {
+      "type": "bullets",
+      "items": [
+       "Ayez en main le numéro de commande (dans votre compte BMR.ca ou dans le courriel de confirmation), le numéro de facture et la raison du retour.",
+       "Produit manquant, brisé ou défectueux : communiquez avec BMR.ca dans les **3 jours** suivant la réception de la commande.",
+       "Commande livrée par colis : si vous ne pouvez pas aller en magasin, le retour par messager est possible pour un article admissible. Livraison par camion : une cueillette à domicile peut être planifiée, avec des frais possibles.",
+       "Remboursement sur le même mode de paiement qu'à l'achat : environ 2 à 3 jours ouvrables après un retour en magasin, 7 à 10 jours ouvrables après l'envoi d'un retour par Purolator.",
+       "Si l'article ne vous convient pas, les frais de livraison ne sont pas remboursés et le retour est à vos frais. Si le problème vient de BMR.ca, la livraison est remboursée et le retour est gratuit."
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Le service à la clientèle de BMR.ca est joignable au 1-888-504-0247, du lundi au vendredi, de 8 h à 17 h (heure de l'Est)."
+     }
+    ]
+   },
+   {
+    "heading": "Quels articles BMR ne sont pas repris?",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Les politiques BMR excluent surtout les articles utilisés, modifiés ou préparés pour vous. La liste exacte varie d'un magasin à l'autre :"
+     },
+     {
+      "type": "table",
+      "caption": "Articles non remboursables selon les politiques BMR publiées",
+      "headers": [
+       "Article",
+       "BMR.ca",
+       "Avantis",
+       "BMR Anctil"
+      ],
+      "rows": [
+       [
+        "Produit utilisé",
+        "Non, sauf s’il est défectueux",
+        "Doit être à l’état neuf",
+        "Non"
+       ],
+       [
+        "Sans l’emballage d’origine",
+        "Non",
+        "Doit être dans l’emballage original",
+        "Non"
+       ],
+       [
+        "Peinture ou teinture teintée",
+        "Non",
+        "Non (teintes et mélanges personnalisés)",
+        "Non"
+       ],
+       [
+        "Coupé ou fait sur mesure",
+        "—",
+        "Non (coupe, taille, sur mesure)",
+        "Non"
+       ],
+       [
+        "Commande spéciale",
+        "—",
+        "Non",
+        "Non"
+       ],
+       [
+        "Équipement extérieur rempli d’essence (ex. tondeuse)",
+        "Non",
+        "—",
+        "Non ; aucun produit à moteur"
+       ],
+       [
+        "Produits chimiques (pesticides, chlore à piscine, solvants)",
+        "—",
+        "Non",
+        "—"
+       ],
+       [
+        "Certains produits d’hygiène (sièges de toilette, gants, masques)",
+        "Non",
+        "Non",
+        "Non"
+       ],
+       [
+        "Liquidation ou vente finale, cartes-cadeaux BMR",
+        "—",
+        "Non",
+        "—"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Un tiret signifie que la politique n'en parle pas, pas que l'article est repris. Avant d'acheter une commande spéciale ou de faire teinter de la peinture, considérez l'achat comme final."
+     }
+    ]
+   },
+   {
+    "heading": "Souffleuse à neige neuve : vérifiez avant le premier plein",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Une souffleuse ou une tondeuse à essence se retourne seulement si elle n'a pas servi. Selon la politique de BMR.ca, dès qu'elle a été remplie d'essence, elle n'est plus remboursable. La politique de BMR.ca exclut l'équipement de travail extérieur qui a été rempli d'essence, comme une tondeuse, et BMR Anctil exclut tout produit à moteur."
+     },
+     {
+      "type": "p",
+      "text": "Les autres grandes quincailleries suivent la même logique, avec un délai plus court que leur délai général :"
+     },
+     {
+      "type": "table",
+      "caption": "Retour d’un équipement à essence (souffleuse, tondeuse) : quatre politiques",
+      "headers": [
+       "Magasin",
+       "Règle pour l’équipement à essence",
+       "Si l’appareil a servi"
+      ],
+      "rows": [
+       [
+        "BMR.ca",
+        "Non remboursable une fois rempli d’essence",
+        "Non remboursable, sauf défaut"
+       ],
+       [
+        "BMR Anctil",
+        "Produits à moteur non repris",
+        "Non repris"
+       ],
+       [
+        "Canadian Tire",
+        "30 jours, neuf, inutilisé, dans l’emballage d’origine",
+        "Réparé si possible dans un centre de service autorisé, selon la garantie du fabricant"
+       ],
+       [
+        "Home Depot",
+        "30 jours suivant l’achat, avec reçu",
+        "Réparé si possible, selon la garantie du fabricant"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Avant de faire le plein, vérifiez le modèle, la largeur de déblaiement et les accessoires inclus. Après, un problème se règle par la garantie, pas par un retour : gardez la facture, elle prouve la date d'achat. Comparez avec les politiques de [Canadian Tire](/blog/politique-retour-canadian-tire) et de [Home Depot](/blog/politique-retour-home-depot)."
+     }
+    ]
+   },
+   {
+    "heading": "Ce que le reçu BMR ne vous dit pas",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Un reçu BMR donne des descriptions abrégées, sans la marque ni la garantie. Voici un vrai reçu BMR (Laval, 18 avril 2026, 7 lignes) numérisé avec ReFound :"
+     },
+     {
+      "type": "figure",
+      "src": "/images/blog/politique-retour-bmr/recu-reel-fr.png",
+      "width": 1200,
+      "height": 675,
+      "alt": "Un reçu réel BMR : la ligne BALAI FEUILLES ACIER 65 identifiée comme un râteau à feuilles en acier Botaflora avec une garantie du fabricant d'un an ; un embout identifié sans garantie ; une ligne non identifiée ; retour estimé au 18 mai 2026",
+      "caption": "Un reçu réel BMR numérisé avec ReFound. Garantie quand l'information est disponible ; les conditions du fabricant font foi."
+     },
+     {
+      "type": "table",
+      "caption": "Ce que dit le reçu, et ce que ReFound a trouvé",
+      "headers": [
+       "Ligne du reçu",
+       "Produit identifié par ReFound",
+       "Garantie trouvée"
+      ],
+      "rows": [
+       [
+        "BALAI FEUILLES ACIER 65\"",
+        "Râteau à feuilles en acier, 24 dents, manche de 65 po en fibre de verre (Botaflora)",
+        "1 an, fabricant : échange ou crédit en magasin d’un produit défectueux"
+       ],
+       [
+        "EMBOUT TOURNEVIS CARRE #2 3\"",
+        "Embout à chocs Shockwave, tête carrée no 2, 3 1/2 po (Milwaukee)",
+        "Aucune garantie indiquée"
+       ],
+       [
+        "EMBOUT TOURNEVIS PHILLIPS #33",
+        "Non identifié : la ligne reste telle qu’imprimée",
+        "—"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Sur ce reçu, ReFound a identifié 3 lignes sur 7 ; les 4 autres sont des embouts restés tels qu'imprimés. Le reçu ne dit nulle part que le râteau a une garantie d'un an, qui finit le 18 avril 2027, bien après les 30 jours du retour. ReFound a estimé la date limite de retour au **18 mai 2026**, 30 jours après l'achat. C'est une estimation selon la politique générale : la règle exacte reste celle du magasin BMR."
+     },
+     {
+      "type": "callout",
+      "tone": "info",
+      "title": "Pourquoi la facture compte autant chez BMR",
+      "text": "Deux des trois politiques comparées exigent la facture originale pour un remboursement. Un reçu de caisse pâlit avec le temps ; voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire). Sans facture, il vaut mieux appeler le magasin avant de vous déplacer, et lire notre guide sur le [retour sans reçu](/blog/retour-sans-recu)."
+     }
+    ]
+   },
+   {
+    "heading": "Après les 30 jours : les garanties prennent le relais",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Après 30 jours, un retour BMR n'est généralement plus possible, mais un article défectueux reste couvert par la garantie du fabricant et, au Québec, par la garantie légale. La politique d'Avantis le dit clairement : en cas de défectuosité, « la garantie du fabricant s'applique d'abord et avant tout »."
+     },
+     {
+      "type": "h3",
+      "text": "La garantie légale au Québec"
+     },
+     {
+      "type": "p",
+      "text": "Au Québec, la garantie légale est gratuite et automatique : un bien doit servir à l'usage auquel il est normalement destiné, pendant une durée raisonnable selon le prix payé, le contrat et les conditions d'utilisation. Vous pouvez vous adresser au commerçant, au fabricant ou aux deux, et selon l'Office de la protection du consommateur, un commerçant ne peut pas vous obliger à vous tourner vers le fabricant. Éducaloi recommande d'avertir le commerçant ou le fabricant par écrit le plus rapidement possible."
+     },
+     {
+      "type": "h3",
+      "text": "La garantie de bon fonctionnement"
+     },
+     {
+      "type": "p",
+      "text": "Pour certains électroménagers et appareils électroniques neufs achetés ou loués depuis le **5 octobre 2026**, une garantie de bon fonctionnement s'ajoute, à compter de la livraison. Elle dure 6 ans pour un climatiseur, une thermopompe, une cuisinière, un réfrigérateur ou un congélateur, et 5 ans pour une laveuse, une sécheuse ou un lave-vaisselle. Le gouvernement du Québec suggère de garder une preuve de livraison : facture, courriel de suivi, bon de livraison ou reçu. Les détails sont dans notre guide sur la [garantie de bon fonctionnement](/blog/garantie-bon-fonctionnement-quebec)."
+     },
+     {
+      "type": "p",
+      "text": "Pour savoir à qui écrire et quoi joindre, voyez [comment faire une réclamation de garantie](/blog/reclamation-garantie)."
+     }
+    ]
+   },
+   {
+    "heading": "Comment préparer un retour chez BMR",
+    "blocks": [
+     {
+      "type": "steps",
+      "items": [
+       "Repérez où vous avez acheté : sur BMR.ca ou dans quel magasin BMR.",
+       "Lisez la politique de ce magasin, ou appelez-le : délai, frais, articles exclus.",
+       "Comptez les 30 jours à partir de la bonne date : l'achat ou la réception de la commande.",
+       "Apportez la facture originale (ou le numéro de commande et le numéro de facture pour BMR.ca) et la carte de paiement utilisée.",
+       "Remettez l'article dans son emballage d'origine, avec les manuels et toutes les pièces.",
+       "Si l'achat vous a donné des points 360 BMR, apportez votre carte 360 BMR : chez Avantis, ces points sont annulés au remboursement.",
+       "Pour des matériaux, demandez où les rapporter (chez Avantis : à la cour à matériaux)."
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Avec ReFound, vous numérisez la facture en rentrant : l'app garde une copie lisible et affiche une date limite de retour estimée selon la politique générale du marchand, à comparer avec la règle de votre magasin BMR. Au comptoir, le mode retour affiche le code-barres du reçu quand il a été détecté, le mode de paiement et la photo du reçu. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite. L'acceptation du retour reste toujours à la discrétion du magasin. En savoir plus sur l'[application pour les retours en magasin](/application-retours-magasin)."
+     }
+    ]
+   }
+  ],
+  "faqTitle": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Combien de jours a-t-on pour retourner un article chez BMR?",
+    "a": "Les politiques BMR publiées donnent 30 jours : à partir de la réception pour un achat sur BMR.ca, et selon le magasin pour un achat au comptoir (par exemple 30 jours après l'achat chez Avantis Coopérative)."
+   },
+   {
+    "q": "Peut-on faire un retour chez BMR sans facture?",
+    "a": "C'est risqué. Avantis Coopérative indique qu'aucun remboursement ni échange n'est possible sans la facture originale, et BMR Anctil exige la facture originale pour un remboursement. Appelez votre magasin avant de vous déplacer."
+   },
+   {
+    "q": "BMR facture-t-il des frais de retour?",
+    "a": "Ça dépend du magasin. Avantis Coopérative se réserve le droit de réclamer 15 % du montant remboursé ; BMR Anctil indique que des frais peuvent s'appliquer. Pour BMR.ca, le retour est à vos frais si l'article ne vous convient pas."
+   },
+   {
+    "q": "Peut-on retourner une souffleuse à neige chez BMR?",
+    "a": "Pas si elle a été remplie d'essence : BMR.ca exclut l'équipement extérieur rempli d'essence, et BMR Anctil exclut les produits à moteur. Un défaut se règle alors par la garantie du fabricant ou la garantie légale."
+   }
+  ],
+  "ctaTitle": "Gardez vos factures BMR prêtes pour un retour ou une garantie",
+  "ctaBody": "Numérisez la facture en rentrant du magasin : ReFound garde une copie lisible, estime la date limite de retour et affiche la garantie de vos articles quand l'information est disponible.",
+  "relatedTitle": "Pour aller plus loin",
+  "related": [
+   {
+    "label": "Politique de retour RONA",
+    "href": "/blog/politique-retour-rona",
+    "desc": "90 jours, reçu et garanties."
+   },
+   {
+    "label": "Politique de retour Home Depot",
+    "href": "/blog/politique-retour-home-depot",
+    "desc": "Délais, reçu et garanties."
+   },
+   {
+    "label": "Reçus de rénovation",
+    "href": "/reno-recus-retours",
+    "desc": "Retours faciles après les travaux."
+   },
+   {
+    "label": "Réclamation de garantie",
+    "href": "/blog/reclamation-garantie",
+    "desc": "À qui s'adresser, et jusqu'à quand."
+   }
+  ],
+  "sourcesTitle": "Sources",
+  "sources": [
+   {
+    "label": "Return and Exchange Policy – Online Purchases (page consultée en anglais)",
+    "publisher": "BMR",
+    "url": "https://bmr.ca/en/return-and-exchange-policy",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "About us (page consultée en anglais)",
+    "publisher": "Groupe BMR",
+    "url": "https://www.bmr.ca/en/about-us",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Politique de retour et remboursement BMR & Agrizone",
+    "publisher": "Avantis Coopérative",
+    "url": "https://www.avantis.coop/wp-content/uploads/2025/08/politique_retour-remboursement_bmr-agrizone-pronature_avantis2025.pdf",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Politique d'achat BMR Anctil",
+    "publisher": "BMR Anctil",
+    "url": "https://bmranctil.com/politique-achat-bmr-anctil/",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Retours",
+    "publisher": "Canadian Tire",
+    "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Politique de retour des marchandises",
+    "publisher": "Home Depot Canada",
+    "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Application of legal warranties (page consultée en anglais)",
+    "publisher": "Office de la protection du consommateur",
+    "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/applying-warranty/application-legal-warranties/",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Non-defective goods (page consultée en anglais)",
+    "publisher": "Office de la protection du consommateur",
+    "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/exchanging-layaways/refunding/goods/non-defective-good",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Nouvelles protections : garantie légale de bon fonctionnement",
+    "publisher": "Office de la protection du consommateur",
+    "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Des appareils qui marchent : découvrez une nouvelle garantie gratuite (13 octobre 2026)",
+    "publisher": "Gouvernement du Québec",
+    "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "La garantie légale",
+    "publisher": "Éducaloi",
+    "url": "https://educaloi.qc.ca/capsules/la-garantie-legale/",
+    "accessed": "2026-11-20"
+   }
+  ],
+  "factCheckLabel": "Faits vérifiés le 20 novembre 2026"
+ },
+ "en": {
+  "metaTitle": "BMR Return Policy: 30 Days, Invoice and Store Fees | ReFound",
+  "metaDescription": "BMR gives 30 days for returns, but each store can set its own rules (original invoice, fees up to 15%). Three policies compared, plus a real receipt.",
+  "keywords": "BMR return policy, BMR returns, BMR return without receipt, BMR return time limit, BMR exchange, BMR refund, BMR restocking fee, snow blower return, Quebec legal warranty",
+  "category": "Guide",
+  "date": "November 20, 2026",
+  "readingTime": "9 min read",
+  "breadcrumb": "BMR return policy",
+  "eyebrow": "Returns",
+  "h1": "BMR Return Policy: 30 Days, Original Invoice and Store Rules",
+  "card": {
+   "title": "BMR Return Policy: 30 Days, and It Depends on the Store (2026)",
+   "subtitle": "Three BMR policies compared, items that can’t be returned, snow blowers, and a real BMR receipt."
+  },
+  "coverAlt": "A BMR receipt marked 30 linked to three stores with different rules: 30 days, a 15% fee and a question mark",
+  "intro": [
+   "Short answer: at BMR, the published return window is **30 days**, but there is no single policy for every store. A BMR.ca purchase follows the online policy: 30 days from receipt of the product. BMR stores are owned by cooperatives or independent entrepreneurs, and some publish their own rules: original invoice required, original packaging, possible return fees.",
+   "To show what to expect, we compared three published BMR policies (BMR.ca, Avantis Coopérative and BMR Anctil), listed the items that can’t be returned, and looked at what a real BMR receipt says, and doesn’t say."
+  ],
+  "sections": [
+   {
+    "heading": "What is BMR’s return policy?",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "At BMR, the rule shared by the published policies is a **30-day** window, with proof of purchase and the item in its original packaging. The rest depends on where you bought it."
+     },
+     {
+      "type": "p",
+      "text": "BMR isn’t a chain where one company owns every store. According to BMR.ca, Groupe BMR, a subsidiary of Sollio Groupe Coopératif, brings together over 275 home renovation centres and hardware stores in Quebec, Ontario and the Maritimes, and operates 14 corporate stores, mainly in the Greater Montreal area. The other BMR dealers are cooperatives or independent entrepreneurs who choose to associate with Groupe BMR."
+     },
+     {
+      "type": "p",
+      "text": "The return policy we found on BMR.ca is titled “Return and Exchange Policy – Online Purchases.” For an in-store purchase, your store’s policy is the one that applies. If you’re buying something expensive, ask for it before you pay."
+     },
+     {
+      "type": "callout",
+      "tone": "info",
+      "title": "Does a store have to take an item back?",
+      "text": "Not if the item isn’t defective. In Quebec, the Office de la protection du consommateur notes that the law doesn’t require merchants to exchange or refund a non-defective item, or even to have a policy. But if they have one, they must follow it."
+     }
+    ]
+   },
+   {
+    "heading": "Three BMR return policies compared",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "The three BMR policies we found all give 30 days, but they don’t start the clock on the same date or ask for the same proof. We compared BMR.ca’s online policy, the policy of Avantis Coopérative (a cooperative that runs BMR stores) and that of BMR Anctil (its Magog and Saint-Denis-de-Brompton branches)."
+     },
+     {
+      "type": "figure",
+      "src": "/images/blog/politique-retour-bmr/politiques-en.png",
+      "width": 1200,
+      "height": 675,
+      "alt": "Comparison of three BMR return policies: BMR.ca, 30 days from receipt of the product; Avantis Coopérative, 30 days from purchase, original invoice, fees up to 15%; BMR Anctil, 30 days from receipt, original invoice",
+      "caption": "Three published BMR policies. Sources: bmr.ca, avantis.coop, bmranctil.com, checked November 20, 2026."
+     },
+     {
+      "type": "table",
+      "caption": "BMR return policies: what changes from one store to another",
+      "headers": [
+       "",
+       "BMR.ca (online purchases)",
+       "Avantis Coopérative (BMR stores)",
+       "BMR Anctil"
+      ],
+      "rows": [
+       [
+        "Time limit",
+        "30 days from receipt of the product",
+        "30 days from the purchase date",
+        "30 days from receipt of the product; no returns after 30 days"
+       ],
+       [
+        "Proof",
+        "Order number and invoice number",
+        "Original invoice: no refund or exchange without it",
+        "Original invoice required for a refund"
+       ],
+       [
+        "Condition",
+        "Original packaging, with manuals and parts",
+        "Original packaging, in new condition",
+        "Undamaged original packaging"
+       ],
+       [
+        "Fees",
+        "Shipping refunded if BMR.ca made the error; otherwise, return at your expense",
+        "The store reserves the right to charge 15% of the refund, or to refuse the return",
+        "Return fees may apply"
+       ],
+       [
+        "Refund",
+        "Same payment method as the purchase",
+        "To the original payment method",
+        "Not stated"
+       ],
+       [
+        "Other rules",
+        "Missing, broken or defective product: report within 3 days of receipt",
+        "Return pre-approved by a manager; BMR 360 points cancelled and 360 card required",
+        "Return to the store where you bought it"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Two differences matter in practice. First, **the start date**: 30 days after purchase (Avantis) or after receipt (BMR.ca and BMR Anctil). For an item you take home the same day, it’s the same date; for a delivery, the clock can start later. Second, **fees**: at Avantis, a return can cost up to 15% of the refunded amount, at the store’s discretion."
+     },
+     {
+      "type": "p",
+      "text": "These three documents don’t represent every BMR store. What they show is that you need to check the policy of the store where you bought. Avantis’s policy also says building materials go back to the lumber yard and hardware to the cash."
+     }
+    ]
+   },
+   {
+    "heading": "Returning a BMR.ca purchase",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "An item ordered on BMR.ca can be returned within 30 days of receiving it, at the nearest participating store. If you picked up the order in store, you can only return it to that store."
+     },
+     {
+      "type": "bullets",
+      "items": [
+       "Have your order number (in your BMR.ca account or the confirmation email), your invoice number and the reason for the return.",
+       "Missing, broken or defective product: contact BMR.ca within **3 days** of receiving the order.",
+       "Parcel delivery: if you can’t go to a store, an eligible item can be returned by courier. Truck delivery: a home pick-up can be scheduled, and charges may apply.",
+       "Refund to the same payment method as the purchase: allow 2 to 3 business days after an in-store return, 7 to 10 business days after shipping a Purolator return.",
+       "If the item just isn’t right for you, shipping isn’t refunded and the return is at your expense. If BMR.ca caused the problem, shipping is refunded and the return is free."
+      ]
+     },
+     {
+      "type": "p",
+      "text": "BMR.ca customer service can be reached at 1-888-504-0247, Monday to Friday, 8 a.m. to 5 p.m. (Eastern time)."
+     }
+    ]
+   },
+   {
+    "heading": "Which items can’t be returned at BMR?",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "BMR policies mainly exclude items that have been used, modified or prepared for you. The exact list varies by store:"
+     },
+     {
+      "type": "table",
+      "caption": "Non-refundable items under published BMR policies",
+      "headers": [
+       "Item",
+       "BMR.ca",
+       "Avantis",
+       "BMR Anctil"
+      ],
+      "rows": [
+       [
+        "Used product",
+        "No, unless defective",
+        "Must be in new condition",
+        "No"
+       ],
+       [
+        "Without original packaging",
+        "No",
+        "Must be in original packaging",
+        "No"
+       ],
+       [
+        "Tinted paint or stain",
+        "No",
+        "No (custom colours and mixes)",
+        "No"
+       ],
+       [
+        "Cut or made to measure",
+        "—",
+        "No (cut, trimmed, custom)",
+        "No"
+       ],
+       [
+        "Special order",
+        "—",
+        "No",
+        "No"
+       ],
+       [
+        "Outdoor equipment filled with gas (e.g. lawn mower)",
+        "No",
+        "—",
+        "No; no motorized products"
+       ],
+       [
+        "Chemicals (pesticides, pool chlorine, solvents)",
+        "—",
+        "No",
+        "—"
+       ],
+       [
+        "Some hygiene products (toilet seats, gloves, masks)",
+        "No",
+        "No",
+        "No"
+       ],
+       [
+        "Clearance or final sale, BMR gift cards",
+        "—",
+        "No",
+        "—"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "A dash means the policy doesn’t mention it, not that the item is returnable. Before placing a special order or having paint tinted, treat the purchase as final."
+     }
+    ]
+   },
+   {
+    "heading": "New snow blower: check it before the first fill-up",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "A gas snow blower or lawn mower can only be returned if it hasn’t been used. Under BMR.ca’s policy, once it has been filled with gas, it’s no longer refundable. BMR.ca’s policy excludes outdoor work equipment that has been filled with gasoline, such as a lawn mower, and BMR Anctil excludes all motorized products."
+     },
+     {
+      "type": "p",
+      "text": "Other large hardware stores follow the same logic, with a shorter window than their general one:"
+     },
+     {
+      "type": "table",
+      "caption": "Returning gas-powered equipment (snow blower, lawn mower): four policies",
+      "headers": [
+       "Store",
+       "Rule for gas-powered equipment",
+       "If it has been used"
+      ],
+      "rows": [
+       [
+        "BMR.ca",
+        "Not refundable once filled with gas",
+        "Not refundable, unless defective"
+       ],
+       [
+        "BMR Anctil",
+        "Motorized products not taken back",
+        "Not taken back"
+       ],
+       [
+        "Canadian Tire",
+        "30 days, new, unused, in original packaging",
+        "Repaired if possible at an authorized service centre, under the manufacturer’s warranty"
+       ],
+       [
+        "Home Depot",
+        "30 days from purchase, with receipt",
+        "Repaired if possible, under the manufacturer’s warranty"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "Before filling it up, check the model, the clearing width and the included accessories. After that, a problem is handled through the warranty, not a return: keep the invoice, it proves the purchase date. Compare with the [Canadian Tire](/en/blog/canadian-tire-return-policy) and [Home Depot](/en/blog/home-depot-return-policy) policies."
+     }
+    ]
+   },
+   {
+    "heading": "What a BMR receipt doesn’t tell you",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "A BMR receipt uses abbreviated French descriptions, with no brand and no warranty. Here is a real BMR receipt (Laval, April 18, 2026, 7 lines) scanned with ReFound:"
+     },
+     {
+      "type": "figure",
+      "src": "/images/blog/politique-retour-bmr/recu-reel-en.png",
+      "width": 1200,
+      "height": 675,
+      "alt": "A real BMR receipt: the line BALAI FEUILLES ACIER 65 identified as a Botaflora steel leaf rake with a 1-year manufacturer warranty; a bit identified with no warranty; one line not identified; return estimated by May 18, 2026",
+      "caption": "A real BMR receipt scanned with ReFound. Warranty when the information is available; manufacturer terms apply."
+     },
+     {
+      "type": "table",
+      "caption": "What the receipt says, and what ReFound found",
+      "headers": [
+       "Receipt line",
+       "Product identified by ReFound",
+       "Warranty found"
+      ],
+      "rows": [
+       [
+        "BALAI FEUILLES ACIER 65\"",
+        "Steel leaf rake, 24 tines, 65-inch fibreglass handle (Botaflora)",
+        "1 year, manufacturer: exchange or store credit for a defective product"
+       ],
+       [
+        "EMBOUT TOURNEVIS CARRE #2 3\"",
+        "Shockwave impact bit, square #2, 3 1/2 in. (Milwaukee)",
+        "No warranty listed"
+       ],
+       [
+        "EMBOUT TOURNEVIS PHILLIPS #33",
+        "Not identified: the line stays as printed",
+        "—"
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "text": "On this receipt, ReFound identified 3 of 7 lines; the other 4 are bits that stayed as printed. Nothing on the receipt says the rake has a 1-year warranty, ending April 18, 2027, long after the 30-day return window. ReFound estimated the return deadline as **May 18, 2026**, 30 days after purchase. That’s an estimate based on the general policy: the exact rule is still the BMR store’s."
+     },
+     {
+      "type": "callout",
+      "tone": "info",
+      "title": "Why the invoice matters so much at BMR",
+      "text": "Two of the three policies we compared require the original invoice for a refund. A thermal receipt fades over time; see [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do). Without the invoice, call the store before you go, and read our guide on [returns without a receipt](/en/blog/return-without-receipt)."
+     }
+    ]
+   },
+   {
+    "heading": "After 30 days: warranties take over",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "After 30 days, a BMR return is usually no longer possible, but a defective item is still covered by the manufacturer’s warranty and, in Quebec, by the legal warranty. Avantis’s policy says it plainly: if a product is defective, the manufacturer’s warranty applies “first and foremost.”"
+     },
+     {
+      "type": "h3",
+      "text": "The legal warranty in Quebec"
+     },
+     {
+      "type": "p",
+      "text": "In Quebec, the legal warranty is free and automatic: goods must be usable for their normal purpose, for a reasonable time based on the price paid, the contract and the conditions of use. You can deal with the merchant, the manufacturer or both, and according to the Office de la protection du consommateur, a merchant can’t require you to deal with the manufacturer. Éducaloi recommends notifying the merchant or manufacturer in writing as soon as possible."
+     },
+     {
+      "type": "h3",
+      "text": "The warranty of good working order"
+     },
+     {
+      "type": "p",
+      "text": "For some new appliances and electronics bought or leased on or after **October 5, 2026**, a warranty of good working order also applies, starting from delivery. It lasts 6 years for an air conditioner, heat pump, stove, refrigerator or freezer, and 5 years for a washer, dryer or dishwasher. The Quebec government suggests keeping proof of delivery: invoice, tracking email, delivery slip or receipt. Details are in our guide to the [warranty of good working order](/en/blog/quebec-warranty-of-good-working-order)."
+     },
+     {
+      "type": "p",
+      "text": "To know who to write to and what to include, see [how to make a warranty claim](/en/blog/how-to-make-a-warranty-claim)."
+     }
+    ]
+   },
+   {
+    "heading": "How to prepare a return at BMR",
+    "blocks": [
+     {
+      "type": "steps",
+      "items": [
+       "Note where you bought it: on BMR.ca, or at which BMR store.",
+       "Read that store’s policy, or call: time limit, fees, excluded items.",
+       "Count the 30 days from the right date: the purchase or the delivery of the order.",
+       "Bring the original invoice (or the order and invoice numbers for BMR.ca) and the payment card you used.",
+       "Put the item back in its original packaging, with the manuals and all parts.",
+       "If the purchase earned BMR 360 points, bring your BMR 360 card: at Avantis, those points are cancelled on a refund.",
+       "For building materials, ask where to bring them (at Avantis: the lumber yard)."
+      ]
+     },
+     {
+      "type": "p",
+      "text": "With ReFound, you scan the invoice when you get home: the app keeps a readable copy and shows an estimated return deadline based on the merchant’s general policy, to compare with your BMR store’s rule. At the counter, return mode shows the receipt barcode when it was detected, the payment method and the receipt photo. With ReFound Pro, a reminder arrives 3 days before the deadline. Accepting the return is always up to the store. Learn more about the [in-store returns app](/en/returns-app)."
+     }
+    ]
+   }
+  ],
+  "faqTitle": "Frequently asked questions",
+  "faq": [
+   {
+    "q": "How many days do you have to return an item at BMR?",
+    "a": "Published BMR policies give 30 days: from receipt of the product for a BMR.ca purchase, and depending on the store for an in-store purchase (for example, 30 days from purchase at Avantis Coopérative)."
+   },
+   {
+    "q": "Can you return something at BMR without the invoice?",
+    "a": "It’s risky. Avantis Coopérative says no refund or exchange is possible without the original invoice, and BMR Anctil requires the original invoice for a refund. Call your store before you go."
+   },
+   {
+    "q": "Does BMR charge return fees?",
+    "a": "It depends on the store. Avantis Coopérative reserves the right to charge 15% of the refunded amount; BMR Anctil says fees may apply. For BMR.ca, the return is at your expense if the item just isn’t right for you."
+   },
+   {
+    "q": "Can you return a snow blower at BMR?",
+    "a": "Not if it has been filled with gas: BMR.ca excludes outdoor equipment filled with gasoline, and BMR Anctil excludes motorized products. A defect is then handled through the manufacturer’s warranty or the legal warranty."
+   }
+  ],
+  "ctaTitle": "Keep your BMR invoices ready for a return or a warranty",
+  "ctaBody": "Scan the invoice when you get home: ReFound keeps a readable copy, estimates the return deadline and shows your items’ warranty when the information is available.",
+  "relatedTitle": "Keep reading",
+  "related": [
+   {
+    "label": "RONA return policy",
+    "href": "/en/blog/rona-return-policy",
+    "desc": "90 days, receipts and warranties."
+   },
+   {
+    "label": "Home Depot return policy",
+    "href": "/en/blog/home-depot-return-policy",
+    "desc": "Time limits, receipts and warranties."
+   },
+   {
+    "label": "Home reno receipts",
+    "href": "/en/home-reno-receipts-returns",
+    "desc": "Easy returns after the job."
+   },
+   {
+    "label": "Warranty claims",
+    "href": "/en/blog/how-to-make-a-warranty-claim",
+    "desc": "Who to contact, and until when."
+   }
+  ],
+  "sourcesTitle": "Sources",
+  "sources": [
+   {
+    "label": "Return and Exchange Policy – Online Purchases",
+    "publisher": "BMR",
+    "url": "https://bmr.ca/en/return-and-exchange-policy",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "About us",
+    "publisher": "Groupe BMR",
+    "url": "https://www.bmr.ca/en/about-us",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Politique de retour et remboursement BMR & Agrizone (in French)",
+    "publisher": "Avantis Coopérative",
+    "url": "https://www.avantis.coop/wp-content/uploads/2025/08/politique_retour-remboursement_bmr-agrizone-pronature_avantis2025.pdf",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Politique d'achat BMR Anctil (in French)",
+    "publisher": "BMR Anctil",
+    "url": "https://bmranctil.com/politique-achat-bmr-anctil/",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Retours (in French)",
+    "publisher": "Canadian Tire",
+    "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Politique de retour des marchandises (in French)",
+    "publisher": "Home Depot Canada",
+    "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Application of legal warranties",
+    "publisher": "Office de la protection du consommateur",
+    "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/applying-warranty/application-legal-warranties/",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Non-defective goods",
+    "publisher": "Office de la protection du consommateur",
+    "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/exchanging-layaways/refunding/goods/non-defective-good",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "New protections: legal warranty of good working order",
+    "publisher": "Office de la protection du consommateur",
+    "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "Des appareils qui marchent (October 13, 2026, in French)",
+    "publisher": "Government of Quebec",
+    "url": "https://www.quebec.ca/nouvelles/actualites/details/des-appareils-qui-marchent-decouvrez-une-nouvelle-garantie-gratuite-72648",
+    "accessed": "2026-11-20"
+   },
+   {
+    "label": "La garantie légale (in French)",
+    "publisher": "Éducaloi",
+    "url": "https://educaloi.qc.ca/capsules/la-garantie-legale/",
+    "accessed": "2026-11-20"
+   }
+  ],
+  "factCheckLabel": "Facts checked on November 20, 2026"
+ }
+}

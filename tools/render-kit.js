@@ -63,7 +63,20 @@ function flow(t) {
 const item = (slug, i) => { const r = KIT.find(x => x.slug === slug); return r.items[i]; };
 const row = (slug, i, badge, sub, color) => { const it = item(slug, i); return { printed: it.printed, name: it.name, badge, sub, color, photo: photo(it) }; };
 
+const nf = (r, name) => Object.assign(r, { name }); // ligne non enrichie : on l'affiche comme telle
 const JOBS = {
+  'politique-retour-bmr': {
+    file: 'recu-reel', slug: 'bmr',
+    fr: () => ({ eyebrow: 'Un reçu réel BMR · acheté le 18 avril 2026', title: 'Le reçu dit « BALAI FEUILLES ». L’app a trouvé une garantie d’un an.',
+      head: ['<b>Ligne imprimée</b> → <b>produit identifié par ReFound</b> → <b>garantie</b>', 'Retour estimé : <span class="g"><b>18 mai 2026</b></span>'],
+      rows: [row('bmr', 0, '1 an', 'fabricant · fin 18 avril 2027', 'var(--green)'), row('bmr', 4, 'Aucune', 'garantie indiquée', 'var(--muted)'),
+        nf(row('bmr', 2, 'Aucune', 'garantie indiquée', 'var(--muted)'), 'Non identifié : la ligne reste telle quelle'), row('bmr', 0, 'Retour', 'jusqu’au 18 mai 2026', 'var(--gold)')].map((r, i) => i === 3 ? Object.assign(r, { printed: 'Tout le reçu', name: '30 jours après l’achat, estimation de l’app', photo: null }) : r),
+      src: 'Données : reçu réel BMR (Laval) numérisé avec ReFound · garantie quand l’information est disponible, conditions du fabricant · la date limite réelle dépend du magasin BMR' }),
+    en: () => ({ eyebrow: 'A real BMR receipt · bought April 18, 2026', title: 'The receipt says “BALAI FEUILLES”. The app found a 1-year warranty.',
+      head: ['<b>Printed line</b> → <b>product identified by ReFound</b> → <b>warranty</b>', 'Estimated return deadline: <span class="g"><b>May 18, 2026</b></span>'],
+      rows: [row('bmr', 0, '1 year', 'manufacturer · ends Apr. 18, 2027', 'var(--green)'), row('bmr', 4, 'None', 'no warranty listed', 'var(--muted)'),
+        nf(row('bmr', 2, 'None', 'no warranty listed', 'var(--muted)'), 'Not identified: the line stays as printed'), row('bmr', 0, 'Return', 'until May 18, 2026', 'var(--gold)')].map((r, i) => i === 3 ? Object.assign(r, { printed: 'Whole receipt', name: '30 days after purchase, the app’s estimate', photo: null }) : r),
+      src: 'Data: real BMR receipt (Laval) scanned with ReFound · warranty when the information is available, manufacturer terms apply · the actual deadline depends on the BMR store' }) },
   'politique-retour-rona': {
     file: 'recu-reel', slug: 'rona-plus',
     fr: () => ({ eyebrow: 'Un reçu réel RONA+ · acheté le 19 avril 2026', title: 'Retour : 90 jours. Garantie : jusqu’à « à vie ».',
