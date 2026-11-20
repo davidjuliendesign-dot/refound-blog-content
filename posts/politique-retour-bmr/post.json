@@ -80,7 +80,7 @@
       "type": "table",
       "caption": "Politiques de retour BMR : ce qui change d’un magasin à l’autre",
       "headers": [
-       "",
+       "Critère",
        "BMR.ca (achats en ligne)",
        "Avantis Coopérative (magasins BMR)",
        "BMR Anctil"
@@ -565,7 +565,7 @@
       "type": "table",
       "caption": "BMR return policies: what changes from one store to another",
       "headers": [
-       "",
+       "Rule",
        "BMR.ca (online purchases)",
        "Avantis Coopérative (BMR stores)",
        "BMR Anctil"
