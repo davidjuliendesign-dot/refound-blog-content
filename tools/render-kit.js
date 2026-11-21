@@ -65,6 +65,22 @@ const row = (slug, i, badge, sub, color) => { const it = item(slug, i); return {
 
 const nf = (r, name) => Object.assign(r, { name }); // ligne non enrichie : on l'affiche comme telle
 const JOBS = {
+  'politique-retour-joe-fresh': {
+    file: 'recu-reel', slug: 'maxi',
+    fr: () => ({ eyebrow: 'Un reçu réel Maxi & Cie · acheté le 2 octobre 2026 · 44 lignes', title: 'Deux vêtements perdus dans une facture d’épicerie',
+      head: ['<b>Ligne imprimée</b> → <b>ce que ReFound en a tiré</b> → <b>à retenir</b>', 'Retour estimé : <span class="g"><b>1er novembre 2026</b></span>'],
+      rows: [nf(row('maxi', 39, '29,00 $', 'ni marque, ni taille, ni couleur', 'var(--gold)'), 'Non identifié : la ligne reste telle quelle'),
+        nf(row('maxi', 40, '16,94 $', 'ni marque, ni taille, ni couleur', 'var(--gold)'), 'Non identifié : la ligne reste telle quelle'),
+        row('maxi', 28, 'Épicerie', 'identifié, avec sa photo', 'var(--muted)'),
+        Object.assign(row('maxi', 0, 'Retour', 'jusqu’au 1er novembre 2026', 'var(--green)'), { printed: 'Tout le reçu', name: '30 jours après l’achat, estimation de l’app', photo: null })],
+      src: 'Données : reçu réel Maxi & Cie (Gatineau) numérisé avec ReFound · l’app estime la date limite selon la politique générale du marchand ; elle ne tient pas compte de la prolongation des Fêtes de Joe Fresh' }),
+    en: () => ({ eyebrow: 'A real Maxi & Cie receipt · bought October 2, 2026 · 44 lines', title: 'Two pieces of clothing lost in a grocery receipt',
+      head: ['<b>Printed line</b> → <b>what ReFound got from it</b> → <b>what to note</b>', 'Estimated return deadline: <span class="g"><b>November 1, 2026</b></span>'],
+      rows: [nf(row('maxi', 39, '$29.00', 'no brand, size or colour', 'var(--gold)'), 'Not identified: the line stays as printed'),
+        nf(row('maxi', 40, '$16.94', 'no brand, size or colour', 'var(--gold)'), 'Not identified: the line stays as printed'),
+        row('maxi', 28, 'Grocery', 'identified, with its photo', 'var(--muted)'),
+        Object.assign(row('maxi', 0, 'Return', 'until November 1, 2026', 'var(--green)'), { printed: 'Whole receipt', name: '30 days after purchase, the app’s estimate', photo: null })],
+      src: 'Data: real Maxi & Cie receipt (Gatineau) scanned with ReFound · the app estimates the deadline from the merchant’s general policy; it does not include Joe Fresh’s holiday extension' }) },
   'politique-retour-bmr': {
     file: 'recu-reel', slug: 'bmr',
     fr: () => ({ eyebrow: 'Un reçu réel BMR · acheté le 18 avril 2026', title: 'Le reçu dit « BALAI FEUILLES ». L’app a trouvé une garantie d’un an.',

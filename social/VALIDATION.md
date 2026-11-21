@@ -100,3 +100,11 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - Une ligne exacte mais neutre (« sa politique n'en parle pas ») n'est pas comprise : dire quoi faire (« aucun ajustement annoncé · demandez au comptoir »).
 - Fin qui marche : un geste concret dans l'app (« Tapez “Best Buy” : le reçu sort ») plutôt qu'une description.
 - Encore demandé : un montant en dollars à la diapo 1 et une capture de l'app (recherche) ; Costco et RONA.
+
+## Leçons du cinquième essai (21 novembre 2026, `politique-retour-joe-fresh` : 5 / 3 / 5 → 7,5 / 6 / 8)
+- **Le reçu dessiné avec la ligne surlignée en diapo 1** (« Un chandail acheté chez Maxi? Il est caché ici. ») a arrêté les trois, alors qu'une accroche texte sur fond noir ressemblait à une pub. Expliquer le code juste en dessous (« il s'appelle “SW HOODY” »).
+- **Une diapo de calculs (77, 58, 30 jours) après la date-choc répète la diapo 2** : la fusionner (« Acheté au Vendredi fou (27 nov.)? 58 jours au lieu de 30 »). Toujours dater le Vendredi fou.
+- **« Peu importe où vous l'avez acheté » n'est pas compris** ; « Acheté chez Maxi, rapporté chez Loblaws? C'est accepté » l'est.
+- **Une réserve (« Provigo : appelez avant ») sur une diapo fait douter** : la mettre dans la légende.
+- **Le geste de fin doit dire où** : « Dans l'app, tapez “Maxi” » (et non « Au comptoir, tapez… », compris comme la caisse).
+- Samuel (26 ans, TikTok) reste sous 7 sur un sujet d'épicerie familiale : ce n'est pas sa cible.
