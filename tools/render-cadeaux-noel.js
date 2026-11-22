@@ -63,22 +63,24 @@ const C = {
       ['Home Depot', 'Téléviseur, ordinateur · 30 jours', '2026-12-01', '2026-12-31', '31 déc.'],
       ['Decathlon', 'Sans compte membre · 30 jours', '2026-12-01', '2026-12-31', '31 déc.'],
       ['Best Buy', 'Prolongation des Fêtes', '2026-12-01', '2027-01-10', '10 janv.', BB],
+      ['Walmart', 'Électronique · prolongation des Fêtes', '2026-12-01', '2027-01-24', '24 janv.'],
       ['Sports Experts', 'Prolongation des Fêtes', '2026-12-01', '2027-01-10', '10 janv.', SE],
       ['Canadian Tire, Home Depot', 'La plupart des articles · 90 jours', '2026-12-01', '2027-03-01', '1er mars']],
     axis: AX, marker: ['2026-12-25', '25 déc.'],
     ticks: [['2026-12-01', '1er déc.'], ['2027-01-01', '1er janv.'], ['2027-02-01', '1er févr.'], ['2027-03-01', '1er mars']],
-    src: 'Calcul ReFound d’après les politiques officielles · vérifié le 12 novembre 2026 · à l’échelle' },
+    src: 'Calcul ReFound d’après les politiques officielles · vérifié les 12 et 22 novembre 2026 · à l’échelle' },
   en: { eyebrow: 'Gift bought December 1, 2026', title: 'How long do you have to return it?',
     lr: 'Return accepted', lb: 'No in-store returns', lm: 'Christmas',
     rows: [['Canadian Tire', 'Electronics · 30 days', '2026-12-01', '2026-12-31', 'Dec 31'],
       ['Home Depot', 'TV, computer · 30 days', '2026-12-01', '2026-12-31', 'Dec 31'],
       ['Decathlon', 'No membership · 30 days', '2026-12-01', '2026-12-31', 'Dec 31'],
       ['Best Buy', 'Holiday extension', '2026-12-01', '2027-01-10', 'Jan 10', BB],
+      ['Walmart', 'Electronics · holiday extension', '2026-12-01', '2027-01-24', 'Jan 24'],
       ['Sports Experts', 'Holiday extension', '2026-12-01', '2027-01-10', 'Jan 10', SE],
       ['Canadian Tire, Home Depot', 'Most items · 90 days', '2026-12-01', '2027-03-01', 'Mar 1']],
     axis: AX, marker: ['2026-12-25', 'Dec 25'],
     ticks: [['2026-12-01', 'Dec 1'], ['2027-01-01', 'Jan 1'], ['2027-02-01', 'Feb 1'], ['2027-03-01', 'Mar 1']],
-    src: 'ReFound calculation based on official policies · checked November 12, 2026 · to scale' }
+    src: 'ReFound calculation based on official policies · checked November 12 and 22, 2026 · to scale' }
 };
 
 // Couverture sans texte dépendant de la langue : boîte-cadeau, reçu-cadeau sans prix, mini-calendrier 25.12 → 10.01

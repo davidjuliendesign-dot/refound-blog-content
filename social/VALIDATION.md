@@ -108,3 +108,11 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **Une réserve (« Provigo : appelez avant ») sur une diapo fait douter** : la mettre dans la légende.
 - **Le geste de fin doit dire où** : « Dans l'app, tapez “Maxi” » (et non « Au comptoir, tapez… », compris comme la caisse).
 - Samuel (26 ans, TikTok) reste sous 7 sur un sujet d'épicerie familiale : ce n'est pas sa cible.
+
+## Leçons du sixième essai (22 novembre 2026, `politique-retour-walmart` : 4 / 4,5 / 5,5 → 7,5 / 7 / 8)
+- **Un produit trop précis en accroche (« une console ») exclut** : Julie et Gilles ont décroché. Nommer une catégorie large mais exacte (« votre électronique »).
+- **Une accroche plus large que la règle (« vos achats ») est jugée survendue** par les trois quand la diapo suivante restreint : l'accroche doit déjà porter la condition principale.
+- **Une contradiction entre deux diapos (« non ouvert » / « cadeau déballé ») ruine la crédibilité** juste avant l'app.
+- **Les exclusions en jargon (« Marché électronique », « postpayé ») ne sont pas comprises** : « un vendeur tiers sur walmart.ca », « cellulaire avec forfait », et dire explicitement « en magasin : oui ».
+- **« Le reçu, il sera où? » ne fait pas peur** (« dans mon tiroir ») ; **« le papier d'un reçu pâlit »** oui, et il prépare la fin (« les garde lisibles »).
+- **Fin : le geste d'abord** (« Prenez vos reçus en photo en rentrant »), l'app ensuite.

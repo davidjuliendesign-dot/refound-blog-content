@@ -12,12 +12,13 @@
 // v6 (David) : rester sur un sujet, titres génériques (plus de Canadian Tire à la diapo 1 ni d'IKEA en titre).
 // v7 (David) : pas de surtitres, texte réduit au minimum.
 // Finale ronde 3 : Julie 8, Samuel 7,5, Gilles 9. Reste : aucune capture d'écran de l'app (demander à David une vraie capture du mode retour).
+// 22 nov. 2026 : Walmart corrigé (la page « Holiday Return Policy » affiche maintenant « January 24, 2027 »).
 module.exports = {
   fr: { src: 'Sources : politiques de retour officielles, nov. 2026 · calcul ReFound', slides: [
     { type: 'stat', stat: '2 jours', title: 'après Noël pour retourner un cadeau électronique', text: 'Dans plusieurs magasins :<br><b>27&nbsp;nov. + 30&nbsp;jours = 27&nbsp;déc.</b>' },
     { type: 'list', plain: true, title: 'Acheté le 27 nov. : à rapporter avant le…', items: [
       ['Canadian Tire · Home Depot', 'Électronique : 27 déc. · Le reste : 25 févr.'],
-      ['Walmart', 'Électronique : 27 déc. · Le reste : 25 févr.'],
+      ['Walmart', 'Électronique : 24 janv. · Le reste : 25 févr.'],
       ['RONA', 'Électroménagers : 27 déc. · Le reste : 25 févr.'],
       ['Costco', 'Électronique : 25 févr.'],
       ['Best Buy', '10 janv. · Aucun retour en magasin le 26 déc.']] },
@@ -30,7 +31,7 @@ module.exports = {
     { type: 'stat', stat: '2 days', title: 'after Christmas to return an electronics gift', text: 'At several stores:<br><b>Nov.&nbsp;27 + 30&nbsp;days = Dec.&nbsp;27</b>' },
     { type: 'list', plain: true, title: 'Bought Nov. 27: bring it back by…', items: [
       ['Canadian Tire · Home Depot', 'Electronics: Dec. 27 · Everything else: Feb. 25'],
-      ['Walmart', 'Electronics: Dec. 27 · Everything else: Feb. 25'],
+      ['Walmart', 'Electronics: Jan. 24 · Everything else: Feb. 25'],
       ['RONA', 'Appliances: Dec. 27 · Everything else: Feb. 25'],
       ['Costco', 'Electronics: Feb. 25'],
       ['Best Buy', 'Jan. 10 · No in-store returns on Dec. 26']] },
