@@ -116,3 +116,10 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **Les exclusions en jargon (« Marché électronique », « postpayé ») ne sont pas comprises** : « un vendeur tiers sur walmart.ca », « cellulaire avec forfait », et dire explicitement « en magasin : oui ».
 - **« Le reçu, il sera où? » ne fait pas peur** (« dans mon tiroir ») ; **« le papier d'un reçu pâlit »** oui, et il prépare la fin (« les garde lisibles »).
 - **Fin : le geste d'abord** (« Prenez vos reçus en photo en rentrant »), l'app ensuite.
+
+## Leçons du septième essai (23 novembre 2026)
+- **Reitmans** (`politique-retour-reitmans`, non planifié) : 5,5 / 4 / 5. La règle du ,97 $ (diapo 2) est jugée « LE truc à envoyer », mais aucune persona ne magasine chez Reitmans : un magasin de vêtements pour femmes ne rejoint pas Gilles ni Samuel. La diapo « deux T-Shirts, impossible de savoir lequel » n'a pas été comprise (le prix dit lequel ; le vrai problème, quel morceau dans le sac, n'était pas montré).
+- **Canadian Tire, Vendredi fou** (`politique-retour-canadian-tire`) : 7,5 / 7 / 7,5 → 8,5 / 8 / 8,5. Bon magasin, bon moment, exemples concrets (démarreur à distance, écouteurs, télé). Les trois ont demandé que les jours de la diapo 1 (14, 30, 90) se retrouvent à côté des dates de la diapo 2 (« 14 jours → 11 déc. »).
+- **« Aucune prolongation des Fêtes » est une non-information** pour qui ne savait pas qu'il pouvait y en avoir une : remplacée par « Il brise après la date limite? » (garantie légale, le reçu prouve la date et le prix), la diapo la plus forte pour Gilles et Samuel.
+- **« Sans reçu : recherche avec votre carte » affaiblit la fin** (« alors je n'ai pas besoin de l'app ») : préciser « carte de crédit ou de débit », et ne pas en faire un argument.
+- **Le pied de page doit citer la source de chaque diapo** : la garantie légale vient de l'OPC, pas du marchand (relevé par les trois).

@@ -117,6 +117,18 @@ const JOBS = {
       rows: [row('dollarama', 12, 'None', 'no warranty listed', 'var(--muted)'), row('dollarama', 5, 'None', 'no warranty listed', 'var(--muted)'),
         row('dollarama', 8, 'None', 'no warranty listed', 'var(--muted)'), row('dollarama', 13, 'None', 'no warranty listed', 'var(--muted)'), row('dollarama', 6, 'None', 'no warranty listed', 'var(--muted)')],
       src: 'Data: real Dollarama receipt scanned with ReFound · September 17 = 30 days after purchase, Dollarama’s window to report a defective or damaged product (dollarama.com, checked November 19, 2026)' }) },
+  'politique-retour-reitmans': {
+    file: 'recu-reel', slug: 'reitmans',
+    fr: () => ({ eyebrow: 'Un reçu réel Reitmans · acheté le 16 septembre 2026 · 4 vêtements', title: 'Deux lignes « T-Shirts ». Une seule peut être rapportée.',
+      head: ['<b>Ligne imprimée</b> → <b>produit identifié par ReFound</b> → <b>retour</b>', 'Retour estimé : <span class="g"><b>16 octobre 2026</b></span>'],
+      rows: [row('reitmans', 0, 'Vente finale', '14,97 $ : prix en ,97', 'var(--gold)'), row('reitmans', 1, '30 jours', '14,99 $ · retournable', 'var(--green)'),
+        row('reitmans', 2, '30 jours', '14,99 $ · retournable', 'var(--green)'), row('reitmans', 3, '30 jours', '34,99 $ · retournable', 'var(--green)')],
+      src: 'Données : reçu réel Reitmans (Gatineau) numérisé avec ReFound · vente finale selon la politique Reitmans (achat en magasin, prix se terminant par ,97 $), vérifiée le 23 novembre 2026 · l’app estime 30 jours et ne connaît pas cette règle' }),
+    en: () => ({ eyebrow: 'A real Reitmans receipt · bought September 16, 2026 · 4 items', title: 'Two “T-Shirts” lines. Only one can go back.',
+      head: ['<b>Printed line</b> → <b>product identified by ReFound</b> → <b>return</b>', 'Estimated return deadline: <span class="g"><b>October 16, 2026</b></span>'],
+      rows: [row('reitmans', 0, 'Final sale', '$14.97: price ends in .97', 'var(--gold)'), row('reitmans', 1, '30 days', '$14.99 · returnable', 'var(--green)'),
+        row('reitmans', 2, '30 days', '$14.99 · returnable', 'var(--green)'), row('reitmans', 3, '30 days', '$34.99 · returnable', 'var(--green)')],
+      src: 'Data: real Reitmans receipt (Gatineau) scanned with ReFound; product names as listed in French by the merchant · final sale under Reitmans’ policy (in-store purchase, price ending in $.97), checked November 23, 2026 · the app estimates 30 days and does not know this rule' }) },
   'politique-retour-walmart': {
     file: 'recu-reel', slug: 'walmart',
     fr: () => ({ eyebrow: 'Un reçu réel Walmart · acheté le 26 mai 2026', title: 'Le retour finit en août. La garantie, l’an prochain.',
