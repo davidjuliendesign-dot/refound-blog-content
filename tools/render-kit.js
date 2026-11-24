@@ -140,7 +140,24 @@ const JOBS = {
       head: ['<b>Printed line</b> → <b>product identified by ReFound</b> → <b>warranty shown</b>', 'Estimated return deadline: <span class="g"><b>August 24, 2026</b></span>'],
       rows: [row('walmart', 1, '1 year', 'manufacturer · ends May 26, 2027', 'var(--green)'), row('walmart', 2, '1 year', 'manufacturer · ends May 26, 2027', 'var(--green)'),
         row('walmart', 4, '1 year', 'manufacturer · ends May 26, 2027', 'var(--green)'), row('walmart', 6, 'Return', 'until August 24, 2026', 'var(--gold)')],
-      src: 'Data: real Walmart receipt scanned with ReFound (warranties when the information is available; manufacturer terms apply) · deadline from the general 90-day policy' }) }
+      src: 'Data: real Walmart receipt scanned with ReFound (warranties when the information is available; manufacturer terms apply) · deadline from the general 90-day policy' }) },
+  // Princess Auto : pas de garantie dans le kit ; badge = prix payé (sert à juger la « durée raisonnable » de la garantie légale).
+  'politique-retour-princess-auto': {
+    file: 'recu-reel', slug: 'princess-auto',
+    fr: () => ({ eyebrow: 'Un reçu réel Princess Auto · acheté le 14 septembre 2025 · 9 lignes', title: '« BOX AMMO » : ce n’est pas une boîte de munitions',
+      head: ['<b>Ligne imprimée</b> → <b>produit identifié par ReFound</b> → <b>prix payé</b>', 'Magasin de Kanata (Ontario)'],
+      rows: [row('princess-auto', 0, '17,99 $', 'caisse, pas des munitions', 'var(--gold)'), row('princess-auto', 5, '4,49 $', 'Powerfist', 'var(--green)'),
+        row('princess-auto', 6, '19,99 $', 'Pro.Point', 'var(--green)'), row('princess-auto', 3, '9,99 $', 'identifié', 'var(--green)'),
+        nf(row('princess-auto', 1, '4,44 $', 'ligne non identifiée', 'var(--muted)'), 'Non identifiée : la ligne reste la seule description')],
+      src: 'Données : reçu réel Princess Auto numérisé avec ReFound, noms des fiches françaises du marchand · ventes de munitions définitives selon la FAQ Princess Auto, vérifiée le 24 novembre 2026 · le prix payé compte pour la garantie légale (OPC)' }),
+    en: () => ({ eyebrow: 'A real Princess Auto receipt · bought September 14, 2025 · 9 lines', title: '“BOX AMMO”: it’s not a box of ammunition',
+      head: ['<b>Printed line</b> → <b>product identified by ReFound</b> → <b>price paid</b>', 'Store in Kanata, Ontario'],
+      rows: [Object.assign(row('princess-auto', 0, '$17.99', 'a crate, not ammo', 'var(--gold)'), { name: 'Large poly ammo/utility storage crate' }),
+        Object.assign(row('princess-auto', 5, '$4.49', 'Powerfist', 'var(--green)'), { name: 'Hand-held salt/seed spreader' }),
+        Object.assign(row('princess-auto', 6, '$19.99', 'Pro.Point', 'var(--green)'), { name: 'Dripless caulking gun' }),
+        Object.assign(row('princess-auto', 3, '$9.99', 'identified', 'var(--green)'), { name: 'Stretch wrap, 5 in x 1,000 ft' }),
+        nf(row('princess-auto', 1, '$4.44', 'line not identified', 'var(--muted)'), 'Not identified: the line is the only description')],
+      src: 'Data: real Princess Auto receipt scanned with ReFound; product names translated from the merchant’s French pages · ammunition sales are final per the Princess Auto FAQ, checked November 24, 2026 · price paid matters for Quebec’s legal warranty (OPC)' }) }
 };
 
 (async () => {

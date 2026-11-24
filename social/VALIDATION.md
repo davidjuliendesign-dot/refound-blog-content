@@ -123,3 +123,10 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **« Aucune prolongation des Fêtes » est une non-information** pour qui ne savait pas qu'il pouvait y en avoir une : remplacée par « Il brise après la date limite? » (garantie légale, le reçu prouve la date et le prix), la diapo la plus forte pour Gilles et Samuel.
 - **« Sans reçu : recherche avec votre carte » affaiblit la fin** (« alors je n'ai pas besoin de l'app ») : préciser « carte de crédit ou de débit », et ne pas en faire un argument.
 - **Le pied de page doit citer la source de chaque diapo** : la garantie légale vient de l'OPC, pas du marchand (relevé par les trois).
+
+## Leçons du huitième essai (24 novembre 2026, `garantie-bon-fonctionnement-quebec` : v1 outils 5 / 4,5 / 7 → v3 8 / 7,5 / 8,5)
+- **« Outil » et Princess Auto excluent Julie et Samuel** (« c'est mon chum qui achète les outils »). La même idée (le recours après le délai de retour) passe chez les trois avec une télé et une console du Vendredi fou.
+- **Un chiffre précis bat une règle floue** : « 4 ans de réparation gratuite pour une télé » arrête les trois ; « durée raisonnable » et l'exemple du marteau de 100 $ ont été jugés vagues. Garder la durée raisonnable comme dernière ligne d'une liste, pas comme diapo.
+- **Une date de début (« depuis le 5 octobre 2026 ») inquiète ceux qui ont acheté avant** : dire tout de suite ce qui s'applique alors (« Acheté avant? La durée raisonnable s'applique »).
+- **Une diapo de magasins seule n'apprend rien** : les magasins vont en sous-ligne de l'étape « Allez au magasin ».
+- Encore demandé par les trois : un visuel autre que du texte sur fond noir (reçu effacé, capture de l'app à la dernière diapo).

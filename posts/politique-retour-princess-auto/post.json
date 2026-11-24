@@ -1,0 +1,843 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-princess-auto",
+  "frPath": "/blog/politique-retour-princess-auto",
+  "enPath": "/en/blog/princess-auto-return-policy",
+  "datePublished": "2026-11-24T09:00:00-05:00",
+  "dateModified": "2026-11-24T09:00:00-05:00",
+  "lastFactCheck": "2026-11-24",
+  "cover": {
+    "src": "/images/blog/politique-retour-princess-auto/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "recu-reel-fr.png",
+    "recu-reel-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour Princess Auto : délai, reçu, garanties | ReFound",
+    "metaDescription": "Princess Auto ne publie aucun délai de retour en jours. Sa promesse, le retour sans reçu, les munitions et la garantie légale au Québec.",
+    "keywords": "politique de retour Princess Auto, retour Princess Auto sans reçu, délai de retour Princess Auto, Promesse de SERVICE ROYAL, ajustement de prix Princess Auto, reçu Princess Auto, garantie légale outils Québec",
+    "category": "Guide",
+    "date": "24 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour Princess Auto",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour Princess Auto : délai, reçu et garanties",
+    "card": {
+      "title": "Politique de retour Princess Auto : délai, reçu et garanties (2026)",
+      "subtitle": "Aucun délai en jours, un retour possible sans reçu, et la garantie légale pour vos outils. Avec un vrai reçu Princess Auto."
+    },
+    "coverAlt": "Reçu de caisse avec une ligne surlignée, relié à un numéro de téléphone masqué et à un crochet de validation",
+    "intro": [
+      "Réponse courte : Princess Auto ne publie aucun délai de retour en jours. Sa Promesse de SERVICE ROYAL dit : « Aucune vente n'est définitive sans votre pleine satisfaction. » Le magasin s'engage à réparer, remplacer ou rembourser un produit jusqu'à ce que vous soyez satisfait, et accepte les retours dans tous ses magasins. Les munitions, elles, sont en vente finale.",
+      "Le reçu n'est pas toujours indispensable : si vous avez donné votre nom et votre numéro de téléphone à la caisse, ou si vous avez acheté en ligne, le magasin peut retrouver l'achat. Ce guide explique ce que disent les pages officielles, ce qu'elles ne disent pas, et ce qui protège encore un outil qui brise des mois plus tard au Québec. Nous l'illustrons avec un vrai reçu Princess Auto, ligne par ligne."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de Princess Auto?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La politique de retour de Princess Auto tient en une promesse : « Aucune vente n'est définitive sans votre pleine satisfaction. » La page de questions fréquentes la présente comme « votre garantie de Princess Auto » et précise : « Nous réparerons, remplacerons et rembourserons tout produit jusqu'à ce que vous soyez satisfait. »"
+          },
+          {
+            "type": "p",
+            "text": "Princess Auto compte plus de 55 magasins au Canada, dont plusieurs au Québec. Voici ce que ses pages officielles confirment, en français et en anglais :"
+          },
+          {
+            "type": "table",
+            "caption": "Ce que disent les pages officielles de Princess Auto (consultées le 24 novembre 2026)",
+            "headers": [
+              "Question",
+              "Réponse officielle"
+            ],
+            "rows": [
+              [
+                "Délai de retour en jours",
+                "Aucun délai publié"
+              ],
+              [
+                "Où rapporter un article",
+                "Dans tous les magasins Princess Auto"
+              ],
+              [
+                "Solution offerte",
+                "Réparation, remplacement ou remboursement, jusqu'à votre satisfaction"
+              ],
+              [
+                "Sans reçu",
+                "Le magasin peut rechercher l'achat s'il est associé à votre nom et à votre numéro de téléphone, ou s'il a été fait en ligne ou par téléphone"
+              ],
+              [
+                "Munitions",
+                "Vente définitive : aucun retour ni échange"
+              ],
+              [
+                "Commande en ligne erronée ou endommagée",
+                "Appeler le Centre d'appels national au 1-800-665-8685"
+              ],
+              [
+                "Article en solde après l'achat",
+                "Ajustement de prix dans les 30 jours, par téléphone (page offerte en anglais)"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Y a-t-il une date limite pour retourner un article chez Princess Auto?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Aucune date limite n'est publiée. Ni la page Expédition et retours, ni la foire aux questions, ni la page Notre historique ne donnent un nombre de jours, en français comme en anglais."
+          },
+          {
+            "type": "p",
+            "text": "Cela ne veut pas dire que tout est repris sans condition, pour toujours. La promesse porte sur votre satisfaction, et c'est le magasin qui propose la solution : une réparation, un remplacement ou un remboursement. Les pages ne précisent pas non plus ce qui arrive à un article ouvert, usé ou acheté il y a longtemps. Dans ces cas, appelez votre magasin avant de vous déplacer."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Une promesse, pas un délai écrit",
+            "text": "La plupart des grandes chaînes fixent un délai en jours, par exemple [Canadian Tire](/blog/politique-retour-canadian-tire). Princess Auto mise plutôt sur une promesse de satisfaction. C'est plus souple, mais moins prévisible : rapportez un article qui ne vous convient pas le plus tôt possible."
+          }
+        ]
+      },
+      {
+        "heading": "Peut-on faire un retour chez Princess Auto sans reçu?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Oui, si le magasin peut retrouver l'achat. Princess Auto écrit que si vous avez égaré votre reçu, « nous n'avons qu'à rechercher vos renseignements et l'achat concerné pour traiter le retour ou l'échange »."
+          },
+          {
+            "type": "p",
+            "text": "Cette recherche fonctionne pour un achat dit « authentifié » :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "un achat fait en ligne;",
+              "un achat fait par le Centre d'appels national;",
+              "un achat en magasin, si vous avez donné votre nom et votre numéro de téléphone au moment de payer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Tout achat ainsi fait est associé à votre compte, avec le nom, l'adresse postale, le numéro de téléphone et le courriel que vous avez fournis. Si vous avez payé sans donner ces renseignements, la page ne décrit pas d'autre solution : le reçu reste alors votre seule preuve d'achat."
+          },
+          {
+            "type": "p",
+            "text": "C'est la règle générale au Canada : un reçu de vente est presque toujours nécessaire pour qu'un remboursement ou un échange soit accepté, rappelle le Bureau de la consommation du gouvernement fédéral. Voyez aussi notre guide sur le [retour sans reçu](/blog/retour-sans-recu)."
+          }
+        ]
+      },
+      {
+        "heading": "Un vrai reçu Princess Auto, ligne par ligne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu Princess Auto imprime des descriptions courtes, en majuscules et en anglais. Voici un reçu réel d'un magasin de Kanata (Ontario), daté du 14 septembre 2025 : 9 lignes, 179,37 $ taxes comprises, numérisé avec ReFound."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-princess-auto/recu-reel-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Lignes d'un reçu réel Princess Auto et produits identifiés par ReFound : BOX AMMO UTILITY CRATE POLY devient une grande caisse de rangement, SPREADER HAND-HELD SALT/SEEDS un épandeur portatif Powerfist, GUN CAULKING un pistolet à calfeutrer Pro.Point; GOGGLE SAFETY CLEAR reste non identifiée",
+            "caption": "Un reçu réel Princess Auto numérisé avec ReFound. Les noms de produits sont ceux des fiches françaises du marchand."
+          },
+          {
+            "type": "table",
+            "caption": "Ce que dit le reçu, et ce que ReFound a trouvé",
+            "headers": [
+              "Ligne imprimée",
+              "Produit identifié par ReFound",
+              "Prix payé"
+            ],
+            "rows": [
+              [
+                "BOX AMMO UTILITY CRATE POLY",
+                "Grande caisse de rangement pour munitions/polyvalente en poly",
+                "17,99 $"
+              ],
+              [
+                "SPREADER HAND-HELD SALT/SEEDS",
+                "Épandeur portatif de sel/graines (Powerfist)",
+                "4,49 $"
+              ],
+              [
+                "GUN CAULKING DRPLSS MTL 9IN P",
+                "Pistolet à calfeutrer anti-goutte (Pro.Point)",
+                "19,99 $"
+              ],
+              [
+                "WRAP 5IN X 1000FT STRETCH",
+                "Film étirable, 5 po x 1 000 pi",
+                "9,99 $"
+              ],
+              [
+                "PAINT WHITEGLOSS RUST 3.78L T",
+                "Peinture antirouille blanc brillant, 3,78 L (Tremclad)",
+                "84,99 $"
+              ],
+              [
+                "GOGGLE SAFETY CLEAR",
+                "Non identifiée",
+                "4,44 $"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Trois constats ressortent de ce reçu."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**« BOX AMMO » n'est pas une boîte de munitions.** C'est une caisse de rangement en plastique. La vente finale de Princess Auto vise les munitions; une ligne mal lue peut quand même semer le doute au comptoir. Le nom complet du produit règle la question.",
+              "**ReFound n'identifie pas tout.** Les lunettes de sécurité et un support en fer n'ont pas été associés à une fiche produit : la ligne imprimée reste alors la seule description.",
+              "**Le reçu ne dit rien de la promesse ni de la garantie.** Rien n'indique que ces articles peuvent encore être réparés, remplacés ou remboursés plus tard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Sur ce reçu de test, ReFound a affiché une date limite de retour estimée au 14 octobre 2025, soit 30 jours après l'achat. Princess Auto ne publiant aucun délai en jours, voyez cette date comme une échéance prudente pour agir, pas comme la règle du magasin."
+          }
+        ]
+      },
+      {
+        "heading": "Ajustement de prix : une baisse dans les 30 jours",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Si un article que vous avez acheté passe en solde dans les 30 jours, Princess Auto vous invite à appeler son Centre d'appels national au 1-800-665-8685 pour obtenir un ajustement de prix. La règle figure sur sa page d'information sur les commandes, offerte en anglais seulement."
+          },
+          {
+            "type": "p",
+            "text": "Avec les soldes du Vendredi fou (27 novembre 2026), un outil acheté au début de novembre peut être concerné. Ayez le reçu sous la main, ou assurez-vous que l'achat est associé à votre nom et à votre numéro. Pour comparer avec les autres magasins, voyez notre guide sur l'[ajustement de prix](/blog/ajustement-de-prix)."
+          }
+        ]
+      },
+      {
+        "heading": "Après la promesse : la garantie légale pour vos outils au Québec",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Au Québec, un outil acheté chez Princess Auto est aussi protégé par la garantie légale de la Loi sur la protection du consommateur. Elle s'applique automatiquement et sans frais, « même si le commerçant ou le fabricant dit vendre l'article sans garantie », selon l'Office de la protection du consommateur (OPC)."
+          },
+          {
+            "type": "p",
+            "text": "Pour les outils, l'OPC décrit trois garanties prévues par la loi :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "la garantie d'aptitude du bien à son usage : l'outil doit servir à l'usage auquel il est destiné;",
+              "la garantie de durée raisonnable;",
+              "la garantie contre les vices cachés."
+            ]
+          },
+          {
+            "type": "h3",
+            "text": "Combien de temps dure la garantie légale?"
+          },
+          {
+            "type": "p",
+            "text": "Il n'y a pas de durée fixe. L'outil doit avoir « une durée raisonnable, compte tenu du prix payé, du contrat et des conditions d'utilisation ». L'OPC donne l'exemple d'un marteau : on n'attend pas la même durée d'un marteau de 30 $ que d'un marteau de 100 $."
+          },
+          {
+            "type": "p",
+            "text": "C'est là que le reçu compte : il prouve le prix payé et la date d'achat, les deux éléments qui servent à juger si l'outil a duré assez longtemps. Sur le reçu ci-dessus, le gallon de peinture à 84,99 $ et l'épandeur à 4,49 $ ne seront pas jugés de la même façon."
+          },
+          {
+            "type": "h3",
+            "text": "À qui s'adresser?"
+          },
+          {
+            "type": "p",
+            "text": "Vous pouvez faire vos démarches auprès du commerçant, du fabricant ou des deux, et « un commerçant ne peut pas vous obliger à vous adresser au fabricant ». La solution peut être une réparation gratuite, un échange ou un remboursement. Voyez notre guide sur la [réclamation de garantie](/blog/reclamation-garantie)."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "La garantie de bon fonctionnement ne vise pas les outils",
+            "text": "Depuis le 5 octobre 2026, une nouvelle garantie de bon fonctionnement couvre certains biens neufs : cuisinière, réfrigérateur, congélateur, climatiseur, thermopompe, laveuse, sécheuse, lave-vaisselle, téléviseur, ordinateur, console, cellulaire et tablette. Les outils n'en font pas partie : pour eux, c'est la garantie légale qui s'applique. Détails dans notre guide sur la [garantie de bon fonctionnement](/blog/garantie-bon-fonctionnement-quebec)."
+          },
+          {
+            "type": "h3",
+            "text": "La garantie du fabricant"
+          },
+          {
+            "type": "p",
+            "text": "Un fabricant ou un commerçant peut aussi offrir une garantie conventionnelle. Si aucun document ne la décrit, l'OPC conseille d'en faire inscrire les détails sur votre facture ou dans votre contrat."
+          }
+        ]
+      },
+      {
+        "heading": "Un magasin est-il obligé de reprendre un article?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non, sauf si l'article est défectueux. Au Canada, « les entreprises ne sont pas obligées d'accepter les articles retournés à moins qu'ils ne soient défectueux », rappelle le Bureau de la consommation."
+          },
+          {
+            "type": "p",
+            "text": "Au Québec, l'OPC précise aux commerçants qu'ils sont libres de fixer leur politique d'échange et de remboursement, mais qu'ils doivent la respecter une fois adoptée. La promesse de Princess Auto est donc un engagement du magasin, en plus de vos droits : elle ne remplace pas la garantie légale."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour chez Princess Auto",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Retrouvez le reçu. Sans reçu, donnez au comptoir le nom et le numéro de téléphone utilisés lors de l'achat.",
+              "Pour une commande en ligne erronée ou arrivée endommagée, appelez d'abord le 1-800-665-8685.",
+              "Apportez l'article et toutes ses pièces dans n'importe quel magasin Princess Auto.",
+              "Expliquez ce qui ne va pas et demandez la solution qui vous convient : réparation, remplacement ou remboursement.",
+              "Pour des munitions, n'y comptez pas : aucun retour ni échange.",
+              "Pour un outil qui brise après une longue utilisation au Québec, invoquez la garantie légale auprès du magasin, du fabricant ou des deux."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le point fragile, c'est souvent le reçu lui-même : le papier thermique pâlit, et une ligne comme « GUN CAULKING DRPLSS MTL 9IN P » ne dit pas grand-chose un an plus tard. Voyez [quoi faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound garde une copie lisible du reçu, identifie le produit derrière une ligne abrégée quand l'information est disponible, et retrouve le reçu par magasin, date ou montant. Au comptoir, le mode retour affiche la photo du reçu, le mode de paiement et la liste des articles. Avec ReFound Pro, la recherche par article, par son nom ou avec la caméra, retrouve le reçu d'un outil précis. L'acceptation du retour reste toujours à la discrétion de Princess Auto. En savoir plus sur l'[application pour les retours en magasin](/application-retours-magasin)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de jours a-t-on pour retourner un article chez Princess Auto?",
+        "a": "Princess Auto ne publie aucun délai en jours. Sa Promesse de SERVICE ROYAL dit qu'aucune vente n'est définitive sans votre pleine satisfaction, et le magasin propose une réparation, un remplacement ou un remboursement. Pour un article ouvert ou acheté il y a longtemps, appelez votre magasin avant de vous déplacer."
+      },
+      {
+        "q": "Princess Auto accepte-t-il les retours sans reçu?",
+        "a": "Oui, si le magasin peut retrouver l'achat : achat en ligne, par le Centre d'appels national, ou en magasin si vous avez donné votre nom et votre numéro de téléphone à la caisse. Sinon, le reçu reste votre preuve d'achat."
+      },
+      {
+        "q": "Peut-on retourner des munitions chez Princess Auto?",
+        "a": "Non. Toutes les ventes de munitions sont définitives : aucun retour ni échange n'est permis."
+      },
+      {
+        "q": "Princess Auto fait-il des ajustements de prix?",
+        "a": "Oui : si un article acheté passe en solde dans les 30 jours, appelez le Centre d'appels national au 1-800-665-8685 pour un ajustement de prix, selon la page d'information sur les commandes (en anglais)."
+      },
+      {
+        "q": "Mon outil Princess Auto a brisé après un an. Que faire au Québec?",
+        "a": "La garantie légale peut s'appliquer : l'outil doit avoir une durée raisonnable compte tenu du prix payé et de l'usage. Adressez-vous au magasin, au fabricant ou aux deux, avec le reçu qui prouve la date et le prix."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus d'outils lisibles et faciles à retrouver",
+    "ctaBody": "Prenez le reçu en photo en rentrant : ReFound garde une copie lisible, même si le papier pâlit, et le retrouve le jour où un outil brise.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce que font Canadian Tire, Home Depot, IKEA et Walmart sans reçu."
+      },
+      {
+        "label": "Réclamation de garantie",
+        "href": "/blog/reclamation-garantie",
+        "desc": "À qui s'adresser et quoi apporter."
+      },
+      {
+        "label": "Ajustement de prix après l'achat",
+        "href": "/blog/ajustement-de-prix",
+        "desc": "Récupérer la différence quand le prix baisse."
+      },
+      {
+        "label": "Reçus de rénovation",
+        "href": "/reno-recus-retours",
+        "desc": "Garder les reçus de quincaillerie après les travaux."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Expédition et retours",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/fr_CA/shipping-and-returns",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Questions fréquemment posées",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/fr_CA/questions-frequemment-posees",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Notre historique",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/fr_CA/ourStory",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Communiqué : nouveau magasin de Trois-Rivières (en anglais)",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/en/trois-rivieres-press-release",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Order Information (page en anglais)",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/en/order-information",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Garanties prévues par la loi : quincaillerie, outils et matériaux",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/habitation-renovation/quincaillerie/garantie/garanties-legales",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Garantie du commerçant ou du fabricant",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/habitation-renovation/quincaillerie/garantie/commercant-fabricant/",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Échanges, remboursements et mises de côté (commerçants)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/commercant/secteur/bien-consommation/quincaillerie/echange-remboursement",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Garantie de bon fonctionnement sur certains électroménagers et appareils électroniques",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Remboursement et échange",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-24"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 24 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Princess Auto Return Policy: Time Limit, Receipts, Warranty | ReFound",
+    "metaDescription": "Princess Auto posts no return window in days. Its promise, returns without a receipt, ammunition, and Quebec's legal warranty on tools.",
+    "keywords": "Princess Auto return policy, Princess Auto return without receipt, Princess Auto return time limit, ROYAL SERVICE Promise, Princess Auto price adjustment, Princess Auto receipt, Quebec legal warranty tools",
+    "category": "Guide",
+    "date": "November 24, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Princess Auto return policy",
+    "eyebrow": "Returns",
+    "h1": "Princess Auto Return Policy: Time Limit, Receipts and Warranties",
+    "card": {
+      "title": "Princess Auto Return Policy: Time Limit, Receipts and Warranties (2026)",
+      "subtitle": "No return window in days, returns possible without a receipt, and Quebec's legal warranty for your tools. With a real Princess Auto receipt."
+    },
+    "coverAlt": "Store receipt with one highlighted line, linked to a masked phone number and a check mark",
+    "intro": [
+      "Short answer: Princess Auto does not post a return window in days. Its ROYAL SERVICE Promise says: \"No sale is final until you're satisfied.\" The store will repair, replace or refund any product to your satisfaction, and accepts returns at any of its stores. Ammunition, however, is final sale.",
+      "You don't always need the receipt: if you gave your name and phone number at checkout, or bought online, the store can look up the purchase. This guide covers what the official pages say, what they leave out, and what still protects a tool that breaks months later in Quebec. We walk through a real Princess Auto receipt, line by line."
+    ],
+    "sections": [
+      {
+        "heading": "What is Princess Auto's return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Princess Auto's return policy comes down to one promise: \"No sale is final until you're satisfied.\" In its own words, \"we will gladly repair, replace, or refund any product to your satisfaction.\""
+          },
+          {
+            "type": "p",
+            "text": "Princess Auto has more than 55 stores across Canada, several of them in Quebec. Here is what its official pages confirm, in English and French:"
+          },
+          {
+            "type": "table",
+            "caption": "What Princess Auto's official pages say (checked November 24, 2026)",
+            "headers": [
+              "Question",
+              "Official answer"
+            ],
+            "rows": [
+              [
+                "Return window in days",
+                "None posted"
+              ],
+              [
+                "Where to return",
+                "At any Princess Auto store"
+              ],
+              [
+                "What you get",
+                "Repair, replacement or refund, to your satisfaction"
+              ],
+              [
+                "No receipt",
+                "The store can look up the purchase if it is tied to your name and phone number, or was made online or by phone"
+              ],
+              [
+                "Ammunition",
+                "Final sale: no returns or exchanges"
+              ],
+              [
+                "Online order wrong or damaged",
+                "Call the National Call Centre at 1-800-665-8685"
+              ],
+              [
+                "Item goes on sale after you buy",
+                "Price adjustment within 30 days, by phone"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Is there a time limit to return an item to Princess Auto?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No time limit is posted. The Shipping and Returns page, the FAQ and the Our Story page give no number of days, in English or in French."
+          },
+          {
+            "type": "p",
+            "text": "That doesn't mean everything is taken back, no questions asked, forever. The promise is about your satisfaction, and the store offers the remedy: a repair, a replacement or a refund. The pages also don't say what happens to an item that was opened, used or bought long ago. In those cases, call your store before you go."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "A promise, not a written deadline",
+            "text": "Most big chains set a return window in days, for example [Canadian Tire](/en/blog/canadian-tire-return-policy). Princess Auto relies on a satisfaction promise instead. It's more flexible, but less predictable: bring back anything that doesn't suit you as soon as you can."
+          }
+        ]
+      },
+      {
+        "heading": "Can you return something to Princess Auto without a receipt?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Yes, if the store can find the purchase. Princess Auto says that if you have misplaced your receipt, \"all we need to do is look up your information and the appropriate purchase in order to process the return or exchange.\""
+          },
+          {
+            "type": "p",
+            "text": "The lookup works for an \"authenticated\" purchase:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "a purchase made online;",
+              "a purchase made through the National Call Centre;",
+              "an in-store purchase, if you gave your name and phone number at the time of purchase."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If you paid without giving that information, the page describes no other option: the receipt is then your only proof of purchase."
+          },
+          {
+            "type": "p",
+            "text": "That's the general rule in Canada: \"Stores almost always need a sales receipt before accepting any refunds or exchanges,\" notes the federal Office of Consumer Affairs. See also our guide to [returns without a receipt](/en/blog/return-without-receipt)."
+          }
+        ]
+      },
+      {
+        "heading": "A real Princess Auto receipt, line by line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A Princess Auto receipt prints short, all-caps descriptions. Here is a real receipt from a store in Kanata, Ontario, dated September 14, 2025: 9 lines, $179.37 including tax, scanned with ReFound."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-princess-auto/recu-reel-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Lines from a real Princess Auto receipt and the products ReFound identified: BOX AMMO UTILITY CRATE POLY is a large poly storage crate, SPREADER HAND-HELD SALT/SEEDS a Powerfist hand-held spreader, GUN CAULKING a Pro.Point caulking gun; GOGGLE SAFETY CLEAR stays unidentified",
+            "caption": "A real Princess Auto receipt scanned with ReFound. Product names come from the merchant's French product pages; English meaning shown."
+          },
+          {
+            "type": "table",
+            "caption": "What the receipt says, and what ReFound found",
+            "headers": [
+              "Printed line",
+              "Product identified by ReFound",
+              "Price paid"
+            ],
+            "rows": [
+              [
+                "BOX AMMO UTILITY CRATE POLY",
+                "Large poly ammo/utility storage crate",
+                "$17.99"
+              ],
+              [
+                "SPREADER HAND-HELD SALT/SEEDS",
+                "Hand-held salt/seed spreader (Powerfist)",
+                "$4.49"
+              ],
+              [
+                "GUN CAULKING DRPLSS MTL 9IN P",
+                "Dripless caulking gun (Pro.Point)",
+                "$19.99"
+              ],
+              [
+                "WRAP 5IN X 1000FT STRETCH",
+                "Stretch wrap, 5 in x 1,000 ft",
+                "$9.99"
+              ],
+              [
+                "PAINT WHITEGLOSS RUST 3.78L T",
+                "Gloss white rust paint, 3.78 L (Tremclad)",
+                "$84.99"
+              ],
+              [
+                "GOGGLE SAFETY CLEAR",
+                "Not identified",
+                "$4.44"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Three things stand out on this receipt."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**\"BOX AMMO\" is not a box of ammunition.** It's a plastic storage crate. Princess Auto's final-sale rule covers ammunition; a misread line can still cause doubt at the counter. The full product name settles it.",
+              "**ReFound doesn't identify everything.** The safety goggles and an iron bracket weren't matched to a product page: the printed line is then the only description.",
+              "**The receipt says nothing about the promise or any warranty.** Nothing on it tells you these items can still be repaired, replaced or refunded later."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "On this test receipt, ReFound showed an estimated return deadline of October 14, 2025, 30 days after purchase. Since Princess Auto posts no return window in days, treat that date as a safe deadline to act by, not as the store's rule."
+          }
+        ]
+      },
+      {
+        "heading": "Price adjustment: a drop within 30 days",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "\"If you purchased an item that went on sale afterward within 30 days,\" Princess Auto asks you to call its National Call Centre at 1-800-665-8685 for a price adjustment, according to its Order Information page."
+          },
+          {
+            "type": "p",
+            "text": "With Black Friday sales (November 27, 2026), a tool bought in early November may qualify. Keep the receipt handy, or make sure the purchase is tied to your name and number. To compare with other stores, see our guide to [price adjustments](/en/blog/price-adjustment-after-purchase)."
+          }
+        ]
+      },
+      {
+        "heading": "After the promise: the legal warranty on tools in Quebec",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In Quebec, a tool bought at Princess Auto is also protected by the legal warranty under the Consumer Protection Act. \"These warranties apply automatically and without charge,\" even if the merchant or manufacturer claims to sell the item with no warranty, according to the Office de la protection du consommateur (OPC)."
+          },
+          {
+            "type": "p",
+            "text": "For tools, the OPC lists three warranties provided by law:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "the use warranty: the tool must serve the purpose it was made for;",
+              "the reasonable lifetime warranty;",
+              "the warranty against hidden defects."
+            ]
+          },
+          {
+            "type": "h3",
+            "text": "How long does the legal warranty last?"
+          },
+          {
+            "type": "p",
+            "text": "There is no fixed length. The tool must \"have a reasonable lifetime, given the price paid, the contract, and the conditions of use.\" The OPC uses a hammer as an example: you don't expect the same lifetime from a $30 hammer as from a $100 one."
+          },
+          {
+            "type": "p",
+            "text": "That's where the receipt matters: it proves the price paid and the purchase date, the two facts used to judge whether the tool lasted long enough. On the receipt above, the $84.99 gallon of paint and the $4.49 spreader won't be judged the same way."
+          },
+          {
+            "type": "h3",
+            "text": "Who do you contact?"
+          },
+          {
+            "type": "p",
+            "text": "You can go to the merchant, the manufacturer, or both, and \"a merchant may not require that you deal with the manufacturer.\" The remedy can be a free repair, an exchange or a refund. See our guide on [how to make a warranty claim](/en/blog/how-to-make-a-warranty-claim)."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "The warranty of good working order does not cover tools",
+            "text": "Since October 5, 2026, a new warranty of good working order covers certain new goods: stove, refrigerator, freezer, air conditioner, heat pump, washer, dryer, dishwasher, TV, computer, game console, cell phone and tablet. Tools aren't on the list: for them, the legal warranty applies. Details in our guide to the [warranty of good working order](/en/blog/quebec-warranty-of-good-working-order)."
+          },
+          {
+            "type": "h3",
+            "text": "The manufacturer's warranty"
+          },
+          {
+            "type": "p",
+            "text": "A manufacturer or merchant may also offer a conventional warranty. If no document describes it, the OPC suggests having the details written on your invoice or contract."
+          }
+        ]
+      },
+      {
+        "heading": "Does a store have to take an item back?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No, unless the item is defective. \"In Canada, businesses are not obligated to accept the return of purchased items unless they are defective,\" notes the Office of Consumer Affairs."
+          },
+          {
+            "type": "p",
+            "text": "In Quebec, the OPC tells merchants they are free to set their exchange and refund policy, but must respect it once adopted. Princess Auto's promise is therefore a commitment from the store, on top of your rights: it doesn't replace the legal warranty."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare a Princess Auto return",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Find the receipt. Without it, give the counter the name and phone number used at purchase.",
+              "For an online order that's wrong or arrived damaged, call 1-800-665-8685 first.",
+              "Bring the item and all its parts to any Princess Auto store.",
+              "Explain what's wrong and ask for the remedy that works for you: repair, replacement or refund.",
+              "Don't count on returning ammunition: no returns or exchanges.",
+              "For a tool that breaks after long use in Quebec, invoke the legal warranty with the store, the manufacturer, or both."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The weak point is often the receipt itself: thermal paper fades, and a line like \"GUN CAULKING DRPLSS MTL 9IN P\" means little a year later. See [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          },
+          {
+            "type": "p",
+            "text": "ReFound keeps a readable copy of the receipt, identifies the product behind a short line when the information is available, and finds the receipt by store, date or amount. At the counter, return mode shows the receipt photo, the payment method and the list of items. With ReFound Pro, item search, by name or with the camera, finds the receipt for a specific tool. Whether a return is accepted is always up to Princess Auto. Learn more about the [in-store returns app](/en/returns-app)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How many days do you have to return an item to Princess Auto?",
+        "a": "Princess Auto posts no return window in days. Its ROYAL SERVICE Promise says no sale is final until you're satisfied, and the store offers a repair, replacement or refund. For an opened item or one bought long ago, call your store before you go."
+      },
+      {
+        "q": "Does Princess Auto accept returns without a receipt?",
+        "a": "Yes, if the store can find the purchase: bought online, through the National Call Centre, or in store if you gave your name and phone number at checkout. Otherwise, the receipt is your proof of purchase."
+      },
+      {
+        "q": "Can you return ammunition to Princess Auto?",
+        "a": "No. All ammunition sales are final: returns or exchanges are not permitted."
+      },
+      {
+        "q": "Does Princess Auto do price adjustments?",
+        "a": "Yes: if an item you bought goes on sale within 30 days, call the National Call Centre at 1-800-665-8685 for a price adjustment, according to its Order Information page."
+      },
+      {
+        "q": "My Princess Auto tool broke after a year. What can I do in Quebec?",
+        "a": "The legal warranty may apply: the tool must have a reasonable lifetime given the price paid and how it was used. Contact the store, the manufacturer or both, with the receipt that proves the date and price."
+      }
+    ],
+    "ctaTitle": "Keep your tool receipts readable and easy to find",
+    "ctaBody": "Snap the receipt when you get home: ReFound keeps a readable copy, even if the paper fades, and finds it the day a tool breaks.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "Returns without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What Canadian Tire, Home Depot, IKEA and Walmart do without one."
+      },
+      {
+        "label": "How to make a warranty claim",
+        "href": "/en/blog/how-to-make-a-warranty-claim",
+        "desc": "Who to contact and what to bring."
+      },
+      {
+        "label": "Price adjustment after purchase",
+        "href": "/en/blog/price-adjustment-after-purchase",
+        "desc": "Get the difference back when the price drops."
+      },
+      {
+        "label": "Home reno receipts",
+        "href": "/en/home-reno-receipts-returns",
+        "desc": "Keep hardware receipts after the job."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Shipping and Returns",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/en/shipping-and-returns",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Frequently Asked Questions",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/en/frequently-asked-questions",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Our Story",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/en/our-story",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Trois-Rivières new store press release",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/en/trois-rivieres-press-release",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Order Information",
+        "publisher": "Princess Auto",
+        "url": "https://www.princessauto.com/en/order-information",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Warranties Provided for by Law: hardware, tools and construction materials",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/housing-renovation/hardware/warrantie/legal-warranties",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Garantie du commerçant ou du fabricant (in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/habitation-renovation/quincaillerie/garantie/commercant-fabricant/",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Exchanges, refunds and layaways (for merchants)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/commercant/secteur/bien-consommation/quincaillerie/echange-remboursement",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Garantie de bon fonctionnement (in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/bon-fonctionnement/electromenager-electronique",
+        "accessed": "2026-11-24"
+      },
+      {
+        "label": "Refund and exchange",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/business-practices-and-consumer-concerns/refund-and-exchange",
+        "accessed": "2026-11-24"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 24, 2026"
+  }
+}
