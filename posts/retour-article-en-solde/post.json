@@ -1,0 +1,753 @@
+{
+  "schemaVersion": 1,
+  "slug": "retour-article-en-solde",
+  "frPath": "/blog/retour-article-en-solde",
+  "enPath": "/en/blog/returning-sale-items",
+  "datePublished": "2026-11-25T09:00:00-05:00",
+  "dateModified": "2026-11-25T09:00:00-05:00",
+  "lastFactCheck": "2026-11-25",
+  "cover": {
+    "src": "/images/blog/retour-article-en-solde/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "dates-vendredi-fou-fr.png",
+    "dates-vendredi-fou-en.png",
+    "recu-reel-fr.png",
+    "recu-reel-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Retourner un article en solde : vente finale et garantie | ReFound",
+    "metaDescription": "Un article en solde se retourne souvent comme les autres. Liquidation, vente finale, tel quel : ce qui change, les dates du Vendredi fou et la garantie légale.",
+    "keywords": "retourner un article en solde, retour article soldé, vente finale retour, article en liquidation retour, retour Vendredi fou, vente finale garantie légale Québec, retour Canadian Tire liquidation, retour Home Depot promotion",
+    "category": "Guide",
+    "date": "25 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Retourner un article en solde",
+    "eyebrow": "Retours",
+    "h1": "Article en solde : peut-on le retourner? Vente finale, liquidation et garanties",
+    "card": {
+      "title": "Article en solde : peut-on le retourner?",
+      "subtitle": "Promotion, liquidation, vente finale : ce qui change pour un retour, les dates du Vendredi fou 2026 et la garantie qui reste."
+    },
+    "coverAlt": "Étiquette de prix barrée reliée à un reçu et à un calendrier",
+    "intro": [
+      "Réponse courte : un article simplement en promotion se retourne en général comme un article à prix régulier, dans le même délai. Ce qui bloque un retour, ce sont les articles en **liquidation**, en **vente finale** ou vendus **tels quels**, quand la politique du magasin les exclut. Chez Canadian Tire, par exemple, ces trois catégories ne sont ni remboursables ni échangeables.",
+      "Et même une vente finale n'efface pas tout : au Québec, la garantie légale protège encore un bien qui brise ou qui ne fonctionne pas. Ce guide montre la différence entre un rabais et une vente finale, les vraies dates limites pour un achat du Vendredi fou 2026, et ce que votre reçu doit prouver.",
+      "Politiques de Canadian Tire et de Home Depot vérifiées sur leurs sites le 25 novembre 2026. Elles peuvent changer : la page officielle et le magasin ont le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Un article en solde se retourne-t-il comme les autres?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Oui, dans la plupart des grands magasins, un article acheté en promotion suit la politique de retour habituelle : même délai, même exigence de reçu, même état. Un rabais ne rend pas, à lui seul, un article non retournable."
+          },
+          {
+            "type": "p",
+            "text": "Aucune loi n'oblige toutefois un magasin à reprendre un article qui n'est pas défectueux. Le Bureau de la consommation du gouvernement du Canada le rappelle : les entreprises n'ont pas d'obligation légale d'accepter les retours, sauf si l'article est défectueux, et leurs conditions de remboursement peuvent exclure les promotions et les articles en solde. C'est donc la politique de chaque magasin qui décide."
+          },
+          {
+            "type": "table",
+            "caption": "Rabais, liquidation, vente finale : ce que chaque mention veut dire pour un retour",
+            "headers": [
+              "Ce que dit l'étiquette ou le reçu",
+              "Retour en général",
+              "Exemple vérifié le 25 novembre 2026"
+            ],
+            "rows": [
+              [
+                "Promotion, solde, prix du Vendredi fou",
+                "Comme un article à prix régulier",
+                "Canadian Tire et Home Depot : aucune exception pour un simple rabais"
+              ],
+              [
+                "Liquidation",
+                "Souvent exclu",
+                "Canadian Tire : ni remboursable ni échangeable"
+              ],
+              [
+                "Vente finale (vente définitive)",
+                "Exclu",
+                "Canadian Tire : ni remboursable ni échangeable"
+              ],
+              [
+                "Tel quel",
+                "Exclu",
+                "Canadian Tire : ni remboursable ni échangeable"
+              ],
+              [
+                "Article gratuit ou à prix réduit avec un achat",
+                "Retour de tout l'ensemble",
+                "Home Depot : tout rapporter pour un remboursement complet"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Le prix peut être la mention",
+            "text": "Certains détaillants n'impriment pas « vente finale » en grosses lettres : c'est la fin du prix qui l'indique. C'est le cas chez Reitmans, expliqué dans notre [guide de la politique de retour Reitmans](/blog/politique-retour-reitmans). Lisez la politique avant d'acheter, pas au comptoir."
+          }
+        ]
+      },
+      {
+        "heading": "Liquidation, vente finale, tel quel : ce qui ne se retourne pas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Chez Canadian Tire, la politique classe parmi les articles non remboursables et non échangeables les « articles en liquidation, tel quel, ou en vente définitive ». La version anglaise dit « Clearance, final sale or AS-IS merchandise »."
+          },
+          {
+            "type": "p",
+            "text": "Deux précisions de la même page aident à comprendre pourquoi : les articles en liquidation peuvent être des modèles de présentation ou ne pas correspondre exactement à l'illustration, et leurs prix, leur sélection et leur disponibilité sont déterminés par chaque magasin. Une étiquette jaune en magasin n'est donc pas la même chose qu'un prix du Vendredi fou affiché dans la circulaire."
+          },
+          {
+            "type": "p",
+            "text": "La politique de Home Depot, elle, ne prévoit pas de catégorie « liquidation » ou « vente finale » dans sa liste d'articles non repris (cartes-cadeaux, produits sur mesure, papier peint, spas, remorques utilitaires, entre autres). Home Depot se réserve toutefois le droit de limiter ou de refuser un retour en tout temps. Pour un article étiqueté autrement, demandez au comptoir avant de payer."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Décorations de Noël : lisez le bas du reçu",
+            "text": "Canadian Tire indique que les décorations de Noël et d'Halloween peuvent être soumises à des restrictions de retour, et renvoie à la politique imprimée sur la moitié inférieure du reçu d'achat. C'est une raison de garder ce reçu lisible."
+          }
+        ]
+      },
+      {
+        "heading": "Achat du Vendredi fou 2026 : jusqu'à quand le retourner?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le délai part de la date d'achat, pas de la fin des soldes ni de Noël. Pour un article payé le vendredi 27 novembre 2026, voici les dates limites calculées à partir des politiques officielles de Canadian Tire et de Home Depot."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-article-en-solde/dates-vendredi-fou-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Ligne du temps des dates limites de retour pour un achat du 27 novembre 2026 : 11 décembre pour l'électronique auto chez Canadian Tire, 27 décembre pour l'électronique, les téléviseurs et les ordinateurs, 25 février 2027 pour la plupart des articles",
+            "caption": "Calcul ReFound pour un achat du 27 novembre 2026. Sources : canadiantire.ca et homedepot.ca, vérifiés le 25 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Dates limites pour un achat du 27 novembre 2026",
+            "headers": [
+              "Magasin et type d'article",
+              "Délai officiel",
+              "Date limite"
+            ],
+            "rows": [
+              [
+                "Canadian Tire : électronique pour l'auto (démarreur à distance, caméra de recul, GPS)",
+                "14 jours",
+                "11 décembre 2026"
+              ],
+              [
+                "Canadian Tire : électronique (audio et vidéo, appareils photo) et trottinettes électriques",
+                "30 jours",
+                "27 décembre 2026"
+              ],
+              [
+                "Home Depot : téléviseurs, ordinateurs, décorations saisonnières, entre autres",
+                "30 jours, avec reçu",
+                "27 décembre 2026"
+              ],
+              [
+                "Canadian Tire et Home Depot : la plupart des articles",
+                "90 jours",
+                "25 février 2027"
+              ],
+              [
+                "Article en liquidation, vente finale ou tel quel chez Canadian Tire",
+                "Aucun retour",
+                "—"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ces dates ne valent que si l'article remplit les autres conditions. Chez Canadian Tire, un remboursement vise les articles dans leur emballage d'origine non ouvert, accompagnés d'un reçu. Pour les autres magasins, voyez nos guides et les [dates limites des cadeaux de Noël](/blog/retourner-cadeau-noel)."
+          }
+        ]
+      },
+      {
+        "heading": "Promotion « article gratuit avec achat » : tout rapporter ensemble",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Chez Home Depot, un article reçu gratuitement ou à prix réduit avec un achat se retourne avec l'achat qui l'a déclenché. La politique demande que tous les articles admissibles et les articles gratuits ou à prix réduit soient retournés ensemble pour recevoir le remboursement complet."
+          },
+          {
+            "type": "p",
+            "text": "Pour un retour partiel, Home Depot ajuste le remboursement selon la part de chaque article retourné dans la valeur totale de l'offre. Concrètement, si vous gardez l'article gratuit et rapportez seulement une partie de l'achat, attendez-vous à recevoir moins que le prix affiché de l'article rapporté. Le reçu, qui montre toute l'offre sur une même transaction, sert à faire ce calcul au comptoir."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Avant de séparer un ensemble",
+            "text": "Gardez l'article gratuit dans sa boîte tant que vous n'êtes pas sûr de garder l'achat principal. Une fois l'un des deux utilisé, le retour de l'ensemble devient plus compliqué."
+          }
+        ]
+      },
+      {
+        "heading": "Vente finale et article défectueux : la garantie légale reste",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Au Québec, une vente finale empêche un retour par changement d'idée, pas un recours pour un bien défectueux. L'Office de la protection du consommateur explique que les garanties légales s'appliquent automatiquement et sans frais. Pour les vêtements et les chaussures, l'Office précise qu'elles s'appliquent même si le commerçant ou le fabricant dit vendre l'article sans garantie."
+          },
+          {
+            "type": "p",
+            "text": "Si le bien a un problème couvert, vous pouvez demander au commerçant de le réparer ou de le faire réparer sans frais, de l'échanger ou de vous rembourser. L'Office ajoute qu'un commerçant ne peut pas vous obliger à vous adresser au fabricant."
+          },
+          {
+            "type": "p",
+            "text": "Pour les appareils électroniques et les électroménagers, une garantie de bon fonctionnement s'ajoute depuis le 5 octobre 2026. Les durées par appareil sont dans notre guide sur la [garantie de bon fonctionnement au Québec](/blog/garantie-bon-fonctionnement-quebec)."
+          },
+          {
+            "type": "p",
+            "text": "Du côté du magasin, Canadian Tire indique qu'un article défectueux est sujet à la garantie du fabricant et sera réparé ou remplacé. Home Depot demande de signaler tout dommage ou défaut du produit dans les 30 jours. Dans les deux cas, on vous demandera de prouver la date et le prix d'achat : voyez [comment faire une réclamation de garantie](/blog/reclamation-garantie)."
+          }
+        ]
+      },
+      {
+        "heading": "Ce qu'un vrai reçu montre, et ce qu'il ne dit pas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un reçu de caisse prouve la date, le magasin et le prix payé. Il dit rarement en clair ce que vous avez acheté, ni combien de temps l'article est garanti. Voici trois lignes d'un reçu réel Canadian Tire, numérisé avec ReFound (un de nos reçus de test, acheté le 3 mai 2026)."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-article-en-solde/recu-reel-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Trois lignes d'un reçu réel Canadian Tire : PILE ALC AA ENR identifiée comme des piles Energizer MAX AA, EQ.H.R RW 4P 21 comme des jambières, un gant et un bloqueur de gardien de hockey de ruelle, BAT VIC FUS HR comme un bâton de hockey de ruelle VIC",
+            "caption": "Reçu réel Canadian Tire numérisé avec ReFound. Date limite de retour estimée : 1er août 2026 (90 jours)."
+          },
+          {
+            "type": "table",
+            "caption": "Trois lignes d'un reçu réel Canadian Tire",
+            "headers": [
+              "Ligne imprimée",
+              "Produit identifié par ReFound",
+              "Prix",
+              "Garantie trouvée"
+            ],
+            "rows": [
+              [
+                "PILE ALC AA ENR",
+                "Piles alcalines Energizer MAX double A, paq. 24",
+                "24,99 $",
+                "Fabricant, 1 an"
+              ],
+              [
+                "EQ.H.R RW 4P 21",
+                "Jambières, gant et bloqueur de gardien de but de hockey de ruelle Road Warrior, jeune, droitier, 21 po",
+                "59,99 $",
+                "Fabricant, 1 an"
+              ],
+              [
+                "BAT VIC FUS HR",
+                "Bâton de hockey de ruelle en bois VIC Fused, jeune, 40 po",
+                "14,99 $",
+                "Fabricant, voir les détails"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Sur ce reçu, aucune ligne ne porte de rabais : les 17 lignes donnent un code abrégé et un prix. Deux choses manquent pour un retour ou une réclamation : le nom réel du produit (« EQ.H.R RW 4P 21 » ne dit rien à la personne au comptoir) et la garantie, qui dure ici plus longtemps que le délai de retour de 90 jours."
+          },
+          {
+            "type": "p",
+            "text": "Pour un achat soldé, le problème est le même : si le reçu pâlit avant que l'article brise, vous perdez la preuve de la date et du prix, deux éléments qu'on vous demandera pour la garantie. Voyez [que faire avec un reçu effacé](/blog/recu-efface-quoi-faire)."
+          }
+        ]
+      },
+      {
+        "heading": "Comment ReFound aide après le Vendredi fou",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound garde une copie numérique de vos reçus, de n'importe quel magasin. L'app affiche une date limite de retour estimée sur chaque reçu, calculée selon la politique générale du marchand : pour les exceptions par catégorie, comme les 30 jours de l'électronique, fiez-vous à la politique officielle et au tableau ci-dessus. ReFound ne sait pas si un article était en liquidation ou en vente finale : c'est l'étiquette et la politique du magasin qui le disent."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Quand l'information est disponible, l'app identifie le vrai nom du produit derrière la ligne abrégée et sa garantie, magasin ou fabricant, avec une date de fin.",
+              "Le mode retour, ouvert depuis l'onglet Retours, montre au comptoir le code-barres du reçu quand il a été détecté, le mode de paiement, la photo du reçu et la liste des articles, avec l'article à retourner mis en évidence.",
+              "ReFound ne décide jamais si un retour est accepté : c'est le magasin qui tranche."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les rappels de retour (3 jours avant la date limite) et de garantie (30 jours avant l'expiration) font partie de ReFound Pro (4,99 $ par mois ou 39,99 $ par an). La numérisation, la date limite estimée et le mode retour sont gratuits. Plus de détails sur l'[application pour les retours en magasin](/application-retours-magasin)."
+          }
+        ]
+      },
+      {
+        "heading": "Avant de payer un article en solde : la vérification en 4 étapes",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Regardez l'étiquette : « liquidation », « vente finale » ou « tel quel » veulent souvent dire aucun retour. Un simple prix réduit, en général, non.",
+              "Vérifiez le délai de la catégorie : l'électronique a souvent moins de temps que le reste du magasin (30 jours chez Canadian Tire, 14 pour l'électronique auto).",
+              "Pour une offre « gratuit avec achat », gardez tout dans les boîtes jusqu'à ce que vous soyez sûr de garder l'ensemble.",
+              "En rentrant, prenez le reçu en photo : il prouvera la date et le prix pour un retour, et pour la garantie si l'article brise plus tard."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Peut-on retourner un article acheté en solde?",
+        "a": "En général, oui : un article en promotion suit la politique de retour habituelle du magasin, avec le même délai et le reçu. Les articles en liquidation, en vente finale ou vendus tels quels sont souvent exclus, comme chez Canadian Tire."
+      },
+      {
+        "q": "Un magasin est-il obligé de reprendre un article en vente finale?",
+        "a": "Non, s'il n'est pas défectueux : aucune loi n'oblige un magasin à reprendre un article par changement d'idée. Au Québec, un article défectueux reste toutefois couvert par la garantie légale, même vendu sans garantie selon le commerçant."
+      },
+      {
+        "q": "Jusqu'à quand retourner un achat du Vendredi fou 2026?",
+        "a": "Le délai part de la date d'achat. Pour un achat du 27 novembre 2026 : 11 décembre pour l'électronique auto chez Canadian Tire, 27 décembre pour l'électronique (et les téléviseurs et ordinateurs chez Home Depot), 25 février 2027 pour la plupart des autres articles de ces deux magasins."
+      },
+      {
+        "q": "Le prix a baissé après mon achat : dois-je retourner l'article?",
+        "a": "Pas forcément. Certains magasins remboursent la différence dans un délai donné ; voyez notre guide sur l'[ajustement de prix après l'achat](/blog/ajustement-de-prix)."
+      }
+    ],
+    "ctaTitle": "Gardez la preuve de vos achats du Vendredi fou",
+    "ctaBody": "Numérisez vos reçus en rentrant : ReFound garde une copie lisible, affiche une date limite de retour estimée et la garantie de vos articles quand elle est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Politique de retour Canadian Tire",
+        "href": "/blog/politique-retour-canadian-tire",
+        "desc": "Délais, reçu et garanties."
+      },
+      {
+        "label": "Politique de retour Home Depot",
+        "href": "/blog/politique-retour-home-depot",
+        "desc": "Délais, exceptions et garanties."
+      },
+      {
+        "label": "Ajustement de prix après l'achat",
+        "href": "/blog/ajustement-de-prix",
+        "desc": "Quand le prix baisse après le Vendredi fou."
+      },
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce que permettent quatre grands magasins."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "factCheckLabel": "Faits vérifiés le 25 novembre 2026",
+    "sources": [
+      {
+        "label": "Politique de retour et d'échange",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Politique de retour des marchandises",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Remboursements et échanges",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Garanties légales applicables à tous les biens",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/garanties/loi/application-legale",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Garanties prévues par la loi : vêtements et chaussures",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/bien-consommation/vetement/garanties-legales",
+        "accessed": "2026-11-25"
+      }
+    ]
+  },
+  "en": {
+    "metaTitle": "Can You Return a Sale Item? Final Sale, Clearance & Warranty | ReFound",
+    "metaDescription": "Sale items usually return like any other. What changes for clearance, final sale and as-is items, Black Friday 2026 deadlines, and Quebec's legal warranty.",
+    "keywords": "return sale item, can you return sale items, final sale return, clearance return policy, Black Friday return deadline, final sale legal warranty Quebec, Canadian Tire clearance return, Home Depot promotion return",
+    "category": "Guide",
+    "date": "November 25, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Returning sale items",
+    "eyebrow": "Returns",
+    "h1": "Can You Return a Sale Item? Final Sale, Clearance and Warranties",
+    "card": {
+      "title": "Can you return a sale item?",
+      "subtitle": "Sale, clearance, final sale: what changes for a return, Black Friday 2026 deadlines, and the warranty that remains."
+    },
+    "coverAlt": "Crossed-out price tag linked to a receipt and a calendar",
+    "intro": [
+      "Short answer: an item that is simply on sale usually returns like a regular-price item, within the same time limit. What blocks a return is **clearance**, **final sale** or **as-is** merchandise, when the store's policy excludes it. At Canadian Tire, for example, all three are neither refundable nor exchangeable.",
+      "And even a final sale doesn't erase everything: in Quebec, the legal warranty still protects goods that break or don't work. This guide shows the difference between a discount and a final sale, the real deadlines for a Black Friday 2026 purchase, and what your receipt needs to prove.",
+      "Canadian Tire and Home Depot policies checked on their websites on November 25, 2026. They can change: the official page and the store have the final word."
+    ],
+    "sections": [
+      {
+        "heading": "Do sale items return like any other item?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Yes, at most large retailers, an item bought on promotion follows the usual return policy: same time limit, same receipt requirement, same condition. A discount alone doesn't make an item non-returnable."
+          },
+          {
+            "type": "p",
+            "text": "No law, however, requires a store to take back an item that isn't defective. The Government of Canada's Office of Consumer Affairs points out that businesses are not legally obligated to accept returns unless the item is defective, and that their refund conditions may exclude promotions and sale items. So each store's policy decides."
+          },
+          {
+            "type": "table",
+            "caption": "Sale, clearance, final sale: what each label means for a return",
+            "headers": [
+              "What the tag or receipt says",
+              "Return, in general",
+              "Example checked November 25, 2026"
+            ],
+            "rows": [
+              [
+                "Sale, promotion, Black Friday price",
+                "Same as a regular-price item",
+                "Canadian Tire and Home Depot: no exception for a simple discount"
+              ],
+              [
+                "Clearance",
+                "Often excluded",
+                "Canadian Tire: neither refundable nor exchangeable"
+              ],
+              [
+                "Final sale",
+                "Excluded",
+                "Canadian Tire: neither refundable nor exchangeable"
+              ],
+              [
+                "As-is",
+                "Excluded",
+                "Canadian Tire: neither refundable nor exchangeable"
+              ],
+              [
+                "Free or reduced-price item with purchase",
+                "Return the whole set",
+                "Home Depot: return everything for a full refund"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "The price can be the label",
+            "text": "Some retailers don't print \"final sale\" in big letters: the ending of the price tells you. That's the case at Reitmans, explained in our [Reitmans return policy guide](/en/blog/reitmans-return-policy). Read the policy before you buy, not at the counter."
+          }
+        ]
+      },
+      {
+        "heading": "Clearance, final sale, as-is: what can't be returned",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "At Canadian Tire, the policy lists \"Clearance, final sale or AS-IS merchandise\" among items that are neither refundable nor exchangeable. The French version says « articles en liquidation, tel quel, ou en vente définitive »."
+          },
+          {
+            "type": "p",
+            "text": "The same page explains why: clearance items may be display models or may not exactly match the illustration, and their pricing, selection and availability are determined by each store. A yellow in-store tag is therefore not the same thing as a Black Friday price in the flyer."
+          },
+          {
+            "type": "p",
+            "text": "Home Depot's policy, as published on its French-language page, has no \"clearance\" or \"final sale\" category in its list of non-returnable items (gift cards, custom-made products, wallpaper, spas and utility trailers, among others). Home Depot does reserve the right to limit or refuse a return at any time. For an item labelled differently, ask at the counter before you pay."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Christmas décor: read the bottom of the receipt",
+            "text": "Canadian Tire says Christmas and Halloween décor may be subject to return restrictions, and refers you to the returns policy printed on the bottom half of your store receipt. One more reason to keep that receipt readable."
+          }
+        ]
+      },
+      {
+        "heading": "Black Friday 2026 purchase: how long do you have to return it?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The time limit runs from the purchase date, not from the end of the sale or from Christmas. For an item paid on Friday, November 27, 2026, here are the deadlines calculated from Canadian Tire's and Home Depot's official policies."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-article-en-solde/dates-vendredi-fou-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Timeline of return deadlines for a November 27, 2026 purchase: December 11 for auto electronics at Canadian Tire, December 27 for electronics, TVs and computers, February 25, 2027 for most items",
+            "caption": "ReFound calculation for a November 27, 2026 purchase. Sources: canadiantire.ca and homedepot.ca, checked November 25, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Deadlines for a November 27, 2026 purchase",
+            "headers": [
+              "Store and item type",
+              "Official time limit",
+              "Deadline"
+            ],
+            "rows": [
+              [
+                "Canadian Tire: auto electronics (remote starter, backup camera, GPS)",
+                "14 days",
+                "December 11, 2026"
+              ],
+              [
+                "Canadian Tire: electronics (audio and video, cameras) and e-scooters",
+                "30 days",
+                "December 27, 2026"
+              ],
+              [
+                "Home Depot: TVs, computers, seasonal décor, among others",
+                "30 days, with receipt",
+                "December 27, 2026"
+              ],
+              [
+                "Canadian Tire and Home Depot: most items",
+                "90 days",
+                "February 25, 2027"
+              ],
+              [
+                "Clearance, final sale or as-is item at Canadian Tire",
+                "No return",
+                "—"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "These dates only apply if the item meets the other conditions. At Canadian Tire, a refund applies to unopened items in original packaging returned with a receipt. For other stores, see our guides and the [Christmas gift return deadlines](/en/blog/returning-christmas-gifts)."
+          }
+        ]
+      },
+      {
+        "heading": "\"Free item with purchase\" deals: return everything together",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "At Home Depot, an item you got free or at a reduced price with a purchase is returned together with the purchase that triggered it. The policy requires all eligible purchased items and the free or reduced-price items to be returned together to receive the full refund."
+          },
+          {
+            "type": "p",
+            "text": "For a partial return, Home Depot adjusts the refund according to each returned item's share of the total value of the offer. In practice, if you keep the free item and bring back only part of the purchase, expect to get back less than the shelf price of the item you return. The receipt, which shows the whole offer on one transaction, is what the counter uses for that calculation."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Before you split a bundle",
+            "text": "Keep the free item in its box until you're sure you're keeping the main purchase. Once either one is used, returning the set gets harder."
+          }
+        ]
+      },
+      {
+        "heading": "Final sale and defective items: the legal warranty remains",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In Quebec, a final sale rules out a change-of-mind return, not a remedy for defective goods. The Office de la protection du consommateur explains that legal warranties apply automatically and free of charge. For clothing and shoes, the Office specifies that they apply even if the merchant or the manufacturer claims to sell without warranties."
+          },
+          {
+            "type": "p",
+            "text": "If the item has a covered problem, you can ask the merchant to repair it or have it repaired at no charge, to exchange it, or to refund you. The Office adds that a merchant cannot require you to deal with the manufacturer."
+          },
+          {
+            "type": "p",
+            "text": "For electronics and appliances, a warranty of good working order has applied since October 5, 2026. Coverage periods by device are in our guide to the [Quebec warranty of good working order](/en/blog/quebec-warranty-of-good-working-order)."
+          },
+          {
+            "type": "p",
+            "text": "On the store side, Canadian Tire says a defective item is subject to the manufacturer's warranty and will be repaired or replaced. Home Depot asks that any product damage or defect be reported within 30 days. Either way, you'll be asked to prove the purchase date and price: see [how to make a warranty claim](/en/blog/how-to-make-a-warranty-claim)."
+          }
+        ]
+      },
+      {
+        "heading": "What a real receipt shows, and what it doesn't say",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A store receipt proves the date, the store and the price paid. It rarely says clearly what you bought, or how long the item is under warranty. Here are three lines from a real Canadian Tire receipt scanned with ReFound (one of our test receipts, bought May 3, 2026)."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-article-en-solde/recu-reel-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Three lines from a real Canadian Tire receipt: PILE ALC AA ENR identified as Energizer MAX AA batteries, EQ.H.R RW 4P 21 as street hockey goalie pads, glove and blocker, BAT VIC FUS HR as a VIC street hockey stick",
+            "caption": "Real Canadian Tire receipt scanned with ReFound. Estimated return deadline: August 1, 2026 (90 days)."
+          },
+          {
+            "type": "table",
+            "caption": "Three lines from a real Canadian Tire receipt",
+            "headers": [
+              "Printed line",
+              "Product identified by ReFound",
+              "Price",
+              "Warranty found"
+            ],
+            "rows": [
+              [
+                "PILE ALC AA ENR",
+                "Energizer MAX AA alkaline batteries, 24-pack",
+                "$24.99",
+                "Manufacturer, 1 year"
+              ],
+              [
+                "EQ.H.R RW 4P 21",
+                "Road Warrior street hockey goalie pads, glove and blocker, youth, right-handed, 21 in.",
+                "$59.99",
+                "Manufacturer, 1 year"
+              ],
+              [
+                "BAT VIC FUS HR",
+                "VIC Fused wood street hockey stick, youth, 40 in.",
+                "$14.99",
+                "Manufacturer, see details"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "On this receipt, no line shows a discount: all 17 lines give an abbreviated code and a price. Two things are missing for a return or a claim: the product's real name (\"EQ.H.R RW 4P 21\" means nothing to the person at the counter) and the warranty, which here lasts longer than the 90-day return window."
+          },
+          {
+            "type": "p",
+            "text": "For a sale purchase, the problem is the same: if the receipt fades before the item breaks, you lose proof of the date and price, two things you'll be asked for under warranty. See [what to do with a faded receipt](/en/blog/faded-receipt-what-to-do)."
+          }
+        ]
+      },
+      {
+        "heading": "How ReFound helps after Black Friday",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound keeps a digital copy of your receipts, from any store. The app shows an estimated return deadline on each receipt, based on the merchant's general policy: for category exceptions, such as 30 days for electronics, rely on the official policy and the table above. ReFound doesn't know whether an item was on clearance or final sale: the tag and the store's policy tell you that."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "When the information is available, the app identifies the real product name behind the abbreviated line and its warranty, store or manufacturer, with an end date.",
+              "Return mode, opened from the Returns tab, shows the receipt barcode at the counter when it was detected, the payment method, the receipt photo and the list of items, with the item to return highlighted.",
+              "ReFound never decides whether a return is accepted: the store does."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Return reminders (3 days before the deadline) and warranty reminders (30 days before expiry) are part of ReFound Pro ($4.99 a month or $39.99 a year). Scanning, the estimated deadline and return mode are free. More on the [in-store returns app](/en/returns-app)."
+          }
+        ]
+      },
+      {
+        "heading": "Before you pay for a sale item: a 4-step check",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Read the tag: \"clearance\", \"final sale\" or \"as-is\" often mean no return. A simple reduced price usually doesn't.",
+              "Check the category's time limit: electronics often get less time than the rest of the store (30 days at Canadian Tire, 14 for auto electronics).",
+              "For a \"free with purchase\" deal, keep everything boxed until you're sure you're keeping the whole set.",
+              "When you get home, photograph the receipt: it will prove the date and price for a return, and for the warranty if the item breaks later."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Can you return an item bought on sale?",
+        "a": "Usually, yes: an item on promotion follows the store's usual return policy, with the same time limit and the receipt. Clearance, final sale and as-is items are often excluded, as at Canadian Tire."
+      },
+      {
+        "q": "Does a store have to take back a final sale item?",
+        "a": "Not if it isn't defective: no law requires a store to accept a change-of-mind return. In Quebec, however, a defective item is still covered by the legal warranty, even if the merchant claims to sell it without warranty."
+      },
+      {
+        "q": "How long do I have to return a Black Friday 2026 purchase?",
+        "a": "The time limit runs from the purchase date. For a November 27, 2026 purchase: December 11 for auto electronics at Canadian Tire, December 27 for electronics (and TVs and computers at Home Depot), February 25, 2027 for most other items at both stores."
+      },
+      {
+        "q": "The price dropped after I bought it: should I return the item?",
+        "a": "Not necessarily. Some stores refund the difference within a set period; see our guide to [price adjustments after purchase](/en/blog/price-adjustment-after-purchase)."
+      }
+    ],
+    "ctaTitle": "Keep proof of your Black Friday purchases",
+    "ctaBody": "Scan your receipts when you get home: ReFound keeps a readable copy, shows an estimated return deadline and your items' warranty when available.",
+    "relatedTitle": "Further reading",
+    "related": [
+      {
+        "label": "Canadian Tire return policy",
+        "href": "/en/blog/canadian-tire-return-policy",
+        "desc": "Time limits, receipts and warranties."
+      },
+      {
+        "label": "Home Depot return policy",
+        "href": "/en/blog/home-depot-return-policy",
+        "desc": "Time limits, exceptions and warranties."
+      },
+      {
+        "label": "Price adjustment after purchase",
+        "href": "/en/blog/price-adjustment-after-purchase",
+        "desc": "When the price drops after Black Friday."
+      },
+      {
+        "label": "Returns without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What four large retailers allow."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "factCheckLabel": "Facts checked on November 25, 2026",
+    "sources": [
+      {
+        "label": "Return and exchange policy",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/en/customer-service/returns.html",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Return policy (French-language page)",
+        "publisher": "Home Depot Canada",
+        "url": "https://www.homedepot.ca/fr/accueil/service-a-la-clientele/politique-de-retour-des-marchandises.html",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Refund and exchange",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/business-practices-and-consumer-concerns/refund-and-exchange",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Legal warranties that apply to all goods",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/warranties/applying-warranty/application-legal-warranties/",
+        "accessed": "2026-11-25"
+      },
+      {
+        "label": "Clothing: legal warranties",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/goods/clothing/legal-warrantie/",
+        "accessed": "2026-11-25"
+      }
+    ]
+  }
+}

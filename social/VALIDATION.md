@@ -130,3 +130,11 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **Une date de début (« depuis le 5 octobre 2026 ») inquiète ceux qui ont acheté avant** : dire tout de suite ce qui s'applique alors (« Acheté avant? La durée raisonnable s'applique »).
 - **Une diapo de magasins seule n'apprend rien** : les magasins vont en sous-ligne de l'étape « Allez au magasin ».
 - Encore demandé par les trois : un visuel autre que du texte sur fond noir (reçu effacé, capture de l'app à la dernière diapo).
+
+## Leçons du neuvième essai (25 novembre 2026, `retour-article-en-solde` : 6 / 5 / 6,5 → 7,5 / 7 / 8)
+- **Un code de reçu surligné en diapo 1 (« EQ.H.R RW 4P 21 ») a mêlé les trois** quand le sujet n'est pas le reçu mais l'étiquette : ils cherchaient le lien. Un gros chiffre-énigme (« 3 mots ») a mieux arrêté, sans donner la réponse.
+- **Une diapo sur un cas d'un seul magasin (« gratuit avec achat » chez Home Depot) a été jugée trop pointue par les trois** : la garder dans l'article.
+- **Nommer le magasin sur chaque date** (« 30 jours · Canadian Tire ») ; l'exemple concret en tête de ligne (« Télé, écouteurs : 27 déc. »).
+- **La garantie légale marche quand on dit le geste** : « rapportez-le au magasin avec le reçu : demandez réparation, échange ou remboursement ».
+- **Ne pas retirer de la fin ce que l'app fait de plus qu'une photo** (date limite de retour estimée) : sans elle, « ma galerie fait déjà ça ».
+- Encore demandé : Walmart, Costco, Best Buy, RONA (pages non vérifiables ce jour-là), une capture de l'app, du tutoiement sur TikTok.

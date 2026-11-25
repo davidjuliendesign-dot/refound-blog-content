@@ -142,6 +142,21 @@ const JOBS = {
         row('walmart', 4, '1 year', 'manufacturer · ends May 26, 2027', 'var(--green)'), row('walmart', 6, 'Return', 'until August 24, 2026', 'var(--gold)')],
       src: 'Data: real Walmart receipt scanned with ReFound (warranties when the information is available; manufacturer terms apply) · deadline from the general 90-day policy' }) },
   // Princess Auto : pas de garantie dans le kit ; badge = prix payé (sert à juger la « durée raisonnable » de la garantie légale).
+  'retour-article-en-solde': {
+    file: 'recu-reel', slug: 'canadian-tire',
+    fr: () => ({ eyebrow: 'Un reçu réel Canadian Tire · acheté le 3 mai 2026 · 17 lignes', title: 'Le reçu prouve la date et le prix. Pas le produit ni la garantie.',
+      head: ['<b>Ligne imprimée</b> → <b>produit identifié par ReFound</b> → <b>garantie</b>', 'Retour estimé : <span class="g"><b>1er août 2026</b></span>'],
+      rows: [row('canadian-tire', 11, '1 an', 'fabricant · 24,99 $', 'var(--green)'), row('canadian-tire', 15, '1 an', 'fabricant · 59,99 $', 'var(--green)'),
+        row('canadian-tire', 0, 'Fabricant', 'voir les détails · 14,99 $', 'var(--green)'),
+        Object.assign(row('canadian-tire', 0, 'Retour', 'jusqu’au 1er août 2026', 'var(--gold)'), { printed: 'Tout le reçu', name: '90 jours après l’achat, estimation de l’app', photo: null })],
+      src: 'Données : reçu réel Canadian Tire numérisé avec ReFound · garantie quand l’information est disponible, conditions du fabricant · délai de retour général de 90 jours (canadiantire.ca, vérifié le 25 novembre 2026)' }),
+    en: () => ({ eyebrow: 'A real Canadian Tire receipt · bought May 3, 2026 · 17 lines', title: 'The receipt proves the date and price. Not the product or the warranty.',
+      head: ['<b>Printed line</b> → <b>product identified by ReFound</b> → <b>warranty</b>', 'Estimated return deadline: <span class="g"><b>August 1, 2026</b></span>'],
+      rows: [Object.assign(row('canadian-tire', 11, '1 year', 'manufacturer · $24.99', 'var(--green)'), { name: 'Energizer MAX AA alkaline batteries, 24-pack' }),
+        Object.assign(row('canadian-tire', 15, '1 year', 'manufacturer · $59.99', 'var(--green)'), { name: 'Road Warrior street hockey goalie pads, glove and blocker, youth, right-handed, 21 in.' }),
+        Object.assign(row('canadian-tire', 0, 'Manufacturer', 'see details · $14.99', 'var(--green)'), { name: 'VIC Fused wood street hockey stick, youth, 40 in.' }),
+        Object.assign(row('canadian-tire', 0, 'Return', 'until August 1, 2026', 'var(--gold)'), { printed: 'Whole receipt', name: '90 days after purchase, the app’s estimate', photo: null })],
+      src: 'Data: real Canadian Tire receipt scanned with ReFound; product names translated from the merchant’s French pages · warranty when the information is available, manufacturer terms apply · general 90-day return window (canadiantire.ca, checked November 25, 2026)' }) },
   'politique-retour-princess-auto': {
     file: 'recu-reel', slug: 'princess-auto',
     fr: () => ({ eyebrow: 'Un reçu réel Princess Auto · acheté le 14 septembre 2025 · 9 lignes', title: '« BOX AMMO » : ce n’est pas une boîte de munitions',
