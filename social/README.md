@@ -1,9 +1,11 @@
 # Carrousels pour les médias sociaux
 
-Un carrousel par article publié, dans `social/<slug>/`. La routine le planifie dans Metricool
-(Facebook, Instagram, TikTok), au meilleur créneau de chaque réseau, jamais en publication
-immédiate : David reçoit le contenu le matin et peut annuler ou modifier dans Metricool. Sans
-Metricool, rien n'est publié : David les publie lui-même.
+Un carrousel par article publié, dans `social/<slug>/`. Depuis le 26 novembre 2026, la routine le planifie
+dans **Buffer** (plan gratuit : Facebook, Instagram, TikTok ; 10 publications en attente par réseau),
+à heure fixe (Facebook 10 h, Instagram 12 h, TikTok 18 h, heure de Toronto), jamais en publication
+immédiate : David peut annuler ou modifier dans Buffer. Metricool n'est plus utilisé (forfait gratuit de
+20 publications par mois épuisé). Les mentions de Metricool plus bas (musique TikTok, JPEG) datent de
+cette période.
 
 Ce guide résume ce qui augmente la portée d'un carrousel en 2026 (recherche du 18 novembre 2026,
 sources en bas). Aucune règle ne garantit la viralité : on optimise les signaux que les plateformes
