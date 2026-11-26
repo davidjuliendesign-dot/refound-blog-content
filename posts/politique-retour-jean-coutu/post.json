@@ -1,0 +1,881 @@
+{
+  "schemaVersion": 1,
+  "slug": "politique-retour-jean-coutu",
+  "frPath": "/blog/politique-retour-jean-coutu",
+  "enPath": "/en/blog/jean-coutu-return-policy",
+  "datePublished": "2026-11-26T09:00:00-05:00",
+  "dateModified": "2026-11-26T09:00:00-05:00",
+  "lastFactCheck": "2026-11-26",
+  "cover": {
+    "src": "/images/blog/politique-retour-jean-coutu/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "dates-limites-fr.png",
+    "dates-limites-en.png",
+    "comparaison-pharmacies-fr.png",
+    "comparaison-pharmacies-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Politique de retour Jean Coutu : 30 jours, exclusions | ReFound",
+    "metaDescription": "30 jours avec le reçu original, papier ou courriel, dans n'importe quelle PJC. Les exclusions, les cadeaux des Fêtes, Proxim et Rexall, et après 30 jours.",
+    "keywords": "politique de retour Jean Coutu, retour Jean Coutu, échange Jean Coutu, remboursement Jean Coutu, retour cadeau Jean Coutu, politique de retour Proxim, politique de retour pharmacie, garantie légale Québec",
+    "category": "Guide",
+    "date": "26 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Politique de retour Jean Coutu",
+    "eyebrow": "Retours",
+    "h1": "Politique de retour Jean Coutu : 30 jours, exclusions et cadeaux des Fêtes",
+    "card": {
+      "title": "Politique de retour Jean Coutu : 30 jours, exclusions et cadeaux (2026)",
+      "subtitle": "Ce qu'on peut rapporter, ce qu'on ne peut pas, les vraies dates limites des cadeaux, et la comparaison avec Proxim et Rexall."
+    },
+    "coverAlt": "Boîte-cadeau et reçu de pharmacie : un achat du 27 novembre 2026 se retourne jusqu'au 27 décembre 2026, 30 jours plus tard",
+    "intro": [
+      "Réponse courte : chez Jean Coutu, la plupart des produits achetés en magasin peuvent être échangés ou remboursés **dans les 30 jours**, dans n'importe quelle PJC, avec le **reçu original (papier ou courriel)**. Le produit doit être revendable et dans son emballage d'origine. Les ventes finales, les produits en liquidation, les produits d'hygiène, les sous-vêtements, les cartes-cadeaux et les médicaments d'ordonnance ne sont ni repris ni échangés.",
+      "Ce guide ajoute ce que la page officielle ne dit pas : les dates limites réelles d'un cadeau acheté entre la mi-novembre et Noël (un achat du Vendredi fou se retourne jusqu'au 27 décembre), la comparaison avec Proxim et Rexall, et vos recours quand un appareil brise après les 30 jours.",
+      "Politique vérifiée sur jeancoutu.com le 26 novembre 2026 (page consultée en anglais). Elle peut changer : la page officielle et votre pharmacie ont le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Quelle est la politique de retour de Jean Coutu?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Jean Coutu accepte l'échange ou le remboursement de la plupart des produits achetés en magasin pendant 30 jours, sauf les ventes finales. Le retour peut se faire dans la PJC de votre choix, pas seulement celle où vous avez acheté."
+          },
+          {
+            "type": "table",
+            "caption": "Conditions de retour chez Jean Coutu (achats en magasin)",
+            "headers": [
+              "Règle",
+              "Ce que dit la politique"
+            ],
+            "rows": [
+              [
+                "Délai",
+                "30 jours, pour la plupart des produits"
+              ],
+              [
+                "Où",
+                "Dans la PJC de votre choix"
+              ],
+              [
+                "Preuve",
+                "Reçu original, papier ou courriel"
+              ],
+              [
+                "État du produit",
+                "Revendable, dans son emballage d'origine"
+              ],
+              [
+                "Livres, CD, DVD, logiciels, jeux vidéo",
+                "Emballage d'origine non ouvert (droits d'auteur)"
+              ],
+              [
+                "Remboursement",
+                "Sur le mode de paiement d'origine, ou en carte-cadeau Jean Coutu"
+              ],
+              [
+                "Pièce d'identité",
+                "Une pièce d'identité avec photo peut être demandée"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La politique ne précise pas le point de départ du délai ; nous comptons à partir de la date d'achat imprimée sur le reçu. Elle ne prévoit pas de reçu-cadeau ni de règle particulière pour les Fêtes : nous n'en avons trouvé aucune mention sur la page le 26 novembre 2026."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Une commande « achetez en ligne, ramassez en magasin »?",
+            "text": "Jean Coutu applique alors la politique de retour du magasin. Le retour se fait à la pharmacie où vous avez ramassé la commande, et le crédit va sur la carte utilisée pour commander."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que Jean Coutu ne reprend pas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Certains produits ne sont ni échangés ni remboursés chez Jean Coutu, même avec le reçu et dans les 30 jours. La liste officielle :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Cartes-cadeaux et cartes prépayées",
+              "Produits en liquidation",
+              "Revues et journaux",
+              "Sous-vêtements",
+              "Produits d'hygiène",
+              "Produits de santé sexuelle",
+              "Produits orthopédiques et de soins de santé à domicile",
+              "Produits visés par la Loi sur la pharmacie : médicaments d'ordonnance et certains médicaments en vente libre"
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "« Produits d'hygiène » : demandez avant d'acheter",
+            "text": "La politique ne définit pas ce qu'elle range dans les produits d'hygiène. Pour un cadeau qui pourrait entrer dans cette catégorie, demandez au comptoir s'il sera repris, avant de payer. Un parfum ou un coffret, lui, doit de toute façon revenir revendable, dans son emballage d'origine."
+          },
+          {
+            "type": "p",
+            "text": "Deux autres règles surprennent souvent. Un **cadeau avec achat** doit être rapporté, inutilisé, pour obtenir le remboursement de l'achat. Et si vous avez payé avec des **points Moi**, leur valeur vous est remise en carte-cadeau Jean Coutu, pas redéposée dans votre compte ; les points gagnés sur l'achat sont retirés."
+          }
+        ]
+      },
+      {
+        "heading": "Cadeaux des Fêtes : les vraies dates limites",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un cadeau acheté chez Jean Coutu se retourne dans les 30 jours suivant l'achat, pas 30 jours après Noël. Tout achat fait avant le 25 novembre a donc une date limite qui tombe avant le 25 décembre. Voici les dates calculées pour quatre jours d'achat :"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-jean-coutu/dates-limites-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Graphique à l'échelle : un cadeau acheté chez Jean Coutu le 15 novembre se retourne jusqu'au 15 décembre, le 27 novembre jusqu'au 27 décembre, le 10 décembre jusqu'au 9 janvier, le 24 décembre jusqu'au 23 janvier",
+            "caption": "Calcul ReFound : date d'achat + 30 jours. Politique de jeancoutu.com vérifiée le 26 novembre 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Dernier jour pour retourner un cadeau acheté chez Jean Coutu (calcul : date d'achat + 30 jours)",
+            "headers": [
+              "Date d'achat",
+              "Date limite",
+              "Ce que ça veut dire"
+            ],
+            "rows": [
+              [
+                "15 novembre 2026",
+                "15 décembre 2026",
+                "Fini avant Noël"
+              ],
+              [
+                "27 novembre 2026 (Vendredi fou)",
+                "27 décembre 2026",
+                "2 jours après Noël"
+              ],
+              [
+                "10 décembre 2026",
+                "9 janvier 2027",
+                "Deux semaines après Noël"
+              ],
+              [
+                "24 décembre 2026",
+                "23 janvier 2027",
+                "Le plus de marge"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le 27 décembre 2026 est un dimanche. Si la pharmacie de la personne qui reçoit le cadeau a des heures réduites ce jour-là, mieux vaut y aller avant. Nous avons compté 30 jours de calendrier à partir de la date d'achat ; la politique ne précise pas si le jour de l'achat compte, alors ne visez pas la dernière journée."
+          },
+          {
+            "type": "h3",
+            "text": "Qui peut faire le retour?"
+          },
+          {
+            "type": "p",
+            "text": "La politique ne parle pas de reçu-cadeau. Ce qu'elle exige, c'est le **reçu original**, papier ou courriel, et le remboursement va sur le mode de paiement d'origine ou en carte-cadeau ; un achat payé par carte de crédit est remboursé sur cette même carte. Si la personne qui reçoit le cadeau veut l'échanger, elle aura besoin du reçu, et un remboursement sur votre carte n'est possible que si vous êtes là avec elle. Demandez au comptoir comment la pharmacie traite ce cas : la politique ne le précise pas."
+          }
+        ]
+      },
+      {
+        "heading": "Jean Coutu, Proxim, Rexall : ce qui change d'une pharmacie à l'autre",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Les trois chaînes donnent 30 jours, mais pas au même endroit ni de la même façon. La différence la plus utile pour un cadeau : Jean Coutu accepte le retour dans n'importe quelle PJC, alors que Proxim exige le magasin d'achat."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-jean-coutu/comparaison-pharmacies-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Tableau comparatif des politiques de retour de Jean Coutu, Proxim et Rexall : 30 jours partout ; retour dans n'importe quelle PJC, au magasin d'achat seulement chez Proxim, au Rexall le plus près ; reçu original exigé partout",
+            "caption": "Politiques publiées par Jean Coutu, Proxim et Rexall, vérifiées le 26 novembre 2026 (pages consultées en anglais)."
+          },
+          {
+            "type": "table",
+            "caption": "Politiques de retour de trois chaînes de pharmacies (vérifiées le 26 novembre 2026)",
+            "headers": [
+              "",
+              "Jean Coutu",
+              "Proxim",
+              "Rexall"
+            ],
+            "rows": [
+              [
+                "Délai",
+                "30 jours",
+                "30 jours à partir de l'achat",
+                "30 jours à partir de l'achat"
+              ],
+              [
+                "Où",
+                "N'importe quelle PJC",
+                "Au magasin d'achat",
+                "Le Rexall le plus près"
+              ],
+              [
+                "Reçu",
+                "Original, papier ou courriel",
+                "Original seulement, pas de photocopie",
+                "Reçu de caisse original"
+              ],
+              [
+                "Remboursement",
+                "Mode de paiement d'origine ou carte-cadeau",
+                "Mode de paiement d'origine (comptant, débit, crédit)",
+                "Même mode de paiement ; sinon carte-cadeau Rexall au plus bas prix annoncé"
+              ],
+              [
+                "Échange",
+                "Oui, dans les 30 jours",
+                "Seulement si le produit est défectueux",
+                "Remplacement équivalent dans les 30 jours"
+              ],
+              [
+                "Marques maison",
+                "—",
+                "Satisfaction garantie à 100 % (échange ou remboursement)",
+                "Satisfaction garantie à 100 % sur ses marques, avec le reçu"
+              ],
+              [
+                "Exclusions communes",
+                "Liquidation, cartes-cadeaux, cartes prépayées, ordonnances",
+                "Liquidation, cartes-cadeaux, cartes prépayées, médicaments, commandes spéciales",
+                "Liquidation, cartes-cadeaux, ordonnances, billets de loterie, timbres"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Proxim exclut aussi les sous-vêtements, les supports orthopédiques, les préparations pour nourrissons, les tire-lait et les bijoux de perçage. Chez Rexall, la direction peut refuser un remboursement ou un échange à sa discrétion, et d'autres exclusions peuvent s'appliquer."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Et Pharmaprix?",
+            "text": "La politique de retour de Pharmaprix (Shoppers Drug Mart) n'était pas consultable en ligne au moment de notre vérification. Demandez-la au comptoir avant d'acheter un cadeau."
+          }
+        ]
+      },
+      {
+        "heading": "Après 30 jours : un appareil qui brise",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Après 30 jours, vous ne pouvez plus rapporter un produit parce qu'il ne vous plaît pas, mais un produit défectueux reste couvert. Au Canada, une entreprise n'est pas obligée de reprendre un article, à moins qu'il soit défectueux, rappelle le Bureau de la consommation du gouvernement fédéral."
+          },
+          {
+            "type": "h3",
+            "text": "Ce que disent les pharmacies"
+          },
+          {
+            "type": "p",
+            "text": "La politique de Jean Coutu ne parle pas des produits défectueux. Celle de Proxim est plus précise : un produit défectueux s'échange seulement, et un appareil électronique ou électrique avec un défaut de fabrication s'échange en magasin, avec la facture, pendant moins d'un an ; après un an, il faut contacter le fabricant."
+          },
+          {
+            "type": "h3",
+            "text": "Au Québec : la garantie légale"
+          },
+          {
+            "type": "p",
+            "text": "Au Québec, la Loi sur la protection du consommateur prévoit des garanties légales qui s'appliquent automatiquement et sans frais. L'une d'elles porte sur la durée : un bien doit pouvoir servir à un usage normal pendant une durée raisonnable. Pour un sèche-cheveux, un fer à friser ou une brosse à dents électrique offerts en cadeau, cette garantie continue bien après les 30 jours du magasin."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**À qui s'adresser :** au commerçant, au fabricant ou aux deux. Un commerçant ne peut pas vous obliger à vous adresser au fabricant, précise l'Office de la protection du consommateur (OPC).",
+              "**Ce que vous pouvez obtenir :** une réparation, un échange ou un remboursement, selon le cas.",
+              "**Combien de temps :** une « durée raisonnable », qui dépend notamment du prix. L'OPC donne l'exemple d'un four à micro-ondes de 70 $, dont on ne peut pas attendre la même durée qu'un modèle semblable de 200 $.",
+              "**La garantie de bon fonctionnement** (depuis le 5 octobre 2026) vise seulement 14 appareils : gros électroménagers, climatiseur, thermopompe, téléviseur, ordinateur, console, cellulaire et tablette. Les petits appareils de soins personnels n'en font pas partie ; c'est la garantie de durée raisonnable qui les couvre."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Dans tous les cas, le reçu prouve deux choses dont vous aurez besoin : la date d'achat et le prix payé. Voyez [comment faire une réclamation de garantie](/blog/reclamation-garantie) et [ce que couvre la garantie de bon fonctionnement](/blog/garantie-bon-fonctionnement-quebec)."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que le reçu ne règle pas tout seul",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le reçu Jean Coutu est la seule preuve acceptée pour un retour, mais il pose trois problèmes concrets : le papier thermique pâlit, le reçu par courriel se perd dans la boîte de réception, et rien ne vous rappelle quelle carte a servi au paiement, alors que le remboursement doit y retourner."
+          },
+          {
+            "type": "p",
+            "text": "L'app ReFound aide sur ces trois points, sans remplacer le reçu original que Jean Coutu exige :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Une copie lisible :** vous prenez le reçu en photo en rentrant (ou vous l'importez depuis la galerie) ; la date, le total, les taxes, le mode de paiement et les articles sont extraits.",
+              "**La bonne carte :** vous associez un nom aux 4 derniers chiffres de chaque carte, en indiquant s'il s'agit de la carte physique ou d'Apple Pay / Google Pay. Au comptoir, vous savez laquelle présenter.",
+              "**Le bon reçu, vite :** la recherche parmi vos reçus (magasin, date, montant) est gratuite, et le mode retour affiche la photo du reçu, le mode de paiement et la liste des articles.",
+              "**Le partage :** vous pouvez envoyer un reçu à la personne qui fera l'échange, un reçu à la fois. Elle saura la date et le prix, mais la politique de Jean Coutu exige quand même le reçu original."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Vous pouvez numériser les reçus de n'importe quel marchand, dont Jean Coutu. L'information produit plus riche (nom réel du produit, image, garantie) dépend du marchand et des données disponibles ; Jean Coutu ne fait pas partie des marchands optimisés de ReFound."
+          }
+        ]
+      },
+      {
+        "heading": "Comment préparer un retour chez Jean Coutu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un retour chez Jean Coutu se prépare en cinq gestes, idéalement bien avant le 30e jour."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez la date d'achat sur le reçu et comptez 30 jours.",
+              "Vérifiez que le produit n'est pas sur la liste des exclusions (hygiène, sous-vêtements, liquidation, cartes-cadeaux, médicaments).",
+              "Remettez le produit dans son emballage d'origine, revendable ; un livre, un DVD ou un jeu vidéo doit être encore scellé.",
+              "Apportez le reçu original, papier ou courriel, et la carte qui a servi au paiement ; ayez une pièce d'identité avec photo.",
+              "Rapportez aussi le cadeau avec achat, s'il y en avait un, inutilisé."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien de jours pour retourner un article chez Jean Coutu?",
+        "a": "30 jours pour la plupart des produits achetés en magasin, avec le reçu original (papier ou courriel), sauf les ventes finales et les produits exclus."
+      },
+      {
+        "q": "Peut-on retourner un article Jean Coutu sans reçu?",
+        "a": "La politique exige le reçu original, papier ou courriel. Elle ne prévoit pas de retour sans reçu ; si vous l'avez perdu, voyez notre guide sur le [retour sans reçu](/blog/retour-sans-recu) et demandez à la pharmacie."
+      },
+      {
+        "q": "Peut-on retourner un produit dans une autre pharmacie Jean Coutu?",
+        "a": "Oui : la politique permet l'échange ou le remboursement dans la PJC de votre choix. Chez Proxim, au contraire, le retour se fait au magasin d'achat."
+      },
+      {
+        "q": "Jean Coutu prolonge-t-il le délai de retour pour les Fêtes?",
+        "a": "Sa politique ne mentionne aucune prolongation des Fêtes (vérifié le 26 novembre 2026). Un cadeau acheté le 27 novembre se retourne donc jusqu'au 27 décembre 2026."
+      },
+      {
+        "q": "Peut-on retourner un produit de beauté ouvert chez Jean Coutu?",
+        "a": "Le produit doit être revendable et dans son emballage d'origine, et les produits d'hygiène sont exclus. Un produit ouvert risque donc d'être refusé ; s'il est défectueux, la garantie légale du Québec peut s'appliquer."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus de pharmacie lisibles jusqu'au retour",
+    "ctaBody": "Prenez le reçu en photo en rentrant : ReFound garde une copie lisible, le mode de paiement et la liste des articles, pour retrouver le bon reçu avant la date limite.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Retourner un cadeau de Noël",
+        "href": "/blog/retourner-cadeau-noel",
+        "desc": "Reçu-cadeau et dates limites dans les grands magasins."
+      },
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce qu'on peut faire quand le reçu est perdu."
+      },
+      {
+        "label": "Réclamation de garantie",
+        "href": "/blog/reclamation-garantie",
+        "desc": "À qui s'adresser, quoi apporter."
+      },
+      {
+        "label": "Application pour les retours",
+        "href": "/application-retours-magasin",
+        "desc": "Retrouver le bon reçu au comptoir."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Return Policy (instore purchases) (page consultée en anglais)",
+        "publisher": "Jean Coutu",
+        "url": "https://jeancoutu.com/en/customer-service/return-policy-instore",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Buy online, pick up in store (page consultée en anglais)",
+        "publisher": "Jean Coutu",
+        "url": "https://jeancoutu.com/en/customer-service/click-and-collect",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Return Policy (page consultée en anglais)",
+        "publisher": "Groupe Proxim",
+        "url": "https://www.groupeproxim.ca/en/return-policy",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Return Policy (page en anglais)",
+        "publisher": "Rexall",
+        "url": "https://www.rexall.ca/return-policy",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Remboursements et échanges",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Garanties légales (petits électroménagers)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/bien-service/bien-consommation/petit-electromenager/garantie/garanties-legales",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Nouvelles protections : garantie légale de bon fonctionnement",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 26 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Jean Coutu Return Policy: 30 Days, Exclusions, Gifts | ReFound",
+    "metaDescription": "30 days with the original receipt, paper or email, at any PJC store. Exclusions, holiday gift deadlines, Proxim and Rexall, and what to do after 30 days.",
+    "keywords": "Jean Coutu return policy, Jean Coutu returns, Jean Coutu exchange, Jean Coutu refund, return gift Jean Coutu, Proxim return policy, Rexall return policy, pharmacy return policy, Quebec legal warranty",
+    "category": "Guide",
+    "date": "November 26, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Jean Coutu return policy",
+    "eyebrow": "Returns",
+    "h1": "Jean Coutu Return Policy: 30 Days, Exclusions and Holiday Gifts",
+    "card": {
+      "title": "Jean Coutu Return Policy: 30 Days, Exclusions and Gifts (2026)",
+      "subtitle": "What you can bring back, what you cannot, real gift deadlines, and how Proxim and Rexall compare."
+    },
+    "coverAlt": "Gift box and pharmacy receipt: a purchase made November 27, 2026 can be returned until December 27, 2026, 30 days later",
+    "intro": [
+      "Short answer: at Jean Coutu, most products bought in store can be exchanged or refunded **within 30 days**, at any PJC store, with the **original receipt (paper or email)**. The product must be fit for resale and in its original packaging. Final sales, clearance products, hygiene products, underwear, gift cards and prescriptions cannot be returned or exchanged.",
+      "This guide adds what the official page does not spell out: the real deadlines for a gift bought between mid-November and Christmas (a Black Friday purchase can be returned until December 27), how Proxim and Rexall compare, and your options when a device breaks after 30 days.",
+      "Policy checked on jeancoutu.com on November 26, 2026. It can change: the official page and your pharmacy have the final say."
+    ],
+    "sections": [
+      {
+        "heading": "What is the Jean Coutu return policy?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Jean Coutu exchanges or refunds most products bought in store for 30 days, except final sales. You can return them at the PJC store of your choice, not only the one where you bought them."
+          },
+          {
+            "type": "table",
+            "caption": "Jean Coutu return conditions (in-store purchases)",
+            "headers": [
+              "Rule",
+              "What the policy says"
+            ],
+            "rows": [
+              [
+                "Time limit",
+                "30 days, for most products"
+              ],
+              [
+                "Where",
+                "At the PJC store of your choice"
+              ],
+              [
+                "Proof",
+                "Original receipt, paper or email"
+              ],
+              [
+                "Condition",
+                "Fit for resale, in its original packaging"
+              ],
+              [
+                "Books, CDs, DVDs, software, video games",
+                "Original packaging unopened (copyright)"
+              ],
+              [
+                "Refund",
+                "To the original payment method, or on a Jean Coutu gift card"
+              ],
+              [
+                "ID",
+                "Valid photo ID may be required"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The policy does not say when the 30 days start; we count from the purchase date printed on the receipt. It does not mention gift receipts or a holiday rule: we found no such mention on the page on November 26, 2026."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Bought online and picked up in store?",
+            "text": "Jean Coutu then applies the store return policy. Returns go to the pharmacy where you picked up the order, and the credit goes to the card used to place it."
+          }
+        ]
+      },
+      {
+        "heading": "What Jean Coutu will not take back",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Some products cannot be exchanged or refunded at Jean Coutu, even with the receipt and within 30 days. The official list:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Gift cards and prepaid cards",
+              "Clearance products",
+              "Magazines and newspapers",
+              "Underwear",
+              "Hygiene products",
+              "Sexual health products",
+              "Orthopedic and home healthcare products",
+              "Products covered under the Pharmacy Act: prescriptions and certain over-the-counter medication"
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "\"Hygiene products\": ask before you buy",
+            "text": "The policy does not define what it counts as a hygiene product. For a gift that might fall into that category, ask at the counter whether it can be returned before you pay. A fragrance or gift set must in any case come back fit for resale, in its original packaging."
+          },
+          {
+            "type": "p",
+            "text": "Two other rules often catch people. A **gift with purchase** must be returned, unused, to get a refund on the purchase. And if you paid with **Moi points**, their value comes back on a Jean Coutu gift card, not into your account; points earned on the purchase are deducted."
+          }
+        ]
+      },
+      {
+        "heading": "Holiday gifts: the real deadlines",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A gift bought at Jean Coutu must be returned within 30 days of purchase, not 30 days after Christmas. Anything bought before November 25 has a deadline that falls before December 25. Here are the dates for four purchase days:"
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-jean-coutu/dates-limites-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Chart to scale: a gift bought at Jean Coutu on November 15 can be returned until December 15, on November 27 until December 27, on December 10 until January 9, on December 24 until January 23",
+            "caption": "ReFound calculation: purchase date + 30 days. jeancoutu.com policy checked November 26, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Last day to return a gift bought at Jean Coutu (calculation: purchase date + 30 days)",
+            "headers": [
+              "Purchase date",
+              "Deadline",
+              "What it means"
+            ],
+            "rows": [
+              [
+                "November 15, 2026",
+                "December 15, 2026",
+                "Over before Christmas"
+              ],
+              [
+                "November 27, 2026 (Black Friday)",
+                "December 27, 2026",
+                "2 days after Christmas"
+              ],
+              [
+                "December 10, 2026",
+                "January 9, 2027",
+                "Two weeks after Christmas"
+              ],
+              [
+                "December 24, 2026",
+                "January 23, 2027",
+                "The most room"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "December 27, 2026 is a Sunday. If the recipient's pharmacy has reduced hours that day, go earlier. We counted 30 calendar days from the purchase date; the policy does not say whether the purchase day counts, so don't aim for the last day."
+          },
+          {
+            "type": "h3",
+            "text": "Who can make the return?"
+          },
+          {
+            "type": "p",
+            "text": "The policy says nothing about gift receipts. What it requires is the **original receipt**, paper or email, and the refund goes to the original payment method or on a gift card; a credit card purchase is refunded to that same card. If the person who received the gift wants to exchange it, they will need the receipt, and a refund to your card is only possible if you are there with them. Ask at the counter how the pharmacy handles this: the policy does not say."
+          }
+        ]
+      },
+      {
+        "heading": "Jean Coutu, Proxim, Rexall: how the pharmacies differ",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "All three chains give 30 days, but not at the same place or in the same way. The most useful difference for a gift: Jean Coutu accepts returns at any PJC store, while Proxim requires the store of purchase."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/politique-retour-jean-coutu/comparaison-pharmacies-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Comparison of Jean Coutu, Proxim and Rexall return policies: 30 days everywhere; returns at any PJC store, at the store of purchase only at Proxim, at your nearest Rexall; original receipt required everywhere",
+            "caption": "Policies published by Jean Coutu, Proxim and Rexall, checked November 26, 2026."
+          },
+          {
+            "type": "table",
+            "caption": "Return policies of three pharmacy chains (checked November 26, 2026)",
+            "headers": [
+              "",
+              "Jean Coutu",
+              "Proxim",
+              "Rexall"
+            ],
+            "rows": [
+              [
+                "Time limit",
+                "30 days",
+                "30 days from purchase",
+                "30 days from purchase"
+              ],
+              [
+                "Where",
+                "Any PJC store",
+                "Store of purchase",
+                "Your nearest Rexall"
+              ],
+              [
+                "Receipt",
+                "Original, paper or email",
+                "Original only, no photocopies",
+                "Original sales receipt"
+              ],
+              [
+                "Refund",
+                "Original payment method or gift card",
+                "Original payment method (cash, debit, credit)",
+                "Same payment method; otherwise a Rexall gift card at the lowest advertised price"
+              ],
+              [
+                "Exchange",
+                "Yes, within 30 days",
+                "Only if the product is defective",
+                "Equivalent replacement within 30 days"
+              ],
+              [
+                "Store brands",
+                "—",
+                "100% satisfaction guaranteed (exchange or refund)",
+                "100% satisfaction guarantee on its brands, with the receipt"
+              ],
+              [
+                "Shared exclusions",
+                "Clearance, gift cards, prepaid cards, prescriptions",
+                "Clearance, gift cards, prepaid cards, medication, special orders",
+                "Clearance, gift cards, prescriptions, lottery tickets, stamps"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Proxim also excludes undergarments, orthopedic supports, baby formula, breast pumps and pierced jewellery. At Rexall, management may decline a refund or exchange at its discretion, and additional exclusions may apply."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "What about Shoppers Drug Mart?",
+            "text": "Shoppers Drug Mart's return policy could not be viewed online when we checked. Ask for it at the counter before buying a gift."
+          }
+        ]
+      },
+      {
+        "heading": "After 30 days: a device that breaks",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After 30 days, you can no longer return a product because you don't like it, but a defective product is still covered. In Canada, businesses are not obligated to accept returns unless the item is defective, the federal Office of Consumer Affairs notes."
+          },
+          {
+            "type": "h3",
+            "text": "What the pharmacies say"
+          },
+          {
+            "type": "p",
+            "text": "Jean Coutu's policy does not address defective products. Proxim's is more specific: a defective product is exchange only, and an electronic or electric device with a manufacturing defect is exchanged in store, with the invoice, for less than one year; after one year, you contact the manufacturer."
+          },
+          {
+            "type": "h3",
+            "text": "In Quebec: the legal warranty"
+          },
+          {
+            "type": "p",
+            "text": "In Quebec, the Consumer Protection Act provides legal warranties that apply automatically and free of charge. One covers durability: goods must serve for normal use for a reasonable period of time. For a hair dryer, curling iron or electric toothbrush given as a gift, this warranty continues well after the store's 30 days."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Who to contact:** the merchant, the manufacturer, or both. A merchant may not require you to deal with the manufacturer, says the Office de la protection du consommateur (OPC).",
+              "**What you can get:** a repair, an exchange or a refund, depending on the case.",
+              "**How long:** a \"reasonable period\", which depends in part on the price. The OPC gives the example of a $70 microwave, which cannot be expected to last as long as a similar $200 model.",
+              "**The warranty of good working order** (since October 5, 2026) covers only 14 devices: major appliances, air conditioners, heat pumps, TVs, computers, game consoles, cell phones and tablets. Small personal care devices are not on the list; the reasonable durability warranty covers them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Either way, the receipt proves two things you will need: the purchase date and the price paid. See [how to make a warranty claim](/en/blog/how-to-make-a-warranty-claim) and [what the warranty of good working order covers](/en/blog/quebec-warranty-of-good-working-order)."
+          }
+        ]
+      },
+      {
+        "heading": "What the receipt doesn't solve on its own",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The Jean Coutu receipt is the only proof accepted for a return, but it comes with three practical problems: thermal paper fades, email receipts get lost in the inbox, and nothing reminds you which card you paid with, even though the refund has to go back to it."
+          },
+          {
+            "type": "p",
+            "text": "The ReFound app helps with all three, without replacing the original receipt Jean Coutu requires:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**A readable copy:** snap the receipt when you get home (or import it from your photo gallery); the date, total, taxes, payment method and items are extracted.",
+              "**The right card:** you give a name to the last 4 digits of each card, and note whether it is the physical card or Apple Pay / Google Pay. At the counter, you know which one to show.",
+              "**The right receipt, fast:** searching your receipts (store, date, amount) is free, and return mode shows the receipt photo, the payment method and the list of items.",
+              "**Sharing:** you can send a receipt to the person making the exchange, one receipt at a time. They'll know the date and price, but Jean Coutu's policy still requires the original receipt."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "You can scan receipts from any merchant, including Jean Coutu. Richer product information (the product's real name, image, warranty) depends on the merchant and the data available; Jean Coutu is not one of ReFound's optimized merchants."
+          }
+        ]
+      },
+      {
+        "heading": "How to prepare a return at Jean Coutu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A Jean Coutu return takes five steps, ideally well before day 30."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Check the purchase date on the receipt and count 30 days.",
+              "Check that the product is not on the exclusion list (hygiene, underwear, clearance, gift cards, medication).",
+              "Put the product back in its original packaging, fit for resale; a book, DVD or video game must still be sealed.",
+              "Bring the original receipt, paper or email, and the card used to pay; have photo ID with you.",
+              "Bring back the gift with purchase too, if there was one, unused."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "How many days do you have to return an item at Jean Coutu?",
+        "a": "30 days for most products bought in store, with the original receipt (paper or email), except final sales and excluded products."
+      },
+      {
+        "q": "Can you return an item to Jean Coutu without a receipt?",
+        "a": "The policy requires the original receipt, paper or email. It does not provide for returns without one; if you lost it, see our guide on [returns without a receipt](/en/blog/return-without-receipt) and ask the pharmacy."
+      },
+      {
+        "q": "Can you return a product at a different Jean Coutu store?",
+        "a": "Yes: the policy allows exchanges or refunds at the PJC store of your choice. At Proxim, by contrast, returns go to the store of purchase."
+      },
+      {
+        "q": "Does Jean Coutu extend its return period for the holidays?",
+        "a": "Its policy mentions no holiday extension (checked November 26, 2026). A gift bought on November 27 can therefore be returned until December 27, 2026."
+      },
+      {
+        "q": "Can you return an opened beauty product at Jean Coutu?",
+        "a": "The product must be fit for resale and in its original packaging, and hygiene products are excluded. An opened product may therefore be refused; if it is defective, Quebec's legal warranty may apply."
+      }
+    ],
+    "ctaTitle": "Keep your pharmacy receipts readable until the return",
+    "ctaBody": "Snap the receipt when you get home: ReFound keeps a readable copy, the payment method and the list of items, so you can find the right receipt before the deadline.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "Returning Christmas gifts",
+        "href": "/en/blog/returning-christmas-gifts",
+        "desc": "Gift receipts and deadlines at major stores."
+      },
+      {
+        "label": "Returns without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What you can do when the receipt is lost."
+      },
+      {
+        "label": "Warranty claims",
+        "href": "/en/blog/how-to-make-a-warranty-claim",
+        "desc": "Who to contact, what to bring."
+      },
+      {
+        "label": "Returns app",
+        "href": "/en/returns-app",
+        "desc": "Find the right receipt at the counter."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Return Policy (instore purchases)",
+        "publisher": "Jean Coutu",
+        "url": "https://jeancoutu.com/en/customer-service/return-policy-instore",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Buy online, pick up in store",
+        "publisher": "Jean Coutu",
+        "url": "https://jeancoutu.com/en/customer-service/click-and-collect",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Return Policy",
+        "publisher": "Groupe Proxim",
+        "url": "https://www.groupeproxim.ca/en/return-policy",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Return Policy",
+        "publisher": "Rexall",
+        "url": "https://www.rexall.ca/return-policy",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Refund and exchange",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/business-practices-and-consumer-concerns/refund-and-exchange",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "Legal warranties (small appliances)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/good-service/goods/small-appliance/damaged/warrantie-by-law/",
+        "accessed": "2026-11-26"
+      },
+      {
+        "label": "New protections: warranty of good working order",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+        "accessed": "2026-11-26"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 26, 2026"
+  }
+}

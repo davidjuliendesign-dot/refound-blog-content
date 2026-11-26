@@ -138,3 +138,12 @@ puis 8, 7,5 et 8,5/10 après trois rondes. David a ensuite jugé le sujet trop p
 - **La garantie légale marche quand on dit le geste** : « rapportez-le au magasin avec le reçu : demandez réparation, échange ou remboursement ».
 - **Ne pas retirer de la fin ce que l'app fait de plus qu'une photo** (date limite de retour estimée) : sans elle, « ma galerie fait déjà ça ».
 - Encore demandé : Walmart, Costco, Best Buy, RONA (pages non vérifiables ce jour-là), une capture de l'app, du tutoiement sur TikTok.
+
+## Leçons du dixième essai (26 novembre 2026, `politique-retour-jean-coutu` : 4,5 / 3 / 6 → 7 / 5 / 8)
+- **Une pharmacie (Jean Coutu) rejoint Julie et Gilles par la personne qui y achète les petits cadeaux** (« je l'envoie à mon chum / ma femme »), pas Samuel : sous 7 après 3 rondes, donc **pas de TikTok** ce jour-là ; Facebook et Instagram seulement.
+- **« Qui fait le retour d'un cadeau? » est la question que les trois se posent** : y répondre franchement (« pas de reçu-cadeau prévu : donnez le reçu original, même si le prix y paraît ») a fait monter la confiance dans tout le carrousel.
+- **« Reçu original » puis « reçu en photo » se contredisent** tant qu'on ne dit pas le rôle de chacun : « La photo sert à le retrouver, l'original au comptoir. »
+- **Dire pourquoi la carte compte** (« la carte à présenter pour le remboursement ») ; sinon elle semble sortir de nulle part à la fin.
+- **La garantie légale se comprend avec « Passé 30 jours, … »** et « durer un temps raisonnable pour son prix » ; sans transition, elle a été jugée hors sujet.
+- **La question de la légende doit être liée au sujet** (« vos reçus : tiroir, portefeuille ou photo? ») : « qu'est-ce qui est sur votre liste? » a été jugée marketing.
+- Encore demandé par les trois : un visuel autre que du texte (capture de l'app, reçu dessiné) ; aucune capture adaptée (recherche) n'existe dans `tools/assets/`.
