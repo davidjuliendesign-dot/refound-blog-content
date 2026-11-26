@@ -207,7 +207,7 @@
             "type": "table",
             "caption": "Politiques de retour de trois chaînes de pharmacies (vérifiées le 26 novembre 2026)",
             "headers": [
-              "",
+              "Critère",
               "Jean Coutu",
               "Proxim",
               "Rexall"
@@ -637,7 +637,7 @@
             "type": "table",
             "caption": "Return policies of three pharmacy chains (checked November 26, 2026)",
             "headers": [
-              "",
+              "Rule",
               "Jean Coutu",
               "Proxim",
               "Rexall"
