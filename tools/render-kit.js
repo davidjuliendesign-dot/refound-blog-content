@@ -141,6 +141,25 @@ const JOBS = {
       rows: [row('walmart', 1, '1 year', 'manufacturer · ends May 26, 2027', 'var(--green)'), row('walmart', 2, '1 year', 'manufacturer · ends May 26, 2027', 'var(--green)'),
         row('walmart', 4, '1 year', 'manufacturer · ends May 26, 2027', 'var(--green)'), row('walmart', 6, 'Return', 'until August 24, 2026', 'var(--gold)')],
       src: 'Data: real Walmart receipt scanned with ReFound (warranties when the information is available; manufacturer terms apply) · deadline from the general 90-day policy' }) },
+  // Épicerie : quelles lignes d'un reçu Maxi la garantie fraîcheur couvrirait (catégories publiées le 15 oct. 2026).
+  'retour-epicerie-quebec': {
+    file: 'recu-reel', slug: 'maxi',
+    fr: () => ({ eyebrow: 'Un reçu réel Maxi & Cie · 44 lignes · acheté le 2 octobre 2026', title: 'Sur la même facture, des règles différentes selon la ligne',
+      head: ['<b>Ligne imprimée</b> → <b>produit identifié par ReFound</b> → <b>garantie fraîcheur Maxi</b>', 'Retour estimé par l’app : <span class="g"><b>1er novembre 2026</b></span>'],
+      rows: [row('maxi', 20, '7 jours', 'légume frais : visé', 'var(--green)'),
+        row('maxi', 28, 'Exclu', 'si surgelée (« SURG »)', 'var(--gold)'),
+        row('maxi', 11, 'Non visé', 'produit laitier', 'var(--muted)'),
+        row('maxi', 8, 'Non visé', 'épicerie', 'var(--muted)'),
+        Object.assign(row('maxi', 0, '30 jours', 'jusqu’au 1er novembre 2026', 'var(--muted)'), { printed: 'Tout le reçu', name: 'Estimation générale de l’app, pas la garantie fraîcheur', photo: null })],
+      src: 'Données : reçu réel Maxi & Cie (Gatineau) numérisé avec ReFound · catégories de la garantie fraîcheur Maxi, en vigueur depuis le 15 octobre 2026, soit après cet achat (Narcity, Les Maisons, Canadian Grocer, vérifié le 27 novembre 2026)' }),
+    en: () => ({ eyebrow: 'A real Maxi & Cie receipt · 44 lines · bought October 2, 2026', title: 'One receipt, different rules for each line',
+      head: ['<b>Printed line</b> → <b>product identified by ReFound</b> → <b>Maxi freshness guarantee</b>', 'App’s estimated return deadline: <span class="g"><b>November 1, 2026</b></span>'],
+      rows: [Object.assign(row('maxi', 20, '7 days', 'fresh vegetable: covered', 'var(--green)'), { name: 'Cucumber - Farmer’s Market' }),
+        row('maxi', 28, 'Excluded', 'if frozen (“SURG”)', 'var(--gold)'),
+        Object.assign(row('maxi', 11, 'Not covered', 'dairy product', 'var(--muted)'), { name: 'Laiterie de l’Outaouais (2% milk)' }),
+        row('maxi', 8, 'Not covered', 'pantry item', 'var(--muted)'),
+        Object.assign(row('maxi', 0, '30 days', 'until November 1, 2026', 'var(--muted)'), { printed: 'Whole receipt', name: 'The app’s general estimate, not the freshness guarantee', photo: null })],
+      src: 'Data: real Maxi & Cie receipt (Gatineau) scanned with ReFound · categories of Maxi’s freshness guarantee, in effect since October 15, 2026, i.e. after this purchase (Narcity, Les Maisons, Canadian Grocer, checked November 27, 2026)' }) },
   // Princess Auto : pas de garantie dans le kit ; badge = prix payé (sert à juger la « durée raisonnable » de la garantie légale).
   'retour-article-en-solde': {
     file: 'recu-reel', slug: 'canadian-tire',

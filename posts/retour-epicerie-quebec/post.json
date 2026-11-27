@@ -1,0 +1,847 @@
+{
+  "schemaVersion": 1,
+  "slug": "retour-epicerie-quebec",
+  "frPath": "/blog/retour-epicerie-quebec",
+  "enPath": "/en/blog/grocery-returns-quebec",
+  "datePublished": "2026-11-27T09:00:00-05:00",
+  "dateModified": "2026-11-27T09:00:00-05:00",
+  "lastFactCheck": "2026-11-27",
+  "cover": {
+    "src": "/images/blog/retour-epicerie-quebec/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "delais-fraicheur-fr.png",
+    "delais-fraicheur-en.png",
+    "recu-reel-fr.png",
+    "recu-reel-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Retour d'épicerie au Québec : fraîcheur, erreur de prix | ReFound",
+    "metaDescription": "Maxi : 7 jours pour la viande, le poisson, les fruits et légumes pas frais. Metro : 3 jours. Erreur de prix : l'article ou 15 $. Avec un vrai reçu Maxi.",
+    "keywords": "retour épicerie Québec, garantie fraîcheur Maxi, Maxi remboursement, garantie fraîcheur Metro, retourner de la nourriture épicerie, politique d'exactitude des prix, erreur de prix caisse 15 $, reçu épicerie, Maxi retour sans reçu",
+    "category": "Guide",
+    "date": "27 novembre 2026",
+    "readingTime": "8 min de lecture",
+    "breadcrumb": "Retour d'épicerie au Québec",
+    "eyebrow": "Retours",
+    "h1": "Retour d'épicerie au Québec : garantie fraîcheur, erreur de prix et reçu",
+    "card": {
+      "title": "Retour d'épicerie au Québec : fraîcheur, erreur de prix et reçu",
+      "subtitle": "Maxi 7 jours, Metro 3 jours, la règle des 15 $ à la caisse, et un vrai reçu Maxi analysé ligne par ligne."
+    },
+    "coverAlt": "Un reçu d'épicerie avec deux lignes surlignées, une pomme et des pastilles 7 et 3",
+    "intro": [
+      "Réponse courte : au Québec, une épicerie n'est pas obligée de reprendre un aliment parce que vous avez changé d'idée. Mais pour un produit frais qui déçoit, deux grandes chaînes ont une garantie : depuis le 15 octobre 2026, **Maxi** rembourse et remplace gratuitement la viande, le poisson, les fruits et les légumes frais rapportés dans les **7 jours** avec le reçu original, et **Metro** rembourse ses produits frais rapportés dans les **3 jours** avec le reçu, plus 10 % en crédit. Si la caisse vous a facturé plus cher que le prix affiché, la Politique d'exactitude des prix vous donne l'article (15 $ ou moins) ou 15 $ de rabais.",
+      "Ce guide ajoute ce que les annonces ne montrent pas : un vrai reçu Maxi & Cie de 44 lignes, analysé ligne par ligne, et les dates limites calculées pour un même panier chez Maxi, Metro et Loblaws.",
+      "Faits vérifiés le 27 novembre 2026. Les garanties des épiciers peuvent changer sans préavis : en cas de doute, le comptoir du magasin a le dernier mot."
+    ],
+    "sections": [
+      {
+        "heading": "Une épicerie est-elle obligée de reprendre un aliment?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non, pas si vous avez simplement changé d'idée. L'Office de la protection du consommateur (OPC) rappelle que la loi n'oblige pas un commerçant à rembourser ou à donner une note de crédit si vous avez changé d'idée ou acheté le mauvais produit : c'est la politique d'échange et de remboursement du commerçant qui s'applique."
+          },
+          {
+            "type": "p",
+            "text": "C'est différent pour un produit défectueux. Selon l'OPC, le commerçant est responsable des articles défectueux : il peut les remplacer ou les rembourser, et c'est lui qui choisit. L'OPC conseille d'apporter la facture et l'emballage du produit."
+          },
+          {
+            "type": "p",
+            "text": "Entre ces deux cas, il y a une zone grise : le paquet de poulet qui sent mauvais à l'ouverture, les fraises moisies le lendemain. C'est là que les garanties fraîcheur des épiciers sont utiles, parce qu'elles disent clairement quoi rapporter, quand et avec quoi."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Le reçu, d'abord",
+            "text": "Les garanties fraîcheur de Maxi, de Metro et de Loblaws demandent toutes le reçu. Pour l'épicerie, on le jette souvent dans le sac : gardez-le au moins une semaine."
+          }
+        ]
+      },
+      {
+        "heading": "Maxi : la garantie fraîcheur de 7 jours",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Depuis le jeudi 15 octobre 2026, Maxi garantit la fraîcheur de quatre catégories de produits dans tous ses magasins du Québec : si l'un d'eux vous déçoit, Maxi rembourse le montant payé **et** remet gratuitement un article semblable."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Produits visés** : viandes fraîches, poissons et fruits de mer frais, fruits frais, légumes frais (y compris les laitues en sac).",
+              "**Délai** : dans les 7 jours suivant la date d'achat, si la date de péremption du produit n'est pas dépassée.",
+              "**Preuve** : le reçu original.",
+              "**Où** : au magasin Maxi où le produit a été acheté. La garantie couvre aussi les achats admissibles faits sur Maxi.ca ou avec PC Express.",
+              "**Exclus** : les aliments surgelés, les articles achetés avec Flashfood, et les produits en liquidation ou à prix réduit."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "D'où viennent ces conditions",
+            "text": "Nous n'avons pas trouvé de page officielle de Maxi qui décrit la garantie. Les conditions ci-dessus viennent des articles publiés le jour du lancement par [Narcity](https://www.narcity.com/fr/garantie-fraicheur-maxi-quebec-remboursement) et [Les Maisons](https://www.lesmaisons.co/nouvelles/maxi-lance-sa-nouvelle-garantie-fraicheur-voici-tout-ce-quil-faut-savoir), et du magazine [Canadian Grocer](https://canadiangrocer.com/maxi-launches-fresh-guarantee-new-campaign), qui concordent. Ces articles ne mentionnent pas Provigo : demandez en magasin avant de compter sur une garantie semblable."
+          }
+        ]
+      },
+      {
+        "heading": "Metro : 3 jours pour les produits frais, plus 10 %",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Chez Metro, un produit frais qui ne vous satisfait pas est remboursé s'il est rapporté au magasin **dans les 3 jours** suivant l'achat, avec le reçu. Metro rembourse le prix payé, taxes et frais compris, et ajoute 10 % du prix avant taxes en crédit."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Produits visés** : fruits et légumes, viandes, charcuteries, fromages, mets préparés, poissons, boulangerie, produits laitiers, jus réfrigérés, œufs et pain commercial, notamment.",
+              "**Où** : magasins Metro et Metro Plus du Québec, et l'épicerie en ligne metro.ca (dans les 3 jours suivant la livraison ou la cueillette, en communiquant avec le service à la clientèle).",
+              "**Conditions** : le produit ne doit pas avoir été consommé ni avoir dépassé sa date de péremption.",
+              "**Exclus** : l'épicerie sèche (biscuits, conserves, croustilles, noix…), les produits surgelés, les produits réduits de 30 % du programme contre le gaspillage, et les commandes passées par Uber Eats, Instacart, Too Good To Go ou FoodHero.",
+              "**Le crédit de 10 %** ne s'échange pas contre de l'argent et ne s'utilise pas sur les médicaments, l'alcool, le tabac, les billets de loterie ni les produits à prix minimum réglementé, comme le lait."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Metro précise qu'il décide au cas par cas si la promesse s'applique, et qu'il peut modifier ou arrêter le programme sans préavis. La page officielle n'a pas été trouvée en français : nous l'avons consultée en anglais."
+          }
+        ]
+      },
+      {
+        "heading": "Maxi, Metro, Loblaws : les garanties fraîcheur comparées",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La différence la plus importante est le délai : 3 jours chez Metro, 7 jours chez Maxi. Pour un panier acheté le samedi 28 novembre 2026, il faut donc rapporter un produit frais vers le 1er décembre chez Metro, et au plus tard vers le 5 décembre chez Maxi."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-epicerie-quebec/delais-fraicheur-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Pour une épicerie achetée le 28 novembre 2026 : garantie fraîcheur Metro jusqu'au 1er décembre, Maxi et Loblaws jusqu'au 5 décembre, estimation générale de l'app ReFound jusqu'au 28 décembre",
+            "caption": "Dates calculées pour un achat le 28 novembre 2026. La façon de compter les jours n'est pas précisée : en cas de doute, rapportez le produit plus tôt."
+          },
+          {
+            "type": "table",
+            "caption": "Garanties fraîcheur des épiciers, vérifiées le 27 novembre 2026",
+            "headers": [
+              "Critère",
+              "Maxi (Québec)",
+              "Metro (Québec)",
+              "Loblaws"
+            ],
+            "rows": [
+              [
+                "Produits",
+                "Viande, poisson et fruits de mer, fruits, légumes frais",
+                "Produits frais, dont produits laitiers, œufs, pain",
+                "Fruits et légumes frais"
+              ],
+              [
+                "Délai",
+                "7 jours",
+                "3 jours",
+                "7 jours"
+              ],
+              [
+                "Vous recevez",
+                "Remboursement + article semblable gratuit",
+                "Remboursement + 10 % en crédit",
+                "Remplacement + remboursement"
+              ],
+              [
+                "Reçu",
+                "Original",
+                "Oui",
+                "Original"
+              ],
+              [
+                "Exclus",
+                "Surgelés, Flashfood, liquidation",
+                "Épicerie sèche, surgelés, produits réduits de 30 %",
+                "Produits en liquidation ou à prix réduit"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La Promesse fraîcheur de Loblaws existe depuis juillet 2024 dans les magasins Loblaws, Independent, valu-mart et Zehrs. Elle se limite aux fruits et légumes, à rapporter dans les 7 jours au magasin d'achat avec le reçu original. Les conditions publiées ne nomment ni Maxi ni Provigo."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que dit un vrai reçu Maxi, ligne par ligne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sur une même facture d'épicerie, chaque ligne peut suivre une règle différente. Voici un reçu réel Maxi & Cie de 44 lignes, acheté à Gatineau le 2 octobre 2026 et numérisé avec ReFound. Il date d'avant le lancement de la garantie : nous l'utilisons pour montrer ce qu'elle couvrirait sur un achat semblable aujourd'hui."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-epicerie-quebec/recu-reel-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Quatre lignes d'un reçu Maxi : concombres visés par la garantie fraîcheur, dinde exclue si surgelée, lait et mayonnaise non visés, et l'estimation de retour de 30 jours de l'app",
+            "caption": "Lignes réelles d'un reçu Maxi & Cie et produits identifiés par ReFound. La garantie fraîcheur est entrée en vigueur après cet achat."
+          },
+          {
+            "type": "table",
+            "caption": "Quatre lignes du reçu et la garantie fraîcheur Maxi",
+            "headers": [
+              "Ligne imprimée",
+              "Produit identifié par ReFound",
+              "Garantie fraîcheur Maxi"
+            ],
+            "rows": [
+              [
+                "DM MINI CONCOMBR RJ",
+                "Concombre - Farmer's Market",
+                "Visé : légume frais, 7 jours"
+              ],
+              [
+                "BBALL DINDE SURG RJ",
+                "Butterball turkey",
+                "Exclu si la dinde est surgelée"
+              ],
+              [
+                "OUTAOU LAIT 2 % RQ",
+                "Laiterie de l'Outaouais",
+                "Non visé : produit laitier"
+              ],
+              [
+                "HELLMANNS MAYO RJ",
+                "Mayonnaise légère à l'huile d'olive Hellmann's",
+                "Non visé : épicerie"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Trois constats ressortent de ce reçu :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Le reçu ne dit pas si un produit est frais ou surgelé.** La ligne de la dinde porte « SURG », abréviation probable de « surgelée » : c'est le seul indice, et il aurait suffi à l'exclure de la garantie.",
+              "**Le lait n'est pas dans la garantie Maxi**, alors qu'il l'est dans celle de Metro. Pour un produit laitier, la règle dépend donc de l'épicerie.",
+              "**La date de retour affichée par l'app n'est pas celle de la garantie fraîcheur.** ReFound estime une date limite de retour de 30 jours pour ce reçu (1er novembre 2026), selon la politique générale qu'elle utilise pour le marchand. Elle ne connaît pas les règles par catégorie : pour la viande ou les légumes, le délai utile est de 7 jours."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le même reçu contient aussi deux vêtements, imprimés entre les légumes et le pain : nous les avons analysés dans notre guide sur la [politique de retour Joe Fresh](/blog/politique-retour-joe-fresh)."
+          }
+        ]
+      },
+      {
+        "heading": "Erreur de prix à la caisse : la règle des 15 $",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Si le prix facturé à la caisse est plus élevé que le prix affiché, la Politique d'exactitude des prix s'applique dans les commerces qui utilisent un lecteur optique, comme les épiceries. Depuis le 7 mai 2025, le seuil est passé de 10 $ à 15 $ :"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "un article affiché à **15 $ ou moins** vous est remis gratuitement;",
+              "un article affiché à **plus de 15 $** vous est vendu au prix affiché, moins un rabais de **15 $**."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Selon l'OPC, la politique s'applique aussi après coup : vous pouvez revenir au magasin avec votre reçu si vous découvrez l'erreur à la maison. Il faut acheter l'article pour en profiter. Si vous achetez plusieurs articles identiques, le magasin doit tous les vendre au prix affiché, mais la compensation ne vaut que pour un seul, précise Éducaloi."
+          },
+          {
+            "type": "h3",
+            "text": "Ce qui n'est pas couvert"
+          },
+          {
+            "type": "p",
+            "text": "La politique ne s'applique pas aux articles sans code-barres, comme les fruits et légumes en vrac, ni aux vêtements, au lait de vache, à certains médicaments et à l'alcool acheté ailleurs qu'à la SAQ. Sur le reçu Maxi ci-dessus, le lait et les deux vêtements en sont donc exclus."
+          },
+          {
+            "type": "p",
+            "text": "Pour un prix qui baisse après l'achat, ce n'est plus une erreur de prix mais un ajustement de prix, une politique propre à chaque magasin : voyez notre guide sur l'[ajustement de prix](/blog/ajustement-de-prix)."
+          }
+        ]
+      },
+      {
+        "heading": "Ce que le reçu ne règle pas seul, et comment ReFound aide",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le reçu d'épicerie est la clé de toutes ces garanties, mais c'est aussi le papier qu'on garde le moins. Il est long, imprimé sur du papier thermique qui pâlit, et ses lignes abrégées ne disent pas toujours ce que vous avez acheté."
+          },
+          {
+            "type": "p",
+            "text": "Les articles sur la garantie Maxi parlent du « reçu original ». Rien n'indique qu'une photo du reçu soit acceptée : pendant les 7 jours, gardez le papier."
+          },
+          {
+            "type": "p",
+            "text": "ReFound aide pour la suite. Numérisez le reçu en rentrant de l'épicerie : l'app garde une copie lisible, extrait le magasin, la date, le total et les articles, et identifie le produit derrière une ligne abrégée quand l'information est disponible. Vous retrouvez ensuite le reçu par magasin, date ou montant, et le mode retour affiche la photo du reçu, le mode de paiement et la liste des articles au comptoir."
+          },
+          {
+            "type": "p",
+            "text": "Une limite à connaître : la date limite de retour affichée par ReFound est une estimation selon la politique générale du marchand, pas selon la catégorie du produit. Pour un aliment frais, comptez vous-même 3 ou 7 jours à partir de la date d'achat, que l'app affiche sur le reçu."
+          }
+        ]
+      },
+      {
+        "heading": "Avant de rapporter un aliment : la liste",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Vérifiez la date d'achat sur le reçu : 3 jours chez Metro, 7 jours chez Maxi.",
+              "Vérifiez que le produit est dans une catégorie visée, n'est ni surgelé ni acheté à prix réduit, et que sa date de péremption n'est pas dépassée.",
+              "Ne le consommez pas : apportez le produit lui-même, dans son emballage.",
+              "Apportez le reçu original au magasin où vous l'avez acheté.",
+              "Si le prix facturé était plus élevé que le prix affiché, demandez l'application de la Politique d'exactitude des prix."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Peut-on retourner de la nourriture chez Maxi?",
+        "a": "Oui pour la viande, le poisson et les fruits de mer, les fruits et les légumes frais : depuis le 15 octobre 2026, Maxi les rembourse et remet un article semblable s'ils sont rapportés dans les 7 jours avec le reçu original, avant leur date de péremption. Les surgelés et les produits à prix réduit sont exclus."
+      },
+      {
+        "q": "Combien de jours a-t-on pour la garantie fraîcheur de Metro?",
+        "a": "3 jours après l'achat, en rapportant le produit au magasin avec le reçu. Metro rembourse le prix payé et ajoute 10 % en crédit."
+      },
+      {
+        "q": "Une épicerie doit-elle rembourser si j'ai changé d'idée?",
+        "a": "Non. Au Québec, la loi n'oblige pas un commerçant à reprendre un produit pour un changement d'idée. Sa propre politique s'applique. Un produit défectueux doit toutefois être remplacé ou remboursé, au choix du commerçant."
+      },
+      {
+        "q": "Que faire si j'ai payé plus cher que le prix affiché?",
+        "a": "Demandez la Politique d'exactitude des prix : l'article est gratuit s'il est affiché à 15 $ ou moins, sinon vous obtenez 15 $ de rabais. Elle s'applique aussi après coup, avec le reçu, mais pas aux fruits et légumes sans code-barres, aux vêtements ni au lait de vache."
+      },
+      {
+        "q": "Une photo du reçu suffit-elle pour la garantie fraîcheur?",
+        "a": "Les conditions publiées parlent du reçu original pour Maxi et Loblaws, et du reçu pour Metro. Gardez le papier pendant le délai; une copie numérique aide à retrouver l'achat, mais la décision revient au magasin."
+      }
+    ],
+    "ctaTitle": "Gardez vos reçus d'épicerie au moins une semaine, et retrouvez-les vite",
+    "ctaBody": "Numérisez le reçu en rentrant de l'épicerie : ReFound garde une copie lisible avec la date d'achat, pour savoir en un coup d'œil s'il reste 3 ou 7 jours.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce que les magasins acceptent, ou non."
+      },
+      {
+        "label": "Reçu effacé",
+        "href": "/blog/recu-efface-quoi-faire",
+        "desc": "Quoi faire avec un reçu thermique qui a pâli."
+      },
+      {
+        "label": "Ajustement de prix",
+        "href": "/blog/ajustement-de-prix",
+        "desc": "Quand le prix baisse après l'achat."
+      },
+      {
+        "label": "Application pour les retours",
+        "href": "/application-retours-magasin",
+        "desc": "Retrouver le bon reçu au comptoir."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "factCheckLabel": "Faits vérifiés le 27 novembre 2026",
+    "sources": [
+      {
+        "label": "« Garantie fraîcheur » : Maxi te rembourse ET remplace gratuitement certains produits (15 octobre 2026)",
+        "publisher": "Narcity Québec",
+        "url": "https://www.narcity.com/fr/garantie-fraicheur-maxi-quebec-remboursement",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Maxi lance sa nouvelle « garantie fraîcheur » (15 octobre 2026)",
+        "publisher": "Les Maisons",
+        "url": "https://www.lesmaisons.co/nouvelles/maxi-lance-sa-nouvelle-garantie-fraicheur-voici-tout-ce-quil-faut-savoir",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Maxi launches “Fresh Guarantee” with new campaign (15 octobre 2026, page en anglais)",
+        "publisher": "Canadian Grocer",
+        "url": "https://canadiangrocer.com/maxi-launches-fresh-guarantee-new-campaign",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Freshness Guaranteed or Your Money Back (page consultée en anglais)",
+        "publisher": "Metro",
+        "url": "https://www.metro.ca/en/freshness-guaranteed-promise",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Fresh Promise : conditions (page consultée en anglais)",
+        "publisher": "Loblaws",
+        "url": "https://www.loblaws.ca/collection/fresh-food",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Les épiceries Loblaw lancent la Promesse fraîcheur (24 juillet 2024, texte en anglais)",
+        "publisher": "Loblaw",
+        "url": "https://www.loblaw.ca/fr/loblaw-grocery-stores-introduce-fresh-promise-on-produce-if-its-not-fresh-its-free/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Alimentation et épicerie : échange et remboursement (page consultée en anglais)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://opc.gouv.qc.ca/en/consumer/good-service/goods/food-grocerie/exchange-refund",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Biens défectueux (page consultée en anglais)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/exchanging-layaways/refunding/goods/defective-goods",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Des pourboires calculés avant les taxes et des prix plus clairs à l'épicerie (7 mai 2025)",
+        "publisher": "Gouvernement du Québec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-pourboires-calcules-avant-les-taxes-et-des-prix-plus-clairs-a-lepicerie-62679",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Nouvelles protections : Politique d'exactitude des prix (page consultée en anglais)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Politique d'exactitude des prix (affiche, seuil de 10 $ avant mai 2025)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://cdn.opc.gouv.qc.ca/media/images/Campagnes/politique_exactitude_prix.pdf?1583158278",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Affichage, étiquetage et exactitude des prix",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/affichage-etiquetage-et-exactitude-des-prix",
+        "accessed": "2026-11-27"
+      }
+    ]
+  },
+  "en": {
+    "metaTitle": "Grocery Returns in Quebec: Freshness, Price Errors | ReFound",
+    "metaDescription": "Maxi: 7 days for meat, fish, fruit and vegetables that aren't fresh. Metro: 3 days. Price error: the item free or $15 off. With a real Maxi receipt.",
+    "keywords": "grocery return Quebec, Maxi freshness guarantee, Maxi refund, Metro freshness guarantee, return food grocery store, price accuracy policy Quebec, price error checkout $15, grocery receipt, Loblaws fresh promise",
+    "category": "Guide",
+    "date": "November 27, 2026",
+    "readingTime": "8 min read",
+    "breadcrumb": "Grocery returns in Quebec",
+    "eyebrow": "Returns",
+    "h1": "Grocery Returns in Quebec: Freshness Guarantees, Price Errors and Your Receipt",
+    "card": {
+      "title": "Grocery Returns in Quebec: Freshness, Price Errors and Receipts",
+      "subtitle": "Maxi 7 days, Metro 3 days, the $15 checkout rule, and a real Maxi receipt read line by line."
+    },
+    "coverAlt": "A grocery receipt with two highlighted lines, an apple and badges reading 7 and 3",
+    "intro": [
+      "Short answer: in Quebec, a grocery store doesn't have to take food back because you changed your mind. But for fresh food that disappoints, two major chains have a guarantee. Since October 15, 2026, **Maxi** refunds and replaces for free fresh meat, fish, fruit and vegetables brought back **within 7 days** with the original receipt, and **Metro** refunds fresh products brought back **within 3 days** with the receipt, plus 10% in credit. If you were charged more than the displayed price, the Price Accuracy Policy gets you the item free ($15 or less) or $15 off.",
+      "This guide adds what the announcements don't show: a real 44-line Maxi & Cie receipt, read line by line, and the deadlines calculated for the same basket at Maxi, Metro and Loblaws.",
+      "Facts checked November 27, 2026. Grocers can change their guarantees without notice: when in doubt, the store counter has the final word."
+    ],
+    "sections": [
+      {
+        "heading": "Does a grocery store have to take food back?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Not if you simply changed your mind. Quebec's Office de la protection du consommateur (OPC) points out that the law doesn't require a merchant to give a refund or a credit note if you changed your mind or bought the wrong item: the merchant's own exchange and refund policy applies."
+          },
+          {
+            "type": "p",
+            "text": "Defective products are different. According to the OPC, the merchant is responsible for defective items: it can replace or refund them, and the choice is theirs. The OPC suggests bringing the invoice and the product's packaging."
+          },
+          {
+            "type": "p",
+            "text": "Between those two cases is a grey zone: the chicken that smells off when you open it, the strawberries that are mouldy the next day. That's where grocers' freshness guarantees help, because they spell out what to bring back, when, and with what."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Receipt first",
+            "text": "Maxi's, Metro's and Loblaws' freshness guarantees all require the receipt. Grocery receipts usually end up at the bottom of the bag: keep yours for at least a week."
+          }
+        ]
+      },
+      {
+        "heading": "Maxi: the 7-day freshness guarantee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Since Thursday, October 15, 2026, Maxi has guaranteed the freshness of four product categories in all its Quebec stores: if one disappoints you, Maxi refunds what you paid **and** gives you a similar item for free."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Covered**: fresh meat, fresh fish and seafood, fresh fruit, fresh vegetables (including bagged salads).",
+              "**Time limit**: within 7 days of the purchase date, as long as the product's expiry date hasn't passed.",
+              "**Proof**: the original receipt.",
+              "**Where**: the Maxi store where you bought it. The guarantee also covers eligible purchases made on Maxi.ca or through PC Express.",
+              "**Excluded**: frozen food, items bought through Flashfood, and clearance or reduced-price products."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Where these terms come from",
+            "text": "We did not find an official Maxi page describing the guarantee. The terms above come from articles published on launch day by [Narcity](https://www.narcity.com/fr/garantie-fraicheur-maxi-quebec-remboursement) and [Les Maisons](https://www.lesmaisons.co/nouvelles/maxi-lance-sa-nouvelle-garantie-fraicheur-voici-tout-ce-quil-faut-savoir) (both in French) and the trade magazine [Canadian Grocer](https://canadiangrocer.com/maxi-launches-fresh-guarantee-new-campaign), which agree. None of them mentions Provigo: ask in store before counting on a similar guarantee there."
+          }
+        ]
+      },
+      {
+        "heading": "Metro: 3 days for fresh products, plus 10%",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "At Metro, a fresh product you're not satisfied with is refunded if you bring it back to the store **within 3 days** of purchase, with the receipt. Metro refunds the price paid, including taxes and fees, and adds 10% of the pre-tax price as a credit."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Covered**: fruit and vegetables, meats, deli meats, cheeses, prepared meals, fish, bakery, dairy, refrigerated juices, eggs and commercial bread, among others.",
+              "**Where**: Metro and Metro Plus stores in Quebec, and metro.ca online grocery (within 3 days of delivery or pickup, by contacting customer service).",
+              "**Conditions**: the product must not have been eaten or be past its expiry date.",
+              "**Excluded**: dry groceries (cookies, canned goods, chips, nuts…), frozen products, 30%-off products from the anti-waste program, and orders placed through Uber Eats, Instacart, Too Good To Go or FoodHero.",
+              "**The 10% credit** can't be exchanged for cash or used on medications, alcohol, tobacco, lottery tickets or products with a regulated minimum price, such as milk."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Metro says it decides case by case whether the promise applies, and that it can change or end the program without notice."
+          }
+        ]
+      },
+      {
+        "heading": "Maxi, Metro, Loblaws: freshness guarantees compared",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The biggest difference is the time limit: 3 days at Metro, 7 days at Maxi. For groceries bought on Saturday, November 28, 2026, that means bringing a fresh product back around December 1 at Metro, and by about December 5 at Maxi."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-epicerie-quebec/delais-fraicheur-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "For groceries bought November 28, 2026: Metro freshness guarantee until December 1, Maxi and Loblaws until December 5, ReFound app general estimate until December 28",
+            "caption": "Dates calculated for a purchase on November 28, 2026. How days are counted isn't specified: when in doubt, bring the product back sooner."
+          },
+          {
+            "type": "table",
+            "caption": "Grocers' freshness guarantees, checked November 27, 2026",
+            "headers": [
+              "Criterion",
+              "Maxi (Quebec)",
+              "Metro (Quebec)",
+              "Loblaws"
+            ],
+            "rows": [
+              [
+                "Products",
+                "Fresh meat, fish and seafood, fruit, vegetables",
+                "Fresh products, including dairy, eggs, bread",
+                "Fresh fruit and vegetables"
+              ],
+              [
+                "Time limit",
+                "7 days",
+                "3 days",
+                "7 days"
+              ],
+              [
+                "You get",
+                "Refund + a similar item free",
+                "Refund + 10% credit",
+                "Replacement + refund"
+              ],
+              [
+                "Receipt",
+                "Original",
+                "Yes",
+                "Original"
+              ],
+              [
+                "Excluded",
+                "Frozen, Flashfood, clearance",
+                "Dry groceries, frozen, 30%-off products",
+                "Clearance or reduced-price produce"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Loblaws' Fresh Promise has existed since July 2024 at Loblaws, Independent, valu-mart and Zehrs stores. It covers fruit and vegetables only, brought back within 7 days to the store of purchase with the original receipt. The published terms name neither Maxi nor Provigo."
+          }
+        ]
+      },
+      {
+        "heading": "What a real Maxi receipt says, line by line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "On one grocery receipt, each line can follow a different rule. Here is a real 44-line Maxi & Cie receipt, bought in Gatineau on October 2, 2026 and scanned with ReFound. It predates the guarantee: we use it to show what the guarantee would cover on a similar purchase today."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/retour-epicerie-quebec/recu-reel-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Four lines from a Maxi receipt: cucumbers covered by the freshness guarantee, turkey excluded if frozen, milk and mayonnaise not covered, and the app's 30-day return estimate",
+            "caption": "Real lines from a Maxi & Cie receipt and the products ReFound identified. The freshness guarantee took effect after this purchase."
+          },
+          {
+            "type": "table",
+            "caption": "Four receipt lines and Maxi's freshness guarantee",
+            "headers": [
+              "Printed line",
+              "Product identified by ReFound",
+              "Maxi freshness guarantee"
+            ],
+            "rows": [
+              [
+                "DM MINI CONCOMBR RJ",
+                "Cucumber - Farmer's Market",
+                "Covered: fresh vegetable, 7 days"
+              ],
+              [
+                "BBALL DINDE SURG RJ",
+                "Butterball turkey",
+                "Excluded if the turkey is frozen"
+              ],
+              [
+                "OUTAOU LAIT 2 % RQ",
+                "Laiterie de l'Outaouais (2% milk)",
+                "Not covered: dairy"
+              ],
+              [
+                "HELLMANNS MAYO RJ",
+                "Hellmann's light olive oil mayonnaise",
+                "Not covered: pantry item"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Three takeaways from this receipt:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The receipt doesn't say whether a product is fresh or frozen.** The turkey line reads “SURG”, likely short for *surgelée* (frozen): it's the only clue, and it would have been enough to exclude it from the guarantee.",
+              "**Milk isn't in Maxi's guarantee**, but it is in Metro's. For dairy, the rule depends on the grocer.",
+              "**The return date the app shows isn't the freshness deadline.** ReFound estimates a 30-day return deadline for this receipt (November 1, 2026), based on the general policy it uses for the merchant. It doesn't know category rules: for meat or vegetables, the deadline that matters is 7 days."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The same receipt also has two pieces of clothing printed between the vegetables and the bread: we looked at them in our [Joe Fresh return policy](/en/blog/joe-fresh-return-policy) guide."
+          }
+        ]
+      },
+      {
+        "heading": "Price error at checkout: the $15 rule",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "If the price charged at checkout is higher than the displayed price, the Price Accuracy Policy applies in stores that use a barcode scanner, such as grocery stores. Since May 7, 2025, the threshold has been $15 instead of $10:"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "an item advertised at **$15 or less** is given to you free;",
+              "an item advertised at **more than $15** is sold at the advertised price, minus a **$15** discount."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "According to the OPC, the policy also applies after the fact: you can go back to the store with your receipt if you spot the error at home. You have to buy the item to benefit. If you buy several identical items, the store must sell them all at the advertised price, but the compensation applies to one item only, Éducaloi notes."
+          },
+          {
+            "type": "h3",
+            "text": "What isn't covered"
+          },
+          {
+            "type": "p",
+            "text": "The policy doesn't apply to items without a barcode, such as loose fruit and vegetables, or to clothing, cow's milk, certain medications and alcohol bought outside the SAQ. On the Maxi receipt above, the milk and the two pieces of clothing are therefore excluded."
+          },
+          {
+            "type": "p",
+            "text": "If the price drops after you buy, that isn't a price error but a price adjustment, which each store handles with its own policy: see our [price adjustment](/en/blog/price-adjustment-after-purchase) guide."
+          }
+        ]
+      },
+      {
+        "heading": "What the receipt can't do alone, and how ReFound helps",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The grocery receipt is the key to all these guarantees, but it's also the piece of paper people keep least. It's long, printed on thermal paper that fades, and its abbreviated lines don't always say what you bought."
+          },
+          {
+            "type": "p",
+            "text": "The articles on Maxi's guarantee mention the “original receipt”. Nothing says a photo of the receipt is accepted: keep the paper for those 7 days."
+          },
+          {
+            "type": "p",
+            "text": "ReFound helps with the rest. Scan the receipt when you get home: the app keeps a readable copy, extracts the store, date, total and items, and identifies the product behind an abbreviated line when the information is available. You can then find the receipt by store, date or amount, and return mode shows the receipt photo, payment method and item list at the counter."
+          },
+          {
+            "type": "p",
+            "text": "One limit to know: the return deadline ReFound shows is an estimate based on the merchant's general policy, not on the product category. For fresh food, count 3 or 7 days yourself from the purchase date, which the app shows on the receipt."
+          }
+        ]
+      },
+      {
+        "heading": "Before you bring food back: the checklist",
+        "blocks": [
+          {
+            "type": "steps",
+            "items": [
+              "Check the purchase date on the receipt: 3 days at Metro, 7 days at Maxi.",
+              "Check that the product is in a covered category, isn't frozen or reduced-price, and isn't past its expiry date.",
+              "Don't eat it: bring the product itself, in its packaging.",
+              "Bring the original receipt to the store where you bought it.",
+              "If you were charged more than the displayed price, ask for the Price Accuracy Policy."
+            ]
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Can you return food at Maxi?",
+        "a": "Yes for fresh meat, fish and seafood, fruit and vegetables: since October 15, 2026, Maxi refunds them and gives you a similar item if you bring them back within 7 days with the original receipt, before their expiry date. Frozen and reduced-price products are excluded."
+      },
+      {
+        "q": "How many days does Metro's freshness guarantee last?",
+        "a": "3 days after purchase, bringing the product back to the store with the receipt. Metro refunds the price paid and adds 10% as a credit."
+      },
+      {
+        "q": "Does a grocery store have to refund me if I changed my mind?",
+        "a": "No. In Quebec, the law doesn't require a merchant to take a product back because you changed your mind; its own policy applies. A defective product, however, must be replaced or refunded, at the merchant's choice."
+      },
+      {
+        "q": "What if I paid more than the displayed price?",
+        "a": "Ask for the Price Accuracy Policy: the item is free if it's advertised at $15 or less, otherwise you get $15 off. It also applies after the fact, with the receipt, but not to produce without a barcode, clothing or cow's milk."
+      },
+      {
+        "q": "Is a photo of the receipt enough for the freshness guarantee?",
+        "a": "The published terms mention the original receipt for Maxi and Loblaws, and the receipt for Metro. Keep the paper during the time limit; a digital copy helps you find the purchase, but the store decides."
+      }
+    ],
+    "ctaTitle": "Keep grocery receipts for at least a week, and find them fast",
+    "ctaBody": "Scan the receipt when you get home: ReFound keeps a readable copy with the purchase date, so you can see at a glance whether you're still within 3 or 7 days.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "Returns without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What stores accept, and what they don't."
+      },
+      {
+        "label": "Faded receipt",
+        "href": "/en/blog/faded-receipt-what-to-do",
+        "desc": "What to do when thermal paper fades."
+      },
+      {
+        "label": "Price adjustment",
+        "href": "/en/blog/price-adjustment-after-purchase",
+        "desc": "When the price drops after you buy."
+      },
+      {
+        "label": "Returns app",
+        "href": "/en/returns-app",
+        "desc": "Find the right receipt at the counter."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "factCheckLabel": "Facts checked on November 27, 2026",
+    "sources": [
+      {
+        "label": "“Garantie fraîcheur”: Maxi refunds AND replaces certain products for free (October 15, 2026, in French)",
+        "publisher": "Narcity Québec",
+        "url": "https://www.narcity.com/fr/garantie-fraicheur-maxi-quebec-remboursement",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Maxi launches its new “garantie fraîcheur” (October 15, 2026, in French)",
+        "publisher": "Les Maisons",
+        "url": "https://www.lesmaisons.co/nouvelles/maxi-lance-sa-nouvelle-garantie-fraicheur-voici-tout-ce-quil-faut-savoir",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Maxi launches “Fresh Guarantee” with new campaign (October 15, 2026)",
+        "publisher": "Canadian Grocer",
+        "url": "https://canadiangrocer.com/maxi-launches-fresh-guarantee-new-campaign",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Freshness Guaranteed or Your Money Back",
+        "publisher": "Metro",
+        "url": "https://www.metro.ca/en/freshness-guaranteed-promise",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Fresh Promise: terms",
+        "publisher": "Loblaws",
+        "url": "https://www.loblaws.ca/collection/fresh-food",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Loblaw grocery stores introduce Fresh Promise on produce (July 24, 2024)",
+        "publisher": "Loblaw",
+        "url": "https://www.loblaw.ca/en/loblaw-grocery-stores-introduce-fresh-promise-on-produce-if-its-not-fresh-its-free/",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Food and groceries: exchange and refund",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://opc.gouv.qc.ca/en/consumer/good-service/goods/food-grocerie/exchange-refund",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Defective goods",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/exchanging-layaways/refunding/goods/defective-goods",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Tips calculated before taxes and clearer grocery prices (May 7, 2025, in French)",
+        "publisher": "Government of Quebec",
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/des-pourboires-calcules-avant-les-taxes-et-des-prix-plus-clairs-a-lepicerie-62679",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "New protections: Price Accuracy Policy",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/new-protections",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Price Accuracy Policy poster (in French; $10 threshold before May 2025)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://cdn.opc.gouv.qc.ca/media/images/Campagnes/politique_exactitude_prix.pdf?1583158278",
+        "accessed": "2026-11-27"
+      },
+      {
+        "label": "Price display, labelling and accuracy (in French)",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/affichage-etiquetage-et-exactitude-des-prix",
+        "accessed": "2026-11-27"
+      }
+    ]
+  }
+}
