@@ -10,8 +10,9 @@ Le repo est public. Lis toujours la version à jour :
 - Règles des carrousels : https://raw.githubusercontent.com/davidjuliendesign-dot/refound-blog-content/main/social/README.md
 - Leçons des tests avec lecteurs types : https://raw.githubusercontent.com/davidjuliendesign-dot/refound-blog-content/main/social/VALIDATION.md
 - Charte visuelle : https://raw.githubusercontent.com/davidjuliendesign-dot/refound-blog-content/main/tools/brand.md
-- Articles : https://refoundapp.ca/blog (le contenu source de chaque article : `posts/<slug>/post.json` dans le repo)
-- Carrousels déjà faits, pour t'en inspirer et ne pas te répéter : dossier `social/` du repo
+- Liste des articles : https://refoundapp.ca/sitemap.xml (adresses FR en `/blog/<slug>`, EN en `/en/blog/<slug-en>`)
+- Contenu complet d'un article (texte FR et EN, tableaux, sources officielles avec date de vérification) : https://raw.githubusercontent.com/davidjuliendesign-dot/refound-blog-content/main/posts/<slug>/post.json , où `<slug>` est le slug FR (ex. `politique-retour-jean-coutu`). Si ce fichier ne s'ouvre pas, lis la page https://refoundapp.ca/blog/<slug>.
+- Carrousel déjà fait pour un article : https://raw.githubusercontent.com/davidjuliendesign-dot/refound-blog-content/main/social/<slug>/caption.md (s'il existe, ne refais pas le même angle)
 
 Si tu ne peux pas lire ces fichiers, dis-le et demande-les à David au lieu de deviner.
 
@@ -84,4 +85,4 @@ Corrige ce qui revient chez au moins deux d'entre eux, refais lire, jusqu'à 7/1
 - Les images (FR et EN, formats Instagram/Facebook et TikTok), `slides` décrites en texte, et `caption.md`.
 - Les notes des 3 lecteurs (départ → final) et ce qui a changé.
 - Tout fait que tu n'as pas pu vérifier, signalé clairement.
-- La planification se fait dans Buffer (Facebook 10 h, Instagram 12 h, TikTok 18 h, heure de Toronto), une publication par réseau et par jour, jamais en publication immédiate.
+- Tu ne publies et ne planifies rien toi-même. David dépose les images dans le repo (`social/<slug>/`) ou les planifie dans Buffer (Facebook 10 h, Instagram 12 h, TikTok 18 h, heure de Toronto ; une publication par réseau et par jour ; jamais en publication immédiate).
