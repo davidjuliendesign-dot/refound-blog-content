@@ -1,0 +1,909 @@
+{
+  "schemaVersion": 1,
+  "slug": "annuler-achat-en-ligne-quebec",
+  "frPath": "/blog/annuler-achat-en-ligne-quebec",
+  "enPath": "/en/blog/cancel-online-purchase-quebec",
+  "datePublished": "2026-11-28T09:00:00-05:00",
+  "dateModified": "2026-11-28T09:00:00-05:00",
+  "lastFactCheck": "2026-11-28",
+  "cover": {
+    "src": "/images/blog/annuler-achat-en-ligne-quebec/cover.png",
+    "width": 1200,
+    "height": 630
+  },
+  "assets": [
+    "cover.png",
+    "dates-commande-fr.png",
+    "dates-commande-en.png",
+    "trois-recours-fr.png",
+    "trois-recours-en.png"
+  ],
+  "fr": {
+    "metaTitle": "Annuler un achat en ligne au Québec : délais et recours | ReFound",
+    "metaDescription": "Livraison en retard, contrat non reçu, info manquante : quand annuler un achat en ligne au Québec, le remboursement en 15 jours et la rétrofacturation.",
+    "keywords": "annuler un achat en ligne Québec, achat en ligne non livré, contrat à distance, rétrofacturation carte de crédit, remboursement achat en ligne, retour achat en ligne, Cyber lundi, Loi sur la protection du consommateur, colis volé",
+    "category": "Guide",
+    "date": "28 novembre 2026",
+    "readingTime": "9 min de lecture",
+    "breadcrumb": "Annuler un achat en ligne au Québec",
+    "eyebrow": "Achats en ligne",
+    "h1": "Annuler un achat en ligne au Québec : délais, remboursement et retours",
+    "card": {
+      "title": "Annuler un achat en ligne au Québec : délais et recours (2026)",
+      "subtitle": "Ce que la loi permet, ce qui dépend du magasin, et les dates exactes d'une commande du Cyber lundi."
+    },
+    "coverAlt": "Colis, carte de crédit et pastilles de délais de 7, 15 et 30 jours",
+    "intro": [
+      "Réponse courte : au Québec, la loi permet d'annuler un achat en ligne dans des cas précis, pas parce qu'on a changé d'idée. Vous pouvez annuler si le bien n'est pas livré dans les 30 jours suivant la date convenue (ou l'achat, sans date prévue), si le commerçant ne vous envoie pas le contrat dans les 15 jours, ou si des renseignements obligatoires manquaient. Le commerçant doit alors vous rembourser dans les 15 jours.",
+      "Pour retourner un article qui ne vous plaît plus, c'est la politique de retour du magasin qui décide. Et pour un article défectueux, c'est la garantie qui s'applique, avec des durées qui partent souvent de la livraison. Ce guide sépare ces trois recours et applique les délais à une commande passée le Cyber lundi, 30 novembre 2026."
+    ],
+    "sections": [
+      {
+        "heading": "Peut-on annuler un achat en ligne parce qu'on a changé d'idée?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Non. La loi québécoise ne donne pas de délai de réflexion général pour un achat en ligne : les cas d'annulation sont précis et liés à ce que le commerçant a fait ou n'a pas fait. Si l'article n'est pas défectueux, rien n'oblige le magasin à le reprendre, rappelle Éducaloi."
+          },
+          {
+            "type": "p",
+            "text": "Le magasin qui a choisi d'avoir une politique d'échange et de remboursement doit toutefois la respecter. Au fédéral, le Bureau de la consommation résume la même règle : au Canada, une entreprise n'est pas obligée d'accepter un article retourné, sauf s'il est défectueux. Avant d'acheter en ligne, il conseille de vérifier si le détaillant a des magasins où l'on peut faire un retour en personne."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/annuler-achat-en-ligne-quebec/trois-recours-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Trois recours après un achat en ligne : annuler selon la loi, retourner selon la politique du magasin, faire jouer la garantie pour un bien défectueux",
+            "caption": "Trois recours qui ne se remplacent pas. Sources : OPC, Éducaloi, canadiantire.ca, vérifié le 28 novembre 2026."
+          }
+        ]
+      },
+      {
+        "heading": "Dans quels cas la loi permet d'annuler un achat en ligne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "La Loi sur la protection du consommateur permet d'annuler un contrat conclu à distance dans les situations suivantes. Le délai pour envoyer l'avis d'annulation dépend de la situation, selon l'Office de la protection du consommateur (OPC)."
+          },
+          {
+            "type": "table",
+            "caption": "Cas d'annulation d'un achat en ligne au Québec",
+            "headers": [
+              "Situation",
+              "Délai pour annuler"
+            ],
+            "rows": [
+              [
+                "Bien non livré dans les 30 jours suivant la date de livraison convenue par écrit, ou suivant l'achat si aucune date n'a été indiquée",
+                "En tout temps avant de recevoir le bien"
+              ],
+              [
+                "Copie du contrat non envoyée par le commerçant dans les 15 jours suivant l'achat",
+                "30 jours après l'achat"
+              ],
+              [
+                "Renseignements obligatoires absents ou mal présentés avant l'achat, ou contrat reçu incomplet ou impossible à conserver et imprimer",
+                "7 jours après la réception du contrat"
+              ],
+              [
+                "Renseignement manquant découvert à la réception du bien",
+                "7 jours après la réception du bien"
+              ],
+              [
+                "Renseignement manquant découvert sur l'état de compte de la carte de crédit",
+                "7 jours après la réception de l'état de compte"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Parmi les renseignements que le commerçant doit donner avant l'achat : le prix, le coût total, les conditions d'annulation et de retour, et la « date ou délai de livraison ». Notez cette date au moment de commander : c'est elle qui fait partir le délai de 30 jours."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Les exceptions",
+            "text": "Ces règles ne s'appliquent pas, notamment, aux biens qui périssent rapidement comme les aliments, aux ventes aux enchères, aux billets de loterie, aux contrats de crédit, ni aux services à exécution successive (cours, gym, garderie, camps). Un achat fait auprès d'un particulier, par exemple sur Kijiji ou Facebook Marketplace, n'est pas couvert non plus, précise Éducaloi."
+          }
+        ]
+      },
+      {
+        "heading": "Commande du Cyber lundi : les dates exactes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour une commande passée le lundi 30 novembre 2026, le commerçant doit vous avoir envoyé la copie du contrat au plus tard le 15 décembre. S'il ne l'a pas fait, vous pouvez annuler jusqu'au 30 décembre. Et si aucune date de livraison n'a été convenue et que rien n'est arrivé dans les 30 jours, vous pouvez annuler tant que vous n'avez rien reçu."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/annuler-achat-en-ligne-quebec/dates-commande-fr.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Ligne du temps d'une commande en ligne du 30 novembre 2026 : contrat au 15 décembre, annulation possible à 30 jours, remboursement 15 jours après l'avis, rétrofacturation dans les 60 jours suivants",
+            "caption": "Exemple calculé par ReFound à partir des délais de l'OPC et d'Éducaloi, pour un avis d'annulation envoyé le 4 janvier 2027."
+          },
+          {
+            "type": "table",
+            "caption": "Une commande du 30 novembre 2026, étape par étape (exemple calculé)",
+            "headers": [
+              "Étape",
+              "Règle",
+              "Date"
+            ],
+            "rows": [
+              [
+                "Copie du contrat",
+                "15 jours après l'achat",
+                "15 décembre 2026"
+              ],
+              [
+                "Annuler si le contrat n'est jamais arrivé",
+                "30 jours après l'achat",
+                "30 décembre 2026"
+              ],
+              [
+                "Livraison sans date convenue",
+                "Annulation possible si rien n'est livré dans les 30 jours",
+                "Après le 30 décembre 2026"
+              ],
+              [
+                "Remboursement après un avis envoyé le 4 janvier",
+                "15 jours après l'envoi de l'avis",
+                "19 janvier 2027"
+              ],
+              [
+                "Demande de rétrofacturation si rien n'est remboursé",
+                "Au plus tard 60 jours après le non-remboursement",
+                "20 mars 2027"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Si le site vous a promis une date de livraison, le calcul part de cette date plutôt que de l'achat. Une commande promise pour le 10 décembre et toujours absente 30 jours plus tard, soit le 9 janvier 2027, peut être annulée."
+          }
+        ]
+      },
+      {
+        "heading": "Comment annuler et se faire rembourser",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "On annule en informant le commerçant, verbalement ou par écrit ; l'OPC recommande le courriel ou le courrier recommandé, pour garder une preuve d'envoi. Le commerçant a ensuite 15 jours pour vous rembourser."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Envoyez un avis d'annulation au commerçant par courriel ou par courrier recommandé, en indiquant le numéro de commande et le motif prévu par la loi.",
+              "Si vous avez déjà reçu le bien, retournez-le dans les 15 jours suivant l'envoi de l'avis (ou suivant sa réception, s'il arrive après l'avis). Les frais raisonnables de retour sont à la charge du commerçant.",
+              "Laissez 15 jours au commerçant pour vous rembourser.",
+              "Sans remboursement, demandez une rétrofacturation à l'émetteur de votre carte de crédit (voir la section suivante)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "La rétrofacturation : le filet de sécurité de la carte de crédit",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Si vous avez payé par carte de crédit et que le commerçant ne vous rembourse pas dans les 15 jours suivant l'avis d'annulation, vous pouvez demander à l'émetteur de la carte d'annuler le paiement. Vous avez 60 jours pour faire cette demande, par écrit."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "L'émetteur a 30 jours pour confirmer la réception de votre demande.",
+              "Il doit créditer votre compte au plus tard 90 jours après avoir reçu la demande, ou dans un délai de 2 périodes complètes d'état de compte, selon le délai le plus court.",
+              "Vérifiez que le crédit apparaît sur vos 2 prochains états de compte ; sinon, l'OPC indique d'envoyer une mise en demeure."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Carte-cadeau et carte prépayée : pas de rétrofacturation",
+            "text": "L'OPC rappelle que les paiements par carte prépayée ou par carte-cadeau ne peuvent pas faire l'objet d'une rétrofacturation. Pour une grosse commande, la carte de crédit est le mode de paiement qui vous protège le plus."
+          }
+        ]
+      },
+      {
+        "heading": "Colis volé ou disparu : qui est responsable?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Le commerçant a l'obligation de prendre les moyens nécessaires pour que vous receviez votre commande. S'il choisit de laisser le colis à la porte, il doit assumer la responsabilité si le colis disparaît, selon l'OPC. Un colis perdu ou volé donne donc les mêmes recours qu'un retard de livraison."
+          },
+          {
+            "type": "p",
+            "text": "Il y a une exception : si vous avez donné des consignes claires de livraison, par exemple dans la boîte aux lettres ou sur le balcon, le commerçant pourrait ne pas être tenu responsable. Une photo du colis devant la porte ne change pas vos recours, précise l'OPC."
+          }
+        ]
+      },
+      {
+        "heading": "Retourner un achat en ligne selon la politique du magasin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pour un article qui ne convient pas, c'est la politique du marchand qui s'applique, et deux détails la distinguent souvent d'un achat en magasin : la date de départ du délai et les frais de livraison. Voici deux exemples vérifiés aujourd'hui."
+          },
+          {
+            "type": "table",
+            "caption": "Retour d'une commande en ligne : deux politiques comparées",
+            "headers": [
+              "Critère",
+              "Walmart Canada",
+              "Canadian Tire"
+            ],
+            "rows": [
+              [
+                "Délai général",
+                "90 jours, avec une preuve d'achat valide",
+                "90 jours, article non ouvert, avec le reçu original"
+              ],
+              [
+                "Départ du délai pour un achat en ligne",
+                "La date de réception de la commande",
+                "La politique parle de la date d'achat"
+              ],
+              [
+                "Exceptions courantes",
+                "30 jours pour l'électronique, les téléphones déverrouillés et les jeux",
+                "30 jours pour l'électronique, 14 jours pour l'électronique pour l'auto"
+              ],
+              [
+                "Frais de livraison",
+                "Articles lourds ou surdimensionnés : pas de retour en magasin, il faut prévoir une livraison de retour",
+                "Non remboursés pour un changement d'avis ; remboursés si l'article est endommagé, défectueux ou incorrect"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Chez Canadian Tire, pour un article reçu endommagé ou défectueux, communiquez avec le service à la clientèle avant de le renvoyer (1-866-746-7287) : sinon, les frais d'expédition du retour sont à votre charge. Les détails de chaque magasin sont dans nos guides sur la [politique de retour Walmart](/blog/politique-retour-walmart) et la [politique de retour Canadian Tire](/blog/politique-retour-canadian-tire)."
+          },
+          {
+            "type": "p",
+            "text": "Les achats des Fêtes peuvent avoir des délais prolongés ; Walmart indique que sa politique pour les jours fériés peut prolonger la période de retour. Voyez [retourner un cadeau de Noël](/blog/retourner-cadeau-noel) pour les dates de 2026."
+          }
+        ]
+      },
+      {
+        "heading": "Après le délai de retour : les garanties s'appliquent aussi en ligne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Un bien acheté en ligne a les mêmes garanties légales qu'un bien acheté en magasin : la garantie légale s'applique automatiquement à tous les biens achetés auprès d'un commerçant. Le bien doit pouvoir servir à un usage normal pendant une durée raisonnable, compte tenu du prix payé, et vous pouvez vous adresser au commerçant, au fabricant, ou aux deux."
+          },
+          {
+            "type": "p",
+            "text": "Depuis le 5 octobre 2026, la garantie de bon fonctionnement s'ajoute pour 14 biens achetés neufs auprès d'un commerçant : 6 ans pour la cuisinière, le réfrigérateur, le congélateur, le climatiseur et la thermopompe ; 5 ans pour la laveuse, la sécheuse et le lave-vaisselle ; 4 ans pour le téléviseur ; 3 ans pour l'ordinateur portable ou de bureau, la console de jeu vidéo, le téléphone cellulaire et la tablette. Ces durées se calculent à partir de la **livraison**, pas de l'achat."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Exemple : un téléviseur commandé le Cyber lundi",
+            "text": "Commandé le 30 novembre 2026 sur Walmart.ca et livré le 4 décembre, un téléviseur a 30 jours de retour (électronique) qui partent de la réception, soit jusqu'au début de janvier 2027, sous réserve de la politique des Fêtes. Sa garantie de bon fonctionnement de 4 ans court jusqu'en décembre 2030. Pour s'en prévaloir, il faudra prouver la date de livraison : la confirmation de commande seule ne la donne pas."
+          },
+          {
+            "type": "p",
+            "text": "Pour la démarche, voyez [comment faire une réclamation de garantie](/blog/reclamation-garantie) et notre guide de la [garantie de bon fonctionnement au Québec](/blog/garantie-bon-fonctionnement-quebec)."
+          }
+        ]
+      },
+      {
+        "heading": "Quelles preuves garder pour un achat en ligne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Gardez trois documents : le courriel de confirmation (souvent votre copie du contrat), une preuve de la date de livraison, et l'état de compte de la carte. Chacun sert à un recours différent. En magasin, un seul reçu couvre presque tout ; en ligne, il en faut plusieurs."
+          },
+          {
+            "type": "table",
+            "caption": "À quoi sert chaque preuve",
+            "headers": [
+              "Document",
+              "Sert à prouver",
+              "Utile pour"
+            ],
+            "rows": [
+              [
+                "Courriel de confirmation ou contrat",
+                "La date d'achat, le prix, la date de livraison promise, les conditions de retour",
+                "Annulation, retour"
+              ],
+              [
+                "Avis de livraison ou suivi du transporteur",
+                "La date de réception",
+                "Délai de retour qui part de la réception (ex. Walmart), garantie de bon fonctionnement"
+              ],
+              [
+                "Reçu remis au ramassage en magasin",
+                "L'achat, les articles, le paiement",
+                "Retour en magasin, garantie"
+              ],
+              [
+                "État de compte de la carte de crédit",
+                "Le paiement et le montant",
+                "Rétrofacturation"
+              ],
+              [
+                "Copie de votre avis d'annulation",
+                "La date d'envoi de l'avis",
+                "Calcul des 15 jours de remboursement"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le problème : ces preuves sont dispersées entre une boîte courriel, une appli de transporteur et un relevé bancaire. Six mois plus tard, quand l'appareil cesse de fonctionner, il faut tout retrouver."
+          }
+        ]
+      },
+      {
+        "heading": "Comment ReFound aide pour les achats en ligne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound garde vos preuves d'achat au même endroit. Un reçu remis au ramassage en magasin se numérise comme n'importe quel reçu, et l'import depuis la galerie permet d'ajouter une image déjà sur votre téléphone. ReFound affiche ensuite une date limite de retour estimée selon la politique générale du marchand (90 jours chez Walmart et Canadian Tire), et la garantie de l'article avec sa date de fin quand l'information est disponible."
+          },
+          {
+            "type": "p",
+            "text": "Deux limites à connaître : la date estimée ne tient pas compte des exceptions par catégorie (30 jours pour l'électronique, par exemple), et ReFound ne remplace pas le courriel de confirmation ni la preuve de livraison, qu'il vaut mieux conserver aussi. Avec ReFound Pro, un rappel arrive 3 jours avant la date limite de retour et 30 jours avant la fin d'une garantie. L'acceptation d'un retour reste toujours à la discrétion du marchand. En savoir plus sur l'[application pour les retours en magasin](/application-retours-magasin) et l'[application pour les garanties](/application-garanties)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "A-t-on 14 jours pour annuler un achat en ligne au Québec?",
+        "a": "Non. Le Québec n'a pas de délai de réflexion général pour les achats en ligne. On peut annuler dans des cas précis : livraison non faite dans les 30 jours, contrat non envoyé dans les 15 jours, ou renseignements obligatoires manquants (7 jours). Sinon, c'est la politique de retour du magasin qui s'applique."
+      },
+      {
+        "q": "Combien de temps le commerçant a-t-il pour rembourser un achat en ligne annulé?",
+        "a": "15 jours après l'envoi de l'avis d'annulation. S'il ne rembourse pas et que vous avez payé par carte de crédit, vous avez 60 jours pour demander une rétrofacturation à l'émetteur de la carte."
+      },
+      {
+        "q": "Ma commande n'est jamais arrivée. Puis-je annuler?",
+        "a": "Oui, si rien n'est livré dans les 30 jours suivant la date de livraison convenue par écrit, ou suivant l'achat si aucune date n'a été indiquée. Vous pouvez alors annuler en tout temps avant de recevoir le bien. Un colis volé ou perdu donne les mêmes recours, sauf si vous aviez donné des consignes de dépôt précises."
+      },
+      {
+        "q": "Qui paie le retour d'un achat en ligne?",
+        "a": "Pour une annulation prévue par la loi, les frais raisonnables de retour sont à la charge du commerçant. Pour un simple changement d'avis, cela dépend de la politique du magasin : Canadian Tire, par exemple, ne rembourse pas les frais de livraison dans ce cas."
+      }
+    ],
+    "ctaTitle": "Gardez vos preuves d'achat en ligne au même endroit",
+    "ctaBody": "Numérisez le reçu du ramassage ou importez une image depuis la galerie : ReFound garde la preuve d'achat, la date limite de retour estimée et la garantie quand elle est disponible.",
+    "relatedTitle": "Pour aller plus loin",
+    "related": [
+      {
+        "label": "Retourner un cadeau de Noël",
+        "href": "/blog/retourner-cadeau-noel",
+        "desc": "Reçu-cadeau et dates limites des Fêtes 2026."
+      },
+      {
+        "label": "Garantie de bon fonctionnement au Québec",
+        "href": "/blog/garantie-bon-fonctionnement-quebec",
+        "desc": "Durées de 3 à 6 ans et preuves à garder."
+      },
+      {
+        "label": "Retour sans reçu",
+        "href": "/blog/retour-sans-recu",
+        "desc": "Ce que font les grands magasins sans preuve d'achat."
+      },
+      {
+        "label": "Retourner un article en solde",
+        "href": "/blog/retour-article-en-solde",
+        "desc": "Vente finale, liquidation et achats du Vendredi fou."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Démarche pour annuler un achat en ligne",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/achat/internet/annulation",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Retard de livraison ou vol de colis",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/achat/internet/livraison",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Livraison et retard",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/livraison-retard/retard/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Les garanties sur les biens de consommation au Québec",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/garanties",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Annuler un achat en ligne",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/annuler-un-achat-en-ligne/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Magasinage : 5 choses à savoir",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/capsules/magasinage-5-choses-a-savoir/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Remboursement et échange",
+        "publisher": "Bureau de la consommation (Gouvernement du Canada)",
+        "url": "https://ised-isde.canada.ca/site/bureau-consommation/fr/pratiques-commerciales-preoccupations-consommateurs/remboursement-echange",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Retours",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Politique de retour",
+        "publisher": "Walmart Canada",
+        "url": "https://walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-28"
+      }
+    ],
+    "factCheckLabel": "Faits vérifiés le 28 novembre 2026"
+  },
+  "en": {
+    "metaTitle": "Cancelling an Online Purchase in Quebec: Deadlines & Refunds | ReFound",
+    "metaDescription": "Late delivery, no contract copy, missing information: when you can cancel an online purchase in Quebec, the 15-day refund and credit card chargebacks.",
+    "keywords": "cancel online purchase Quebec, online order not delivered, distance contract Quebec, credit card chargeback, online purchase refund, return online order, Cyber Monday, Consumer Protection Act, stolen package",
+    "category": "Guide",
+    "date": "November 28, 2026",
+    "readingTime": "9 min read",
+    "breadcrumb": "Cancelling an online purchase in Quebec",
+    "eyebrow": "Online shopping",
+    "h1": "Cancelling an Online Purchase in Quebec: Deadlines, Refunds and Returns",
+    "card": {
+      "title": "Cancelling an Online Purchase in Quebec: Deadlines & Remedies (2026)",
+      "subtitle": "What the law allows, what depends on the store, and the exact dates for a Cyber Monday order."
+    },
+    "coverAlt": "Parcel, credit card and 7, 15 and 30-day deadline badges",
+    "intro": [
+      "Short answer: in Quebec, the law lets you cancel an online purchase in specific situations, not because you changed your mind. You can cancel if the item isn't delivered within 30 days of the agreed delivery date (or of the purchase, if no date was set), if the merchant doesn't send you the contract within 15 days, or if mandatory information was missing. The merchant must then refund you within 15 days.",
+      "To send back something you simply don't want, the store's return policy decides. For a defective item, the warranty applies, and its clock often starts at delivery. This guide separates those three remedies and applies the deadlines to an order placed on Cyber Monday, November 30, 2026."
+    ],
+    "sections": [
+      {
+        "heading": "Can you cancel an online purchase because you changed your mind?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No. Quebec law has no general cooling-off period for online purchases: the cancellation grounds are specific and tied to what the merchant did or failed to do. If what you bought isn't defective, the store doesn't have to take it back, Éducaloi explains."
+          },
+          {
+            "type": "p",
+            "text": "A store that has chosen to adopt an exchange and refund policy must follow it, though. At the federal level, the Office of Consumer Affairs states the same rule: in Canada, businesses are not obligated to accept returns unless the item is defective. Before buying online, it suggests checking whether the merchant has walk-in stores that allow in-person returns."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/annuler-achat-en-ligne-quebec/trois-recours-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Three remedies after an online purchase: cancel under the law, return under the store's policy, use the warranty for a defective item",
+            "caption": "Three remedies that don't replace one another. Sources: OPC, Éducaloi, canadiantire.ca, checked November 28, 2026."
+          }
+        ]
+      },
+      {
+        "heading": "When the law lets you cancel an online purchase",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Quebec's Consumer Protection Act lets you cancel a distance contract in the situations below. The deadline to send the cancellation notice depends on the situation, according to the Office de la protection du consommateur (OPC)."
+          },
+          {
+            "type": "table",
+            "caption": "Grounds for cancelling an online purchase in Quebec",
+            "headers": [
+              "Situation",
+              "Deadline to cancel"
+            ],
+            "rows": [
+              [
+                "Item not delivered within 30 days of the delivery date agreed in writing, or of the purchase if no date was given",
+                "Any time before you receive the item"
+              ],
+              [
+                "Merchant didn't send a copy of the contract within 15 days of the purchase",
+                "30 days after the purchase"
+              ],
+              [
+                "Mandatory information missing or poorly presented before the purchase, or contract incomplete or impossible to save and print",
+                "7 days after receiving the contract"
+              ],
+              [
+                "Missing information discovered when the item arrives",
+                "7 days after receiving the item"
+              ],
+              [
+                "Missing information discovered on the credit card statement",
+                "7 days after receiving the statement"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The information the merchant must give before you buy includes the price, the total cost, the cancellation and return conditions, and the delivery date or time frame. Write that date down when you order: it is what starts the 30-day clock."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Exceptions",
+            "text": "These rules don't apply to, among others, goods that perish quickly such as food, auctions, lottery tickets, credit contracts, or services provided over time (courses, gyms, daycare, camps). A purchase from a private individual, for example on Kijiji or Facebook Marketplace, isn't covered either, Éducaloi notes."
+          }
+        ]
+      },
+      {
+        "heading": "A Cyber Monday order: the exact dates",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For an order placed on Monday, November 30, 2026, the merchant must have sent you a copy of the contract by December 15. If it hasn't, you can cancel until December 30. And if no delivery date was agreed and nothing has arrived within 30 days, you can cancel as long as you haven't received anything."
+          },
+          {
+            "type": "figure",
+            "src": "/images/blog/annuler-achat-en-ligne-quebec/dates-commande-en.png",
+            "width": 1200,
+            "height": 675,
+            "alt": "Timeline of an online order placed November 30, 2026: contract by December 15, cancellation possible at 30 days, refund 15 days after notice, chargeback within the following 60 days",
+            "caption": "Example calculated by ReFound from OPC and Éducaloi deadlines, for a cancellation notice sent January 4, 2027."
+          },
+          {
+            "type": "table",
+            "caption": "An order placed November 30, 2026, step by step (calculated example)",
+            "headers": [
+              "Step",
+              "Rule",
+              "Date"
+            ],
+            "rows": [
+              [
+                "Copy of the contract",
+                "15 days after the purchase",
+                "December 15, 2026"
+              ],
+              [
+                "Cancel if the contract never arrived",
+                "30 days after the purchase",
+                "December 30, 2026"
+              ],
+              [
+                "Delivery with no agreed date",
+                "You can cancel if nothing is delivered within 30 days",
+                "After December 30, 2026"
+              ],
+              [
+                "Refund after a notice sent January 4",
+                "15 days after the notice is sent",
+                "January 19, 2027"
+              ],
+              [
+                "Chargeback request if no refund",
+                "No later than 60 days after the missed refund",
+                "March 20, 2027"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "If the site promised a delivery date, the count starts from that date instead of the purchase. An order promised for December 10 that still hasn't arrived 30 days later, on January 9, 2027, can be cancelled."
+          }
+        ]
+      },
+      {
+        "heading": "How to cancel and get your money back",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "You cancel by informing the merchant, verbally or in writing; the OPC recommends email or registered mail so you have proof of sending. The merchant then has 15 days to refund you."
+          },
+          {
+            "type": "steps",
+            "items": [
+              "Send the merchant a cancellation notice by email or registered mail, with your order number and the legal ground for cancelling.",
+              "If you already received the item, send it back within 15 days of sending the notice (or of receiving it, if it arrives after the notice). Reasonable return costs are paid by the merchant.",
+              "Give the merchant 15 days to refund you.",
+              "If you aren't refunded, ask your credit card issuer for a chargeback (see the next section)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Chargebacks: your credit card's safety net",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "If you paid by credit card and the merchant doesn't refund you within 15 days of the cancellation notice, you can ask the card issuer to reverse the payment. You have 60 days to make that request, in writing."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "The issuer has 30 days to acknowledge receipt of your request.",
+              "It must credit your account within 90 days of receiving the request, or within 2 full statement periods, whichever is shorter.",
+              "Check that the credit shows up on your next 2 statements; if it doesn't, the OPC says to send a formal notice (demand letter)."
+            ]
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Gift cards and prepaid cards: no chargeback",
+            "text": "The OPC points out that payments made with a prepaid card or a gift card can't be charged back. For a large order, a credit card is the payment method that protects you most."
+          }
+        ]
+      },
+      {
+        "heading": "Stolen or missing package: who is responsible?",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The merchant must take the necessary steps to make sure you receive your order. If it chooses to leave the package at your door, it bears the responsibility if the package disappears, according to the OPC. A lost or stolen package gives you the same remedies as a late delivery."
+          },
+          {
+            "type": "p",
+            "text": "There is one exception: if you gave clear drop-off instructions, for example in the mailbox or on the balcony, the merchant might not be held responsible. A photo of the package at your door doesn't change your remedies, the OPC adds."
+          }
+        ]
+      },
+      {
+        "heading": "Returning an online order under the store's policy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For an item that just doesn't work for you, the merchant's policy applies, and two details often set online orders apart from in-store purchases: when the clock starts and who pays shipping. Here are two examples checked today."
+          },
+          {
+            "type": "table",
+            "caption": "Returning an online order: two policies compared",
+            "headers": [
+              "Criterion",
+              "Walmart Canada",
+              "Canadian Tire"
+            ],
+            "rows": [
+              [
+                "General time limit",
+                "90 days, with valid proof of purchase",
+                "90 days, unopened, with the original receipt"
+              ],
+              [
+                "When the clock starts for online orders",
+                "The date you receive the order",
+                "The policy refers to the purchase date"
+              ],
+              [
+                "Common exceptions",
+                "30 days for electronics, unlocked phones and games",
+                "30 days for electronics, 14 days for auto electronics"
+              ],
+              [
+                "Shipping costs",
+                "Heavy or oversized items: can't be returned in store; a return delivery must be arranged",
+                "Not refunded if you changed your mind; refunded if the item is damaged, defective or incorrect"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "At Canadian Tire, if an item arrives damaged or defective, contact customer service before sending it back (1-866-746-7287); otherwise, return shipping costs are yours. Store-by-store details are in our guides to the [Walmart return policy](/en/blog/walmart-return-policy) and the [Canadian Tire return policy](/en/blog/canadian-tire-return-policy)."
+          },
+          {
+            "type": "p",
+            "text": "Holiday purchases may get longer return windows; Walmart says its holiday return policy can extend the return period. See [returning Christmas gifts](/en/blog/returning-christmas-gifts) for the 2026 dates."
+          }
+        ]
+      },
+      {
+        "heading": "After the return window: warranties apply online too",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "An item bought online has the same legal warranties as one bought in a store: the legal warranty automatically applies to all goods bought from a merchant. The item must be fit for normal use for a reasonable period, given the price paid, and you can go to the merchant, the manufacturer, or both."
+          },
+          {
+            "type": "p",
+            "text": "Since October 5, 2026, the warranty of good working order also covers 14 goods bought new from a merchant: 6 years for stoves, refrigerators, freezers, air conditioners and heat pumps; 5 years for washers, dryers and dishwashers; 4 years for televisions; 3 years for laptop and desktop computers, video game consoles, cell phones and tablets. These periods run from **delivery**, not from the purchase."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Example: a TV ordered on Cyber Monday",
+            "text": "Ordered on Walmart.ca on November 30, 2026 and delivered on December 4, a TV has a 30-day return window (electronics) that starts at delivery, so until early January 2027, subject to the holiday policy. Its 4-year warranty of good working order runs until December 2030. To use it, you'll need to prove the delivery date: the order confirmation alone doesn't show it."
+          },
+          {
+            "type": "p",
+            "text": "For the process, see [how to make a warranty claim](/en/blog/how-to-make-a-warranty-claim) and our guide to the [Quebec warranty of good working order](/en/blog/quebec-warranty-of-good-working-order)."
+          }
+        ]
+      },
+      {
+        "heading": "What proof to keep for an online purchase",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Keep three documents: the confirmation email (often your copy of the contract), proof of the delivery date, and your card statement. Each one supports a different remedy. In a store, one receipt covers almost everything; online, you need several."
+          },
+          {
+            "type": "table",
+            "caption": "What each piece of proof is for",
+            "headers": [
+              "Document",
+              "Proves",
+              "Useful for"
+            ],
+            "rows": [
+              [
+                "Confirmation email or contract",
+                "Purchase date, price, promised delivery date, return conditions",
+                "Cancellation, returns"
+              ],
+              [
+                "Delivery notice or carrier tracking",
+                "The date you received it",
+                "Return windows that start at delivery (e.g. Walmart), warranty of good working order"
+              ],
+              [
+                "Receipt from in-store pickup",
+                "The purchase, items and payment",
+                "In-store returns, warranty"
+              ],
+              [
+                "Credit card statement",
+                "The payment and amount",
+                "Chargeback"
+              ],
+              [
+                "Copy of your cancellation notice",
+                "The date the notice was sent",
+                "Counting the 15-day refund period"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The problem: this proof is scattered across an inbox, a carrier app and a bank statement. Six months later, when the device stops working, you have to find all of it again."
+          }
+        ]
+      },
+      {
+        "heading": "How ReFound helps with online purchases",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ReFound keeps your proof of purchase in one place. A receipt from in-store pickup is scanned like any other receipt, and gallery import lets you add an image already on your phone. ReFound then shows an estimated return deadline based on the merchant's general policy (90 days at Walmart and Canadian Tire), and the item's warranty with its end date when the information is available."
+          },
+          {
+            "type": "p",
+            "text": "Two limits to know: the estimated date doesn't account for category exceptions (30 days for electronics, for example), and ReFound doesn't replace the confirmation email or proof of delivery, which are worth keeping too. With ReFound Pro, a reminder arrives 3 days before the return deadline and 30 days before a warranty ends. Whether a return is accepted is always up to the merchant. Learn more about the [in-store returns app](/en/returns-app) and the [warranty tracker app](/en/warranty-tracker-app)."
+          }
+        ]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Do you have 14 days to cancel an online purchase in Quebec?",
+        "a": "No. Quebec has no general cooling-off period for online purchases. You can cancel in specific cases: no delivery within 30 days, no contract copy within 15 days, or missing mandatory information (7 days). Otherwise, the store's return policy applies."
+      },
+      {
+        "q": "How long does a merchant have to refund a cancelled online purchase?",
+        "a": "15 days after the cancellation notice is sent. If the merchant doesn't refund you and you paid by credit card, you have 60 days to ask the card issuer for a chargeback."
+      },
+      {
+        "q": "My order never arrived. Can I cancel?",
+        "a": "Yes, if nothing is delivered within 30 days of the delivery date agreed in writing, or of the purchase if no date was given. You can then cancel any time before you receive the item. A stolen or lost package gives you the same remedies, unless you gave specific drop-off instructions."
+      },
+      {
+        "q": "Who pays to return an online purchase?",
+        "a": "When you cancel under the law, reasonable return costs are paid by the merchant. If you simply changed your mind, it depends on the store's policy: Canadian Tire, for example, doesn't refund shipping fees in that case."
+      }
+    ],
+    "ctaTitle": "Keep your online purchase proof in one place",
+    "ctaBody": "Scan the pickup receipt or import an image from your gallery: ReFound keeps the proof of purchase, the estimated return deadline and the warranty when it's available.",
+    "relatedTitle": "Keep reading",
+    "related": [
+      {
+        "label": "Returning Christmas gifts",
+        "href": "/en/blog/returning-christmas-gifts",
+        "desc": "Gift receipts and 2026 holiday deadlines."
+      },
+      {
+        "label": "Quebec warranty of good working order",
+        "href": "/en/blog/quebec-warranty-of-good-working-order",
+        "desc": "3 to 6-year terms and the proof to keep."
+      },
+      {
+        "label": "Returns without a receipt",
+        "href": "/en/blog/return-without-receipt",
+        "desc": "What major stores do without proof of purchase."
+      },
+      {
+        "label": "Returning sale items",
+        "href": "/en/blog/returning-sale-items",
+        "desc": "Final sale, clearance and Black Friday purchases."
+      }
+    ],
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Cancelling an online purchase",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/purchase/online-purchase/cancelling",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Conditions for cancelling an online purchase",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/purchase/online-purchase/cancelling/condition/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Delivery delays: online, phone or mail purchases",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/consumer/topic/delivery-delays/delay/web-phone-mail-purchase",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "5 must-do checks before making an online purchase",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/en/onlinepurchases",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Late delivery or stolen package (page in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/consommateur/sujet/achat/internet/livraison",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Warranties on consumer goods in Quebec (page in French)",
+        "publisher": "Office de la protection du consommateur",
+        "url": "https://www.opc.gouv.qc.ca/garanties",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Cancelling an Online Purchase",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/en/capsules/cancelling-an-online-purchase/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "5 Rights Every Shopper Should Know",
+        "publisher": "Éducaloi",
+        "url": "https://educaloi.qc.ca/en/capsules/5-things-to-know-when-you-shop/",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Refund and exchange",
+        "publisher": "Office of Consumer Affairs (Government of Canada)",
+        "url": "https://ised-isde.canada.ca/site/office-consumer-affairs/en/business-practices-and-consumer-concerns/refund-and-exchange",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Returns (page in French)",
+        "publisher": "Canadian Tire",
+        "url": "https://www.canadiantire.ca/fr/customer-service/returns.html",
+        "accessed": "2026-11-28"
+      },
+      {
+        "label": "Return policy (page in French)",
+        "publisher": "Walmart Canada",
+        "url": "https://walmart.ca/fr/help/article/politique-de-retour/ce1646b50ba449ffa27d48777e8fb459",
+        "accessed": "2026-11-28"
+      }
+    ],
+    "factCheckLabel": "Facts checked November 28, 2026"
+  }
+}
